@@ -5,7 +5,7 @@ import { Calendar } from '@/components/ui/calendar'
 import { Popover, PopoverContent, PopoverTrigger } from '@/components/ui/popover'
 import {
   addDays,
-  formatDate,
+  formatWeekRange,
   parseDate,
   startOfWeek,
   toDateString,
@@ -26,9 +26,13 @@ export function WeekNav({ weekStart, period, onChange }: WeekNavProps) {
   const lastWeek = startOfWeek(period.end)
   const thisWeek = startOfWeek(today())
   const weekEnd = addDays(weekStart, 6)
+  const canJumpToThisWeek = weekStart !== thisWeek && thisWeek >= firstWeek && thisWeek <= lastWeek
 
   return (
-    <nav aria-label="Week" className="flex flex-wrap items-center gap-2">
+    <nav
+      aria-label="Week"
+      className="grid grid-cols-[auto_1fr_auto] items-center gap-1 sm:flex sm:gap-2"
+    >
       <Button
         variant="outline"
         size="icon"
@@ -42,13 +46,11 @@ export function WeekNav({ weekStart, period, onChange }: WeekNavProps) {
         <PopoverTrigger asChild>
           <Button
             variant="ghost"
-            className="h-auto px-2 text-lg font-semibold tabular-nums"
+            className="h-auto min-w-0 px-2 text-base font-semibold tabular-nums sm:text-lg"
             aria-label="Choose a day"
           >
-            <h2>
-              {formatDate(weekStart)} – {formatDate(weekEnd)}
-            </h2>
-            <CalendarDays className="opacity-60" />
+            <h2 className="truncate">{formatWeekRange(weekStart, weekEnd)}</h2>
+            <CalendarDays className="shrink-0 opacity-60" />
           </Button>
         </PopoverTrigger>
         <PopoverContent className="w-auto p-0" align="center">
@@ -78,14 +80,16 @@ export function WeekNav({ weekStart, period, onChange }: WeekNavProps) {
       >
         <ChevronRight />
       </Button>
-      <Button
-        variant="ghost"
-        size="sm"
-        disabled={weekStart === thisWeek || thisWeek < firstWeek || thisWeek > lastWeek}
-        onClick={() => onChange(thisWeek, today())}
-      >
-        This week
-      </Button>
+      {canJumpToThisWeek && (
+        <Button
+          variant="ghost"
+          size="sm"
+          className="col-span-3 justify-self-center"
+          onClick={() => onChange(thisWeek, today())}
+        >
+          This week
+        </Button>
+      )}
     </nav>
   )
 }

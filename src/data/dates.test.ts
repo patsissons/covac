@@ -3,6 +3,7 @@ import {
   addDays,
   dayOfWeek,
   formatDay,
+  formatWeekRange,
   formatTime,
   isDateString,
   startOfWeek,
@@ -36,6 +37,12 @@ describe('dates', () => {
     expect(formatTime('00:30')).toBe('12:30 am')
     expect(formatTime('12:00')).toBe('12:00 pm')
     expect(toMinutes('09:30')).toBe(570)
+  })
+
+  it('formats week ranges compactly', () => {
+    expect(formatWeekRange('2026-09-14', '2026-09-20')).toBe('Sep 14 – 20, 2026')
+    expect(formatWeekRange('2026-09-28', '2026-10-04')).toBe('Sep 28 – Oct 4, 2026')
+    expect(formatWeekRange('2026-12-28', '2027-01-03')).toBe('Dec 28, 2026 – Jan 3, 2027')
   })
 
   it('validates date strings', () => {

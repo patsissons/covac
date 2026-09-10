@@ -63,6 +63,22 @@ export function formatDate(value: DateString): string {
   return `${MONTHS[date.getMonth()]} ${date.getDate()}, ${date.getFullYear()}`
 }
 
+/**
+ * Compact week range: `Sep 14 – 20, 2026`, `Sep 28 – Oct 4, 2026`,
+ * or `Dec 29, 2026 – Jan 4, 2027` across a year boundary.
+ */
+export function formatWeekRange(start: DateString, end: DateString): string {
+  const a = parseDate(start)
+  const b = parseDate(end)
+  const ma = MONTHS[a.getMonth()]
+  const mb = MONTHS[b.getMonth()]
+  if (a.getFullYear() !== b.getFullYear())
+    return `${ma} ${a.getDate()}, ${a.getFullYear()} – ${mb} ${b.getDate()}, ${b.getFullYear()}`
+  if (a.getMonth() !== b.getMonth())
+    return `${ma} ${a.getDate()} – ${mb} ${b.getDate()}, ${b.getFullYear()}`
+  return `${ma} ${a.getDate()} – ${b.getDate()}, ${b.getFullYear()}`
+}
+
 /** `14:05` → `2:05 pm`; `09:00` → `9:00 am`. */
 export function formatTime(hhmm: string): string {
   const [h = 0, m = 0] = hhmm.split(':').map(Number)
