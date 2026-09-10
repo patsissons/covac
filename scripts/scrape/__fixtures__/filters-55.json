@@ -1,0 +1,275 @@
+{
+  "headers": {
+    "sessionRefreshedOn": null,
+    "sessionExtendedCount": 0,
+    "response_code": "0000",
+    "response_message": "Successful",
+    "page_info": {
+      "order_by": "",
+      "order_option": "ASC",
+      "total_page": 1,
+      "total_records_per_page": 20,
+      "total_records": 0,
+      "page_number": 1
+    }
+  },
+  "body": {
+    "center": [
+      {
+        "id": 37,
+        "name": "*Britannia Pool"
+      },
+      {
+        "id": 59,
+        "name": "*Hillcrest Aquatic Centre"
+      },
+      {
+        "id": 56,
+        "name": "*Kensington Pool"
+      },
+      {
+        "id": 36,
+        "name": "*Killarney Pool"
+      },
+      {
+        "id": 10,
+        "name": "*Lord Byng Pool"
+      },
+      {
+        "id": 47,
+        "name": "*Renfrew Park Pool"
+      },
+      {
+        "id": 45,
+        "name": "*Templeton Park Pool"
+      }
+    ],
+    "activity": [
+      {
+        "id": 639545,
+        "name": "Aquafit - Shallow Moderate",
+        "category_id": 23,
+        "sub_category_id": 31,
+        "center_ids": [
+          47
+        ]
+      },
+      {
+        "id": 637827,
+        "name": "Aquafit - Shallow Moderate",
+        "category_id": 23,
+        "sub_category_id": 31,
+        "center_ids": [
+          10
+        ]
+      },
+      {
+        "id": 636722,
+        "name": "Aquafit - Shallow Moderate",
+        "category_id": 23,
+        "sub_category_id": 31,
+        "center_ids": [
+          10
+        ]
+      },
+      {
+        "id": 638279,
+        "name": "Aquafit - Shallow Moderate",
+        "category_id": 23,
+        "sub_category_id": 31,
+        "center_ids": [
+          45
+        ]
+      },
+      {
+        "id": 639533,
+        "name": "Aquafit - Shallow Moderate",
+        "category_id": 23,
+        "sub_category_id": 31,
+        "center_ids": [
+          47
+        ]
+      }
+    ],
+    "activity_category": [
+      {
+        "id": 23,
+        "name": "Aquatics",
+        "centerIds": [
+          36,
+          37,
+          56,
+          10,
+          59,
+          45,
+          47
+        ]
+      },
+      {
+        "id": 28,
+        "name": "Fitness & Health",
+        "centerIds": [
+          37
+        ]
+      }
+    ],
+    "facilities": [
+      {
+        "facility_id": 207,
+        "facility_name": "Britannia Pool",
+        "center_id": 37,
+        "center_name": "*Britannia Pool",
+        "is_center_valid": true,
+        "event_type_ids": [
+          0
+        ]
+      },
+      {
+        "facility_id": 3705,
+        "facility_name": "Hillcrest Leisure Pool",
+        "center_id": 59,
+        "center_name": "*Hillcrest Aquatic Centre",
+        "is_center_valid": true,
+        "event_type_ids": [
+          0
+        ]
+      },
+      {
+        "facility_id": 208,
+        "facility_name": "Hillcrest Pool",
+        "center_id": 59,
+        "center_name": "*Hillcrest Aquatic Centre",
+        "is_center_valid": true,
+        "event_type_ids": [
+          0
+        ]
+      },
+      {
+        "facility_id": 203,
+        "facility_name": "Kensington Pool",
+        "center_id": 56,
+        "center_name": "*Kensington Pool",
+        "is_center_valid": true,
+        "event_type_ids": [
+          0
+        ]
+      },
+      {
+        "facility_id": 3872,
+        "facility_name": "Killarney Leisure Pool",
+        "center_id": 36,
+        "center_name": "*Killarney Pool",
+        "is_center_valid": true,
+        "event_type_ids": [
+          0
+        ]
+      },
+      {
+        "facility_id": 204,
+        "facility_name": "Killarney Pool",
+        "center_id": 36,
+        "center_name": "*Killarney Pool",
+        "is_center_valid": true,
+        "event_type_ids": [
+          0
+        ]
+      },
+      {
+        "facility_id": 16,
+        "facility_name": "Lord Byng Pool",
+        "center_id": 10,
+        "center_name": "*Lord Byng Pool",
+        "is_center_valid": true,
+        "event_type_ids": [
+          0
+        ]
+      },
+      {
+        "facility_id": 205,
+        "facility_name": "Renfrew Pool",
+        "center_id": 47,
+        "center_name": "*Renfrew Park Pool",
+        "is_center_valid": true,
+        "event_type_ids": [
+          0
+        ]
+      },
+      {
+        "facility_id": 206,
+        "facility_name": "Templeton Pool",
+        "center_id": 45,
+        "center_name": "*Templeton Park Pool",
+        "is_center_valid": true,
+        "event_type_ids": [
+          0
+        ]
+      }
+    ],
+    "calendar_period": {
+      "start_date": "2026-09-06",
+      "end_date": "2026-11-01"
+    },
+    "event_types": [],
+    "activity_center": [
+      {
+        "id": 37,
+        "name": "*Britannia Pool"
+      },
+      {
+        "id": 59,
+        "name": "*Hillcrest Aquatic Centre"
+      },
+      {
+        "id": 56,
+        "name": "*Kensington Pool"
+      },
+      {
+        "id": 36,
+        "name": "*Killarney Pool"
+      },
+      {
+        "id": 10,
+        "name": "*Lord Byng Pool"
+      },
+      {
+        "id": 47,
+        "name": "*Renfrew Park Pool"
+      },
+      {
+        "id": 45,
+        "name": "*Templeton Park Pool"
+      }
+    ],
+    "activity_sub_category": [
+      {
+        "id": 29,
+        "name": "5 - Youth",
+        "centerIds": [
+          37
+        ]
+      },
+      {
+        "id": 24,
+        "name": "7 - Senior",
+        "centerIds": [
+          37,
+          10
+        ]
+      },
+      {
+        "id": 31,
+        "name": "All Ages",
+        "centerIds": [
+          36,
+          37,
+          56,
+          10,
+          59,
+          45,
+          47
+        ]
+      }
+    ],
+    "permit_center": []
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "headers": {
+    "sessionRefreshedOn": null,
+    "sessionExtendedCount": 0,
+    "response_code": "0000",
+    "response_message": "Successful",
+    "page_info": {
+      "order_by": "Date range",
+      "order_option": "ASC",
+      "total_page": 1,
+      "total_records_per_page": 20,
+      "total_records": 8,
+      "page_number": 1
+    }
+  },
+  "body": {
+    "activity_detail": {
+      "activity_id": 526347,
+      "activity_name": "|Free Swim|",
+      "activity_number": "529269",
+      "wish_list_id": 0,
+      "show_wish_list": true,
+      "centers": [
+        {
+          "id": 37,
+          "name": "*Britannia Pool",
+          "address1": "1661 Napier Street",
+          "address2": "",
+          "city": "Vancouver",
+          "state": "BC",
+          "zip_code": "V5L 4X4",
+          "country": "CA",
+          "phone": "(604) 718-5831",
+          "latitude": 49.2756,
+          "longitude": -123.0707
+        }
+      ],
+      "facilities": [
+        {
+          "id": 207,
+          "name": "Britannia Pool",
+          "detail_url": "https://anc.ca.apm.activecommunities.com/vancouver/reservation/search/detail/simple/207?onlineSiteId=0&from_original_cui=true&online=true",
+          "address1": "1661 Napier Street",
+          "address2": "",
+          "city": "Vancouver",
+          "state": "BC",
+          "zip_code": "V5L 4X4",
+          "country": "CA",
+          "phone": "(604) 718-5831",
+          "center_id": 37
+        }
+      ],
+      "allowed_gender": "Mixed",
+      "age_min_year": 13,
+      "age_min_month": 0,
+      "age_min_week": 0,
+      "age_max_year": 18,
+      "age_max_month": 11,
+      "age_max_week": 0,
+      "min_grade": null,
+      "max_grade": null,
+      "description": "<p style=\"margin: 0in 0in 0pt;\"><span><table width=\"100%\" border=\"1\" cellspacing=\"0\" cellpadding=\"4\">  <tbody><tr>  <td><b> Date and Time</b></td><td>Tue 2:00pm- 4:00pm<br>Fri 6:00pm - 8:00pm </td>  </tr>  <tr>  <td><b> Session<br></b></td><td>Tue Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, 2026<br>Fri Sep 4, Sep 18, Oct 2, Oct 16, Oct 30, Nov 13, 2026</td></tr></tbody></table></span></p><span lang=\"EN-CA\" style=\"font-family:;\" arial\",\"sans-serif\";\"=\"\"><p style=\"margin: 0in 0in 0pt;\"><br></p><span lang=\"EN-CA\" style=\"font-family:;\" arial\",\"sans-serif\";\"=\"\"><p style=\"margin: 0in 0in 0pt;\"><font face=\"Arial, Helvetica, sans-serif\">Free Swim<br></font></p><p style=\"margin: 0in 0in 0pt;\"><font face=\"Arial, Helvetica, sans-serif\">Recreational swim for Children and Youth with their Chaperones. Adults must be accompanying a youth or child to attend. Children under 8 years old must be accompanied into the water by a guardian 16 years or older and must remain within arm's reach at all times.</font></p><p style=\"margin: 0in 0in 0pt;\"><font face=\"Arial, Helvetica, sans-serif\"><br></font></p><p style=\"margin: 0in 0in 0pt;\"><span lang=\"EN-CA\" arial\",\"sans-serif\";\"=\"\">1 double wide lane available for length swim.</span></p><p style=\"margin: 0in 0in 0pt;\"><font face=\"Arial, Helvetica, sans-serif\"><br></font></p><p style=\"margin: 0in 0in 0pt;\"><br></p></span><p style=\"margin: 0in 0in 0pt;\"></p></span>",
+      "price": {
+        "show_price_info_online": false,
+        "estimate_price": "",
+        "prices": [],
+        "registration_type_prices": [],
+        "private_lesson_enroll_now": "",
+        "not_allow_online_team_enroll": false,
+        "search_from_price": null,
+        "search_from_price_desc": "",
+        "show_all_inclusive_pricing": false,
+        "all_inclusive_total_price": null,
+        "is_package": false,
+        "free": false,
+        "simple_fee": false
+      },
+      "meeting_and_registration_dates": {
+        "activity_id": 526347,
+        "no_meeting_dates": false,
+        "user_entered": true,
+        "online_activity_date_description": "",
+        "current_date": "2026-09-09 19:17:08",
+        "additional_dates": null,
+        "activity_patterns": null,
+        "priority_enrollment_datetimes": {
+          "first_daytime_internet": null,
+          "first_daytime_internet_nonresidents": null,
+          "first_daytime_internet_members": null,
+          "last_daytime_internet": null,
+          "drop_in_first_daytime_internet": null,
+          "drop_in_first_daytime_internet_nonresidents": null,
+          "drop_in_first_daytime_internet_members": null,
+          "drop_in_last_daytime_internet": null,
+          "for_drop_in_activity": false
+        },
+        "local_priority_enrollment_datetimes": {
+          "first_daytime_internet": null,
+          "first_daytime_internet_nonresidents": null,
+          "first_daytime_internet_members": null,
+          "last_daytime_internet": null,
+          "drop_in_first_daytime_internet": null,
+          "drop_in_first_daytime_internet_nonresidents": null,
+          "drop_in_first_daytime_internet_members": null,
+          "drop_in_last_daytime_internet": null,
+          "for_drop_in_activity": false
+        },
+        "enrollment_datetimes": [
+          {
+            "first_daytime_internet": null,
+            "first_daytime_internet_nonresidents": null,
+            "first_daytime_internet_members": null,
+            "last_daytime_internet": null,
+            "drop_in_first_daytime_internet": null,
+            "drop_in_first_daytime_internet_nonresidents": null,
+            "drop_in_first_daytime_internet_members": null,
+            "drop_in_last_daytime_internet": null,
+            "for_drop_in_activity": false
+          }
+        ]
+      },
+      "first_date": "2026-09-01 00:00:00",
+      "last_date": "2026-11-10 00:00:00",
+      "space_status": "100 openings remaining",
+      "space_message": "",
+      "space_type": 2,
+      "location_description": "",
+      "allow_drop_in_reg": false,
+      "age_description": "Age at least 13 yrs but less than 18y 11m",
+      "allow_flexible_class": false
+    }
+  }
+}
