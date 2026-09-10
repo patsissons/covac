@@ -15,6 +15,7 @@ export function filtersFromSearch(search: string, defaultWeek: DateString): Filt
   const params = new URLSearchParams(search)
   const week = params.get('week')
   const filters = emptyFilters(isDateString(week) ? startOfWeek(week) : defaultWeek)
+  if (params.get('view') === 'location') filters.view = 'location'
   filters.calendarIds = numbers(params.get('cal'))
   filters.centerIds = numbers(params.get('centers'))
   const from = params.get('from') ?? ''
@@ -30,6 +31,7 @@ export function filtersFromSearch(search: string, defaultWeek: DateString): Filt
 export function filtersToSearch(filters: Filters, defaultWeek: DateString): string {
   const params = new URLSearchParams()
   if (filters.weekStart !== defaultWeek) params.set('week', filters.weekStart)
+  if (filters.view !== 'time') params.set('view', filters.view)
   if (filters.calendarIds.length) params.set('cal', filters.calendarIds.join(','))
   if (filters.centerIds.length) params.set('centers', filters.centerIds.join(','))
   if (filters.from) params.set('from', filters.from)

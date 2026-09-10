@@ -1,6 +1,13 @@
 import { describe, expect, it } from 'vitest'
 import type { Snapshot } from '@/types/snapshot'
-import { applyFilters, emptyFilters, groupByCenterAndDay, hasActiveFilters } from './filters'
+import {
+  applyFilters,
+  emptyFilters,
+  groupByCenterAndDay,
+  groupByHourAndDay,
+  hasActiveFilters,
+  visibleCenterIds,
+} from './filters'
 import { buildIndex } from './index'
 
 const snapshot: Snapshot = {
@@ -104,5 +111,22 @@ describe('groupByCenterAndDay', () => {
     expect(grid.get(37)?.get('2026-09-07')).toHaveLength(1)
     expect(grid.get(37)?.get('2026-09-08')).toHaveLength(1)
     expect(grid.get(44)?.get('2026-09-12')).toHaveLength(1)
+  })
+})
+
+describe('groupByHourAndDay', () => {
+  it('groups by start hour then day across centres', () => {
+    const occurrences = applyFilters(index, emptyFilters(week))
+    const grid = groupByHourAndDay(occurrences)
+    expect([...grid.keys()].sort((a, b) => a - b)).toEqual([7, 14, 18])
+    expect(grid.get(7)?.get('2026-09-07')).toHaveLength(1)
+    expect(grid.get(18)?.get('2026-09-12')?.[0]?.a).toBe(2)
+  })
+})
+
+describe('visibleCenterIds', () => {
+  it('lists centres with sessions sorted by name', () => {
+    expect(visibleCenterIds(index, applyFilters(index, emptyFilters(week)))).toEqual([37, 44])
+    expect(visibleCenterIds(index, [])).toEqual([])
   })
 })

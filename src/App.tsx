@@ -1,12 +1,20 @@
-import { Map as MapIcon } from 'lucide-react'
+import { Clock, Map as MapIcon, MapPin } from 'lucide-react'
 import { lazy, Suspense, useMemo, useState } from 'react'
 import { ActivityPanel } from '@/components/ActivityPanel'
 import { FilterBar } from '@/components/FilterBar'
+import { TimeGrid } from '@/components/TimeGrid'
 import { WeekGrid } from '@/components/WeekGrid'
 import { WeekNav } from '@/components/WeekNav'
 import { Button } from '@/components/ui/button'
+import { ToggleGroup, ToggleGroupItem } from '@/components/ui/toggle-group'
 import { startOfWeek, today, type DateString } from '@/data/dates'
-import { applyFilters, groupByCenterAndDay } from '@/data/filters'
+import {
+  applyFilters,
+  groupByCenterAndDay,
+  groupByHourAndDay,
+  visibleCenterIds,
+  type ViewMode,
+} from '@/data/filters'
 import type { SnapshotIndex } from '@/data/index'
 import { useSnapshot } from '@/data/useSnapshot'
 import { useUrlFilters } from '@/data/useUrlFilters'
@@ -61,6 +69,8 @@ function Calendar({ index }: { index: SnapshotIndex }) {
 
   const occurrences = useMemo(() => applyFilters(index, filters), [index, filters])
   const grid = useMemo(() => groupByCenterAndDay(index, occurrences), [index, occurrences])
+  const hourGrid = useMemo(() => groupByHourAndDay(occurrences), [occurrences])
+  const centerIds = useMemo(() => visibleCenterIds(index, occurrences), [index, occurrences])
   const counts = useMemo(() => {
     const map = new Map<number, number>()
     for (const [centerId, days] of grid) {
@@ -77,16 +87,36 @@ function Calendar({ index }: { index: SnapshotIndex }) {
         <WeekNav
           weekStart={filters.weekStart}
           period={index.snapshot.period}
-          onChange={(weekStart) => setFilters({ ...filters, weekStart })}
+          onChange={(weekStart, day) => {
+            setFilters({ ...filters, weekStart })
+            if (day) setSelectedDay(day)
+          }}
         />
-        <Button
-          variant="outline"
-          size="sm"
-          onClick={() => setShowMap((v) => !v)}
-          aria-pressed={showMap}
-        >
-          <MapIcon /> {showMap ? 'Hide map' : 'Show map'}
-        </Button>
+        <div className="flex flex-wrap items-center gap-2">
+          <ToggleGroup
+            type="single"
+            variant="outline"
+            size="sm"
+            aria-label="View"
+            value={filters.view}
+            onValueChange={(view) => view && setFilters({ ...filters, view: view as ViewMode })}
+          >
+            <ToggleGroupItem value="time" aria-label="By time">
+              <Clock /> By time
+            </ToggleGroupItem>
+            <ToggleGroupItem value="location" aria-label="By location">
+              <MapPin /> By location
+            </ToggleGroupItem>
+          </ToggleGroup>
+          <Button
+            variant="outline"
+            size="sm"
+            onClick={() => setShowMap((v) => !v)}
+            aria-pressed={showMap}
+          >
+            <MapIcon /> {showMap ? 'Hide map' : 'Show map'}
+          </Button>
+        </div>
       </div>
       <FilterBar
         index={index}
@@ -112,16 +142,36 @@ function Calendar({ index }: { index: SnapshotIndex }) {
         </Suspense>
       )}
       <Legend groups={index.groups} />
-      <WeekGrid
-        index={index}
-        weekStart={filters.weekStart}
-        grid={grid}
-        days={filters.days}
-        onSelect={setSelectedActivity}
-        compact={compact}
-        selectedDay={selectedDay}
-        onSelectDay={setSelectedDay}
-      />
+      {filters.view === 'time' ? (
+        <>
+          <VisibleLocations
+            index={index}
+            centerIds={centerIds}
+            onSelect={(id) => setFilters({ ...filters, centerIds: [id] })}
+          />
+          <TimeGrid
+            index={index}
+            weekStart={filters.weekStart}
+            grid={hourGrid}
+            days={filters.days}
+            onSelect={setSelectedActivity}
+            compact={compact}
+            selectedDay={selectedDay}
+            onSelectDay={setSelectedDay}
+          />
+        </>
+      ) : (
+        <WeekGrid
+          index={index}
+          weekStart={filters.weekStart}
+          grid={grid}
+          days={filters.days}
+          onSelect={setSelectedActivity}
+          compact={compact}
+          selectedDay={selectedDay}
+          onSelectDay={setSelectedDay}
+        />
+      )}
       <ActivityPanel
         index={index}
         activityId={selectedActivity}
@@ -140,6 +190,37 @@ function Calendar({ index }: { index: SnapshotIndex }) {
         . Always confirm details there before attending.
       </footer>
     </>
+  )
+}
+
+interface VisibleLocationsProps {
+  index: SnapshotIndex
+  centerIds: number[]
+  onSelect: (centerId: number) => void
+}
+
+/** The locations stacked into the time grid; clicking one narrows the view to it. */
+function VisibleLocations({ index, centerIds, onSelect }: VisibleLocationsProps) {
+  if (centerIds.length === 0) return null
+  return (
+    <details className="text-muted-foreground text-xs" data-testid="visible-locations">
+      <summary className="cursor-pointer select-none">
+        {centerIds.length} {centerIds.length === 1 ? 'location' : 'locations'} shown
+      </summary>
+      <ul className="mt-1 flex flex-wrap gap-x-3 gap-y-1">
+        {centerIds.map((id) => (
+          <li key={id}>
+            <button
+              type="button"
+              className="hover:text-foreground underline-offset-2 hover:underline"
+              onClick={() => onSelect(id)}
+            >
+              {index.centerById.get(id)?.name}
+            </button>
+          </li>
+        ))}
+      </ul>
+    </details>
   )
 }
 

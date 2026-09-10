@@ -27,9 +27,12 @@ ActiveNet REST API ──(pnpm scrape, nightly via GitHub Actions)──▶ publ
    `snapshot.meta.json` with counts.
 2. The scrape workflow runs nightly and commits the snapshot when the data changed. Cloudflare
    Pages redeploys on push.
-3. The app loads the snapshot, indexes it in memory, and renders the week grid. Filters and the
-   selected week live in the query string (`?week=2026-09-14&cal=55&centers=37&from=12:00&days=6,0&q=swim`)
-   so any view can be shared.
+3. The app loads the snapshot, indexes it in memory, and renders the week. The default **By time**
+   view stacks every location into hourly rows so a glance down the Monday column shows everything
+   between, say, 4 pm and 8 pm; **By location** gives one row per centre. Filters, the view and
+   the selected week live in the query string
+   (`?week=2026-09-14&view=location&cal=55&centers=37&from=12:00&days=6,0&q=swim`) so any view can
+   be shared. Clicking the date range opens a day picker that jumps to that day's week.
 
 ### The ActiveNet API
 

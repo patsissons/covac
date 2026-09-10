@@ -2,9 +2,13 @@ import type { Occurrence } from '@/types/snapshot'
 import { dateOf, dayOfWeek, timeOf, toMinutes, weekDays, type DateString } from './dates'
 import type { SnapshotIndex } from './index'
 
+export type ViewMode = 'time' | 'location'
+
 export interface Filters {
   /** Monday of the week being viewed. */
   weekStart: DateString
+  /** Stack every location into hourly rows, or one row per location. */
+  view: ViewMode
   /** Empty means all calendars. */
   calendarIds: number[]
   /** Empty means all centres. */
@@ -20,7 +24,16 @@ export interface Filters {
 }
 
 export function emptyFilters(weekStart: DateString): Filters {
-  return { weekStart, calendarIds: [], centerIds: [], from: '', to: '', days: [], q: '' }
+  return {
+    weekStart,
+    view: 'time',
+    calendarIds: [],
+    centerIds: [],
+    from: '',
+    to: '',
+    days: [],
+    q: '',
+  }
 }
 
 export function hasActiveFilters(filters: Filters): boolean {
@@ -84,4 +97,33 @@ export function groupByCenterAndDay(
     else days.set(day, [occurrence])
   }
   return grid
+}
+
+export type HourDayGrid = Map<number, Map<DateString, Occurrence[]>>
+
+/** Group filtered occurrences into start hour (0–23) → day → occurrences, across all centres. */
+export function groupByHourAndDay(occurrences: Occurrence[]): HourDayGrid {
+  const grid: HourDayGrid = new Map()
+  for (const occurrence of occurrences) {
+    const hour = Math.floor(toMinutes(timeOf(occurrence.s)) / 60)
+    let days = grid.get(hour)
+    if (!days) grid.set(hour, (days = new Map()))
+    const day = dateOf(occurrence.s)
+    const list = days.get(day)
+    if (list) list.push(occurrence)
+    else days.set(day, [occurrence])
+  }
+  return grid
+}
+
+/** Distinct centre ids present in the occurrences, sorted by centre name. */
+export function visibleCenterIds(index: SnapshotIndex, occurrences: Occurrence[]): number[] {
+  const ids = new Set<number>()
+  for (const occurrence of occurrences) {
+    const centerId = index.activityById.get(occurrence.a)?.centerId
+    if (centerId !== undefined) ids.add(centerId)
+  }
+  return [...ids].sort((a, b) =>
+    (index.centerById.get(a)?.name ?? '').localeCompare(index.centerById.get(b)?.name ?? ''),
+  )
 }

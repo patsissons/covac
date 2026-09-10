@@ -18,6 +18,14 @@ describe('WeekNav', () => {
     expect(onChange).toHaveBeenCalledWith('2026-09-07')
   })
 
+  it('picks a day from the calendar and reports its week', async () => {
+    const onChange = vi.fn()
+    render(<WeekNav weekStart="2026-09-14" period={period} onChange={onChange} />)
+    await userEvent.click(screen.getByRole('button', { name: 'Choose a day' }))
+    await userEvent.click(await screen.findByRole('button', { name: /Wednesday, September 23rd/ }))
+    expect(onChange).toHaveBeenCalledWith('2026-09-21', '2026-09-23')
+  })
+
   it('disables navigation outside the snapshot period', () => {
     render(<WeekNav weekStart="2026-08-31" period={period} onChange={() => {}} />)
     expect(screen.getByRole('button', { name: 'Previous week' })).toBeDisabled()
