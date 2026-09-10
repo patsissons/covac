@@ -7,3 +7,4 @@ pnpm-lock.yaml
 public/data
 .cache
 scripts/scrape/__fixtures__
+.github/workflows
