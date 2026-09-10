@@ -31,6 +31,13 @@ describe('url filters', () => {
     expect(parsed.calendarIds).toEqual([55])
   })
 
+  it('treats missing and empty params as no filter', () => {
+    expect(filtersFromSearch('', defaultWeek)).toEqual(emptyFilters(defaultWeek))
+    expect(filtersFromSearch('?cal=&centers=&days=', defaultWeek)).toEqual(
+      emptyFilters(defaultWeek),
+    )
+  })
+
   it('snaps an arbitrary week date to Monday', () => {
     expect(filtersFromSearch('?week=2026-09-16', defaultWeek).weekStart).toBe('2026-09-14')
   })

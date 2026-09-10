@@ -1,0 +1,164 @@
+import { Button } from '@/components/ui/button'
+import {
+  addDays,
+  DAY_LABELS,
+  dayOfWeek,
+  formatDay,
+  formatTime,
+  timeOf,
+  today,
+  weekDays,
+  type DateString,
+} from '@/data/dates'
+import type { CenterDayGrid } from '@/data/filters'
+import type { SnapshotIndex } from '@/data/index'
+import { groupStyle } from '@/lib/groupColor'
+import { cn } from '@/lib/utils'
+import type { Occurrence } from '@/types/snapshot'
+
+interface WeekGridProps {
+  index: SnapshotIndex
+  weekStart: DateString
+  grid: CenterDayGrid
+  /** Days of week to show (0 = Sunday); empty means all seven. */
+  days: number[]
+  onSelect: (activityId: number) => void
+  /** Show one day at a time (narrow screens). */
+  compact: boolean
+  selectedDay: DateString
+  onSelectDay: (day: DateString) => void
+}
+
+export function WeekGrid({
+  index,
+  weekStart,
+  grid,
+  days,
+  onSelect,
+  compact,
+  selectedDay,
+  onSelectDay,
+}: WeekGridProps) {
+  const allDays = weekDays(weekStart)
+  const visibleDays = days.length ? allDays.filter((d) => days.includes(dayOfWeek(d))) : allDays
+  const columns = compact
+    ? [visibleDays.includes(selectedDay) ? selectedDay : visibleDays[0]!]
+    : visibleDays
+  const centers = [...grid.keys()]
+    .map((id) => index.centerById.get(id))
+    .filter((c): c is NonNullable<typeof c> => c !== undefined)
+    .sort((a, b) => a.name.localeCompare(b.name))
+  const rows = compact ? centers.filter((c) => grid.get(c.id)?.has(columns[0]!)) : centers
+  const currentDay = today()
+
+  if (centers.length === 0) {
+    return (
+      <p className="text-muted-foreground rounded-lg border border-dashed p-8 text-center">
+        No sessions match these filters this week.
+      </p>
+    )
+  }
+
+  return (
+    <div className="flex flex-col gap-2">
+      {compact && (
+        <div className="flex items-center gap-1 overflow-x-auto" role="tablist" aria-label="Day">
+          {visibleDays.map((day) => (
+            <Button
+              key={day}
+              role="tab"
+              aria-selected={day === columns[0]}
+              variant={day === columns[0] ? 'default' : 'outline'}
+              size="sm"
+              onClick={() => onSelectDay(day)}
+            >
+              {DAY_LABELS[dayOfWeek(day)]} {Number(day.slice(8))}
+            </Button>
+          ))}
+        </div>
+      )}
+      <div className="overflow-x-auto rounded-lg border">
+        <table className="w-full border-collapse text-sm">
+          <thead>
+            <tr>
+              <th
+                scope="col"
+                className="bg-background sticky top-0 left-0 z-20 min-w-36 border-r border-b p-2 text-left font-medium"
+              >
+                Location
+              </th>
+              {columns.map((day) => (
+                <th
+                  key={day}
+                  scope="col"
+                  className={cn(
+                    'bg-background sticky top-0 z-10 min-w-40 border-b p-2 text-left font-medium',
+                    day === currentDay && 'text-primary underline decoration-2 underline-offset-4',
+                  )}
+                >
+                  {formatDay(day)}
+                </th>
+              ))}
+            </tr>
+          </thead>
+          <tbody>
+            {rows.map((center) => (
+              <tr key={center.id} className="odd:bg-muted/30 align-top">
+                <th
+                  scope="row"
+                  className="bg-background sticky left-0 z-10 border-r border-b p-2 text-left font-medium"
+                >
+                  {center.name}
+                </th>
+                {columns.map((day) => (
+                  <td key={day} className="border-b p-1">
+                    <ul className="flex flex-col gap-1">
+                      {(grid.get(center.id)?.get(day) ?? []).map((occurrence) => (
+                        <li key={`${occurrence.a}-${occurrence.s}`}>
+                          <ActivityChip index={index} occurrence={occurrence} onSelect={onSelect} />
+                        </li>
+                      ))}
+                    </ul>
+                  </td>
+                ))}
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+      {compact && rows.length === 0 && (
+        <p className="text-muted-foreground p-4 text-center text-sm">
+          Nothing on {formatDay(columns[0]!)}. Try {formatDay(addDays(columns[0]!, 1))}.
+        </p>
+      )}
+    </div>
+  )
+}
+
+interface ActivityChipProps {
+  index: SnapshotIndex
+  occurrence: Occurrence
+  onSelect: (activityId: number) => void
+}
+
+export function ActivityChip({ index, occurrence, onSelect }: ActivityChipProps) {
+  const activity = index.activityById.get(occurrence.a)
+  if (!activity) return null
+  const group = index.calendarById.get(activity.calendarId)?.group ?? ''
+  return (
+    <button
+      type="button"
+      onClick={() => onSelect(activity.id)}
+      className={cn(
+        'flex w-full flex-col rounded-md px-2 py-1 text-left text-xs leading-tight transition-colors',
+        'focus-visible:ring-ring focus-visible:ring-2 focus-visible:outline-none',
+        groupStyle(group).chip,
+      )}
+    >
+      <span className="font-medium tabular-nums">
+        {formatTime(timeOf(occurrence.s))}–{formatTime(timeOf(occurrence.e))}
+      </span>
+      <span>{activity.title}</span>
+    </button>
+  )
+}

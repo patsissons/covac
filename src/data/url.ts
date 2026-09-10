@@ -6,6 +6,7 @@ const TIME = /^\d{2}:\d{2}$/
 const numbers = (value: string | null): number[] =>
   (value ?? '')
     .split(',')
+    .filter((part) => part.trim() !== '')
     .map(Number)
     .filter((n) => Number.isInteger(n) && n >= 0)
 
