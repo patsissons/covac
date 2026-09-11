@@ -1,0 +1,322 @@
+[
+  {
+    "id": 38,
+    "name": "Britannia Community Centre",
+    "lat": 49.2751,
+    "lng": -123.0704,
+    "address": "1655 William St, Vancouver",
+    "phone": "(604) 718-5800"
+  },
+  {
+    "id": 37,
+    "name": "Britannia Pool",
+    "lat": 49.2756,
+    "lng": -123.0707,
+    "address": "1661 Napier Street, Vancouver",
+    "phone": "(604) 718-5831"
+  },
+  {
+    "id": 24,
+    "name": "Britannia Rink",
+    "lat": 49.2761,
+    "lng": -123.0707,
+    "address": "1661 Napier Street, Vancouver",
+    "phone": "(604) 718-5800"
+  },
+  {
+    "id": 57,
+    "name": "Champlain Heights Community Centre",
+    "lat": 49.2149,
+    "lng": -123.032,
+    "address": "3350 Maquinna Drive, Vancouver",
+    "phone": "(604) 718-6575"
+  },
+  {
+    "id": 6,
+    "name": "Coal Harbour Community Centre",
+    "lat": 49.2902,
+    "lng": -123.1257,
+    "address": "480 Broughton Street, Vancouver",
+    "phone": "(604) 718-8222"
+  },
+  {
+    "id": 29,
+    "name": "Creekside Community Recreation Centre",
+    "lat": 49.2719,
+    "lng": -123.1055,
+    "address": "1 Athletes Way, Vancouver",
+    "phone": "(604) 257-3050"
+  },
+  {
+    "id": 48,
+    "name": "Douglas Park Community Centre",
+    "lat": 49.252,
+    "lng": -123.1224,
+    "address": "801 22nd Avenue West, Vancouver",
+    "phone": "(604) 257-8130"
+  },
+  {
+    "id": 50,
+    "name": "Dunbar Community Centre",
+    "lat": 49.2438,
+    "lng": -123.1862,
+    "address": "4747 Dunbar Street, Vancouver",
+    "phone": "(604) 222-6060"
+  },
+  {
+    "id": 43,
+    "name": "False Creek Community Centre",
+    "lat": 49.2695,
+    "lng": -123.1342,
+    "address": "1318 Cartwright Street, Vancouver",
+    "phone": "+1 (604) 257-8195"
+  },
+  {
+    "id": 44,
+    "name": "Hastings Community Centre",
+    "lat": 49.2807,
+    "lng": -123.0394,
+    "address": "3096 Hastings Street East, Vancouver",
+    "phone": "(604) 718-6222"
+  },
+  {
+    "id": 59,
+    "name": "Hillcrest Aquatic Centre",
+    "lat": 49.244,
+    "lng": -123.1076,
+    "address": "4575 Clancy Loranger Way, Vancouver",
+    "phone": "(604) 257-8680"
+  },
+  {
+    "id": 39,
+    "name": "Hillcrest Community Centre",
+    "lat": 49.244,
+    "lng": -123.1076,
+    "address": "4575 Clancy Loranger Way, Vancouver",
+    "phone": "(604) 257-8680"
+  },
+  {
+    "id": 22,
+    "name": "Hillcrest Rink",
+    "lat": 49.2441,
+    "lng": -123.1078,
+    "address": "4575 Clancy Loranger Way, Vancouver",
+    "phone": "(604) 257-8680"
+  },
+  {
+    "id": 55,
+    "name": "Kensington Community Centre",
+    "lat": 49.2372,
+    "lng": -123.075,
+    "address": "5175 Dumfries Street, Vancouver",
+    "phone": "(604) 718-6200"
+  },
+  {
+    "id": 56,
+    "name": "Kensington Pool",
+    "lat": 49.2372,
+    "lng": -123.075,
+    "address": "5175 Dumfries Street, Vancouver",
+    "phone": "(604) 718-6200"
+  },
+  {
+    "id": 33,
+    "name": "Kerrisdale Community Centre",
+    "lat": 49.2332,
+    "lng": -123.1564,
+    "address": "5851 West Boulevard, Vancouver",
+    "phone": "(604) 257-8100"
+  },
+  {
+    "id": 23,
+    "name": "Kerrisdale Cyclone Taylor Arena",
+    "lat": 49.2353,
+    "lng": -123.1541,
+    "address": "5670 East Boulevard, Vancouver",
+    "phone": "(604) 257-8121"
+  },
+  {
+    "id": 35,
+    "name": "Killarney Community Centre",
+    "lat": 49.2269,
+    "lng": -123.0442,
+    "address": "6260 Killarney Street, Vancouver",
+    "phone": "(604) 718-8200"
+  },
+  {
+    "id": 36,
+    "name": "Killarney Pool",
+    "lat": 49.2269,
+    "lng": -123.0442,
+    "address": "6260 Killarney Street, Vancouver",
+    "phone": "(604) 718-8200"
+  },
+  {
+    "id": 25,
+    "name": "Killarney Rink",
+    "lat": 49.2271,
+    "lng": -123.0435,
+    "address": "6260 Killarney Street, Vancouver",
+    "phone": "(604) 718-8200"
+  },
+  {
+    "id": 40,
+    "name": "Kitsilano Community Centre",
+    "lat": 49.2618,
+    "lng": -123.1621,
+    "address": "2690 Larch Street, Vancouver",
+    "phone": "(604) 257-6980"
+  },
+  {
+    "id": 26,
+    "name": "Kitsilano Rink",
+    "lat": 49.2616,
+    "lng": -123.1624,
+    "address": "2690 Larch Street, Vancouver",
+    "phone": "(604) 257-6976"
+  },
+  {
+    "id": 10,
+    "name": "Lord Byng Pool",
+    "lat": 49.2593,
+    "lng": -123.1929,
+    "address": "3990 14th Avenue West, Vancouver",
+    "phone": "(604) 222-6090"
+  },
+  {
+    "id": 54,
+    "name": "Marpole-Oakridge Community Centre",
+    "lat": 49.217,
+    "lng": -123.1282,
+    "address": "990 59th Avenue West, Vancouver",
+    "phone": "(604) 257-8180"
+  },
+  {
+    "id": 288,
+    "name": "Moberly Arts and Cultural Centre",
+    "lat": 49.2161,
+    "lng": -123.0872,
+    "address": "7646 Prince Albert Street, Vancouver",
+    "phone": "(604) 718-6521"
+  },
+  {
+    "id": 53,
+    "name": "Mount Pleasant Community Centre",
+    "lat": 49.2641,
+    "lng": -123.1002,
+    "address": "1 Kingsway, Vancouver",
+    "phone": "(604) 257-3080"
+  },
+  {
+    "id": 46,
+    "name": "Renfrew Park Community Centre",
+    "lat": 49.2511,
+    "lng": -123.0427,
+    "address": "2929 22nd Avenue East, Vancouver",
+    "phone": "(604) 257-8388"
+  },
+  {
+    "id": 47,
+    "name": "Renfrew Park Pool",
+    "lat": 49.2522,
+    "lng": -123.0433,
+    "address": "2929 22nd Avenue East, Vancouver",
+    "phone": "(604) 257-8393"
+  },
+  {
+    "id": 42,
+    "name": "Roundhouse Community Arts and Recreation Centre",
+    "lat": 49.2733,
+    "lng": -123.1219,
+    "address": "181 Roundhouse Mews, Vancouver",
+    "phone": "(604) 713-1800"
+  },
+  {
+    "id": 51,
+    "name": "Strathcona Community Centre",
+    "lat": 49.2798,
+    "lng": -123.0915,
+    "address": "601 Keefer Street, Vancouver",
+    "phone": "(604) 713-1838"
+  },
+  {
+    "id": 41,
+    "name": "Sunset Community Centre",
+    "lat": 49.2228,
+    "lng": -123.1011,
+    "address": "6810 Main Street, Vancouver",
+    "phone": "(604) 718-6505"
+  },
+  {
+    "id": 27,
+    "name": "Sunset Rink",
+    "lat": 49.2239,
+    "lng": -123.0975,
+    "address": "390 East 51st Avenue, Vancouver",
+    "phone": "(604) 718-6505"
+  },
+  {
+    "id": 45,
+    "name": "Templeton Park Pool",
+    "lat": 49.2783,
+    "lng": -123.0605,
+    "address": "700 Templeton Drive, Vancouver",
+    "phone": "(604) 718-6252"
+  },
+  {
+    "id": 58,
+    "name": "Thunderbird Community Centre",
+    "lat": 49.2638,
+    "lng": -123.0314,
+    "address": "2311 Cassiar Street, Vancouver",
+    "phone": "(604) 713-1818"
+  },
+  {
+    "id": 32,
+    "name": "Trout Lake Community Centre",
+    "lat": 49.255,
+    "lng": -123.0661,
+    "address": "3350 Victoria Drive, Vancouver",
+    "phone": "(604) 257-6955"
+  },
+  {
+    "id": 28,
+    "name": "Trout Lake Rink",
+    "lat": 49.255,
+    "lng": -123.0661,
+    "address": "3350 Victoria Drive, Vancouver",
+    "phone": "(604) 257-6955"
+  },
+  {
+    "id": 7,
+    "name": "West End Community Centre",
+    "lat": 49.2907,
+    "lng": -123.1365,
+    "address": "870 Denman Street, Vancouver",
+    "phone": "(604) 257-8333"
+  },
+  {
+    "id": 9,
+    "name": "West End Rink",
+    "lat": 49.2902,
+    "lng": -123.1364,
+    "address": "1750 Haro Street, Vancouver",
+    "phone": "(604) 257-8333"
+  },
+  {
+    "id": 49,
+    "name": "West Point Grey Community Centre - Aberthau",
+    "lat": 49.2715,
+    "lng": -123.205,
+    "address": "4397 2nd Avenue West, Vancouver",
+    "phone": "(604) 257-8140"
+  },
+  {
+    "id": 67,
+    "name": "West Point Grey Community Centre - Jericho Hill",
+    "lat": 49.2672,
+    "lng": -123.1987,
+    "address": "4180 West 4th Avenue, Vancouver",
+    "phone": "(604) 257-8140"
+  }
+]

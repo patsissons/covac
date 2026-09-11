@@ -1,0 +1,1287 @@
+[
+  {
+    "id": 607,
+    "name": "105 Gym North",
+    "centerId": 41
+  },
+  {
+    "id": 608,
+    "name": "105 Gym South",
+    "centerId": 41
+  },
+  {
+    "id": 606,
+    "name": "105 Gymnasium - Sunset",
+    "centerId": 41
+  },
+  {
+    "id": 609,
+    "name": "117 Hall",
+    "centerId": 41
+  },
+  {
+    "id": 640,
+    "name": "311 Youth/Games Room",
+    "centerId": 39
+  },
+  {
+    "id": 637,
+    "name": "320 Multipurpose Room",
+    "centerId": 39
+  },
+  {
+    "id": 632,
+    "name": "322 Arts and Crafts Room",
+    "centerId": 39
+  },
+  {
+    "id": 638,
+    "name": "328 Multipurpose Room",
+    "centerId": 39
+  },
+  {
+    "id": 633,
+    "name": "330 Dance Studio",
+    "centerId": 39
+  },
+  {
+    "id": 634,
+    "name": "360 Gymnasium - Hillcrest",
+    "centerId": 39
+  },
+  {
+    "id": 635,
+    "name": "360-1 Gymnasium - 1/3",
+    "centerId": 39
+  },
+  {
+    "id": 636,
+    "name": "360-2 Gymnasium - 2/3",
+    "centerId": 39
+  },
+  {
+    "id": 200,
+    "name": "400 Fitness Centre",
+    "centerId": 39
+  },
+  {
+    "id": 43,
+    "name": "Activity Room",
+    "centerId": 6
+  },
+  {
+    "id": 431,
+    "name": "Activity Room",
+    "centerId": 51
+  },
+  {
+    "id": 492,
+    "name": "Activity Room",
+    "centerId": 57
+  },
+  {
+    "id": 486,
+    "name": "Activity Room",
+    "centerId": 45
+  },
+  {
+    "id": 599,
+    "name": "Aerobic/Dance Studio 208",
+    "centerId": 50
+  },
+  {
+    "id": 326,
+    "name": "Al Mattison Lounge",
+    "centerId": 38
+  },
+  {
+    "id": 327,
+    "name": "Al Mattison Lounge - Computer Lab",
+    "centerId": 38
+  },
+  {
+    "id": 328,
+    "name": "Al Mattison Lounge - Kitchen and eating",
+    "centerId": 38
+  },
+  {
+    "id": 291,
+    "name": "Art Room",
+    "centerId": 53
+  },
+  {
+    "id": 595,
+    "name": "Art Room 116",
+    "centerId": 50
+  },
+  {
+    "id": 687,
+    "name": "Art Studio",
+    "centerId": 32
+  },
+  {
+    "id": 403,
+    "name": "Arts & Crafts Room",
+    "centerId": 42
+  },
+  {
+    "id": 44,
+    "name": "Arts and Crafts Room",
+    "centerId": 6
+  },
+  {
+    "id": 30,
+    "name": "Auditorium",
+    "centerId": 7
+  },
+  {
+    "id": 472,
+    "name": "Auditorium",
+    "centerId": 44
+  },
+  {
+    "id": 501,
+    "name": "Auditorium",
+    "centerId": 54
+  },
+  {
+    "id": 264,
+    "name": "Auditorium",
+    "centerId": 33
+  },
+  {
+    "id": 32,
+    "name": "Barclay Room",
+    "centerId": 7
+  },
+  {
+    "id": 430,
+    "name": "Barry Cogswell Woodworking Studio",
+    "centerId": 42
+  },
+  {
+    "id": 27,
+    "name": "Bidwell Room",
+    "centerId": 7
+  },
+  {
+    "id": 404,
+    "name": "Board Room",
+    "centerId": 42
+  },
+  {
+    "id": 445,
+    "name": "Board Room",
+    "centerId": 40
+  },
+  {
+    "id": 311,
+    "name": "Board Room",
+    "centerId": 35
+  },
+  {
+    "id": 648,
+    "name": "Board Room",
+    "centerId": 55
+  },
+  {
+    "id": 542,
+    "name": "Board Room",
+    "centerId": 43
+  },
+  {
+    "id": 478,
+    "name": "Board Room",
+    "centerId": 44
+  },
+  {
+    "id": 2787,
+    "name": "Boxing Room",
+    "centerId": 38
+  },
+  {
+    "id": 207,
+    "name": "Britannia Pool",
+    "centerId": 37
+  },
+  {
+    "id": 118,
+    "name": "Britannia Rink",
+    "centerId": 24
+  },
+  {
+    "id": 345,
+    "name": "Britannia Secondary School - Gym A",
+    "centerId": 38
+  },
+  {
+    "id": 346,
+    "name": "Britannia Secondary School - Gym A/B",
+    "centerId": 38
+  },
+  {
+    "id": 347,
+    "name": "Britannia Secondary School - Gym B",
+    "centerId": 38
+  },
+  {
+    "id": 334,
+    "name": "Cafeteria",
+    "centerId": 38
+  },
+  {
+    "id": 335,
+    "name": "Canuck Family Education Centre",
+    "centerId": 38
+  },
+  {
+    "id": 689,
+    "name": "Cedar Hall",
+    "centerId": 32
+  },
+  {
+    "id": 553,
+    "name": "Chinook Room",
+    "centerId": 43
+  },
+  {
+    "id": 503,
+    "name": "Club Room",
+    "centerId": 54
+  },
+  {
+    "id": 484,
+    "name": "Community Hall",
+    "centerId": 44
+  },
+  {
+    "id": 442,
+    "name": "Community Room",
+    "centerId": 51
+  },
+  {
+    "id": 339,
+    "name": "Conference Room",
+    "centerId": 38
+  },
+  {
+    "id": 715,
+    "name": "Conservatory",
+    "centerId": 49
+  },
+  {
+    "id": 652,
+    "name": "Cottage",
+    "centerId": 55
+  },
+  {
+    "id": 3791,
+    "name": "Court 4 - Fitness Centre",
+    "centerId": 57
+  },
+  {
+    "id": 716,
+    "name": "Craft Room",
+    "centerId": 49
+  },
+  {
+    "id": 567,
+    "name": "Craft Room",
+    "centerId": 48
+  },
+  {
+    "id": 41,
+    "name": "Dance Studio",
+    "centerId": 6
+  },
+  {
+    "id": 313,
+    "name": "Dance Studio",
+    "centerId": 35
+  },
+  {
+    "id": 29,
+    "name": "Dance Studio",
+    "centerId": 7
+  },
+  {
+    "id": 653,
+    "name": "Dance Studio",
+    "centerId": 55
+  },
+  {
+    "id": 406,
+    "name": "Dance Studio",
+    "centerId": 42
+  },
+  {
+    "id": 446,
+    "name": "Dance Studio",
+    "centerId": 40
+  },
+  {
+    "id": 288,
+    "name": "Dance Studio",
+    "centerId": 53
+  },
+  {
+    "id": 130,
+    "name": "Dance Studio",
+    "centerId": 29
+  },
+  {
+    "id": 600,
+    "name": "Dance Studio 209",
+    "centerId": 50
+  },
+  {
+    "id": 161,
+    "name": "Dark Room",
+    "centerId": 7
+  },
+  {
+    "id": 26,
+    "name": "Denman Room",
+    "centerId": 7
+  },
+  {
+    "id": 718,
+    "name": "Dining Room",
+    "centerId": 49
+  },
+  {
+    "id": 309,
+    "name": "Dojo (Martial Arts)",
+    "centerId": 35
+  },
+  {
+    "id": 522,
+    "name": "Dojo Room",
+    "centerId": 46
+  },
+  {
+    "id": 568,
+    "name": "Douglas Lounge",
+    "centerId": 48
+  },
+  {
+    "id": 691,
+    "name": "Elm Room",
+    "centerId": 32
+  },
+  {
+    "id": 25,
+    "name": "English Bay Room",
+    "centerId": 7
+  },
+  {
+    "id": 409,
+    "name": "Exhibition Hall",
+    "centerId": 42
+  },
+  {
+    "id": 543,
+    "name": "Fairview Room",
+    "centerId": 43
+  },
+  {
+    "id": 668,
+    "name": "Family Activity Room",
+    "centerId": 58
+  },
+  {
+    "id": 343,
+    "name": "Family Activity Room",
+    "centerId": 38
+  },
+  {
+    "id": 476,
+    "name": "Family Drop-in",
+    "centerId": 44
+  },
+  {
+    "id": 185,
+    "name": "Fitness Centre",
+    "centerId": 35
+  },
+  {
+    "id": 10,
+    "name": "Fitness Centre",
+    "centerId": 32
+  },
+  {
+    "id": 405,
+    "name": "Foyer",
+    "centerId": 42
+  },
+  {
+    "id": 411,
+    "name": "Games Room",
+    "centerId": 42
+  },
+  {
+    "id": 669,
+    "name": "Games Room",
+    "centerId": 58
+  },
+  {
+    "id": 292,
+    "name": "Games Room",
+    "centerId": 53
+  },
+  {
+    "id": 524,
+    "name": "Games Room",
+    "centerId": 46
+  },
+  {
+    "id": 696,
+    "name": "Grandview and Lakewood Room",
+    "centerId": 32
+  },
+  {
+    "id": 697,
+    "name": "Grandview Room",
+    "centerId": 32
+  },
+  {
+    "id": 659,
+    "name": "Gymnasium",
+    "centerId": 55
+  },
+  {
+    "id": 436,
+    "name": "Gymnasium",
+    "centerId": 51
+  },
+  {
+    "id": 499,
+    "name": "Gymnasium",
+    "centerId": 54
+  },
+  {
+    "id": 730,
+    "name": "Gymnasium",
+    "centerId": 49
+  },
+  {
+    "id": 671,
+    "name": "Gymnasium",
+    "centerId": 58
+  },
+  {
+    "id": 569,
+    "name": "Gymnasium",
+    "centerId": 48
+  },
+  {
+    "id": 447,
+    "name": "Gymnasium",
+    "centerId": 40
+  },
+  {
+    "id": 308,
+    "name": "Gymnasium - 1/3",
+    "centerId": 35
+  },
+  {
+    "id": 133,
+    "name": "Gymnasium - 1/3",
+    "centerId": 29
+  },
+  {
+    "id": 307,
+    "name": "Gymnasium - 2/3",
+    "centerId": 35
+  },
+  {
+    "id": 134,
+    "name": "Gymnasium - 2/3",
+    "centerId": 29
+  },
+  {
+    "id": 287,
+    "name": "Gymnasium - 2/3",
+    "centerId": 53
+  },
+  {
+    "id": 146,
+    "name": "Gymnasium - 2/3",
+    "centerId": 6
+  },
+  {
+    "id": 487,
+    "name": "Gymnasium - Champlain Heights",
+    "centerId": 57
+  },
+  {
+    "id": 46,
+    "name": "Gymnasium - Coal Harbour",
+    "centerId": 6
+  },
+  {
+    "id": 125,
+    "name": "Gymnasium - Creekside",
+    "centerId": 29
+  },
+  {
+    "id": 582,
+    "name": "Gymnasium - Dunbar",
+    "centerId": 50
+  },
+  {
+    "id": 470,
+    "name": "Gymnasium - Hastings",
+    "centerId": 44
+  },
+  {
+    "id": 262,
+    "name": "Gymnasium - Kerrisdale",
+    "centerId": 33
+  },
+  {
+    "id": 306,
+    "name": "Gymnasium - Killarney",
+    "centerId": 35
+  },
+  {
+    "id": 285,
+    "name": "Gymnasium - Mount Pleasant",
+    "centerId": 53
+  },
+  {
+    "id": 739,
+    "name": "Gymnasium - North",
+    "centerId": 67
+  },
+  {
+    "id": 699,
+    "name": "Gymnasium - North (2/3)",
+    "centerId": 32
+  },
+  {
+    "id": 525,
+    "name": "Gymnasium - Renfrew Park",
+    "centerId": 46
+  },
+  {
+    "id": 700,
+    "name": "Gymnasium - South (1/3)",
+    "centerId": 32
+  },
+  {
+    "id": 698,
+    "name": "Gymnasium - Trout Lake",
+    "centerId": 32
+  },
+  {
+    "id": 3341,
+    "name": "Gymnasium -1/3",
+    "centerId": 51
+  },
+  {
+    "id": 3342,
+    "name": "Gymnasium -2/3",
+    "centerId": 51
+  },
+  {
+    "id": 348,
+    "name": "Gymnasium C",
+    "centerId": 38
+  },
+  {
+    "id": 351,
+    "name": "Gymnasium D - Britannia",
+    "centerId": 38
+  },
+  {
+    "id": 402,
+    "name": "Gymnasium Full - Roundhouse",
+    "centerId": 42
+  },
+  {
+    "id": 583,
+    "name": "Healthy Heart Room",
+    "centerId": 50
+  },
+  {
+    "id": 570,
+    "name": "Heather Room",
+    "centerId": 48
+  },
+  {
+    "id": 3705,
+    "name": "Hillcrest Leisure Pool",
+    "centerId": 59
+  },
+  {
+    "id": 208,
+    "name": "Hillcrest Pool",
+    "centerId": 59
+  },
+  {
+    "id": 121,
+    "name": "Hillcrest Rink",
+    "centerId": 22
+  },
+  {
+    "id": 483,
+    "name": "James Cork Room",
+    "centerId": 44
+  },
+  {
+    "id": 449,
+    "name": "Ken's Kitchen",
+    "centerId": 40
+  },
+  {
+    "id": 203,
+    "name": "Kensington Pool",
+    "centerId": 56
+  },
+  {
+    "id": 124,
+    "name": "Kerrisdale Cyclone Taylor Arena",
+    "centerId": 23
+  },
+  {
+    "id": 3872,
+    "name": "Killarney Leisure Pool",
+    "centerId": 36
+  },
+  {
+    "id": 204,
+    "name": "Killarney Pool",
+    "centerId": 36
+  },
+  {
+    "id": 119,
+    "name": "Killarney Rink",
+    "centerId": 25
+  },
+  {
+    "id": 701,
+    "name": "Kitchen",
+    "centerId": 32
+  },
+  {
+    "id": 315,
+    "name": "Kitchen",
+    "centerId": 35
+  },
+  {
+    "id": 546,
+    "name": "Kitchen",
+    "centerId": 43
+  },
+  {
+    "id": 526,
+    "name": "Kitchen",
+    "centerId": 46
+  },
+  {
+    "id": 674,
+    "name": "Kitchen - Main Floor",
+    "centerId": 58
+  },
+  {
+    "id": 593,
+    "name": "Kitchen 114",
+    "centerId": 50
+  },
+  {
+    "id": 120,
+    "name": "Kitsilano Rink",
+    "centerId": 26
+  },
+  {
+    "id": 702,
+    "name": "Lakewood Room",
+    "centerId": 32
+  },
+  {
+    "id": 572,
+    "name": "Laurel Room",
+    "centerId": 48
+  },
+  {
+    "id": 547,
+    "name": "Lind Hall",
+    "centerId": 43
+  },
+  {
+    "id": 3365,
+    "name": "Lobby",
+    "centerId": 40
+  },
+  {
+    "id": 154,
+    "name": "Lobby",
+    "centerId": 7
+  },
+  {
+    "id": 450,
+    "name": "Lobby Room",
+    "centerId": 40
+  },
+  {
+    "id": 16,
+    "name": "Lord Byng Pool",
+    "centerId": 10
+  },
+  {
+    "id": 491,
+    "name": "Lounge",
+    "centerId": 57
+  },
+  {
+    "id": 322,
+    "name": "Lounge",
+    "centerId": 35
+  },
+  {
+    "id": 504,
+    "name": "Lower Lounge",
+    "centerId": 54
+  },
+  {
+    "id": 451,
+    "name": "Maddie's (Seniors) Lounge",
+    "centerId": 40
+  },
+  {
+    "id": 354,
+    "name": "Mat Room",
+    "centerId": 38
+  },
+  {
+    "id": 452,
+    "name": "Meeting Room",
+    "centerId": 40
+  },
+  {
+    "id": 490,
+    "name": "Meeting Room",
+    "centerId": 57
+  },
+  {
+    "id": 725,
+    "name": "Meeting Room",
+    "centerId": 49
+  },
+  {
+    "id": 45,
+    "name": "Meeting Room",
+    "centerId": 6
+  },
+  {
+    "id": 23,
+    "name": "Meeting Room 1",
+    "centerId": 7
+  },
+  {
+    "id": 24,
+    "name": "Meeting Room 2",
+    "centerId": 7
+  },
+  {
+    "id": 33,
+    "name": "Meeting Room 3",
+    "centerId": 7
+  },
+  {
+    "id": 598,
+    "name": "Meeting Room with Kitchen 204",
+    "centerId": 50
+  },
+  {
+    "id": 413,
+    "name": "Mezzanine Meeting Room",
+    "centerId": 42
+  },
+  {
+    "id": 548,
+    "name": "Mini Gym",
+    "centerId": 43
+  },
+  {
+    "id": 616,
+    "name": "Moberly Lower Hall",
+    "centerId": 288
+  },
+  {
+    "id": 617,
+    "name": "Moberly Main Hall",
+    "centerId": 288
+  },
+  {
+    "id": 676,
+    "name": "Multi-purpose Room",
+    "centerId": 58
+  },
+  {
+    "id": 586,
+    "name": "Multi-purpose Room 006",
+    "centerId": 50
+  },
+  {
+    "id": 589,
+    "name": "Multi-purpose Room 102",
+    "centerId": 50
+  },
+  {
+    "id": 591,
+    "name": "Multi-purpose Room 111",
+    "centerId": 50
+  },
+  {
+    "id": 592,
+    "name": "Multi-purpose Room 112",
+    "centerId": 50
+  },
+  {
+    "id": 597,
+    "name": "Multi-Purpose Room 202",
+    "centerId": 50
+  },
+  {
+    "id": 603,
+    "name": "Multi-purpose Room 212",
+    "centerId": 50
+  },
+  {
+    "id": 415,
+    "name": "Multimedia Room",
+    "centerId": 42
+  },
+  {
+    "id": 42,
+    "name": "Multipurpose Room",
+    "centerId": 6
+  },
+  {
+    "id": 660,
+    "name": "Multipurpose Room",
+    "centerId": 55
+  },
+  {
+    "id": 440,
+    "name": "Multipurpose Room",
+    "centerId": 51
+  },
+  {
+    "id": 453,
+    "name": "Multipurpose Room",
+    "centerId": 40
+  },
+  {
+    "id": 127,
+    "name": "Multipurpose Room 2",
+    "centerId": 29
+  },
+  {
+    "id": 289,
+    "name": "Multipurpose Room 2",
+    "centerId": 53
+  },
+  {
+    "id": 310,
+    "name": "Multipurpose Room 201 - Music",
+    "centerId": 35
+  },
+  {
+    "id": 312,
+    "name": "Multipurpose Room 203",
+    "centerId": 35
+  },
+  {
+    "id": 314,
+    "name": "Multipurpose Room 211 - Arts",
+    "centerId": 35
+  },
+  {
+    "id": 290,
+    "name": "Multipurpose Room 3",
+    "centerId": 53
+  },
+  {
+    "id": 128,
+    "name": "Multipurpose Room 3",
+    "centerId": 29
+  },
+  {
+    "id": 416,
+    "name": "Music Room",
+    "centerId": 42
+  },
+  {
+    "id": 727,
+    "name": "Oak Room",
+    "centerId": 49
+  },
+  {
+    "id": 274,
+    "name": "Off Site",
+    "centerId": 33
+  },
+  {
+    "id": 148,
+    "name": "Off Site - English Bay Beach",
+    "centerId": 6
+  },
+  {
+    "id": 151,
+    "name": "Off Site - King George Gymnasium",
+    "centerId": 7
+  },
+  {
+    "id": 153,
+    "name": "Off Site - King George Tennis Courts",
+    "centerId": 7
+  },
+  {
+    "id": 566,
+    "name": "Off Site - Tapestry - North Room",
+    "centerId": 48
+  },
+  {
+    "id": 3504,
+    "name": "Offsite - W Covered Area Britannia Elem",
+    "centerId": 38
+  },
+  {
+    "id": 575,
+    "name": "Orca Room",
+    "centerId": 48
+  },
+  {
+    "id": 3146,
+    "name": "Outside - John Hendry Gravel Field",
+    "centerId": 32
+  },
+  {
+    "id": 3204,
+    "name": "Outside - John Hendry Park Grass Area SE",
+    "centerId": 32
+  },
+  {
+    "id": 2928,
+    "name": "Pool Multipurpose Room - Centre Use",
+    "centerId": 35
+  },
+  {
+    "id": 661,
+    "name": "Pottery Studio",
+    "centerId": 55
+  },
+  {
+    "id": 157,
+    "name": "Pottery Studio",
+    "centerId": 7
+  },
+  {
+    "id": 420,
+    "name": "Pottery Studio",
+    "centerId": 42
+  },
+  {
+    "id": 579,
+    "name": "Pottery Studio 115",
+    "centerId": 50
+  },
+  {
+    "id": 421,
+    "name": "Practice Room",
+    "centerId": 42
+  },
+  {
+    "id": 318,
+    "name": "Preschool 1",
+    "centerId": 35
+  },
+  {
+    "id": 320,
+    "name": "Preschool 2",
+    "centerId": 35
+  },
+  {
+    "id": 359,
+    "name": "Preteen Centre",
+    "centerId": 38
+  },
+  {
+    "id": 205,
+    "name": "Renfrew Pool",
+    "centerId": 47
+  },
+  {
+    "id": 360,
+    "name": "Rink Activity Room",
+    "centerId": 38
+  },
+  {
+    "id": 361,
+    "name": "Rink Mezzanine Room",
+    "centerId": 38
+  },
+  {
+    "id": 259,
+    "name": "Room 015",
+    "centerId": 33
+  },
+  {
+    "id": 528,
+    "name": "Room 10",
+    "centerId": 46
+  },
+  {
+    "id": 590,
+    "name": "Room 103",
+    "centerId": 50
+  },
+  {
+    "id": 529,
+    "name": "Room 108",
+    "centerId": 46
+  },
+  {
+    "id": 266,
+    "name": "Room 109",
+    "centerId": 33
+  },
+  {
+    "id": 530,
+    "name": "Room 110",
+    "centerId": 46
+  },
+  {
+    "id": 533,
+    "name": "Room 112",
+    "centerId": 46
+  },
+  {
+    "id": 270,
+    "name": "Room 221",
+    "centerId": 33
+  },
+  {
+    "id": 271,
+    "name": "Room 222",
+    "centerId": 33
+  },
+  {
+    "id": 272,
+    "name": "Room 226",
+    "centerId": 33
+  },
+  {
+    "id": 479,
+    "name": "Room 9",
+    "centerId": 44
+  },
+  {
+    "id": 422,
+    "name": "Room A",
+    "centerId": 42
+  },
+  {
+    "id": 423,
+    "name": "Room B",
+    "centerId": 42
+  },
+  {
+    "id": 424,
+    "name": "Room C",
+    "centerId": 42
+  },
+  {
+    "id": 3819,
+    "name": "Seniors 151 Multipurpose Room 2",
+    "centerId": 41
+  },
+  {
+    "id": 3863,
+    "name": "Seniors 152 Multipurpose Room",
+    "centerId": 41
+  },
+  {
+    "id": 3820,
+    "name": "Seniors 152 Multipurpose Room 3A",
+    "centerId": 41
+  },
+  {
+    "id": 3821,
+    "name": "Seniors 152 Multipurpose Room 3B",
+    "centerId": 41
+  },
+  {
+    "id": 3823,
+    "name": "Seniors 159 Seniors Lounge",
+    "centerId": 41
+  },
+  {
+    "id": 3824,
+    "name": "Seniors 160 Fitness Room",
+    "centerId": 41
+  },
+  {
+    "id": 279,
+    "name": "Seniors Centre Craft Room",
+    "centerId": 33
+  },
+  {
+    "id": 280,
+    "name": "Seniors Centre Games Room",
+    "centerId": 33
+  },
+  {
+    "id": 282,
+    "name": "Seniors Centre Lounge",
+    "centerId": 33
+  },
+  {
+    "id": 283,
+    "name": "Seniors Centre Multipurpose Room",
+    "centerId": 33
+  },
+  {
+    "id": 284,
+    "name": "Seniors Centre South Room",
+    "centerId": 33
+  },
+  {
+    "id": 3322,
+    "name": "Seniors Grand Hall",
+    "centerId": 35
+  },
+  {
+    "id": 3323,
+    "name": "Seniors Grand Hall 2/3 (151 & 152)",
+    "centerId": 35
+  },
+  {
+    "id": 3296,
+    "name": "Seniors Hall 151",
+    "centerId": 35
+  },
+  {
+    "id": 3308,
+    "name": "Seniors Lounge",
+    "centerId": 35
+  },
+  {
+    "id": 662,
+    "name": "Seniors Lounge",
+    "centerId": 55
+  },
+  {
+    "id": 3305,
+    "name": "Seniors Meeting Room",
+    "centerId": 35
+  },
+  {
+    "id": 3325,
+    "name": "Seniors Multipurpose Room Full",
+    "centerId": 35
+  },
+  {
+    "id": 443,
+    "name": "Seniors Room",
+    "centerId": 51
+  },
+  {
+    "id": 664,
+    "name": "Small Activity Room",
+    "centerId": 58
+  },
+  {
+    "id": 454,
+    "name": "Snowy's Lounge",
+    "centerId": 40
+  },
+  {
+    "id": 500,
+    "name": "Social Room",
+    "centerId": 54
+  },
+  {
+    "id": 576,
+    "name": "Stage",
+    "centerId": 48
+  },
+  {
+    "id": 28,
+    "name": "Stanley Court Room",
+    "centerId": 7
+  },
+  {
+    "id": 122,
+    "name": "Sunset Rink",
+    "centerId": 27
+  },
+  {
+    "id": 206,
+    "name": "Templeton Pool",
+    "centerId": 45
+  },
+  {
+    "id": 3216,
+    "name": "Thunderbird School - Gymnasium",
+    "centerId": 58
+  },
+  {
+    "id": 123,
+    "name": "Trout Lake Rink",
+    "centerId": 28
+  },
+  {
+    "id": 552,
+    "name": "Tyee Hall",
+    "centerId": 43
+  },
+  {
+    "id": 577,
+    "name": "Unicorn Room",
+    "centerId": 48
+  },
+  {
+    "id": 3358,
+    "name": "Upper Lobby",
+    "centerId": 57
+  },
+  {
+    "id": 502,
+    "name": "Upper Lounge",
+    "centerId": 54
+  },
+  {
+    "id": 9,
+    "name": "West End Rink",
+    "centerId": 9
+  },
+  {
+    "id": 712,
+    "name": "Willow Room",
+    "centerId": 32
+  },
+  {
+    "id": 544,
+    "name": "Youth Lounge",
+    "centerId": 43
+  },
+  {
+    "id": 457,
+    "name": "Youth Lounge",
+    "centerId": 40
+  },
+  {
+    "id": 494,
+    "name": "Youth Room",
+    "centerId": 57
+  },
+  {
+    "id": 731,
+    "name": "Youth Room",
+    "centerId": 49
+  }
+]

@@ -1,0 +1,117 @@
+[
+  {
+    "id": 20,
+    "name": "Art & Culture: Dance, Music, Singing",
+    "group": "Art & Culture"
+  },
+  {
+    "id": 26,
+    "name": "Art & Culture: Drawing, Painting, Crafts",
+    "group": "Art & Culture"
+  },
+  {
+    "id": 30,
+    "name": "Art & Culture: Pottery & Woodworking",
+    "group": "Art & Culture"
+  },
+  {
+    "id": 56,
+    "name": "Fitness: Aerobics/Group Fitness",
+    "group": "Fitness"
+  },
+  {
+    "id": 8,
+    "name": "Fitness: Indoor Cycling",
+    "group": "Fitness"
+  },
+  {
+    "id": 14,
+    "name": "Fitness: Martial Arts",
+    "group": "Fitness"
+  },
+  {
+    "id": 16,
+    "name": "Fitness: Other",
+    "group": "Fitness"
+  },
+  {
+    "id": 6,
+    "name": "Fitness: Yoga & Pilates",
+    "group": "Fitness"
+  },
+  {
+    "id": 32,
+    "name": "Kerrisdale Play Palace",
+    "group": "Drop-in"
+  },
+  {
+    "id": 5,
+    "name": "Open Gym Times",
+    "group": "Drop-in"
+  },
+  {
+    "id": 1,
+    "name": "Parent and Tot Activities",
+    "group": "Drop-in"
+  },
+  {
+    "id": 3,
+    "name": "Public Skating & Ice Hockey",
+    "group": "Drop-in"
+  },
+  {
+    "id": 55,
+    "name": "Public Swimming",
+    "group": "Drop-in"
+  },
+  {
+    "id": 60,
+    "name": "Queer Inclusion",
+    "group": "Other"
+  },
+  {
+    "id": 47,
+    "name": "Seniors Activities",
+    "group": "Drop-in"
+  },
+  {
+    "id": 46,
+    "name": "Sports: Ball & Floor Hockey",
+    "group": "Sports"
+  },
+  {
+    "id": 10,
+    "name": "Sports: Basketball",
+    "group": "Sports"
+  },
+  {
+    "id": 49,
+    "name": "Sports: Other",
+    "group": "Sports"
+  },
+  {
+    "id": 15,
+    "name": "Sports: Racquet Sports",
+    "group": "Sports"
+  },
+  {
+    "id": 11,
+    "name": "Sports: Soccer",
+    "group": "Sports"
+  },
+  {
+    "id": 9,
+    "name": "Sports: Volleyball",
+    "group": "Sports"
+  },
+  {
+    "id": 22,
+    "name": "Various/Other Drop-in Activities",
+    "group": "Drop-in"
+  },
+  {
+    "id": 43,
+    "name": "Youth Activities",
+    "group": "Drop-in"
+  }
+]
