@@ -50,20 +50,24 @@ describe('activityPrice', () => {
 })
 
 describe('price slider mapping', () => {
-  it('rounds the ceiling up to the next $50 with a $50 floor', () => {
-    expect(priceCeiling([])).toBe(50)
-    expect(priceCeiling([12, 585])).toBe(600)
-    expect(priceCeiling([100])).toBe(100)
+  it('uses the top price as the ceiling, with a $1 floor', () => {
+    expect(priceCeiling([])).toBe(1)
+    expect(priceCeiling([12, 585])).toBe(585)
+    expect(priceCeiling([0.5])).toBe(1)
   })
 
   it('maps the ends exactly and the middle to a quarter of the ceiling', () => {
     expect(sliderToPrice(0, 600)).toBe(0)
     expect(sliderToPrice(SLIDER_MAX, 600)).toBe(600)
+    expect(sliderToPrice(SLIDER_MAX, 585.5)).toBe(585.5)
     expect(sliderToPrice(SLIDER_MAX / 2, 600)).toBe(150)
     expect(priceToSlider(0, 600)).toBe(0)
     expect(priceToSlider(600, 600)).toBe(SLIDER_MAX)
     expect(priceToSlider(150, 600)).toBe(SLIDER_MAX / 2)
     expect(priceToSlider(9999, 600)).toBe(SLIDER_MAX)
+    // Several positions round to the ceiling on a short track; the ceiling itself is the top.
+    expect(priceToSlider(5, 5)).toBe(SLIDER_MAX)
+    expect(priceToSlider(4, 5)).toBeLessThan(SLIDER_MAX)
   })
 
   it('round-trips every position through its price', () => {
@@ -81,8 +85,9 @@ describe('price slider mapping', () => {
     expect(formatPrice(0, 600)).toBe('Free')
     expect(formatPrice(20, 600)).toBe('$20')
     expect(formatPrice(7.5, 600)).toBe('$7.50')
-    expect(formatPrice(null, 600)).toBe('$600+')
-    expect(formatPriceRange(null, null, 600)).toBe('Free – $600+')
+    expect(formatPrice(null, 600)).toBe('$600')
+    expect(formatPrice(null, 585.5)).toBe('$585.50')
+    expect(formatPriceRange(null, null, 600)).toBe('Free – $600')
     expect(formatPriceRange(10, 50, 600)).toBe('$10 – $50')
     expect(formatPriceRange(null, 0, 600)).toBe('Free – Free')
     expect(formatPriceRange(0, 0, 600)).toBe('Free')

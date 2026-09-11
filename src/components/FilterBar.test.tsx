@@ -41,7 +41,7 @@ describe('FilterBar', () => {
   it('walks the maximum price thumb down to free only', async () => {
     const onChange = vi.fn()
     render(<Harness onChange={onChange} />)
-    expect(screen.getByTestId('price-range')).toHaveTextContent('Free – $50+')
+    expect(screen.getByTestId('price-range')).toHaveTextContent('Free – $5')
     // Page keys move the focused thumb a tenth of the track.
     screen.getByRole('slider', { name: 'Maximum price' }).focus()
     await userEvent.keyboard('{PageDown>10/}')
@@ -54,25 +54,25 @@ describe('FilterBar', () => {
   it('raises the minimum price thumb', async () => {
     const onChange = vi.fn()
     render(<Harness onChange={onChange} />)
-    // The slider is quadratic: two tenths up a $50 track is $2.
+    // The slider is quadratic: six tenths up a $5 track is $1.80, shown as $2.
     screen.getByRole('slider', { name: 'Minimum price' }).focus()
-    await userEvent.keyboard('{PageUp>2/}')
+    await userEvent.keyboard('{PageUp>6/}')
     expect(onChange).toHaveBeenLastCalledWith(
       expect.objectContaining({ priceMin: 2, priceMax: null }),
     )
-    expect(screen.getByTestId('price-range')).toHaveTextContent('$2 – $50+')
+    expect(screen.getByTestId('price-range')).toHaveTextContent('$2 – $5')
   })
 
   it('describes a committed price range', () => {
     render(
       <FilterBar
         index={index}
-        filters={{ ...emptyFilters(week), priceMin: 5, priceMax: 20 }}
+        filters={{ ...emptyFilters(week), priceMin: 1, priceMax: 3 }}
         onChange={() => {}}
         resultCount={3}
       />,
     )
-    expect(screen.getByTestId('price-range')).toHaveTextContent('$5 – $20')
+    expect(screen.getByTestId('price-range')).toHaveTextContent('$1 – $3')
     expect(screen.getByRole('button', { name: /Clear filters/ })).toBeInTheDocument()
   })
 

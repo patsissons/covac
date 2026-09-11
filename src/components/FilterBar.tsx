@@ -274,6 +274,8 @@ function TimeSelect({ label, value, onChange, min, max }: TimeSelectProps) {
   )
 }
 
+type Bounds = [number | null, number | null]
+
 interface PriceRangeProps {
   ceiling: number
   min: number | null
@@ -286,35 +288,42 @@ interface PriceRangeProps {
  * the URL and Safari rate-limits history changes. A thumb at either end means no bound.
  */
 function PriceRange({ ceiling, min, max, onChange }: PriceRangeProps) {
-  const committed = [priceToSlider(min ?? 0, ceiling), priceToSlider(max ?? ceiling, ceiling)]
-  // The draft remembers which committed positions it started from: Radix reports a keyboard
-  // change after its commit, so a draft that outlives its base is stale and must be ignored.
-  const base = committed.join(',')
-  const [draft, setDraft] = useState<{ base: string; values: number[] } | null>(null)
-  const dragging = draft?.base === base
-  const live = dragging ? draft.values : committed
-  const [lo, hi] = live
   const lower = (position: number) => (position <= 0 ? null : sliderToPrice(position, ceiling))
   const upper = (position: number) =>
     position >= SLIDER_MAX ? null : sliderToPrice(position, ceiling)
-  // Mid-drag the label tracks the thumbs; at rest it shows the exact committed bounds.
-  const label = dragging
+  // Thumb positions are kept while they still agree with the filter: either the bounds they
+  // started from (mid-drag) or the bounds they committed (so a keyboard nudge at the cheap end,
+  // where several positions round to the same dollar, does not snap back). Any other change to
+  // the bounds, such as clearing the filters, discards them.
+  const [draft, setDraft] = useState<{ values: number[]; bases: Bounds[] } | null>(null)
+  const active = draft !== null && draft.bases.some(([a, b]) => a === min && b === max)
+  const live = active
+    ? draft.values
+    : [priceToSlider(min ?? 0, ceiling), priceToSlider(max ?? ceiling, ceiling)]
+  const [lo, hi] = live
+  // With live thumbs the label follows them; otherwise it shows the exact bounds in force.
+  const label = active
     ? formatPriceRange(lower(lo!), upper(hi!), ceiling)
     : formatPriceRange(min, max, ceiling)
 
   return (
-    <div className="flex items-center gap-2" data-testid="price-range">
+    <div className="flex w-full items-center gap-2 min-[700px]:w-auto" data-testid="price-range">
       <Slider
-        className="w-36"
+        className="flex-1 min-[700px]:w-36 min-[700px]:flex-none"
         min={0}
         max={SLIDER_MAX}
         step={1}
         value={live}
-        onValueChange={(values) => setDraft({ base, values })}
-        onValueCommit={([a, b]) => {
-          setDraft(null)
-          onChange(lower(a!), upper(b!))
-        }}
+        onValueChange={(values) =>
+          setDraft({
+            values,
+            bases: [
+              [min, max],
+              [lower(values[0]!), upper(values[1]!)],
+            ],
+          })
+        }
+        onValueCommit={([a, b]) => onChange(lower(a!), upper(b!))}
         thumbProps={[
           {
             'aria-label': 'Minimum price',
@@ -323,7 +332,10 @@ function PriceRange({ ceiling, min, max, onChange }: PriceRangeProps) {
           { 'aria-label': 'Maximum price', 'aria-valuetext': formatPrice(upper(hi!), ceiling) },
         ]}
       />
-      <span className="text-muted-foreground text-sm whitespace-nowrap tabular-nums">{label}</span>
+      {/* Fixed width so a changing label never nudges the slider or the search box. */}
+      <span className="text-muted-foreground min-w-28 text-sm whitespace-nowrap tabular-nums">
+        {label}
+      </span>
     </div>
   )
 }

@@ -118,7 +118,7 @@ test('the price slider limits sessions to a price range and syncs to the URL', a
   const count = page.getByText(/sessions this week/)
   await expect(count).toBeVisible()
   const all = Number((await count.textContent())!.replace(/[^\d]/g, ''))
-  await expect(page.getByTestId('price-range')).toContainText(/Free – \$\d+\+/)
+  await expect(page.getByTestId('price-range')).toContainText(/Free – \$\d+/)
   // Ten PageDowns walk the maximum thumb to the bottom of the track: free sessions only.
   await page.getByRole('slider', { name: 'Maximum price' }).focus()
   for (let i = 0; i < 10; i++) await page.keyboard.press('PageDown')
@@ -269,6 +269,25 @@ test.describe('phone width', () => {
     await target.click()
     await expect(target).toHaveAttribute('aria-selected', 'true')
     await expect(header).not.toHaveText(before)
+  })
+
+  test('the price slider spans the row and moving it leaves the search box put', async ({
+    page,
+  }) => {
+    await gotoWeek(page)
+    const range = page.getByTestId('price-range')
+    const search = page.getByRole('searchbox', { name: 'Search activities' })
+    await expect(range).toBeVisible()
+    const [r, s, body] = await Promise.all([
+      range.boundingBox(),
+      search.boundingBox(),
+      page.evaluate(() => document.documentElement.clientWidth),
+    ])
+    expect(r!.width).toBeGreaterThan(body * 0.8)
+    await page.getByRole('slider', { name: 'Maximum price' }).focus()
+    for (let i = 0; i < 10; i++) await page.keyboard.press('PageDown')
+    await expect(range).toContainText('Free')
+    expect(await search.boundingBox()).toEqual(s)
   })
 
   test('row headers stick below the day tabs and column header', async ({ page }) => {

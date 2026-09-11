@@ -79,12 +79,12 @@ describe('buildIndex', () => {
     expect(index.groups).toEqual(['Drop-in', 'Sports'])
   })
 
-  it('records each known price and rounds the slider ceiling up to $50', () => {
+  it('records each known price and tops the slider at the priciest one', () => {
     expect([...index.priceById]).toEqual([
       [1, 0],
       [2, 5],
     ])
-    expect(index.priceCeiling).toBe(50)
+    expect(index.priceCeiling).toBe(5)
   })
 })
 

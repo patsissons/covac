@@ -22,11 +22,11 @@ export function activityPrice(activity: Activity): number | undefined {
   return amounts.length ? Math.min(...amounts) : undefined
 }
 
-/** Top of the price slider: the highest known price rounded up to the next $50, at least $50. */
+/** Top of the price slider: exactly the highest known price (at least $1 to keep the track sane). */
 export function priceCeiling(prices: Iterable<number>): number {
   let max = 0
   for (const price of prices) if (price > max) max = price
-  return Math.max(50, Math.ceil(max / 50) * 50)
+  return Math.max(1, max)
 }
 
 /** Positions on the price slider run 0–100. */
@@ -37,7 +37,8 @@ export const SLIDER_MAX = 100
  * the midpoint of the track is a quarter of the ceiling.
  */
 export function sliderToPrice(position: number, ceiling: number): number {
-  const t = Math.min(Math.max(position, 0), SLIDER_MAX) / SLIDER_MAX
+  if (position >= SLIDER_MAX) return ceiling
+  const t = Math.max(position, 0) / SLIDER_MAX
   return Math.round(ceiling * t * t)
 }
 
@@ -46,6 +47,8 @@ export function sliderToPrice(position: number, ceiling: number): number {
  * committed price lands back on the position that produced it.
  */
 export function priceToSlider(price: number, ceiling: number): number {
+  if (price <= 0) return 0
+  if (price >= ceiling) return SLIDER_MAX
   let best = 0
   let bestDistance = Infinity
   for (let position = 0; position <= SLIDER_MAX; position++) {
@@ -58,9 +61,9 @@ export function priceToSlider(price: number, ceiling: number): number {
   return best
 }
 
-/** `Free`, `$20`, or `$600+` when unbounded above. */
+/** `Free`, `$20`, or the ceiling itself when unbounded above. */
 export function formatPrice(price: number | null, ceiling: number): string {
-  if (price === null) return `$${ceiling}+`
+  if (price === null) price = ceiling
   if (price === 0) return 'Free'
   return Number.isInteger(price) ? `$${price}` : `$${price.toFixed(2)}`
 }
