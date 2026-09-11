@@ -274,8 +274,6 @@ function TimeSelect({ label, value, onChange, min, max }: TimeSelectProps) {
   )
 }
 
-type Bounds = [number | null, number | null]
-
 interface PriceRangeProps {
   ceiling: number
   min: number | null
@@ -291,14 +289,16 @@ function PriceRange({ ceiling, min, max, onChange }: PriceRangeProps) {
   const lower = (position: number) => (position <= 0 ? null : sliderToPrice(position, ceiling))
   const upper = (position: number) =>
     position >= SLIDER_MAX ? null : sliderToPrice(position, ceiling)
-  // Thumb positions are kept while they still agree with the filter: either the bounds they
-  // started from (mid-drag) or the bounds they committed (so a keyboard nudge at the cheap end,
-  // where several positions round to the same dollar, does not snap back). Any other change to
-  // the bounds, such as clearing the filters, discards them.
-  const [draft, setDraft] = useState<{ values: number[]; bases: Bounds[] } | null>(null)
-  const active = draft !== null && draft.bases.some(([a, b]) => a === min && b === max)
+  // Thumb positions are kept mid-drag and, after a commit, for as long as the filter still holds
+  // the bounds they produced, so a keyboard nudge at the cheap end (where several positions
+  // round to the same dollar) does not snap back. Any other change to the bounds, such as
+  // clearing the filters, discards them and the thumbs follow the filter.
+  const [draft, setDraft] = useState<number[] | null>(null)
+  const [dragging, setDragging] = useState(false)
+  const active =
+    draft !== null && (dragging || (lower(draft[0]!) === min && upper(draft[1]!) === max))
   const live = active
-    ? draft.values
+    ? draft
     : [priceToSlider(min ?? 0, ceiling), priceToSlider(max ?? ceiling, ceiling)]
   const [lo, hi] = live
   // With live thumbs the label follows them; otherwise it shows the exact bounds in force.
@@ -314,15 +314,10 @@ function PriceRange({ ceiling, min, max, onChange }: PriceRangeProps) {
         max={SLIDER_MAX}
         step={1}
         value={live}
-        onValueChange={(values) =>
-          setDraft({
-            values,
-            bases: [
-              [min, max],
-              [lower(values[0]!), upper(values[1]!)],
-            ],
-          })
-        }
+        onPointerDown={() => setDragging(true)}
+        onPointerUp={() => setDragging(false)}
+        onPointerCancel={() => setDragging(false)}
+        onValueChange={setDraft}
         onValueCommit={([a, b]) => onChange(lower(a!), upper(b!))}
         thumbProps={[
           {

@@ -49,6 +49,17 @@ describe('FilterBar', () => {
       expect.objectContaining({ priceMin: null, priceMax: 0 }),
     )
     expect(screen.getByTestId('price-range')).toHaveTextContent('Free')
+    expect(screen.getByRole('slider', { name: 'Maximum price' })).toHaveAttribute(
+      'aria-valuenow',
+      '0',
+    )
+    // Clearing the filters puts the thumbs back at the ends of the track.
+    await userEvent.click(screen.getByRole('button', { name: /Clear filters/ }))
+    expect(screen.getByRole('slider', { name: 'Maximum price' })).toHaveAttribute(
+      'aria-valuenow',
+      '100',
+    )
+    expect(screen.getByTestId('price-range')).toHaveTextContent('Free – $5')
   })
 
   it('raises the minimum price thumb', async () => {

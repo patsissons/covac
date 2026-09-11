@@ -135,6 +135,11 @@ test('the price slider limits sessions to a price range and syncs to the URL', a
   )
   await page.getByRole('button', { name: /Clear filters/ }).click()
   await expect(page).not.toHaveURL(/pmax=/)
+  await expect(page.getByRole('slider', { name: 'Maximum price' })).toHaveAttribute(
+    'aria-valuenow',
+    '100',
+  )
+  await expect(page.getByTestId('price-range')).toContainText(/Free – \$\d+/)
 })
 
 test('a price range from the URL is reflected in the slider label', async ({ page }) => {
