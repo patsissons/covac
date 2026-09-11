@@ -168,4 +168,24 @@ test.describe('phone width', () => {
     await page.getByRole('tab').nth(2).click()
     await expect(page.getByRole('tab').nth(2)).toHaveAttribute('aria-selected', 'true')
   })
+
+  test('the day tabs stay pinned while scrolling the page and still switch days', async ({
+    page,
+  }) => {
+    await gotoWeek(page)
+    const tabs = page.getByRole('tablist', { name: 'Day' })
+    const header = page.getByRole('table').getByRole('columnheader').nth(1)
+    const before = (await header.textContent())!
+    await page.evaluate(() => window.scrollTo({ top: 1200 }))
+    expect(await page.evaluate(() => window.scrollY)).toBeGreaterThan(0)
+    const [t, h] = await Promise.all([tabs.boundingBox(), header.boundingBox()])
+    expect(Math.abs(t!.y)).toBeLessThanOrEqual(1)
+    // The table header tucks under the tab strip rather than overlapping it.
+    expect(h!.y).toBeGreaterThanOrEqual(t!.y + t!.height - 1)
+    const name = (await page.getByRole('tab', { selected: false }).nth(2).textContent())!
+    const target = page.getByRole('tab', { name, exact: true })
+    await target.click()
+    await expect(target).toHaveAttribute('aria-selected', 'true')
+    await expect(header).not.toHaveText(before)
+  })
 })

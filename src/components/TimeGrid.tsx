@@ -1,16 +1,8 @@
-import { Button } from '@/components/ui/button'
-import {
-  DAY_LABELS,
-  dayOfWeek,
-  formatDay,
-  formatTime,
-  today,
-  weekDays,
-  type DateString,
-} from '@/data/dates'
+import { dayOfWeek, formatDay, formatTime, today, weekDays, type DateString } from '@/data/dates'
 import type { HourDayGrid } from '@/data/filters'
 import type { SnapshotIndex } from '@/data/index'
 import { cn } from '@/lib/utils'
+import { DAY_TABS_HEIGHT, DayTabs } from './DayTabs'
 import { ActivityChip } from './WeekGrid'
 
 interface TimeGridProps {
@@ -44,6 +36,8 @@ export function TimeGrid({
     : visibleDays
   const hours = hourRange(grid, columns)
   const currentDay = today()
+  // In compact mode the page scrolls and the day tabs stick above the table header.
+  const headerTop = compact ? DAY_TABS_HEIGHT : 'top-0'
 
   if (grid.size === 0) {
     return (
@@ -54,23 +48,8 @@ export function TimeGrid({
   }
 
   return (
-    <div className={cn('flex flex-col gap-2', !compact && 'min-h-0 flex-1')}>
-      {compact && (
-        <div className="flex items-center gap-1 overflow-x-auto" role="tablist" aria-label="Day">
-          {visibleDays.map((day) => (
-            <Button
-              key={day}
-              role="tab"
-              aria-selected={day === columns[0]}
-              variant={day === columns[0] ? 'default' : 'outline'}
-              size="sm"
-              onClick={() => onSelectDay(day)}
-            >
-              {DAY_LABELS[dayOfWeek(day)]} {Number(day.slice(8))}
-            </Button>
-          ))}
-        </div>
-      )}
+    <div className={cn('flex flex-col', !compact && 'min-h-0 flex-1 gap-2')}>
+      {compact && <DayTabs days={visibleDays} selected={columns[0]!} onSelect={onSelectDay} />}
       <div
         className={cn(
           'rounded-lg border',
@@ -83,7 +62,10 @@ export function TimeGrid({
             <tr>
               <th
                 scope="col"
-                className="bg-background sticky top-0 left-0 z-20 w-20 border-r border-b p-2 text-left font-medium"
+                className={cn(
+                  'bg-background sticky left-0 z-20 w-20 border-r border-b p-2 text-left font-medium',
+                  headerTop,
+                )}
               >
                 Time
               </th>
@@ -92,7 +74,8 @@ export function TimeGrid({
                   key={day}
                   scope="col"
                   className={cn(
-                    'bg-background sticky top-0 z-10 min-w-44 border-b p-2 text-left font-medium',
+                    'bg-background sticky z-10 min-w-44 border-b p-2 text-left font-medium',
+                    headerTop,
                     day === currentDay && 'text-primary underline decoration-2 underline-offset-4',
                   )}
                 >
