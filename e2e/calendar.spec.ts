@@ -98,11 +98,61 @@ test('the map shows a pin per centre and toggles a centre filter', async ({ page
   await expect(map).toBeVisible()
   const pins = map.locator('path.leaflet-interactive')
   await expect(pins.first()).toBeVisible()
-  expect(await pins.count()).toBe(40)
+  // One pin per location with a session this week, which is one row per centre in this view.
+  const rows = await page.getByRole('table').getByRole('rowheader').count()
+  expect(await pins.count()).toBe(rows)
   // Pins overlap at city zoom, so dispatch the click instead of relying on hit-testing.
   await pins.first().dispatchEvent('click')
   await expect(page).toHaveURL(/centers=\d+/)
   await expect(page.getByRole('table').getByRole('rowheader')).toHaveCount(1)
+})
+
+test('legend pips toggle a whole calendar group', async ({ page }) => {
+  await gotoWeek(page)
+  await page.getByRole('button', { name: 'Fitness', exact: true }).click()
+  await expect(page).toHaveURL(/cal=/)
+  await expect(page.getByRole('button', { name: 'Fitness', exact: true })).toHaveAttribute(
+    'aria-pressed',
+    'true',
+  )
+  await expect(page.getByRole('combobox', { name: 'Calendars' })).toContainText(/\d/)
+  await page.getByRole('button', { name: 'Fitness', exact: true }).click()
+  await expect(page).not.toHaveURL(/cal=/)
+})
+
+test('the day header stays visible while scrolling the grid', async ({ page }) => {
+  await gotoWeek(page)
+  const scroller = page.getByTestId('grid-scroll')
+  await scroller.evaluate((el) => el.scrollTo({ top: 1500 }))
+  expect(await scroller.evaluate((el) => el.scrollTop)).toBeGreaterThan(0)
+  const header = page.getByRole('table').getByRole('columnheader').nth(1)
+  const [h, s] = await Promise.all([header.boundingBox(), scroller.boundingBox()])
+  expect(h!.y).toBeGreaterThanOrEqual(s!.y - 1)
+  expect(h!.y).toBeLessThan(s!.y + h!.height + 1)
+})
+
+test('popovers open above the map', async ({ page }) => {
+  await gotoWeek(page)
+  await page.getByRole('button', { name: 'Show map' }).click()
+  await expect(page.getByTestId('center-map')).toBeVisible()
+  await page.getByRole('combobox', { name: 'Calendars' }).click()
+  const option = page.getByRole('option').first()
+  await expect(option).toBeVisible()
+  // The element under the option's centre must be the option itself, not a map tile.
+  const onTop = await option.evaluate((el) => {
+    const r = el.getBoundingClientRect()
+    const hit = document.elementFromPoint(r.x + r.width / 2, r.y + r.height / 2)
+    return el === hit || el.contains(hit)
+  })
+  expect(onTop).toBe(true)
+})
+
+test('the footer links to the GitHub repo', async ({ page }) => {
+  await gotoWeek(page)
+  await expect(page.getByRole('link', { name: 'Source on GitHub' })).toHaveAttribute(
+    'href',
+    'https://github.com/patsissons/covac',
+  )
 })
 
 test.describe('phone width', () => {

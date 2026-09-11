@@ -127,3 +127,31 @@ export function visibleCenterIds(index: SnapshotIndex, occurrences: Occurrence[]
     (index.centerById.get(a)?.name ?? '').localeCompare(index.centerById.get(b)?.name ?? ''),
   )
 }
+
+/**
+ * Toggle every calendar in a group: if all of them are already selected they are removed,
+ * otherwise they are all added. Returns the new calendar id selection.
+ */
+export function toggleCalendarGroup(
+  index: SnapshotIndex,
+  calendarIds: number[],
+  group: string,
+): number[] {
+  const groupIds = index.snapshot.calendars.filter((c) => c.group === group).map((c) => c.id)
+  const selected = new Set(calendarIds)
+  const allSelected = groupIds.every((id) => selected.has(id))
+  if (allSelected) return calendarIds.filter((id) => !groupIds.includes(id))
+  return [...calendarIds, ...groupIds.filter((id) => !selected.has(id))]
+}
+
+/** 'all' | 'some' | 'none' of a group's calendars are in the selection. */
+export function groupSelection(
+  index: SnapshotIndex,
+  calendarIds: number[],
+  group: string,
+): 'all' | 'some' | 'none' {
+  const groupIds = index.snapshot.calendars.filter((c) => c.group === group).map((c) => c.id)
+  const selected = new Set(calendarIds)
+  const count = groupIds.filter((id) => selected.has(id)).length
+  return count === 0 ? 'none' : count === groupIds.length ? 'all' : 'some'
+}

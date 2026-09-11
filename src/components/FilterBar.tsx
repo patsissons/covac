@@ -1,4 +1,4 @@
-import { Check, ChevronsUpDown, Search, X } from 'lucide-react'
+import { Check, ChevronsUpDown, Minus, Search, X } from 'lucide-react'
 import { useState } from 'react'
 import { Badge } from '@/components/ui/badge'
 import { Button } from '@/components/ui/button'
@@ -21,7 +21,13 @@ import {
 } from '@/components/ui/select'
 import { ToggleGroup, ToggleGroupItem } from '@/components/ui/toggle-group'
 import { DAY_LABELS, formatTime } from '@/data/dates'
-import { emptyFilters, hasActiveFilters, type Filters } from '@/data/filters'
+import {
+  emptyFilters,
+  groupSelection,
+  hasActiveFilters,
+  toggleCalendarGroup,
+  type Filters,
+} from '@/data/filters'
 import type { SnapshotIndex } from '@/data/index'
 import { groupStyle } from '@/lib/groupColor'
 import { cn } from '@/lib/utils'
@@ -57,6 +63,10 @@ export function FilterBar({ index, filters, onChange, resultCount }: FilterBarPr
           placeholder="Search calendars…"
           selected={filters.calendarIds}
           onChange={(calendarIds) => set({ calendarIds })}
+          onToggleGroup={(group) =>
+            set({ calendarIds: toggleCalendarGroup(index, filters.calendarIds, group) })
+          }
+          groupSelection={(group) => groupSelection(index, filters.calendarIds, group)}
           groups={index.groups.map((group) => ({
             label: group,
             items: index.snapshot.calendars
@@ -141,9 +151,20 @@ interface MultiSelectProps {
   selected: number[]
   onChange: (ids: number[]) => void
   groups: { label: string; items: { id: number; label: string; dot?: string }[] }[]
+  /** When given, each group gets an "All …" row that toggles the whole group. */
+  onToggleGroup?: (group: string) => void
+  groupSelection?: (group: string) => 'all' | 'some' | 'none'
 }
 
-function MultiSelect({ label, placeholder, selected, onChange, groups }: MultiSelectProps) {
+function MultiSelect({
+  label,
+  placeholder,
+  selected,
+  onChange,
+  groups,
+  onToggleGroup,
+  groupSelection,
+}: MultiSelectProps) {
   const [open, setOpen] = useState(false)
   const selectedSet = new Set(selected)
   const toggle = (id: number) =>
@@ -165,6 +186,16 @@ function MultiSelect({ label, placeholder, selected, onChange, groups }: MultiSe
             <CommandEmpty>No matches.</CommandEmpty>
             {groups.map((group) => (
               <CommandGroup key={group.label} heading={group.label}>
+                {onToggleGroup && group.items.length > 1 && (
+                  <CommandItem
+                    value={`All ${group.label} ${group.label}`}
+                    onSelect={() => onToggleGroup(group.label)}
+                    className="font-medium"
+                  >
+                    <GroupCheck state={groupSelection?.(group.label) ?? 'none'} />
+                    All {group.label}
+                  </CommandItem>
+                )}
                 {group.items.map((item) => (
                   <CommandItem
                     key={item.id}
@@ -196,6 +227,11 @@ function MultiSelect({ label, placeholder, selected, onChange, groups }: MultiSe
       </PopoverContent>
     </Popover>
   )
+}
+
+function GroupCheck({ state }: { state: 'all' | 'some' | 'none' }) {
+  if (state === 'some') return <Minus className="size-4" aria-label="partially selected" />
+  return <Check className={cn('size-4', state === 'all' ? 'opacity-100' : 'opacity-0')} />
 }
 
 interface TimeSelectProps {

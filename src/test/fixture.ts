@@ -7,6 +7,7 @@ export const snapshot: Snapshot = {
   period: { start: '2026-09-06', end: '2026-11-01' },
   calendars: [
     { id: 55, name: 'Public Swimming', group: 'Drop-in' },
+    { id: 3, name: 'Public Skating & Ice Hockey', group: 'Drop-in' },
     { id: 10, name: 'Sports: Basketball', group: 'Sports' },
   ],
   centers: [

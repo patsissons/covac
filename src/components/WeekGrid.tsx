@@ -60,7 +60,7 @@ export function WeekGrid({
   }
 
   return (
-    <div className="flex flex-col gap-2">
+    <div className={cn('flex flex-col gap-2', !compact && 'min-h-0 flex-1')}>
       {compact && (
         <div className="flex items-center gap-1 overflow-x-auto" role="tablist" aria-label="Day">
           {visibleDays.map((day) => (
@@ -77,7 +77,13 @@ export function WeekGrid({
           ))}
         </div>
       )}
-      <div className="overflow-x-auto rounded-lg border">
+      <div
+        className={cn(
+          'rounded-lg border',
+          compact ? 'overflow-visible' : 'min-h-0 flex-1 overflow-auto',
+        )}
+        data-testid="grid-scroll"
+      >
         <table className="w-full border-collapse text-sm">
           <thead>
             <tr>

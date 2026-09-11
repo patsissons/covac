@@ -14,11 +14,17 @@ const VANCOUVER: [number, number] = [49.2527, -123.1207]
 
 export function CenterMap({ index, counts, selectedCenterIds, onToggleCenter }: CenterMapProps) {
   const selected = new Set(selectedCenterIds)
-  const centers = index.snapshot.centers.filter((c) => c.lat != null && c.lng != null)
+  // Only centres with at least one matching session this week; a zero-count dot is noise.
+  const centers = index.snapshot.centers.filter(
+    (c) => c.lat != null && c.lng != null && (counts.get(c.id) ?? 0) > 0,
+  )
   const max = Math.max(1, ...counts.values())
 
   return (
-    <div className="h-80 overflow-hidden rounded-lg border" data-testid="center-map">
+    <div
+      className="isolate z-0 h-80 shrink-0 overflow-hidden rounded-lg border"
+      data-testid="center-map"
+    >
       <MapContainer center={VANCOUVER} zoom={12} scrollWheelZoom={false} className="h-full w-full">
         <TileLayer
           attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
@@ -36,7 +42,7 @@ export function CenterMap({ index, counts, selectedCenterIds, onToggleCenter }: 
               pathOptions={{
                 color: isSelected ? '#0f172a' : '#0ea5e9',
                 weight: isSelected ? 3 : 1.5,
-                fillColor: count > 0 ? '#0ea5e9' : '#94a3b8',
+                fillColor: '#0ea5e9',
                 fillOpacity: dimmed ? 0.2 : 0.6,
               }}
               eventHandlers={{ click: () => onToggleCenter(center.id) }}

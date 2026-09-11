@@ -5,6 +5,8 @@ import {
   emptyFilters,
   groupByCenterAndDay,
   groupByHourAndDay,
+  groupSelection,
+  toggleCalendarGroup,
   hasActiveFilters,
   visibleCenterIds,
 } from './filters'
@@ -128,5 +130,15 @@ describe('visibleCenterIds', () => {
   it('lists centres with sessions sorted by name', () => {
     expect(visibleCenterIds(index, applyFilters(index, emptyFilters(week)))).toEqual([37, 44])
     expect(visibleCenterIds(index, [])).toEqual([])
+  })
+})
+
+describe('toggleCalendarGroup', () => {
+  it('adds the whole group, then removes it, leaving other selections alone', () => {
+    const withDropIn = toggleCalendarGroup(index, [10], 'Drop-in')
+    expect(withDropIn).toEqual([10, 55])
+    expect(groupSelection(index, withDropIn, 'Drop-in')).toBe('all')
+    expect(toggleCalendarGroup(index, withDropIn, 'Drop-in')).toEqual([10])
+    expect(groupSelection(index, [], 'Sports')).toBe('none')
   })
 })

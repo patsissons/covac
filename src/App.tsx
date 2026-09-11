@@ -2,6 +2,7 @@ import { Clock, Map as MapIcon, MapPin } from 'lucide-react'
 import { lazy, Suspense, useMemo, useState } from 'react'
 import { ActivityPanel } from '@/components/ActivityPanel'
 import { FilterBar } from '@/components/FilterBar'
+import { Legend } from '@/components/Legend'
 import { TimeGrid } from '@/components/TimeGrid'
 import { WeekGrid } from '@/components/WeekGrid'
 import { WeekNav } from '@/components/WeekNav'
@@ -12,6 +13,7 @@ import {
   applyFilters,
   groupByCenterAndDay,
   groupByHourAndDay,
+  toggleCalendarGroup,
   visibleCenterIds,
   type ViewMode,
 } from '@/data/filters'
@@ -19,8 +21,6 @@ import type { SnapshotIndex } from '@/data/index'
 import { useSnapshot } from '@/data/useSnapshot'
 import { useUrlFilters } from '@/data/useUrlFilters'
 import { useMediaQuery } from '@/hooks/useMediaQuery'
-import { groupStyle } from '@/lib/groupColor'
-import { cn } from '@/lib/utils'
 
 const CenterMap = lazy(() =>
   import('@/components/CenterMap').then((m) => ({ default: m.CenterMap })),
@@ -30,7 +30,7 @@ export function App() {
   const state = useSnapshot()
 
   return (
-    <div className="mx-auto flex max-w-screen-2xl flex-col gap-4 px-4 py-6">
+    <div className="mx-auto flex max-w-screen-2xl flex-col gap-4 px-4 py-6 min-[700px]:h-dvh">
       <header className="flex flex-wrap items-baseline justify-between gap-2">
         <div>
           <h1 className="text-2xl font-semibold">covac</h1>
@@ -141,7 +141,16 @@ function Calendar({ index }: { index: SnapshotIndex }) {
           />
         </Suspense>
       )}
-      <Legend groups={index.groups} />
+      <Legend
+        index={index}
+        calendarIds={filters.calendarIds}
+        onToggleGroup={(group) =>
+          setFilters({
+            ...filters,
+            calendarIds: toggleCalendarGroup(index, filters.calendarIds, group),
+          })
+        }
+      />
       {filters.view === 'time' ? (
         <>
           <VisibleLocations
@@ -177,17 +186,27 @@ function Calendar({ index }: { index: SnapshotIndex }) {
         activityId={selectedActivity}
         onClose={() => setSelectedActivity(null)}
       />
-      <footer className="text-muted-foreground mt-4 text-xs">
-        Unofficial. Activity data belongs to the City of Vancouver and is mirrored from{' '}
+      <footer className="text-muted-foreground flex flex-wrap justify-between gap-x-4 gap-y-1 text-xs">
+        <span>
+          Unofficial. Activity data belongs to the City of Vancouver and is mirrored from{' '}
+          <a
+            className="underline"
+            href="https://anc.ca.apm.activecommunities.com/vancouver/calendars"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            ActiveNet
+          </a>
+          . Always confirm details there before attending.
+        </span>
         <a
           className="underline"
-          href="https://anc.ca.apm.activecommunities.com/vancouver/calendars"
+          href="https://github.com/patsissons/covac"
           target="_blank"
           rel="noopener noreferrer"
         >
-          ActiveNet
+          Source on GitHub
         </a>
-        . Always confirm details there before attending.
       </footer>
     </>
   )
@@ -221,19 +240,6 @@ function VisibleLocations({ index, centerIds, onSelect }: VisibleLocationsProps)
         ))}
       </ul>
     </details>
-  )
-}
-
-function Legend({ groups }: { groups: string[] }) {
-  return (
-    <ul className="text-muted-foreground flex flex-wrap gap-3 text-xs" aria-label="Calendar groups">
-      {groups.map((group) => (
-        <li key={group} className="flex items-center gap-1.5">
-          <span className={cn('size-2.5 rounded-full', groupStyle(group).dot)} />
-          {group}
-        </li>
-      ))}
-    </ul>
   )
 }
 
