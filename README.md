@@ -124,7 +124,7 @@ Vite, React, TypeScript, Tailwind CSS v4, shadcn/ui, Vitest, Playwright, ESLint,
 
 ## Deployment
 
-The site deploys to Cloudflare Pages from the `main` branch. Build command `pnpm build`, output
+The site lives at <https://covac.fyi> and deploys to Cloudflare Pages from the `main` branch. Build command `pnpm build`, output
 directory `dist`. The build generates `dist/data/snapshot.json` from the committed split files.
 No server-side code is needed.
 

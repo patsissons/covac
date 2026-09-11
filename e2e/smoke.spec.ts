@@ -14,11 +14,8 @@ test('home page carries Open Graph metadata', async ({ page }) => {
     'covac · City of Vancouver Active Communities',
   )
   await expect(meta('property="og:type"')).toHaveAttribute('content', 'website')
-  await expect(meta('property="og:url"')).toHaveAttribute('content', 'https://covac.pages.dev/')
-  await expect(meta('property="og:image"')).toHaveAttribute(
-    'content',
-    'https://covac.pages.dev/og.png',
-  )
+  await expect(meta('property="og:url"')).toHaveAttribute('content', 'https://covac.fyi/')
+  await expect(meta('property="og:image"')).toHaveAttribute('content', 'https://covac.fyi/og.png')
   await expect(meta('property="og:image:width"')).toHaveAttribute('content', '1200')
   await expect(meta('property="og:image:height"')).toHaveAttribute('content', '630')
   await expect(meta('name="twitter:card"')).toHaveAttribute('content', 'summary_large_image')
