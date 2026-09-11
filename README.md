@@ -82,6 +82,7 @@ pnpm dev
 | `pnpm dev`                 | Start the Vite dev server                                      |
 | `pnpm build`               | Type check and build the production bundle into `dist/`        |
 | `pnpm preview`             | Serve the production build locally                             |
+| `pnpm og`                  | Re-render `public/og.png` (the Open Graph preview image)       |
 | `pnpm test`                | Run unit tests with Vitest                                     |
 | `pnpm test:watch`          | Run unit tests in watch mode                                   |
 | `pnpm test:e2e`            | Run Playwright end-to-end tests against a built preview server |
@@ -108,6 +109,14 @@ The scraper also writes a local `snapshot.json` bundle next to the split files s
 server picks up fresh data. `pnpm exec tsx scripts/snapshot/changed.ts` exits 0 when the split
 files differ from the committed ones in anything other than `generatedAt`; the scrape workflow
 uses it to skip no-op commits.
+
+### Open Graph image
+
+`public/og.png` is the 1200×630 preview that chat apps and social sites show for shared links;
+`index.html` points at it with absolute `og:image` and `twitter:image` URLs. It is rendered from
+`scripts/og/template.html` (plain HTML and CSS using the app's Geist font and calendar-group
+colours) by `pnpm og`, which screenshots the template with Playwright's Chromium. Edit the
+template, re-run the script, and commit the PNG.
 
 ## Stack
 
