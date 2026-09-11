@@ -46,6 +46,18 @@ const snapshot: Snapshot = {
       url: '',
       description: '',
       instructors: [],
+      priceText: 'from $5.00',
+      free: false,
+    },
+    {
+      id: 3,
+      title: 'Mystery Class',
+      calendarId: 10,
+      centerId: 44,
+      facilityIds: [],
+      url: '',
+      description: '',
+      instructors: [],
       priceText: '',
       free: false,
     },
@@ -65,6 +77,14 @@ describe('buildIndex', () => {
     expect(index.byDay.get('2026-09-07')).toHaveLength(1)
     expect(index.byDay.get('2026-09-15')).toHaveLength(1)
     expect(index.groups).toEqual(['Drop-in', 'Sports'])
+  })
+
+  it('records each known price and rounds the slider ceiling up to $50', () => {
+    expect([...index.priceById]).toEqual([
+      [1, 0],
+      [2, 5],
+    ])
+    expect(index.priceCeiling).toBe(50)
   })
 })
 
@@ -97,6 +117,24 @@ describe('applyFilters', () => {
 
   it('filters by day of week', () => {
     expect(applyFilters(index, { ...emptyFilters(week), days: [6, 0] })).toHaveLength(1)
+  })
+
+  it('filters by price and drops unpriced activities once a bound is set', () => {
+    // Activity 3 has no known price and one Sunday session this week.
+    const priced = buildIndex({
+      ...snapshot,
+      occurrences: [
+        ...snapshot.occurrences,
+        { a: 3, s: '2026-09-13T10:00', e: '2026-09-13T11:00' },
+      ],
+    })
+    const base = emptyFilters(week)
+    expect(applyFilters(priced, base)).toHaveLength(4)
+    expect(applyFilters(priced, { ...base, priceMax: 0 })).toHaveLength(2)
+    expect(applyFilters(priced, { ...base, priceMin: 1 })).toHaveLength(1)
+    expect(applyFilters(priced, { ...base, priceMin: 6 })).toHaveLength(0)
+    expect(applyFilters(priced, { ...base, priceMin: 0, priceMax: 5 })).toHaveLength(3)
+    expect(hasActiveFilters({ ...base, priceMax: 0 })).toBe(true)
   })
 
   it('searches title and instructor case-insensitively', () => {

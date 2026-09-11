@@ -3,6 +3,12 @@ import { emptyFilters, type Filters } from './filters'
 
 const TIME = /^\d{2}:\d{2}$/
 
+const price = (value: string | null): number | null => {
+  if (value === null || value.trim() === '') return null
+  const n = Number(value)
+  return Number.isFinite(n) && n >= 0 ? n : null
+}
+
 const numbers = (value: string | null): number[] =>
   (value ?? '')
     .split(',')
@@ -24,6 +30,8 @@ export function filtersFromSearch(search: string, defaultWeek: DateString): Filt
   filters.to = TIME.test(to) ? to : ''
   filters.days = numbers(params.get('days')).filter((d) => d <= 6)
   filters.q = params.get('q') ?? ''
+  filters.priceMin = price(params.get('pmin'))
+  filters.priceMax = price(params.get('pmax'))
   return filters
 }
 
@@ -38,6 +46,8 @@ export function filtersToSearch(filters: Filters, defaultWeek: DateString): stri
   if (filters.to) params.set('to', filters.to)
   if (filters.days.length) params.set('days', filters.days.join(','))
   if (filters.q.trim()) params.set('q', filters.q.trim())
+  if (filters.priceMin !== null) params.set('pmin', String(filters.priceMin))
+  if (filters.priceMax !== null) params.set('pmax', String(filters.priceMax))
   const search = params.toString()
   return search ? `?${search}` : ''
 }

@@ -113,6 +113,39 @@ test('time and day filters narrow the results and sync to the URL', async ({ pag
   await expect(page).not.toHaveURL(/days=/)
 })
 
+test('the price slider limits sessions to a price range and syncs to the URL', async ({ page }) => {
+  await gotoWeek(page)
+  const count = page.getByText(/sessions this week/)
+  await expect(count).toBeVisible()
+  const all = Number((await count.textContent())!.replace(/[^\d]/g, ''))
+  await expect(page.getByTestId('price-range')).toContainText(/Free – \$\d+\+/)
+  // Ten PageDowns walk the maximum thumb to the bottom of the track: free sessions only.
+  await page.getByRole('slider', { name: 'Maximum price' }).focus()
+  for (let i = 0; i < 10; i++) await page.keyboard.press('PageDown')
+  await expect(page).toHaveURL(/pmax=0/)
+  await expect(page.getByTestId('price-range')).toContainText('Free – Free')
+  const free = Number((await count.textContent())!.replace(/[^\d]/g, ''))
+  expect(free).toBeGreaterThan(0)
+  expect(free).toBeLessThan(all)
+  const chips = page.getByRole('table').getByRole('button')
+  await expect(chips.first()).toBeVisible()
+  // No chip carries a non-zero dollar amount ("from $0.00" has a free tier and counts as free).
+  expect((await chips.allTextContents()).some((text) => /\$(?!0(\.00)?\b)\d/.test(text))).toBe(
+    false,
+  )
+  await page.getByRole('button', { name: /Clear filters/ }).click()
+  await expect(page).not.toHaveURL(/pmax=/)
+})
+
+test('a price range from the URL is reflected in the slider label', async ({ page }) => {
+  await gotoWeek(page, '&pmin=5&pmax=20')
+  await expect(page.getByTestId('price-range')).toContainText('$5 – $20')
+  await expect(page.getByRole('slider', { name: 'Minimum price' })).toHaveAttribute(
+    'aria-valuetext',
+    '$5',
+  )
+})
+
 test('clicking a session opens the detail panel with an ActiveNet link', async ({ page }) => {
   await gotoWeek(page)
   const chip = page.getByRole('table').getByRole('button').first()

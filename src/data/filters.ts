@@ -21,6 +21,10 @@ export interface Filters {
   days: number[]
   /** Case-insensitive search over title and instructors. */
   q: string
+  /** Lowest price in dollars to include, or null for no minimum. */
+  priceMin: number | null
+  /** Highest price in dollars to include, or null for no maximum. */
+  priceMax: number | null
 }
 
 export function emptyFilters(weekStart: DateString): Filters {
@@ -33,6 +37,8 @@ export function emptyFilters(weekStart: DateString): Filters {
     to: '',
     days: [],
     q: '',
+    priceMin: null,
+    priceMax: null,
   }
 }
 
@@ -43,7 +49,9 @@ export function hasActiveFilters(filters: Filters): boolean {
     filters.from !== '' ||
     filters.to !== '' ||
     filters.days.length > 0 ||
-    filters.q.trim() !== ''
+    filters.q.trim() !== '' ||
+    filters.priceMin !== null ||
+    filters.priceMax !== null
   )
 }
 
@@ -55,6 +63,9 @@ export function applyFilters(index: SnapshotIndex, filters: Filters): Occurrence
   const from = filters.from ? toMinutes(filters.from) : -1
   const to = filters.to ? toMinutes(filters.to) : Infinity
   const q = filters.q.trim().toLowerCase()
+  const { priceMin, priceMax } = filters
+  // With a price bound set, activities whose price is unknown are left out.
+  const priced = priceMin !== null || priceMax !== null
 
   const result: Occurrence[] = []
   for (const day of weekDays(filters.weekStart)) {
@@ -67,6 +78,12 @@ export function applyFilters(index: SnapshotIndex, filters: Filters): Occurrence
       if (calendars.size && !calendars.has(activity.calendarId)) continue
       if (centers.size && !centers.has(activity.centerId)) continue
       if (q && !matchesQuery(activity.title, activity.instructors, q)) continue
+      if (priced) {
+        const price = index.priceById.get(activity.id)
+        if (price === undefined) continue
+        if (priceMin !== null && price < priceMin) continue
+        if (priceMax !== null && price > priceMax) continue
+      }
       result.push(occurrence)
     }
   }

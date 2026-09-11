@@ -40,8 +40,10 @@ ActiveNet REST API ──(pnpm scrape, nightly via GitHub Actions)──▶ publ
    view stacks every location into hourly rows so a glance down the Monday column shows everything
    between, say, 4 pm and 8 pm; **By location** gives one row per centre. Filters, the view and
    the selected week live in the query string
-   (`?week=2026-09-14&view=location&cal=55&centers=37&from=12:00&days=6,0&q=swim`) so any view can
-   be shared. Clicking the date range opens a day picker that jumps to that day's week.
+   (`?week=2026-09-14&view=location&cal=55&centers=37&from=12:00&days=6,0&q=swim&pmin=5&pmax=20`)
+   so any view can be shared. The price slider filters on each activity's lowest price (free
+   counts as $0); activities whose price the snapshot does not know are hidden while a price
+   bound is set. Clicking the date range opens a day picker that jumps to that day's week.
 
 ### The ActiveNet API
 

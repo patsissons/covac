@@ -15,22 +15,36 @@ describe('url filters', () => {
       to: '18:00',
       days: [6, 0],
       q: 'swim',
+      priceMin: 5,
+      priceMax: 20.5,
     }
     const search = filtersToSearch(filters, defaultWeek)
     expect(search).toBe(
-      '?week=2026-09-14&view=location&cal=55%2C3&centers=37&from=12%3A00&to=18%3A00&days=6%2C0&q=swim',
+      '?week=2026-09-14&view=location&cal=55%2C3&centers=37&from=12%3A00&to=18%3A00&days=6%2C0&q=swim&pmin=5&pmax=20.5',
     )
     expect(filtersFromSearch(search, defaultWeek)).toEqual(filters)
   })
 
   it('omits defaults and ignores invalid values', () => {
     expect(filtersToSearch(emptyFilters(defaultWeek), defaultWeek)).toBe('')
-    const parsed = filtersFromSearch('?week=nope&view=bogus&from=25&days=9,3&cal=x,55', defaultWeek)
+    const parsed = filtersFromSearch(
+      '?week=nope&view=bogus&from=25&days=9,3&cal=x,55&pmin=-1&pmax=lots',
+      defaultWeek,
+    )
     expect(parsed.weekStart).toBe(defaultWeek)
     expect(parsed.view).toBe('time')
     expect(parsed.from).toBe('')
     expect(parsed.days).toEqual([3])
     expect(parsed.calendarIds).toEqual([55])
+    expect(parsed.priceMin).toBeNull()
+    expect(parsed.priceMax).toBeNull()
+  })
+
+  it('keeps a zero price bound, which means free only', () => {
+    expect(filtersFromSearch('?pmax=0', defaultWeek).priceMax).toBe(0)
+    expect(filtersToSearch({ ...emptyFilters(defaultWeek), priceMax: 0 }, defaultWeek)).toBe(
+      '?pmax=0',
+    )
   })
 
   it('treats missing and empty params as no filter', () => {

@@ -1,7 +1,8 @@
 import { render, screen } from '@testing-library/react'
 import userEvent from '@testing-library/user-event'
+import { useState } from 'react'
 import { describe, expect, it, vi } from 'vitest'
-import { emptyFilters } from '@/data/filters'
+import { emptyFilters, type Filters } from '@/data/filters'
 import { index } from '@/test/fixture'
 import { FilterBar } from './FilterBar'
 
@@ -25,6 +26,54 @@ describe('FilterBar', () => {
     expect(onChange).toHaveBeenLastCalledWith(expect.objectContaining({ days: [6] }))
     await userEvent.type(screen.getByRole('searchbox', { name: 'Search activities' }), 's')
     expect(onChange).toHaveBeenLastCalledWith(expect.objectContaining({ q: 's' }))
+  })
+
+  // Holds the filters in state like the app does, so each slider commit reaches the slider.
+  function Harness({ onChange }: { onChange: (filters: Filters) => void }) {
+    const [filters, setFilters] = useState(emptyFilters(week))
+    const change = (next: Filters) => {
+      setFilters(next)
+      onChange(next)
+    }
+    return <FilterBar index={index} filters={filters} onChange={change} resultCount={3} />
+  }
+
+  it('walks the maximum price thumb down to free only', async () => {
+    const onChange = vi.fn()
+    render(<Harness onChange={onChange} />)
+    expect(screen.getByTestId('price-range')).toHaveTextContent('Free – $50+')
+    // Page keys move the focused thumb a tenth of the track.
+    screen.getByRole('slider', { name: 'Maximum price' }).focus()
+    await userEvent.keyboard('{PageDown>10/}')
+    expect(onChange).toHaveBeenLastCalledWith(
+      expect.objectContaining({ priceMin: null, priceMax: 0 }),
+    )
+    expect(screen.getByTestId('price-range')).toHaveTextContent('Free')
+  })
+
+  it('raises the minimum price thumb', async () => {
+    const onChange = vi.fn()
+    render(<Harness onChange={onChange} />)
+    // The slider is quadratic: two tenths up a $50 track is $2.
+    screen.getByRole('slider', { name: 'Minimum price' }).focus()
+    await userEvent.keyboard('{PageUp>2/}')
+    expect(onChange).toHaveBeenLastCalledWith(
+      expect.objectContaining({ priceMin: 2, priceMax: null }),
+    )
+    expect(screen.getByTestId('price-range')).toHaveTextContent('$2 – $50+')
+  })
+
+  it('describes a committed price range', () => {
+    render(
+      <FilterBar
+        index={index}
+        filters={{ ...emptyFilters(week), priceMin: 5, priceMax: 20 }}
+        onChange={() => {}}
+        resultCount={3}
+      />,
+    )
+    expect(screen.getByTestId('price-range')).toHaveTextContent('$5 – $20')
+    expect(screen.getByRole('button', { name: /Clear filters/ })).toBeInTheDocument()
   })
 
   it('selects a calendar from the grouped list', async () => {

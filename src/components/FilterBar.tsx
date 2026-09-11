@@ -19,6 +19,7 @@ import {
   SelectTrigger,
   SelectValue,
 } from '@/components/ui/select'
+import { Slider } from '@/components/ui/slider'
 import { ToggleGroup, ToggleGroupItem } from '@/components/ui/toggle-group'
 import { DAY_LABELS, formatTime } from '@/data/dates'
 import {
@@ -29,6 +30,13 @@ import {
   type Filters,
 } from '@/data/filters'
 import type { SnapshotIndex } from '@/data/index'
+import {
+  formatPrice,
+  formatPriceRange,
+  priceToSlider,
+  SLIDER_MAX,
+  sliderToPrice,
+} from '@/data/prices'
 import { groupStyle } from '@/lib/groupColor'
 import { cn } from '@/lib/utils'
 
@@ -115,6 +123,12 @@ export function FilterBar({ index, filters, onChange, resultCount }: FilterBarPr
             </ToggleGroupItem>
           ))}
         </ToggleGroup>
+        <PriceRange
+          ceiling={index.priceCeiling}
+          min={filters.priceMin}
+          max={filters.priceMax}
+          onChange={(priceMin, priceMax) => set({ priceMin, priceMax })}
+        />
         <div className="relative min-w-40 flex-1">
           <Search className="text-muted-foreground pointer-events-none absolute top-1/2 left-2.5 size-4 -translate-y-1/2" />
           <Input
@@ -257,5 +271,59 @@ function TimeSelect({ label, value, onChange, min, max }: TimeSelectProps) {
         ))}
       </SelectContent>
     </Select>
+  )
+}
+
+interface PriceRangeProps {
+  ceiling: number
+  min: number | null
+  max: number | null
+  onChange: (min: number | null, max: number | null) => void
+}
+
+/**
+ * Two-thumb price slider. The filter only updates when a drag ends, since every update rewrites
+ * the URL and Safari rate-limits history changes. A thumb at either end means no bound.
+ */
+function PriceRange({ ceiling, min, max, onChange }: PriceRangeProps) {
+  const committed = [priceToSlider(min ?? 0, ceiling), priceToSlider(max ?? ceiling, ceiling)]
+  // The draft remembers which committed positions it started from: Radix reports a keyboard
+  // change after its commit, so a draft that outlives its base is stale and must be ignored.
+  const base = committed.join(',')
+  const [draft, setDraft] = useState<{ base: string; values: number[] } | null>(null)
+  const dragging = draft?.base === base
+  const live = dragging ? draft.values : committed
+  const [lo, hi] = live
+  const lower = (position: number) => (position <= 0 ? null : sliderToPrice(position, ceiling))
+  const upper = (position: number) =>
+    position >= SLIDER_MAX ? null : sliderToPrice(position, ceiling)
+  // Mid-drag the label tracks the thumbs; at rest it shows the exact committed bounds.
+  const label = dragging
+    ? formatPriceRange(lower(lo!), upper(hi!), ceiling)
+    : formatPriceRange(min, max, ceiling)
+
+  return (
+    <div className="flex items-center gap-2" data-testid="price-range">
+      <Slider
+        className="w-36"
+        min={0}
+        max={SLIDER_MAX}
+        step={1}
+        value={live}
+        onValueChange={(values) => setDraft({ base, values })}
+        onValueCommit={([a, b]) => {
+          setDraft(null)
+          onChange(lower(a!), upper(b!))
+        }}
+        thumbProps={[
+          {
+            'aria-label': 'Minimum price',
+            'aria-valuetext': formatPrice(lower(lo!) ?? 0, ceiling),
+          },
+          { 'aria-label': 'Maximum price', 'aria-valuetext': formatPrice(upper(hi!), ceiling) },
+        ]}
+      />
+      <span className="text-muted-foreground text-sm whitespace-nowrap tabular-nums">{label}</span>
+    </div>
   )
 }
