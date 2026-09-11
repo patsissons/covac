@@ -57,10 +57,25 @@ export interface RawInstructor {
   show_instructor_online: boolean
 }
 
+export interface RawPriceDetail {
+  /** `$182.00`, or a discount such as `50.00%`. */
+  price: string
+  description: string
+}
+
+export interface RawPriceList {
+  list_name: string
+  activity_name: string
+  details: RawPriceDetail[]
+}
+
 export interface RawPrice {
   search_from_price_desc: string
   estimate_price: string
   free: boolean
+  show_price_info_online?: boolean
+  /** Full fee table; only present on the activity details endpoint. */
+  prices?: RawPriceList[]
 }
 
 export interface RawEvent {

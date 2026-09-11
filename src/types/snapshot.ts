@@ -51,8 +51,11 @@ export interface Activity {
   /** Sanitized description HTML. */
   description: string
   instructors: string[]
+  /** Short price label for cards: `Free`, `$7.93`, or `from $112.00`. */
   priceText: string
   free: boolean
+  /** Full fee table from the details endpoint, when published. */
+  prices?: PriceLine[]
   // Optional fields from the per-activity details endpoint (enrichment may be partial).
   ageMin?: number
   ageMax?: number
@@ -60,6 +63,12 @@ export interface Activity {
   openings?: string
   firstDate?: string
   lastDate?: string
+}
+
+export interface PriceLine {
+  /** `$182.00`, or a discount such as `50.00%`. */
+  price: string
+  description: string
 }
 
 /** One session of an activity. Short keys keep the 17k-row array small. */

@@ -27,6 +27,13 @@ describe('ActivityPanel', () => {
     )
   })
 
+  it('lists the full fee table when available', () => {
+    render(<ActivityPanel index={index} activityId={2} onClose={() => {}} />)
+    const fees = screen.getByRole('list', { name: 'Fees' })
+    expect(fees).toHaveTextContent('Drop-in$5.00')
+    expect(fees).toHaveTextContent('10 visit pass$40.00')
+  })
+
   it('calls onClose when dismissed', async () => {
     const onClose = vi.fn()
     render(<ActivityPanel index={index} activityId={2} onClose={onClose} />)

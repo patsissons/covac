@@ -77,7 +77,7 @@ test('time and day filters narrow the results and sync to the URL', async ({ pag
 test('clicking a session opens the detail panel with an ActiveNet link', async ({ page }) => {
   await gotoWeek(page)
   const chip = page.getByRole('table').getByRole('button').first()
-  const title = (await chip.textContent())!.replace(/^[\d:–\sapm]+/, '')
+  const title = (await chip.locator('[data-slot="title"]').textContent())!
   await chip.click()
   const dialog = page.getByRole('dialog')
   await expect(dialog).toBeVisible()

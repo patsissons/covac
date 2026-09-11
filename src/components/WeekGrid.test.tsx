@@ -28,6 +28,25 @@ describe('WeekGrid', () => {
     expect(screen.getAllByRole('button', { name: /Free Swim/ })).toHaveLength(2)
   })
 
+  it('shows the price on each chip', () => {
+    render(
+      <WeekGrid
+        index={index}
+        weekStart={week}
+        grid={grid}
+        days={[]}
+        onSelect={() => {}}
+        compact={false}
+        selectedDay={week}
+        onSelectDay={() => {}}
+      />,
+    )
+    expect(screen.getAllByRole('button', { name: /Free Swim/ })[0]).toHaveTextContent('Free')
+    expect(screen.getByRole('button', { name: /Basketball Drop-in/ })).toHaveTextContent(
+      'from $5.00',
+    )
+  })
+
   it('reports the selected activity on chip click', async () => {
     const onSelect = vi.fn()
     render(

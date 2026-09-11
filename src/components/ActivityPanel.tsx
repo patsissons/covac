@@ -57,7 +57,9 @@ export function ActivityPanel({ index, activityId, onClose }: ActivityPanelProps
             <ScrollArea className="min-h-0 flex-1 px-6">
               <dl className="grid grid-cols-[auto_1fr] gap-x-4 gap-y-1.5 text-sm">
                 {activity.ageText && <Row label="Ages">{activity.ageText}</Row>}
-                {activity.priceText && <Row label="Price">{activity.priceText}</Row>}
+                {activity.priceText && !activity.prices?.length && (
+                  <Row label="Price">{activity.priceText}</Row>
+                )}
                 {activity.openings && <Row label="Openings">{activity.openings}</Row>}
                 {activity.instructors.length > 0 && (
                   <Row label="Instructor">{activity.instructors.join(', ')}</Row>
@@ -70,6 +72,20 @@ export function ActivityPanel({ index, activityId, onClose }: ActivityPanelProps
                 {center?.address && <Row label="Address">{center.address}</Row>}
                 {center?.phone && <Row label="Phone">{center.phone}</Row>}
               </dl>
+              {activity.prices && activity.prices.length > 0 && (
+                <>
+                  <Separator className="my-4" />
+                  <h3 className="mb-2 text-sm font-medium">Fees</h3>
+                  <ul className="flex flex-col gap-1 text-sm" aria-label="Fees">
+                    {activity.prices.map((line, i) => (
+                      <li key={i} className="flex justify-between gap-4">
+                        <span className="text-muted-foreground">{line.description || 'Fee'}</span>
+                        <span className="shrink-0 tabular-nums">{line.price}</span>
+                      </li>
+                    ))}
+                  </ul>
+                </>
+              )}
               {activity.description && (
                 <>
                   <Separator className="my-4" />

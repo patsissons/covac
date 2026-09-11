@@ -13,6 +13,7 @@ import type {
   Center,
   Facility,
   Occurrence,
+  PriceLine,
   Snapshot,
 } from '../../src/types/snapshot'
 
@@ -83,6 +84,45 @@ export function priceText(price: RawEvent['price']): string {
   return (price.search_from_price_desc || price.estimate_price || '').trim()
 }
 
+const FREE_TEXT = /^(free|no charge|n\/c|\$0(\.00)?)$/i
+
+/** Flatten the details endpoint's fee table into price lines, dropping empty entries. */
+export function priceLines(price: RawEvent['price']): PriceLine[] {
+  const lines: PriceLine[] = []
+  for (const list of price.prices ?? []) {
+    for (const detail of list.details) {
+      const amount = detail.price.trim()
+      if (!amount) continue
+      const description = [list.list_name, detail.description].filter(Boolean).join(' – ').trim()
+      lines.push({ price: amount, description })
+    }
+  }
+  return lines
+}
+
+/**
+ * Short label for cards. Uses the lowest dollar amount in the fee table (percent discounts
+ * are ignored), prefixed with "from" when there is more than one distinct amount.
+ */
+export function summarizePrice(price: RawEvent['price'], lines: PriceLine[]): string {
+  const direct = priceText(price)
+  if (direct) return FREE_TEXT.test(direct) ? 'Free' : direct
+  const amounts = [
+    ...new Set(
+      lines
+        .map((l) => l.price)
+        .filter((p) => p.startsWith('$'))
+        .map((p) => Number(p.replace(/[^0-9.]/g, '')))
+        .filter((n) => Number.isFinite(n)),
+    ),
+  ].sort((a, b) => a - b)
+  if (amounts.length === 0) return price.free ? 'Free' : ''
+  const lowest = amounts[0]!
+  if (lowest === 0 && amounts.length === 1) return 'Free'
+  const label = `$${lowest.toFixed(2)}`
+  return amounts.length > 1 ? `from ${label}` : label
+}
+
 export interface CalendarScrape {
   calendar: RawCalendar
   filters: FiltersBody
@@ -139,8 +179,8 @@ export function buildSnapshot(scrapes: CalendarScrape[], generatedAt: string): S
             url: event.activity_detail_url,
             description: sanitizeDescription(event.description),
             instructors: instructorNames(event.instructors),
-            priceText: priceText(event.price),
-            free: event.price.free || /^(free|no charge)$/i.test(priceText(event.price)),
+            priceText: summarizePrice(event.price, []),
+            free: event.price.free || FREE_TEXT.test(priceText(event.price)),
           })
         }
         const s = toLocalIso(event.start_time)
@@ -189,9 +229,12 @@ export function applyEnrichment(
     const lastDate = toLocalDate(detail.last_date)
     if (firstDate) activity.firstDate = firstDate
     if (lastDate) activity.lastDate = lastDate
-    if (!activity.priceText && detail.price) {
-      activity.priceText = priceText(detail.price)
-      activity.free = activity.free || detail.price.free
+    if (detail.price) {
+      const lines = priceLines(detail.price)
+      if (lines.length) activity.prices = lines
+      const summary = summarizePrice(detail.price, lines)
+      if (summary) activity.priceText = summary
+      activity.free = activity.free || detail.price.free || activity.priceText === 'Free'
     }
     for (const rawCenter of detail.centers) {
       const center = centers.get(rawCenter.id)

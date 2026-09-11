@@ -47,8 +47,12 @@ export const snapshot: Snapshot = {
       url: 'https://example.com/basketball/2',
       description: '',
       instructors: [],
-      priceText: '$5.00',
+      priceText: 'from $5.00',
       free: false,
+      prices: [
+        { price: '$5.00', description: 'Drop-in' },
+        { price: '$40.00', description: '10 visit pass' },
+      ],
     },
   ],
   occurrences: [

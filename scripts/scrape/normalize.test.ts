@@ -1,7 +1,14 @@
 import { readFileSync } from 'node:fs'
 import path from 'node:path'
 import { describe, expect, it } from 'vitest'
-import type { ActivityDetailBody, ApiEnvelope, CalendarsBody, EventsBody, FiltersBody } from './api'
+import type {
+  ActivityDetailBody,
+  ApiEnvelope,
+  CalendarsBody,
+  EventsBody,
+  FiltersBody,
+  RawPrice,
+} from './api'
 import {
   applyEnrichment,
   buildSnapshot,
@@ -10,6 +17,8 @@ import {
   cleanTitle,
   instructorNames,
   isPublicCalendar,
+  priceLines,
+  summarizePrice,
   sanitizeDescription,
   toLocalIso,
 } from './normalize'
@@ -193,5 +202,63 @@ describe('applyEnrichment', () => {
     )
     expect(applyEnrichment(snapshot, new Map())).toBe(0)
     expect(snapshot.activities.every((a) => a.ageText === undefined)).toBe(true)
+  })
+})
+
+const price = (overrides: Partial<RawPrice>): RawPrice => ({
+  search_from_price_desc: '',
+  estimate_price: '',
+  free: false,
+  ...overrides,
+})
+
+describe('price helpers', () => {
+  const table: RawPrice['prices'] = [
+    {
+      list_name: '',
+      activity_name: 'Badminton',
+      details: [
+        { price: '$112.00', description: 'Standard charge' },
+        { price: '50.00%', description: 'Leisure Access' },
+        { price: '$182.00', description: 'Non-resident' },
+        { price: '', description: 'blank' },
+      ],
+    },
+  ]
+
+  it('flattens fee tables and drops blank rows', () => {
+    expect(priceLines(price({ prices: table }))).toEqual([
+      { price: '$112.00', description: 'Standard charge' },
+      { price: '50.00%', description: 'Leisure Access' },
+      { price: '$182.00', description: 'Non-resident' },
+    ])
+    expect(priceLines(price({}))).toEqual([])
+  })
+
+  it('summarizes with the lowest dollar amount and a from prefix', () => {
+    const lines = priceLines(price({ prices: table }))
+    expect(summarizePrice(price({ prices: table }), lines)).toBe('from $112.00')
+    expect(summarizePrice(price({}), [{ price: '$7.93', description: 'Drop-in' }])).toBe('$7.93')
+    expect(summarizePrice(price({}), [{ price: '$0.00', description: 'x' }])).toBe('Free')
+  })
+
+  it('prefers the direct price text and normalizes free wording', () => {
+    expect(summarizePrice(price({ search_from_price_desc: '$14.29' }), [])).toBe('$14.29')
+    expect(summarizePrice(price({ estimate_price: 'no charge' }), [])).toBe('Free')
+    expect(summarizePrice(price({ free: true }), [])).toBe('Free')
+    expect(summarizePrice(price({}), [])).toBe('')
+  })
+
+  it('applies enrichment prices to activities', () => {
+    const snapshot = buildSnapshot(
+      [{ calendar: swimming, filters, centerEvents: events }],
+      '2026-09-09T00:00:00.000Z',
+    )
+    const priced = { ...detail, price: price({ show_price_info_online: true, prices: table }) }
+    applyEnrichment(snapshot, new Map([[526347, priced]]))
+    const freeSwim = snapshot.activities.find((a) => a.id === 526347)!
+    expect(freeSwim.priceText).toBe('from $112.00')
+    expect(freeSwim.prices).toHaveLength(3)
+    expect(freeSwim.free).toBe(false)
   })
 })
