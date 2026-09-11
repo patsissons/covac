@@ -9,25 +9,34 @@ calendar, then add centres one at a time, before anything renders. covac shows a
 **locations × days** across every calendar at once, with filters, an activity detail panel that
 links back to ActiveNet for registration, and a map of centres.
 
-The site is fully static. A scheduled scraper pulls the ActiveNet calendar API into a committed
-JSON snapshot, and the React app reads only that snapshot at runtime.
+The site is fully static. A scheduled scraper pulls the ActiveNet calendar API into committed
+JSON files, the build merges them into one snapshot, and the React app reads only that snapshot
+at runtime.
 
 ## How it works
 
 ```
-ActiveNet REST API ──(pnpm scrape, nightly via GitHub Actions)──▶ public/data/snapshot.json
-                                                                        │
-                                              React app (Vite) ◀────────┘  fetched once at load
+ActiveNet REST API ──(pnpm scrape, nightly via GitHub Actions)──▶ public/data/snapshot.*.json
+                                                                        │  (committed, pretty)
+                                                   pnpm build ◀─────────┘
+                                                        │  merges + minifies
+                                                        ▼
+                                  React app ◀── dist/data/snapshot.json  fetched once at load
 ```
 
 1. `scripts/scrape/` pulls every public calendar from the ActiveNet online calendar API,
    dedupes activities, strips ActiveNet's naming quirks, sanitizes descriptions, and enriches
    each activity with age range, openings and centre coordinates from the per-activity details
-   endpoint. It writes `public/data/snapshot.json` (about 4 MB, 550 KB gzipped) and a small
-   `snapshot.meta.json` with counts.
-2. The scrape workflow runs nightly and commits the snapshot when the data changed. Cloudflare
+   endpoint. It writes one pretty-printed file per collection to `public/data/`
+   (`snapshot.calendars.json`, `.centers`, `.facilities`, `.activities`, `.occurrences`; about
+   5 MB in total) plus a small `snapshot.meta.json` with the scrape time, period and counts, so
+   each nightly commit shows the lines that actually changed.
+2. The scrape workflow runs nightly and commits the files when the data changed. Cloudflare
    Pages redeploys on push.
-3. The app loads the snapshot, indexes it in memory, and renders the week. The default **By time**
+3. A Vite plugin (`vite.config.ts`) merges the files into `public/data/snapshot.json` (about
+   4 MB, 550 KB gzipped) before every dev server start and build. That bundle is gitignored, and
+   the build output contains only the bundle, not the split files.
+4. The app loads the snapshot, indexes it in memory, and renders the week. The default **By time**
    view stacks every location into hourly rows so a glance down the Monday column shows everything
    between, say, 4 pm and 8 pm; **By location** gives one row per centre. Filters, the view and
    the selected week live in the query string
@@ -93,8 +102,10 @@ pnpm scrape --no-cache           # ignore and do not write the details cache (wh
 pnpm scrape --out some/dir       # write elsewhere than public/data
 ```
 
-`node scripts/scrape/changed.mjs` exits 0 when the snapshot differs from the committed one in
-anything other than `generatedAt`; the scrape workflow uses it to skip no-op commits.
+The scraper also writes a local `snapshot.json` bundle next to the split files so a running dev
+server picks up fresh data. `pnpm exec tsx scripts/snapshot/changed.ts` exits 0 when the split
+files differ from the committed ones in anything other than `generatedAt`; the scrape workflow
+uses it to skip no-op commits.
 
 ## Stack
 
@@ -103,7 +114,8 @@ Vite, React, TypeScript, Tailwind CSS v4, shadcn/ui, Vitest, Playwright, ESLint,
 ## Deployment
 
 The site deploys to Cloudflare Pages from the `main` branch. Build command `pnpm build`, output
-directory `dist`. No server-side code is needed.
+directory `dist`. The build generates `dist/data/snapshot.json` from the committed split files.
+No server-side code is needed.
 
 GitHub Actions:
 

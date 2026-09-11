@@ -1,5 +1,7 @@
 /**
- * The data model the scraper writes to `public/data/snapshot.json` and the app reads.
+ * The data model the scraper writes to `public/data/` (one pretty-printed file per collection plus
+ * `snapshot.meta.json`, see `scripts/snapshot/files.ts`) and the app reads as the single minified
+ * `snapshot.json` that the Vite build merges from them.
  * Times are Vancouver local time with no timezone (the source has none); they are stored as
  * naive `YYYY-MM-DDTHH:mm` strings and rendered without conversion.
  */

@@ -1,9 +1,9 @@
-import { mkdir, writeFile } from 'node:fs/promises'
-import path from 'node:path'
+import { mkdir } from 'node:fs/promises'
 import { parseArgs } from 'node:util'
 import { createClient } from './client'
 import { fetchActivityDetails } from './enrich'
 import { applyEnrichment, buildSnapshot, isPublicCalendar, type CalendarScrape } from './normalize'
+import { bundleSnapshot, writeSnapshotFiles } from '../snapshot/files'
 import type { SnapshotMeta } from '../../src/types/snapshot'
 
 const { values: args } = parseArgs({
@@ -75,9 +75,11 @@ async function main() {
     },
   }
   await mkdir(args.out, { recursive: true })
-  await writeFile(path.join(args.out, 'snapshot.json'), JSON.stringify(snapshot))
-  await writeFile(path.join(args.out, 'snapshot.meta.json'), JSON.stringify(meta, null, 2) + '\n')
-  log(`wrote ${args.out}/snapshot.json in ${Math.round((Date.now() - started) / 1000)}s`)
+  // Committed, pretty-printed per-collection files plus a local copy of the runtime bundle
+  // (gitignored; the Vite build regenerates it).
+  await writeSnapshotFiles(args.out, snapshot, meta)
+  await bundleSnapshot(args.out)
+  log(`wrote ${args.out}/snapshot.*.json in ${Math.round((Date.now() - started) / 1000)}s`)
 }
 
 main().catch((error) => {
