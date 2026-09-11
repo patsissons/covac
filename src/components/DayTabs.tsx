@@ -36,5 +36,5 @@ export function DayTabs({ days, selected, onSelect }: DayTabsProps) {
   )
 }
 
-/** Tailwind `top-*` offset matching the tab strip: a 28px `sm` button plus 8px padding. */
-export const DAY_TABS_HEIGHT = 'top-9'
+/** Height of the tab strip in px: a 28px `sm` button plus 8px bottom padding. */
+export const DAY_TABS_HEIGHT = 36

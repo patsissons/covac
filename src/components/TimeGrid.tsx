@@ -1,6 +1,8 @@
+import { useRef } from 'react'
 import { dayOfWeek, formatDay, formatTime, today, weekDays, type DateString } from '@/data/dates'
 import type { HourDayGrid } from '@/data/filters'
 import type { SnapshotIndex } from '@/data/index'
+import { useElementHeight } from '@/hooks/useElementHeight'
 import { cn } from '@/lib/utils'
 import { DAY_TABS_HEIGHT, DayTabs } from './DayTabs'
 import { ActivityChip } from './WeekGrid'
@@ -36,8 +38,11 @@ export function TimeGrid({
     : visibleDays
   const hours = hourRange(grid, columns)
   const currentDay = today()
-  // In compact mode the page scrolls and the day tabs stick above the table header.
-  const headerTop = compact ? DAY_TABS_HEIGHT : 'top-0'
+  // In compact mode the page scrolls and the day tabs stick above the table header; row
+  // headers stick just below the column header so the current row stays labelled.
+  const headRef = useRef<HTMLTableSectionElement>(null)
+  const headerTop = compact ? DAY_TABS_HEIGHT : 0
+  const rowTop = headerTop + useElementHeight(headRef)
 
   if (grid.size === 0) {
     return (
@@ -58,13 +63,13 @@ export function TimeGrid({
         data-testid="grid-scroll"
       >
         <table className="w-full border-collapse text-sm">
-          <thead>
+          <thead ref={headRef}>
             <tr>
               <th
                 scope="col"
+                style={{ top: headerTop }}
                 className={cn(
                   'bg-background sticky left-0 z-20 w-20 border-r border-b p-2 text-left font-medium',
-                  headerTop,
                 )}
               >
                 Time
@@ -73,9 +78,9 @@ export function TimeGrid({
                 <th
                   key={day}
                   scope="col"
+                  style={{ top: headerTop }}
                   className={cn(
                     'bg-background sticky z-10 min-w-44 border-b p-2 text-left font-medium',
-                    headerTop,
                     day === currentDay && 'text-primary underline decoration-2 underline-offset-4',
                   )}
                 >
@@ -89,6 +94,7 @@ export function TimeGrid({
               <tr key={hour} className="odd:bg-muted/30 align-top">
                 <th
                   scope="row"
+                  style={{ top: rowTop }}
                   className="bg-background sticky left-0 z-10 border-r border-b p-2 text-left font-medium whitespace-nowrap tabular-nums"
                 >
                   {formatHour(hour)}

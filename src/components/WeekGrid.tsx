@@ -1,3 +1,4 @@
+import { useRef } from 'react'
 import {
   addDays,
   dayOfWeek,
@@ -11,6 +12,7 @@ import {
 import type { CenterDayGrid } from '@/data/filters'
 import type { SnapshotIndex } from '@/data/index'
 import { groupStyle } from '@/lib/groupColor'
+import { useElementHeight } from '@/hooks/useElementHeight'
 import { cn } from '@/lib/utils'
 import { DAY_TABS_HEIGHT, DayTabs } from './DayTabs'
 import type { Occurrence } from '@/types/snapshot'
@@ -49,8 +51,11 @@ export function WeekGrid({
     .sort((a, b) => a.name.localeCompare(b.name))
   const rows = compact ? centers.filter((c) => grid.get(c.id)?.has(columns[0]!)) : centers
   const currentDay = today()
-  // In compact mode the page scrolls and the day tabs stick above the table header.
-  const headerTop = compact ? DAY_TABS_HEIGHT : 'top-0'
+  // In compact mode the page scrolls and the day tabs stick above the table header; row
+  // headers stick just below the column header so the current row stays labelled.
+  const headRef = useRef<HTMLTableSectionElement>(null)
+  const headerTop = compact ? DAY_TABS_HEIGHT : 0
+  const rowTop = headerTop + useElementHeight(headRef)
 
   if (centers.length === 0) {
     return (
@@ -71,13 +76,13 @@ export function WeekGrid({
         data-testid="grid-scroll"
       >
         <table className="w-full border-collapse text-sm">
-          <thead>
+          <thead ref={headRef}>
             <tr>
               <th
                 scope="col"
+                style={{ top: headerTop }}
                 className={cn(
                   'bg-background sticky left-0 z-20 min-w-36 border-r border-b p-2 text-left font-medium',
-                  headerTop,
                 )}
               >
                 Location
@@ -86,9 +91,9 @@ export function WeekGrid({
                 <th
                   key={day}
                   scope="col"
+                  style={{ top: headerTop }}
                   className={cn(
                     'bg-background sticky z-10 min-w-40 border-b p-2 text-left font-medium',
-                    headerTop,
                     day === currentDay && 'text-primary underline decoration-2 underline-offset-4',
                   )}
                 >
@@ -102,6 +107,7 @@ export function WeekGrid({
               <tr key={center.id} className="odd:bg-muted/30 align-top">
                 <th
                   scope="row"
+                  style={{ top: rowTop }}
                   className="bg-background sticky left-0 z-10 border-r border-b p-2 text-left font-medium"
                 >
                   {center.name}

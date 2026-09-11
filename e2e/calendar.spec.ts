@@ -12,6 +12,45 @@ const week = start.toISOString().slice(0, 10)
 
 const gotoWeek = (page: Page, search = '') => page.goto(`/?week=${week}${search}`)
 
+/**
+ * Scroll `scroller` (or the window when null) so the tallest row straddles the sticky line and
+ * report where that row's header landed. Then scroll the row off the top and report whether the
+ * header visible at the sticky line belongs to the row now under it. Chrome constrains sticky
+ * cells to the table rather than their row, so a stale header is covered rather than pushed
+ * away, and only hit-testing tells the two apart.
+ */
+async function stickyRowHeader(page: Page, scroller: string | null) {
+  await expect(page.getByRole('table').getByRole('rowheader').first()).toBeVisible()
+  return page.evaluate((selector) => {
+    const grid = document.querySelector('[data-testid=grid-scroll]')!
+    const rows = [...grid.querySelectorAll('tbody tr')]
+    const tallest = rows.reduce((a, b) =>
+      b.getBoundingClientRect().height > a.getBoundingClientRect().height ? b : a,
+    )
+    const thead = grid.querySelector('thead')!
+    const tabs = document.querySelector('[role=tablist]')
+    const pinnedTop =
+      (selector ? document.querySelector(selector)!.getBoundingClientRect().top : 0) +
+      (tabs ? tabs.getBoundingClientRect().height : 0) +
+      thead.getBoundingClientRect().height
+    const target = selector ? document.querySelector(selector)! : document.scrollingElement!
+    const delta = tallest.getBoundingClientRect().top - pinnedTop + 120
+    target.scrollTop += delta
+    const row = tallest.getBoundingClientRect()
+    const header = tallest.querySelector('th')!.getBoundingClientRect()
+    target.scrollTop += row.bottom - pinnedTop + 10
+    const probe = { x: header.left + 8, y: pinnedTop + 8 }
+    const under = rows.find((r) => {
+      const b = r.getBoundingClientRect()
+      return b.top <= probe.y && b.bottom > probe.y
+    })
+    const hit = document.elementFromPoint(probe.x, probe.y)
+    const shown = hit?.closest('th')
+    const next = shown !== null && shown !== undefined && shown.closest('tr') === under
+    return { pinnedTop, rowTop: row.top, rowBottom: row.bottom, headerTop: header.top, delta, next }
+  }, scroller)
+}
+
 test('renders the time grid by default with every location stacked', async ({ page }) => {
   await gotoWeek(page)
   await expect(page.getByRole('heading', { level: 1, name: 'covac' })).toBeVisible()
@@ -131,6 +170,16 @@ test('the day header stays visible while scrolling the grid', async ({ page }) =
   expect(h!.y).toBeLessThan(s!.y + h!.height + 1)
 })
 
+test('row headers stick below the column header while their row scrolls past', async ({ page }) => {
+  await gotoWeek(page)
+  const r = await stickyRowHeader(page, '[data-testid=grid-scroll]')
+  expect(r.delta).toBeGreaterThan(0)
+  expect(r.rowTop).toBeLessThan(r.pinnedTop)
+  expect(r.rowBottom).toBeGreaterThan(r.pinnedTop + 20)
+  expect(Math.abs(r.headerTop - r.pinnedTop)).toBeLessThanOrEqual(1)
+  expect(r.next).toBe(true)
+})
+
 test('popovers open above the map', async ({ page }) => {
   await gotoWeek(page)
   await page.getByRole('button', { name: 'Show map' }).click()
@@ -187,5 +236,14 @@ test.describe('phone width', () => {
     await target.click()
     await expect(target).toHaveAttribute('aria-selected', 'true')
     await expect(header).not.toHaveText(before)
+  })
+
+  test('row headers stick below the day tabs and column header', async ({ page }) => {
+    await gotoWeek(page)
+    const r = await stickyRowHeader(page, null)
+    expect(r.rowTop).toBeLessThan(r.pinnedTop)
+    expect(r.rowBottom).toBeGreaterThan(r.pinnedTop + 20)
+    expect(Math.abs(r.headerTop - r.pinnedTop)).toBeLessThanOrEqual(1)
+    expect(r.next).toBe(true)
   })
 })
