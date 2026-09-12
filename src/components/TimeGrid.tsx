@@ -3,6 +3,7 @@ import { dayOfWeek, formatDay, formatTime, today, weekDays, type DateString } fr
 import type { HourDayGrid } from '@/data/filters'
 import type { SnapshotIndex } from '@/data/index'
 import { useElementHeight } from '@/hooks/useElementHeight'
+import { gridCells } from '@/components/gridCells'
 import { cn } from '@/lib/utils'
 import { DAY_TABS_HEIGHT, DayTabs } from './DayTabs'
 import { ActivityChip } from './WeekGrid'
@@ -55,32 +56,25 @@ export function TimeGrid({
   return (
     <div className={cn('flex flex-col', !compact && 'min-h-0 flex-1 gap-2')}>
       {compact && <DayTabs days={visibleDays} selected={columns[0]!} onSelect={onSelectDay} />}
-      <div
-        className={cn(
-          'rounded-lg border',
-          compact ? 'overflow-visible' : 'min-h-0 flex-1 overflow-auto',
-        )}
-        data-testid="grid-scroll"
-      >
-        <table className="w-full border-collapse text-sm">
+      <div className={gridCells.frame(compact)} data-testid="grid-scroll">
+        <table className={gridCells.table}>
           <thead ref={headRef}>
             <tr>
               <th
                 scope="col"
                 style={{ top: headerTop }}
-                className={cn(
-                  'bg-background sticky left-0 z-20 w-20 border-r border-b p-2 text-left font-medium',
-                )}
+                className={cn(gridCells.corner(compact), 'w-20')}
               >
                 Time
               </th>
-              {columns.map((day) => (
+              {columns.map((day, i) => (
                 <th
                   key={day}
                   scope="col"
                   style={{ top: headerTop }}
                   className={cn(
-                    'bg-background sticky z-10 min-w-44 border-b p-2 text-left font-medium',
+                    gridCells.columnHeader(compact, i === columns.length - 1),
+                    'min-w-44',
                     day === currentDay && 'text-primary underline decoration-2 underline-offset-4',
                   )}
                 >
@@ -91,16 +85,16 @@ export function TimeGrid({
           </thead>
           <tbody>
             {hours.map((hour) => (
-              <tr key={hour} className="odd:bg-muted/30 align-top">
+              <tr key={hour} className={gridCells.row}>
                 <th
                   scope="row"
                   style={{ top: rowTop }}
-                  className="bg-background sticky left-0 z-10 border-r border-b p-2 text-left font-medium whitespace-nowrap tabular-nums"
+                  className={cn(gridCells.rowHeader(compact), 'whitespace-nowrap tabular-nums')}
                 >
                   {formatHour(hour)}
                 </th>
-                {columns.map((day) => (
-                  <td key={day} className="border-b p-1">
+                {columns.map((day, i) => (
+                  <td key={day} className={gridCells.body(compact, i === columns.length - 1)}>
                     <ul className="grid grid-cols-[repeat(auto-fill,minmax(10rem,1fr))] gap-1">
                       {(grid.get(hour)?.get(day) ?? []).map((occurrence) => (
                         <li key={`${occurrence.a}-${occurrence.s}`}>

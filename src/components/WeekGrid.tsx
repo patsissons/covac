@@ -13,6 +13,7 @@ import type { CenterDayGrid } from '@/data/filters'
 import type { SnapshotIndex } from '@/data/index'
 import { groupStyle } from '@/lib/groupColor'
 import { useElementHeight } from '@/hooks/useElementHeight'
+import { gridCells } from '@/components/gridCells'
 import { cn } from '@/lib/utils'
 import { DAY_TABS_HEIGHT, DayTabs } from './DayTabs'
 import type { Occurrence } from '@/types/snapshot'
@@ -68,32 +69,25 @@ export function WeekGrid({
   return (
     <div className={cn('flex flex-col', !compact && 'min-h-0 flex-1 gap-2')}>
       {compact && <DayTabs days={visibleDays} selected={columns[0]!} onSelect={onSelectDay} />}
-      <div
-        className={cn(
-          'rounded-lg border',
-          compact ? 'overflow-visible' : 'min-h-0 flex-1 overflow-auto',
-        )}
-        data-testid="grid-scroll"
-      >
-        <table className="w-full border-collapse text-sm">
+      <div className={gridCells.frame(compact)} data-testid="grid-scroll">
+        <table className={gridCells.table}>
           <thead ref={headRef}>
             <tr>
               <th
                 scope="col"
                 style={{ top: headerTop }}
-                className={cn(
-                  'bg-background sticky left-0 z-20 min-w-36 border-r border-b p-2 text-left font-medium',
-                )}
+                className={cn(gridCells.corner(compact), 'min-w-36')}
               >
                 Location
               </th>
-              {columns.map((day) => (
+              {columns.map((day, i) => (
                 <th
                   key={day}
                   scope="col"
                   style={{ top: headerTop }}
                   className={cn(
-                    'bg-background sticky z-10 min-w-40 border-b p-2 text-left font-medium',
+                    gridCells.columnHeader(compact, i === columns.length - 1),
+                    'min-w-40',
                     day === currentDay && 'text-primary underline decoration-2 underline-offset-4',
                   )}
                 >
@@ -104,16 +98,12 @@ export function WeekGrid({
           </thead>
           <tbody>
             {rows.map((center) => (
-              <tr key={center.id} className="odd:bg-muted/30 align-top">
-                <th
-                  scope="row"
-                  style={{ top: rowTop }}
-                  className="bg-background sticky left-0 z-10 border-r border-b p-2 text-left font-medium"
-                >
+              <tr key={center.id} className={gridCells.row}>
+                <th scope="row" style={{ top: rowTop }} className={gridCells.rowHeader(compact)}>
                   {center.name}
                 </th>
-                {columns.map((day) => (
-                  <td key={day} className="border-b p-1">
+                {columns.map((day, i) => (
+                  <td key={day} className={gridCells.body(compact, i === columns.length - 1)}>
                     <ul className="flex flex-col gap-1">
                       {(grid.get(center.id)?.get(day) ?? []).map((occurrence) => (
                         <li key={`${occurrence.a}-${occurrence.s}`}>

@@ -295,6 +295,50 @@ test.describe('phone width', () => {
     expect(await search.boundingBox()).toEqual(s)
   })
 
+  for (const view of ['time', 'location']) {
+    test(`the ${view} grid keeps its frame while the header is pinned`, async ({ page }) => {
+      await gotoWeek(page, view === 'location' ? '&view=location' : '')
+      const header = page.getByRole('table').getByRole('columnheader')
+      await expect(page.getByRole('table').getByRole('rowheader').first()).toBeVisible()
+      const edges = () =>
+        page.evaluate(() => {
+          const grid = document.querySelector('[data-testid=grid-scroll]')!
+          const style = (el: Element) => getComputedStyle(el)
+          const [corner, last] = [...grid.querySelectorAll('thead th')].map(style)
+          const rows = grid.querySelectorAll('tbody tr')
+          const bottom = rows[rows.length - 1]!
+          const [rowHead, cell] = [bottom.querySelector('th')!, bottom.querySelector('td')!].map(
+            style,
+          )
+          return {
+            headerTop: corner!.borderTopWidth,
+            headerBottom: last!.borderBottomWidth,
+            topLeft: corner!.borderTopLeftRadius,
+            topRight: last!.borderTopRightRadius,
+            bottomLeft: rowHead!.borderBottomLeftRadius,
+            bottomRight: cell!.borderBottomRightRadius,
+            frame: style(grid).borderTopWidth,
+          }
+        })
+      const before = await edges()
+      expect(before.frame).toBe('0px')
+      expect(before.headerTop).toBe('1px')
+      expect(before.topLeft).not.toBe('0px')
+      expect(before.bottomRight).not.toBe('0px')
+      await page.evaluate(() => window.scrollTo({ top: 1200 }))
+      expect(await page.evaluate(() => window.scrollY)).toBeGreaterThan(0)
+      // The pinned header still draws its own top and bottom lines and rounded corners.
+      const after = await edges()
+      expect(after).toEqual(before)
+      expect(after.headerBottom).toBe('1px')
+      expect(after.topRight).toBe(after.topLeft)
+      expect(after.bottomLeft).toBe(after.bottomRight)
+      const tabs = await page.getByRole('tablist', { name: 'Day' }).boundingBox()
+      const h = await header.first().boundingBox()
+      expect(h!.y).toBeGreaterThanOrEqual(tabs!.y + tabs!.height - 1)
+    })
+  }
+
   test('row headers stick below the day tabs and column header', async ({ page }) => {
     await gotoWeek(page)
     const r = await stickyRowHeader(page, null)
