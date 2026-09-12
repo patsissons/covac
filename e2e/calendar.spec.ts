@@ -304,26 +304,46 @@ test.describe('phone width', () => {
         page.evaluate(() => {
           const grid = document.querySelector('[data-testid=grid-scroll]')!
           const style = (el: Element) => getComputedStyle(el)
-          const [corner, last] = [...grid.querySelectorAll('thead th')].map(style)
+          // The header's corners and top line are drawn by its `before` pseudo-element.
+          const [corner, last] = [...grid.querySelectorAll('thead th')].map((el) =>
+            getComputedStyle(el, '::before'),
+          )
+          const cells = [...grid.querySelectorAll('thead th')].map(style)
           const rows = grid.querySelectorAll('tbody tr')
           const bottom = rows[rows.length - 1]!
-          const [rowHead, cell] = [bottom.querySelector('th')!, bottom.querySelector('td')!].map(
-            style,
-          )
+          // So is the last row header's bottom-left corner.
+          const rowHead = getComputedStyle(bottom.querySelector('th')!, '::before')
+          const cell = style(bottom.querySelector('td')!)
           return {
             headerTop: corner!.borderTopWidth,
-            headerBottom: last!.borderBottomWidth,
+            headerBottom: cells[cells.length - 1]!.borderBottomWidth,
             topLeft: corner!.borderTopLeftRadius,
             topRight: last!.borderTopRightRadius,
             bottomLeft: rowHead!.borderBottomLeftRadius,
             bottomRight: cell!.borderBottomRightRadius,
             frame: style(grid).borderTopWidth,
+            // The cells themselves stay square and opaque so nothing scrolling beneath shows
+            // through the gap outside the curve.
+            square:
+              cells.every(
+                (c) => c.borderTopLeftRadius === '0px' && c.borderTopRightRadius === '0px',
+              ) && style(bottom.querySelector('th')!).borderBottomLeftRadius === '0px',
+            opaque: [...cells, style(bottom.querySelector('th')!)].every(
+              (c) => !/rgba\(.*, 0\)$/.test(c.backgroundColor),
+            ),
+            // The pseudo-elements take the theme border colour, not currentColor.
+            tinted: [corner!, last!, rowHead].every(
+              (c) => c.borderColor === style(grid.querySelector('tbody td')!).borderBottomColor,
+            ),
           }
         })
       const before = await edges()
       expect(before.frame).toBe('0px')
       expect(before.headerTop).toBe('1px')
       expect(before.topLeft).not.toBe('0px')
+      expect(before.square).toBe(true)
+      expect(before.opaque).toBe(true)
+      expect(before.tinted).toBe(true)
       expect(before.bottomRight).not.toBe('0px')
       await page.evaluate(() => window.scrollTo({ top: 1200 }))
       expect(await page.evaluate(() => window.scrollY)).toBeGreaterThan(0)

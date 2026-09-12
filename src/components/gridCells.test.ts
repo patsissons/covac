@@ -14,13 +14,30 @@ describe('gridCells', () => {
   })
 
   it('moves the outer border and corners onto the edge cells in compact mode', () => {
-    expect(gridCells.corner(true)).toContain('rounded-tl-lg border-t border-l')
-    expect(gridCells.columnHeader(true, true)).toContain('border-t')
-    expect(gridCells.columnHeader(true, true)).toContain('rounded-tr-lg border-r')
+    expect(gridCells.corner(true)).toContain('before:rounded-tl-lg before:border-t before:border-l')
+    expect(gridCells.columnHeader(true, true)).toContain(
+      'before:rounded-tr-lg before:border-t before:border-r',
+    )
+    expect(gridCells.columnHeader(true, false)).toContain('border-t')
     expect(gridCells.columnHeader(true, false)).not.toContain('border-r')
-    expect(gridCells.rowHeader(true)).toContain('border-l group-last/row:rounded-bl-lg')
+    expect(gridCells.rowHeader(true)).toContain('border-b border-l')
+    expect(gridCells.rowHeader(true)).toContain('group-last/row:before:rounded-bl-lg')
     expect(gridCells.body(true, true)).toContain('border-r group-last/row:rounded-br-lg')
     expect(gridCells.body(true, false)).not.toContain('border-r')
+  })
+
+  it('draws sticky-cell corners on a pseudo-element over a square, opaque cell', () => {
+    for (const cls of [gridCells.corner(true), gridCells.columnHeader(true, true)]) {
+      expect(cls).toContain('bg-background')
+      expect(cls).toContain('before:absolute before:inset-0 before:border-border')
+      expect(cls).toContain('before:border-t')
+      expect(cls).not.toMatch(/(^| )rounded-t|(^| )border-t/)
+    }
+    const rowHeader = gridCells.rowHeader(true)
+    expect(rowHeader).toContain('bg-background')
+    expect(rowHeader).toContain('group-last/row:border-b-0 group-last/row:border-l-0')
+    expect(rowHeader).toContain('group-last/row:before:border-border')
+    expect(rowHeader).not.toMatch(/(^| )rounded-b/)
   })
 
   it('leaves the wrapper to draw the outer edge in the wide layout', () => {
