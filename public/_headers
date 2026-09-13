@@ -1,0 +1,5 @@
+# Cloudflare Pages headers. Generated data and text files are meant for machine readers on other
+# origins, so they get CORS; five minutes of edge caching matches how often the data can change.
+/data/*
+  Cache-Control: public, max-age=300, stale-while-revalidate=86400
+  Access-Control-Allow-Origin: *

@@ -45,6 +45,28 @@ ActiveNet REST API ──(pnpm scrape, nightly via GitHub Actions)──▶ publ
    counts as $0); activities whose price the snapshot does not know are hidden while a price
    bound is set. Clicking the date range opens a day picker that jumps to that day's week.
 
+### Machine-readable data
+
+Besides the app's own `snapshot.json`, the build writes compact JSON "shards" under `dist/data/`
+(so they exist on the deployed site, never in `public/`). They are sized so that a Cloudflare
+Pages Function on the free plan can parse what one request needs inside its 10 ms CPU budget,
+and they double as a public read-only data API. `pnpm site:generate` regenerates them into an
+existing `dist/` without rebuilding the app.
+
+| URL                          | Contents                                                                                           |
+| ---------------------------- | -------------------------------------------------------------------------------------------------- |
+| `/data/meta.json`            | Scrape time, period, counts, the Mondays of every week with sessions, generator version            |
+| `/data/calendars.json`       | The calendars with their group (`Drop-in`, `Fitness`, `Sports`, `Art & Culture`)                   |
+| `/data/centres.json`         | Centres with address, phone, coordinates and activity count, plus facilities                       |
+| `/data/catalog.json`         | Every activity without its description HTML, fee table or URL: enough to search and filter (~2 MB) |
+| `/data/weeks/{monday}.json`  | All sessions (`{a, s, e}`) in one Monday-based week                                                |
+| `/data/activities/{id}.json` | One activity in full: plain-text description, fees, centre, calendar, sessions and covac links     |
+| `/data/snapshot.json`        | The whole snapshot the app loads (~4 MB)                                                           |
+
+All `/data/*` responses carry `Access-Control-Allow-Origin: *` and five minutes of edge caching
+(`public/_headers`). Times are Vancouver local with no offset, as everywhere in the snapshot. The
+shapes are the TypeScript interfaces in `src/data/catalog.ts`.
+
 ### The ActiveNet API
 
 The calendar page at `anc.ca.apm.activecommunities.com/vancouver/calendars` is a React app backed
@@ -83,6 +105,7 @@ pnpm dev
 | `pnpm build`               | Type check and build the production bundle into `dist/`        |
 | `pnpm preview`             | Serve the production build locally                             |
 | `pnpm og`                  | Re-render `public/og.png` (the Open Graph preview image)       |
+| `pnpm site:generate`       | Regenerate the machine-readable files into an existing `dist/` |
 | `pnpm test`                | Run unit tests with Vitest                                     |
 | `pnpm test:watch`          | Run unit tests in watch mode                                   |
 | `pnpm test:e2e`            | Run Playwright end-to-end tests against a built preview server |

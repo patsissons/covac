@@ -14,6 +14,7 @@
     "preview": "vite preview",
     "scrape": "tsx scripts/scrape/index.ts",
     "og": "tsx scripts/og/render.ts",
+    "site:generate": "tsx scripts/site/cli.ts",
     "test": "vitest run",
     "test:watch": "vitest",
     "test:e2e": "playwright test",
