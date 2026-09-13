@@ -1,0 +1,7 @@
+# Cloudflare Pages configuration. With `pages_build_output_dir` set this file is the source of
+# truth for the project's runtime settings (the dashboard fields become read-only); the build
+# command stays `pnpm build`. `wrangler pages dev dist` uses it locally, including for e2e tests.
+name = "covac"
+pages_build_output_dir = "dist"
+compatibility_date = "2026-09-01"
+compatibility_flags = ["nodejs_compat"]

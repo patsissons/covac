@@ -14,10 +14,13 @@ export default defineConfig({
     trace: 'on-first-retry',
   },
   projects: [{ name: 'chromium', use: { ...devices['Desktop Chrome'] } }],
+  // Serve the build with wrangler so the suite sees what Cloudflare Pages serves: Functions,
+  // `_headers`, `_routes.json` and trailing-slash redirects, none of which `vite preview` has.
   webServer: {
-    command: `pnpm build && pnpm preview --port ${port} --strictPort`,
+    command: `pnpm build && pnpm exec wrangler pages dev dist --port ${port} --log-level warn`,
     url: baseURL,
     reuseExistingServer: !process.env.CI,
-    timeout: 120_000,
+    timeout: 180_000,
+    env: { ...process.env, WRANGLER_SEND_METRICS: 'false' },
   },
 })

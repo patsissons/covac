@@ -8,3 +8,4 @@ public/data
 .cache
 scripts/scrape/__fixtures__
 .github/workflows
+.wrangler

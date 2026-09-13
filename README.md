@@ -124,6 +124,7 @@ pnpm dev
 | `pnpm dev`                 | Start the Vite dev server                                      |
 | `pnpm build`               | Type check and build the production bundle into `dist/`        |
 | `pnpm preview`             | Serve the production build locally                             |
+| `pnpm dev:cf`              | Build and serve `dist/` with `wrangler pages dev` (port 8788)  |
 | `pnpm og`                  | Re-render `public/og.png` (the Open Graph preview image)       |
 | `pnpm site:generate`       | Regenerate the machine-readable files into an existing `dist/` |
 | `pnpm test`                | Run unit tests with Vitest                                     |
@@ -167,9 +168,13 @@ Vite, React, TypeScript, Tailwind CSS v4, shadcn/ui, Vitest, Playwright, ESLint,
 
 ## Deployment
 
-The site lives at <https://covac.fyi> and deploys to Cloudflare Pages from the `main` branch. Build command `pnpm build`, output
-directory `dist`. The build generates `dist/data/snapshot.json` from the committed split files.
-No server-side code is needed.
+The site lives at <https://covac.fyi> and deploys to Cloudflare Pages from the `main` branch.
+Build command `pnpm build`, output directory `dist`; runtime settings (compatibility date and
+flags) come from `wrangler.toml`, which Pages reads because it sets `pages_build_output_dir`.
+The build generates `dist/data/snapshot.json` and the machine-readable files from the committed
+split files. `pnpm dev:cf` builds and serves `dist/` with `wrangler pages dev`, which is also
+what the e2e suite runs against, so Pages behaviour (`_headers`, redirects, Functions) is
+exercised locally.
 
 GitHub Actions:
 
