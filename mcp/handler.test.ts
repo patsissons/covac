@@ -198,6 +198,27 @@ describe('domain tools', () => {
     expect(json.result!.content![0]!.text).toContain('Free Swim — Britannia Pool')
   })
 
+  it('find_activities reports availability and can hide unavailable activities', async () => {
+    const all = await call('find_activities', { dateFrom: '2026-09-07', dateTo: '2026-09-13' })
+    const results = (
+      all.json.result!.structuredContent as {
+        results: { id: number; availability?: string; spaces?: number }[]
+      }
+    ).results
+    expect(results.map((r) => [r.id, r.availability, r.spaces])).toEqual([
+      [1, 'open', 100],
+      [2, 'full', 0],
+    ])
+    const { json } = await call('find_activities', {
+      dateFrom: '2026-09-07',
+      dateTo: '2026-09-13',
+      availableOnly: true,
+    })
+    const out = json.result!.structuredContent as { link: string; results: { id: number }[] }
+    expect(out.results.map((r) => r.id)).toEqual([1])
+    expect(out.link).toBe(`${ORIGIN}/?week=2026-09-07&open=1`)
+  })
+
   it('find_activities resolves groups, clamps the range and rejects unknown groups', async () => {
     const { json } = await call('find_activities', {
       group: 'sports',
@@ -222,8 +243,12 @@ describe('domain tools', () => {
       sessions: { startIso: string }[]
       activenetUrl: string
       centre: { name: string }
+      availability?: string
+      spaces?: number
     }
     expect(out.centre.name).toBe('Britannia Pool')
+    expect(out.availability).toBe('open')
+    expect(out.spaces).toBe(100)
     expect(out.sessions[0]!.startIso).toBe('2026-09-07T07:00:00-07:00')
     expect(out.activenetUrl).toBe('https://example.com/free-swim/1')
     expect(json.result!.content![0]!.text).toContain('# Free Swim')

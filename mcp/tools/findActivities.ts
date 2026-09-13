@@ -3,7 +3,16 @@ import { weeksCovering } from '../../src/data/catalog.ts'
 import { startOfWeek } from '../../src/data/dates.ts'
 import { formatSessionStart } from '../../src/data/markdown.ts'
 import { filterOccurrences, groupSessions } from '../../src/data/search.ts'
-import { calendarRef, centreRef, dateString, dayOfWeek, hhmm, idList, session } from '../schemas.ts'
+import {
+  availability,
+  calendarRef,
+  centreRef,
+  dateString,
+  dayOfWeek,
+  hhmm,
+  idList,
+  session,
+} from '../schemas.ts'
 import { calendarIdsForGroup, calendarLink, resolveRange, summarise } from './shared.ts'
 import { defineTool, failure } from './types.ts'
 
@@ -17,6 +26,11 @@ const result = z.object({
   free: z.boolean(),
   ages: z.string().optional(),
   openings: z.string().optional(),
+  availability: availability.optional(),
+  spaces: z
+    .number()
+    .optional()
+    .describe('Remaining spaces when the openings label carries a count'),
   instructors: z.array(z.string()).optional(),
   url: z.string(),
   sessions: z.array(session).describe('Up to 10 matching sessions in the range'),
@@ -27,7 +41,7 @@ export const findActivities = defineTool({
   name: 'find_activities',
   title: 'Find activities',
   description:
-    'Find sessions of City of Vancouver recreation activities that match filters, for questions like "what can I do near Kitsilano on Saturday morning", "free drop-in swims this week" or "yoga for a 70-year-old under $10". Filters: free text, calendar group (Drop-in, Fitness, Sports, Art & Culture) or calendar ids, centre ids (see list_centres), a date range (defaults to today through six days ahead; at most eight weeks and within the snapshot period), days of week, a start-time window, a maximum price in CAD, free only, and participant age. Returns activities with their matching sessions in Vancouver local time, page URLs, and a covac.fyi calendar link showing the same filters.',
+    'Find sessions of City of Vancouver recreation activities that match filters, for questions like "what can I do near Kitsilano on Saturday morning", "free drop-in swims this week" or "yoga for a 70-year-old under $10". Filters: free text, calendar group (Drop-in, Fitness, Sports, Art & Culture) or calendar ids, centre ids (see list_centres), a date range (defaults to today through six days ahead; at most eight weeks and within the snapshot period), days of week, a start-time window, a maximum price in CAD, free only, available only (drops full, closed and cancelled activities), and participant age. Returns activities with their matching sessions in Vancouver local time, page URLs, and a covac.fyi calendar link showing the same filters.',
   inputSchema: z.object({
     query: z
       .string()
@@ -53,6 +67,10 @@ export const findActivities = defineTool({
       .optional()
       .describe('Highest price in CAD; activities with no listed price are excluded'),
     freeOnly: z.boolean().optional(),
+    availableOnly: z
+      .boolean()
+      .optional()
+      .describe('Exclude activities that are full, closed or cancelled as of the last scrape'),
     age: z.number().int().min(0).max(120).optional().describe('Participant age in years'),
     limit: z
       .number()
@@ -102,6 +120,7 @@ export const findActivities = defineTool({
         timeTo: args.timeTo,
         priceMax: args.priceMax,
         freeOnly: args.freeOnly,
+        availableOnly: args.availableOnly,
         age: args.age,
       },
     )
@@ -120,6 +139,7 @@ export const findActivities = defineTool({
       to: args.timeTo,
       days: args.days,
       priceMax: args.priceMax,
+      openOnly: args.availableOnly,
     })
     const structuredContent = {
       range: { from: range.from, to: range.to },

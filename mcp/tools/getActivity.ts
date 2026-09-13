@@ -1,7 +1,7 @@
 import * as z from 'zod'
 import { activityMarkdown, priceLabel } from '../../src/data/markdown.ts'
 import { toOffsetIso } from '../../src/data/tz.ts'
-import { calendarRef, id, session } from '../schemas.ts'
+import { availability, calendarRef, id, session } from '../schemas.ts'
 import { defineTool, failure } from './types.ts'
 
 export const getActivity = defineTool({
@@ -33,6 +33,11 @@ export const getActivity = defineTool({
     ageMin: z.number().optional(),
     ageMax: z.number().optional(),
     openings: z.string().optional(),
+    availability: availability.optional(),
+    spaces: z
+      .number()
+      .optional()
+      .describe('Remaining spaces when the openings label carries a count'),
     instructors: z.array(z.string()),
     runs: z.object({ first: z.string(), last: z.string() }).optional(),
     sessions: z.array(session.extend({ startIso: z.string(), endIso: z.string() })),
@@ -69,6 +74,8 @@ export const getActivity = defineTool({
       ageMin: detail.ageMin,
       ageMax: detail.ageMax,
       openings: detail.openings,
+      availability: detail.availability,
+      spaces: detail.spaces,
       instructors: detail.instructors,
       runs:
         detail.firstDate && detail.lastDate

@@ -44,6 +44,7 @@ export const fetchTool = defineTool({
         free: detail.free,
         ages: detail.ageText,
         openings: detail.openings,
+        availability: detail.availability,
         activenetUrl: detail.url,
         sessionCount: detail.sessions.length,
         nextSession: next?.s,

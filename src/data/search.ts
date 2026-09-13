@@ -4,6 +4,7 @@
  * agent asks for: a date range, an age, free-only, and text matching beyond the title.
  */
 import type { Calendar, Center, Occurrence } from '@/types/snapshot'
+import { isAvailable } from './availability'
 import type { CatalogActivity } from './catalog'
 import { dateOf, dayOfWeek, timeOf, toMinutes, type DateString } from './dates'
 import { matchesQuery } from './filters'
@@ -32,6 +33,8 @@ export interface SearchCriteria {
   /** Highest price in dollars; activities with an unknown price are excluded when set. */
   priceMax?: number
   freeOnly?: boolean
+  /** Drop activities known to be full, closed or cancelled. */
+  availableOnly?: boolean
   /** Participant age; activities whose known range excludes it are dropped. */
   age?: number
 }
@@ -78,6 +81,7 @@ export function matchesActivity(
     if (group?.toLowerCase() !== c.group.trim().toLowerCase()) return false
   }
   if (c.freeOnly && !activity.free && activity.price !== 0) return false
+  if (c.availableOnly && !isAvailable(activity)) return false
   if (c.priceMax !== undefined) {
     if (activity.price === undefined || activity.price > c.priceMax) return false
   }

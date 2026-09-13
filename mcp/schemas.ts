@@ -27,3 +27,7 @@ export const session = z.object({
 export const centreRef = z.object({ id: z.number(), name: z.string() })
 
 export const calendarRef = z.object({ id: z.number(), name: z.string(), group: z.string() })
+
+export const availability = z
+  .enum(['open', 'full', 'closed', 'cancelled'])
+  .describe('Registration status as of the last scrape; open includes unlimited openings')

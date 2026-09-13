@@ -3,6 +3,7 @@
  * `jsonLdScript` serialises them safely for embedding in HTML.
  */
 import type { Center, Occurrence } from '@/types/snapshot'
+import { isAvailable } from './availability'
 import type { ActivityDetail, SiteMeta } from './catalog'
 import { dateOf } from './dates'
 import { activityPageUrl, centrePageUrl, SITE_URL } from './links'
@@ -59,7 +60,8 @@ export function eventNodes(
   const place = placeNode(detail.center, site)
   const price = activityPrice(detail)
   const description = blurb(detail.descriptionText || detail.title, 500)
-  const soldOut = /^(full|closed)$/i.test(detail.openings ?? '')
+  const soldOut = !isAvailable(detail)
+  const cancelled = detail.availability === 'cancelled'
   const ageRange = typicalAgeRange(detail.ageMin, detail.ageMax)
   return sessions.map((session) => {
     const node: JsonLd = {
@@ -69,7 +71,9 @@ export function eventNodes(
       startDate: toOffsetIso(session.s),
       endDate: toOffsetIso(session.e),
       eventAttendanceMode: 'https://schema.org/OfflineEventAttendanceMode',
-      eventStatus: 'https://schema.org/EventScheduled',
+      eventStatus: cancelled
+        ? 'https://schema.org/EventCancelled'
+        : 'https://schema.org/EventScheduled',
       location: place,
       organizer: ORGANIZER,
       url: activityPageUrl(detail.id, site),
