@@ -36,6 +36,8 @@ export const snapshot: Snapshot = {
       free: true,
       ageText: 'All ages',
       openings: '100 openings remaining',
+      availability: 'open',
+      spaces: 100,
       firstDate: '2026-09-01',
       lastDate: '2026-11-10',
     },
@@ -54,6 +56,9 @@ export const snapshot: Snapshot = {
         { price: '$5.00', description: 'Drop-in' },
         { price: '$40.00', description: '10 visit pass' },
       ],
+      openings: 'Full',
+      availability: 'full',
+      spaces: 0,
     },
   ],
   occurrences: [

@@ -151,6 +151,47 @@ test('a price range from the URL is reflected in the slider label', async ({ pag
   )
 })
 
+test('chips show openings and the toggle hides unavailable sessions', async ({ page }) => {
+  await gotoWeek(page)
+  const count = page.getByText(/sessions this week/)
+  await expect(count).toBeVisible()
+  const all = Number((await count.textContent())!.replace(/[^\d]/g, ''))
+  const chips = page.getByRole('table').getByRole('button')
+  await expect(chips.first()).toBeVisible()
+  const labels = await chips.locator('[data-slot="openings"]').allTextContents()
+  expect(labels.length).toBeGreaterThan(0)
+  expect(labels.every((text) => /^(\d+ left|Unlimited|Full|Closed|Cancelled)$/.test(text))).toBe(
+    true,
+  )
+  const unavailable = page
+    .getByRole('table')
+    .locator(
+      '[data-availability="full"], [data-availability="closed"], [data-availability="cancelled"]',
+    )
+  expect(await unavailable.count()).toBeGreaterThan(0)
+  const toggle = page.getByRole('button', { name: 'Hide unavailable' })
+  await expect(toggle).toHaveAttribute('aria-pressed', 'false')
+  await toggle.click()
+  await expect(page).toHaveURL(/open=1/)
+  await expect(toggle).toHaveAttribute('aria-pressed', 'true')
+  await expect(unavailable).toHaveCount(0)
+  const open = Number((await count.textContent())!.replace(/[^\d]/g, ''))
+  expect(open).toBeGreaterThan(0)
+  expect(open).toBeLessThan(all)
+  await page.getByRole('button', { name: /Clear filters/ }).click()
+  await expect(page).not.toHaveURL(/open=/)
+  await expect(toggle).toHaveAttribute('aria-pressed', 'false')
+})
+
+test('open=1 in the URL arrives with the toggle pressed', async ({ page }) => {
+  await gotoWeek(page, '&open=1')
+  await expect(page.getByRole('button', { name: 'Hide unavailable' })).toHaveAttribute(
+    'aria-pressed',
+    'true',
+  )
+  await expect(page.getByRole('button', { name: /Clear filters/ })).toBeVisible()
+})
+
 test('clicking a session opens the detail panel with an ActiveNet link', async ({ page }) => {
   await gotoWeek(page)
   const chip = page.getByRole('table').getByRole('button').first()

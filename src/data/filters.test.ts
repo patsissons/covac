@@ -137,6 +137,35 @@ describe('applyFilters', () => {
     expect(hasActiveFilters({ ...base, priceMax: 0 })).toBe(true)
   })
 
+  it('hides full, closed and cancelled activities when openOnly is set', () => {
+    // Activity 3 has no availability at all and must survive the toggle.
+    const basketball = snapshot.activities[1]!
+    const withStatus = buildIndex({
+      ...snapshot,
+      activities: [
+        { ...snapshot.activities[0]!, availability: 'open', spaces: 12 },
+        { ...basketball, availability: 'full', spaces: 0 },
+        snapshot.activities[2]!,
+        { ...basketball, id: 4, availability: 'closed' },
+        { ...basketball, id: 5, availability: 'cancelled' },
+        { ...basketball, id: 6, availability: 'open' },
+      ],
+      occurrences: [
+        ...snapshot.occurrences,
+        { a: 3, s: '2026-09-13T10:00', e: '2026-09-13T11:00' },
+        { a: 4, s: '2026-09-13T11:00', e: '2026-09-13T12:00' },
+        { a: 5, s: '2026-09-13T12:00', e: '2026-09-13T13:00' },
+        { a: 6, s: '2026-09-13T13:00', e: '2026-09-13T14:00' },
+      ],
+    })
+    const base = emptyFilters(week)
+    expect(applyFilters(withStatus, base)).toHaveLength(7)
+    expect(applyFilters(withStatus, { ...base, openOnly: true }).map((o) => o.a)).toEqual([
+      1, 1, 3, 6,
+    ])
+    expect(hasActiveFilters({ ...base, openOnly: true })).toBe(true)
+  })
+
   it('searches title and instructor case-insensitively', () => {
     expect(applyFilters(index, { ...emptyFilters(week), q: 'SWIM' })).toHaveLength(2)
     expect(applyFilters(index, { ...emptyFilters(week), q: 'lovelace' })).toHaveLength(2)

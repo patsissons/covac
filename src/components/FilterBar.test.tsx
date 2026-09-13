@@ -87,6 +87,33 @@ describe('FilterBar', () => {
     expect(screen.getByRole('button', { name: /Clear filters/ })).toBeInTheDocument()
   })
 
+  it('toggles hiding unavailable sessions', async () => {
+    const onChange = vi.fn()
+    render(
+      <FilterBar index={index} filters={emptyFilters(week)} onChange={onChange} resultCount={3} />,
+    )
+    const toggle = screen.getByRole('button', { name: 'Hide unavailable' })
+    expect(toggle).toHaveAttribute('aria-pressed', 'false')
+    await userEvent.click(toggle)
+    expect(onChange).toHaveBeenLastCalledWith(expect.objectContaining({ openOnly: true }))
+  })
+
+  it('shows the availability toggle pressed and clearable', () => {
+    render(
+      <FilterBar
+        index={index}
+        filters={{ ...emptyFilters(week), openOnly: true }}
+        onChange={() => {}}
+        resultCount={2}
+      />,
+    )
+    expect(screen.getByRole('button', { name: 'Hide unavailable' })).toHaveAttribute(
+      'aria-pressed',
+      'true',
+    )
+    expect(screen.getByRole('button', { name: /Clear filters/ })).toBeInTheDocument()
+  })
+
   it('selects a calendar from the grouped list', async () => {
     const onChange = vi.fn()
     render(

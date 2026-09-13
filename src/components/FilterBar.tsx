@@ -1,4 +1,4 @@
-import { Check, ChevronsUpDown, Minus, Search, X } from 'lucide-react'
+import { Check, ChevronsUpDown, EyeOff, Minus, Search, X } from 'lucide-react'
 import { useState } from 'react'
 import { Badge } from '@/components/ui/badge'
 import { Button } from '@/components/ui/button'
@@ -20,6 +20,7 @@ import {
   SelectValue,
 } from '@/components/ui/select'
 import { Slider } from '@/components/ui/slider'
+import { Toggle } from '@/components/ui/toggle'
 import { ToggleGroup, ToggleGroupItem } from '@/components/ui/toggle-group'
 import { DAY_LABELS, formatTime } from '@/data/dates'
 import {
@@ -129,6 +130,15 @@ export function FilterBar({ index, filters, onChange, resultCount }: FilterBarPr
           max={filters.priceMax}
           onChange={(priceMin, priceMax) => set({ priceMin, priceMax })}
         />
+        <Toggle
+          variant="outline"
+          size="sm"
+          pressed={filters.openOnly}
+          onPressedChange={(openOnly) => set({ openOnly })}
+          aria-label="Hide unavailable"
+        >
+          <EyeOff /> Hide unavailable
+        </Toggle>
         <div className="relative min-w-40 flex-1">
           <Search className="text-muted-foreground pointer-events-none absolute top-1/2 left-2.5 size-4 -translate-y-1/2" />
           <Input
