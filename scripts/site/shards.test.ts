@@ -60,8 +60,12 @@ describe('generateSite', () => {
         today: '2026-09-08',
       })
       // 7 shards + 7 sitemap entries (home, two indexes, two centres, two activities)
-      // + llms.txt, llms-full.txt and two centre markdown files.
-      expect(report.files).toBe(18)
+      // + llms.txt, llms-full.txt, two centre markdown files and the MCP server card.
+      expect(report.files).toBe(19)
+      const card = JSON.parse(
+        await readFile(path.join(out, '.well-known', 'mcp', 'server-card.json'), 'utf8'),
+      )
+      expect(card.transport.endpoint).toBe('https://covac.fyi/mcp')
       const sitemap = await readFile(path.join(out, 'sitemap.xml'), 'utf8')
       expect(sitemap).toContain('<loc>https://covac.fyi/activities/2/</loc>')
       expect(sitemap).toContain('<loc>https://covac.fyi/centres/44/</loc>')

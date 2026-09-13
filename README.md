@@ -125,7 +125,9 @@ The server is a Cloudflare Pages Function (`functions/mcp.ts`, code in `mcp/`) b
 shards it needs through the `ASSETS` binding and caches them per isolate, which keeps a cold
 request within the Workers free plan's 10 ms CPU budget. `public/_routes.json` sends only
 `/mcp` and `/.well-known/mcp` to Functions; every other path is a free static request.
-`/.well-known/mcp` serves a small discovery manifest. Locally, `pnpm dev:cf` serves the endpoint
+For discovery, `/.well-known/mcp` serves a small manifest from a Function and the build writes a
+server card to `/.well-known/mcp/server-card.json` whose tool list is generated from the same
+definitions the server registers. Locally, `pnpm dev:cf` serves the endpoint
 at `http://localhost:8788/mcp`; `pnpm mcp:build` bundles the Functions as a check without
 serving them.
 

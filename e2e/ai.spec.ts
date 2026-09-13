@@ -184,4 +184,10 @@ test('MCP discovery documents are served', async ({ request }) => {
   expect(manifest.headers()['access-control-allow-origin']).toBe('*')
   const body = (await manifest.json()) as { endpoints: { streamable_http: string } }
   expect(body.endpoints.streamable_http).toBe('http://localhost:4173/mcp')
+  const card = await request.get('/.well-known/mcp/server-card.json')
+  expect(card.ok()).toBe(true)
+  expect(card.headers()['access-control-allow-origin']).toBe('*')
+  const json = (await card.json()) as { tools: { name: string }[]; transport: { endpoint: string } }
+  expect(json.transport.endpoint).toBe('https://covac.fyi/mcp')
+  expect(json.tools.map((t) => t.name)).toContain('find_activities')
 })

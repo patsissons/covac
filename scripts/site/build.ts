@@ -1,6 +1,6 @@
 /**
  * Generate everything derived from the snapshot for machine readers into the build output: data
- * shards, prerendered activity and centre pages, the sitemap and the llms files. Runs from the Vite plugin's
+ * shards, prerendered activity and centre pages, the sitemap, the llms files and the MCP server card. Runs from the Vite plugin's
  * `closeBundle` and from `pnpm site:generate`.
  */
 import { mkdir, writeFile } from 'node:fs/promises'
@@ -24,6 +24,7 @@ import {
   centresIndexPage,
   type PageContext,
 } from './pages.ts'
+import { writeServerCard } from './discovery.ts'
 import { centreMarkdown, centreMarkdownPath, llmsFullTxt, llmsTxt } from './llms.ts'
 import { writeShards } from './shards.ts'
 import { sitemapXml, type SitemapEntry } from './sitemap.ts'
@@ -136,5 +137,11 @@ export async function generateSite(options: SiteOptions): Promise<SiteReport> {
   const entries = await writePages(options)
   await writeText(path.join(options.outDir, 'sitemap.xml'), sitemapXml(entries))
   const llms = await writeLlms(options)
-  return { files: shards.length + entries.length + llms.length }
+  await writeServerCard({
+    outDir: options.outDir,
+    site: options.site ?? SITE_URL,
+    version: options.version,
+    period: options.snapshot.period,
+  })
+  return { files: shards.length + entries.length + llms.length + 1 }
 }
