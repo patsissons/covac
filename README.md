@@ -67,6 +67,17 @@ All `/data/*` responses carry `Access-Control-Allow-Origin: *` and five minutes 
 (`public/_headers`). Times are Vancouver local with no offset, as everywhere in the snapshot. The
 shapes are the TypeScript interfaces in `src/data/catalog.ts`.
 
+### Prerendered pages and structured data
+
+Search engines and AI crawlers do not run the app's JavaScript, so the build also prerenders
+plain HTML for every activity (`/activities/{id}/`) and centre (`/centres/{id}/`), plus two index
+pages, from `scripts/site/pages.ts`. Each page carries schema.org JSON-LD (one `Event` per
+upcoming session with Vancouver offsets, the centre as a `SportsActivityLocation`, breadcrumbs),
+a canonical URL, Open Graph tags, a link to the activity's JSON, the ActiveNet registration link
+and a deep link into the calendar. `sitemap.xml` lists them all; `public/robots.txt` allows every
+crawler explicitly, AI search bots included; the app shell in `index.html` gets `WebSite` and
+`Dataset` JSON-LD plus `<noscript>` links to the indexes at build time.
+
 ### The ActiveNet API
 
 The calendar page at `anc.ca.apm.activecommunities.com/vancouver/calendars` is a React app backed

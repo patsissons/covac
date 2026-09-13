@@ -10,6 +10,8 @@ import {
   collectionFile,
   readSnapshotFiles,
 } from './scripts/snapshot/files.ts'
+import { buildSiteMeta } from './src/data/catalog.ts'
+import { datasetNode, jsonLdScript, webSiteNode } from './src/data/jsonld.ts'
 import { vancouverToday } from './src/data/tz.ts'
 
 /**
@@ -31,6 +33,21 @@ function snapshotBundle(): Plugin {
       dataDir = path.join(config.publicDir, 'data')
     },
     buildStart: () => bundleSnapshot(dataDir),
+    /**
+     * Give the app shell structured data and no-JS links to the prerendered pages, so crawlers
+     * that do not run the app still learn what the site is and where the content lives.
+     */
+    async transformIndexHtml(html) {
+      const pkg = JSON.parse(await readFile('package.json', 'utf8')) as { version: string }
+      const meta = buildSiteMeta(await readSnapshotFiles(dataDir), pkg.version)
+      const jsonLd = jsonLdScript([webSiteNode(), datasetNode(meta)])
+      const noscript =
+        '<noscript><p>covac needs JavaScript for the calendar. Browse the static pages instead: ' +
+        '<a href="/activities/">all activities</a> or <a href="/centres/">recreation centres</a>.</p></noscript>'
+      return html
+        .replace('</head>', `    ${jsonLd}\n  </head>`)
+        .replace('<div id="root"></div>', `<div id="root"></div>\n    ${noscript}`)
+    },
     async closeBundle() {
       if (!isBuild) return
       await Promise.all(
