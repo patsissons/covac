@@ -36,7 +36,10 @@ ActiveNet REST API ──(pnpm scrape, nightly via GitHub Actions)──▶ publ
 3. A Vite plugin (`vite.config.ts`) merges the files into `public/data/snapshot.json` (about
    4 MB, 550 KB gzipped) before every dev server start and build. That bundle is gitignored, and
    the build output contains only the bundle, not the split files.
-4. The app loads the snapshot, indexes it in memory, and renders the week. The default **By time**
+4. The build also writes machine-readable views of the same data (data shards, prerendered
+   pages, `llms.txt`, see below) and a Cloudflare Pages Function serves an MCP endpoint over the
+   shards.
+5. The app loads the snapshot, indexes it in memory, and renders the week. The default **By time**
    view stacks every location into hourly rows so a glance down the Monday column shows everything
    between, say, 4 pm and 8 pm; **By location** gives one row per centre. Filters, the view and
    the selected week live in the query string
@@ -87,6 +90,45 @@ of every activity there: description, fees, ages, sessions, links) and the calen
 at build by `scripts/site/llms.ts` and served as text with CORS (`public/_headers`); the app
 shell links `llms.txt` as an alternate representation.
 
+### MCP server
+
+`https://covac.fyi/mcp` is a remote [Model Context Protocol](https://modelcontextprotocol.io)
+server (Streamable HTTP, no authentication, read-only) so agents can query the data directly.
+It speaks the 2026-07-28 stateless protocol and still answers 2025-era clients through the SDK's
+stateless legacy path. Add it to a client with its URL, for example:
+
+```sh
+claude mcp add --transport http covac https://covac.fyi/mcp
+npx @modelcontextprotocol/inspector   # then connect to https://covac.fyi/mcp
+```
+
+In ChatGPT it works as a custom connector (Settings → Connectors → Developer mode) and follows
+the connector contract: `search` returns `{ results: [{ id, title, url }] }` and `fetch`
+returns `{ id, title, text, url, metadata }`, both as structured content and as JSON text.
+
+| Tool              | What it does                                                                                    |
+| ----------------- | ----------------------------------------------------------------------------------------------- |
+| `search`          | Free-text search over titles, instructors, centres, calendars and descriptions; ids + page URLs |
+| `fetch`           | One activity as a markdown document with metadata                                               |
+| `find_activities` | Filter sessions by text, group, calendars, centres, dates, days, times, price, free only, age   |
+| `get_activity`    | Full structured record for one activity, sessions with UTC offsets                              |
+| `list_centres`    | Centres with address, phone, coordinates, activity counts                                       |
+| `list_calendars`  | Calendars and their groups                                                                      |
+| `get_schedule`    | Everything on one date, grouped by centre                                                       |
+| `snapshot_info`   | Scrape time, period, counts, weeks, links                                                       |
+
+It also exposes resources (`covac://snapshot`, `covac://centres`, `covac://calendars`,
+`covac://activities/{id}`) and a `plan_activities` prompt.
+
+The server is a Cloudflare Pages Function (`functions/mcp.ts`, code in `mcp/`) built on
+`@modelcontextprotocol/server`. It never parses the 4 MB snapshot: each tool reads only the
+shards it needs through the `ASSETS` binding and caches them per isolate, which keeps a cold
+request within the Workers free plan's 10 ms CPU budget. `public/_routes.json` sends only
+`/mcp` and `/.well-known/mcp` to Functions; every other path is a free static request.
+`/.well-known/mcp` serves a small discovery manifest. Locally, `pnpm dev:cf` serves the endpoint
+at `http://localhost:8788/mcp`; `pnpm mcp:build` bundles the Functions as a check without
+serving them.
+
 ### The ActiveNet API
 
 The calendar page at `anc.ca.apm.activecommunities.com/vancouver/calendars` is a React app backed
@@ -134,7 +176,8 @@ pnpm dev
 | `pnpm format:check`        | Check formatting without writing                               |
 | `pnpm typecheck`           | Run the TypeScript compiler over all project references        |
 | `pnpm lint`                | Run ESLint                                                     |
-| `pnpm validate:quick`      | Format check, type check, lint, and unit tests                 |
+| `pnpm mcp:build`           | Bundle the Pages Functions with wrangler as a compile check    |
+| `pnpm validate:quick`      | Format check, type check, lint, Functions bundle, unit tests   |
 | `pnpm validate`            | `validate:quick` followed by the e2e suite (what CI runs)      |
 | `pnpm format-and-validate` | Prettier write, then `validate`; run this before committing    |
 

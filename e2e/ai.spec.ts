@@ -99,3 +99,89 @@ test('Pages serving rules apply: redirects and headers', async ({ request }) => 
   const centre = await request.get(`/llms/centres/${activity.centerId}.md`)
   expect(centre.headers()['content-type']).toContain('text/markdown')
 })
+
+const ENVELOPE = {
+  'io.modelcontextprotocol/protocolVersion': '2026-07-28',
+  'io.modelcontextprotocol/clientInfo': { name: 'playwright', version: '0' },
+  'io.modelcontextprotocol/clientCapabilities': {},
+}
+
+test('the MCP endpoint lists tools and serves search and fetch', async ({ request }) => {
+  const activity = await sampleActivity()
+  const rpc = async (method: string, params: Record<string, unknown> = {}) => {
+    const headers: Record<string, string> = {
+      'content-type': 'application/json',
+      accept: 'application/json, text/event-stream',
+      'mcp-protocol-version': '2026-07-28',
+      'mcp-method': method,
+    }
+    if (typeof params.name === 'string') headers['mcp-name'] = params.name
+    const response = await request.post('/mcp', {
+      headers,
+      data: { jsonrpc: '2.0', id: 1, method, params: { ...params, _meta: ENVELOPE } },
+    })
+    expect(response.ok()).toBe(true)
+    expect(response.headers()['access-control-allow-origin']).toBe('*')
+    return (await response.json()) as { result: Record<string, unknown> }
+  }
+
+  const list = await rpc('tools/list')
+  const names = (list.result.tools as { name: string }[]).map((t) => t.name)
+  expect(names).toEqual([
+    'search',
+    'fetch',
+    'find_activities',
+    'get_activity',
+    'list_centres',
+    'list_calendars',
+    'get_schedule',
+    'snapshot_info',
+  ])
+
+  const search = await rpc('tools/call', {
+    name: 'search',
+    arguments: { query: activity.title.split(' ')[0] },
+  })
+  const results = (search.result.structuredContent as { results: { id: string; url: string }[] })
+    .results
+  expect(results.length).toBeGreaterThan(0)
+  expect(results[0]!.url).toMatch(/^http:\/\/localhost:4173\/activities\/\d+\/$/)
+
+  const fetched = await rpc('tools/call', { name: 'fetch', arguments: { id: String(activity.id) } })
+  const doc = fetched.result.structuredContent as { title: string; text: string; url: string }
+  expect(doc.title).toBe(activity.title)
+  expect(doc.text).toContain('ActiveNet')
+  expect(doc.url).toBe(`http://localhost:4173/activities/${activity.id}/`)
+
+  const info = await rpc('tools/call', { name: 'snapshot_info', arguments: {} })
+  expect(
+    (info.result.structuredContent as { counts: { activities: number } }).counts.activities,
+  ).toBeGreaterThan(100)
+})
+
+test('the MCP endpoint still answers 2025-era clients', async ({ request }) => {
+  const response = await request.post('/mcp', {
+    headers: { 'content-type': 'application/json', accept: 'application/json, text/event-stream' },
+    data: {
+      jsonrpc: '2.0',
+      id: 1,
+      method: 'initialize',
+      params: {
+        protocolVersion: '2025-06-18',
+        capabilities: {},
+        clientInfo: { name: 'old', version: '1' },
+      },
+    },
+  })
+  expect(response.ok()).toBe(true)
+  expect(await response.text()).toContain('"serverInfo"')
+})
+
+test('MCP discovery documents are served', async ({ request }) => {
+  const manifest = await request.get('/.well-known/mcp')
+  expect(manifest.ok()).toBe(true)
+  expect(manifest.headers()['content-type']).toContain('application/json')
+  expect(manifest.headers()['access-control-allow-origin']).toBe('*')
+  const body = (await manifest.json()) as { endpoints: { streamable_http: string } }
+  expect(body.endpoints.streamable_http).toBe('http://localhost:4173/mcp')
+})

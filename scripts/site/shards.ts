@@ -41,36 +41,37 @@ async function writeJson(file: string, value: unknown): Promise<void> {
   await writeFile(file, JSON.stringify(value))
 }
 
-/** Write every shard; returns the relative paths written. */
-export async function writeShards(options: ShardOptions): Promise<string[]> {
-  const { snapshot, outDir, version, today, site } = options
+/** Every shard as relative path → value, in the order they are written. */
+export function buildShardMap(options: Omit<ShardOptions, 'outDir'>): Map<string, unknown> {
+  const { snapshot, version, today, site } = options
   const index = buildIndex(snapshot)
   const byActivity = occurrencesByActivity(snapshot.occurrences)
-  const written: string[] = []
-  const put = (rel: string, value: unknown) => {
-    written.push(rel)
-    return writeJson(path.join(outDir, rel), value)
-  }
-
-  await put(SHARD_FILES.meta, buildSiteMeta(snapshot, version))
-  await put(SHARD_FILES.calendars, snapshot.calendars)
-  await put(SHARD_FILES.centres, buildCentres(snapshot))
-  await put(SHARD_FILES.catalog, buildCatalog(snapshot))
-  for (const week of buildWeekShards(snapshot)) await put(SHARD_FILES.week(week.week), week)
-
-  // Thousands of small files: write in batches so we neither serialise nor exhaust descriptors.
-  const batch = 64
-  for (let i = 0; i < snapshot.activities.length; i += batch) {
-    await Promise.all(
-      snapshot.activities
-        .slice(i, i + batch)
-        .map((activity) =>
-          put(
-            SHARD_FILES.activity(activity.id),
-            buildActivityDetail(index, activity, byActivity.get(activity.id) ?? [], today, site),
-          ),
-        ),
+  const shards = new Map<string, unknown>()
+  shards.set(SHARD_FILES.meta, buildSiteMeta(snapshot, version))
+  shards.set(SHARD_FILES.calendars, snapshot.calendars)
+  shards.set(SHARD_FILES.centres, buildCentres(snapshot))
+  shards.set(SHARD_FILES.catalog, buildCatalog(snapshot))
+  for (const week of buildWeekShards(snapshot)) shards.set(SHARD_FILES.week(week.week), week)
+  for (const activity of snapshot.activities) {
+    shards.set(
+      SHARD_FILES.activity(activity.id),
+      buildActivityDetail(index, activity, byActivity.get(activity.id) ?? [], today, site),
     )
   }
-  return written
+  return shards
+}
+
+/** Write every shard; returns the relative paths written. */
+export async function writeShards(options: ShardOptions): Promise<string[]> {
+  const entries = [...buildShardMap(options).entries()]
+  // Thousands of small files: write in batches so we neither serialise nor exhaust descriptors.
+  const batch = 64
+  for (let i = 0; i < entries.length; i += batch) {
+    await Promise.all(
+      entries
+        .slice(i, i + batch)
+        .map(([rel, value]) => writeJson(path.join(options.outDir, rel), value)),
+    )
+  }
+  return entries.map(([rel]) => rel)
 }
