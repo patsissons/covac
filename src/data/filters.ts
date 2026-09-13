@@ -25,6 +25,8 @@ export interface Filters {
   priceMin: number | null
   /** Highest price in dollars to include, or null for no maximum. */
   priceMax: number | null
+  /** Activity whose detail panel is open, or null. Not a filter, but part of the shareable URL. */
+  activity: number | null
 }
 
 export function emptyFilters(weekStart: DateString): Filters {
@@ -39,6 +41,7 @@ export function emptyFilters(weekStart: DateString): Filters {
     q: '',
     priceMin: null,
     priceMax: null,
+    activity: null,
   }
 }
 

@@ -45,7 +45,7 @@ describe('writeShards', () => {
     const detail = await read<ActivityDetail>(SHARD_FILES.activity(1))
     expect(detail.descriptionText).toBe('Recreational swim for everyone.')
     expect(detail.sessions).toHaveLength(2)
-    expect(detail.link).toBe('https://covac.fyi/?week=2026-09-07&centers=37&q=Free+Swim')
+    expect(detail.link).toBe('https://covac.fyi/?week=2026-09-07&centers=37&q=Free+Swim&activity=1')
   })
 })
 

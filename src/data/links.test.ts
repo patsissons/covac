@@ -35,7 +35,9 @@ describe('deepLink', () => {
 
 describe('activityDeepLink', () => {
   it('shows the centre in the week of the session, filtered to the title', () => {
-    const url = activityDeepLink({ title: 'Free Swim', centerId: 37 }, '2026-09-19')
-    expect(url).toBe('https://covac.fyi/?week=2026-09-14&centers=37&q=Free+Swim')
+    const url = activityDeepLink({ id: 1, title: 'Free Swim', centerId: 37 }, '2026-09-19')
+    expect(url).toBe('https://covac.fyi/?week=2026-09-14&centers=37&q=Free+Swim&activity=1')
+    const parsed = filtersFromSearch(new URL(url).search, '2000-01-03')
+    expect(parsed.activity).toBe(1)
   })
 })

@@ -24,11 +24,22 @@ export function deepLink(
   return `${site}/${filtersToSearch(full, '')}`
 }
 
-/** Calendar link showing one activity's centre in the week of a session, filtered to its title. */
+/**
+ * Calendar link that opens one activity's detail panel, showing its centre in the week of a
+ * session and filtered to its title.
+ */
 export function activityDeepLink(
-  activity: { title: string; centerId: number },
+  activity: { id: number; title: string; centerId: number },
   session: DateString,
   site = SITE_URL,
 ): string {
-  return deepLink({ weekStart: session, centerIds: [activity.centerId], q: activity.title }, site)
+  return deepLink(
+    {
+      weekStart: session,
+      centerIds: [activity.centerId],
+      q: activity.title,
+      activity: activity.id,
+    },
+    site,
+  )
 }

@@ -43,7 +43,7 @@ describe('activityPage', () => {
     expect(html).toContain('<h1>Free Swim</h1>')
     expect(html).toContain('href="https://example.com/free-swim/1"')
     expect(html).toContain(
-      'href="https://covac.fyi/?week=2026-09-07&amp;centers=37&amp;q=Free+Swim"',
+      'href="https://covac.fyi/?week=2026-09-07&amp;centers=37&amp;q=Free+Swim&amp;activity=1"',
     )
     expect(html).toContain('<time datetime="2026-09-07T07:00:00-07:00">7:00 am</time>')
     expect(html).toContain('href="https://covac.fyi/data/activities/1.json"')
