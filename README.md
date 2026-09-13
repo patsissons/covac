@@ -26,8 +26,8 @@ ActiveNet REST API ──(pnpm scrape, nightly via GitHub Actions)──▶ publ
 
 1. `scripts/scrape/` pulls every public calendar from the ActiveNet online calendar API,
    dedupes activities, strips ActiveNet's naming quirks, sanitizes descriptions, and enriches
-   each activity with age range, openings and centre coordinates from the per-activity details
-   endpoint. It writes one pretty-printed file per collection to `public/data/`
+   each activity with age range, openings (kept verbatim and parsed into an availability status
+   plus remaining spaces) and centre coordinates from the per-activity details endpoint. It writes one pretty-printed file per collection to `public/data/`
    (`snapshot.calendars.json`, `.centers`, `.facilities`, `.activities`, `.occurrences`; about
    5 MB in total) plus a small `snapshot.meta.json` with the scrape time, period and counts, so
    each nightly commit shows the lines that actually changed.
@@ -43,12 +43,15 @@ ActiveNet REST API ──(pnpm scrape, nightly via GitHub Actions)──▶ publ
    view stacks every location into hourly rows so a glance down the Monday column shows everything
    between, say, 4 pm and 8 pm; **By location** gives one row per centre. Filters, the view and
    the selected week live in the query string
-   (`?week=2026-09-14&view=location&cal=55&centers=37&from=12:00&days=6,0&q=swim&pmin=5&pmax=20`),
+   (`?week=2026-09-14&view=location&cal=55&centers=37&from=12:00&days=6,0&q=swim&pmin=5&pmax=20&open=1`),
    and `activity=<id>` opens that activity's detail panel, which is how the prerendered pages and
    MCP results deep-link into the calendar
    so any view can be shared. The price slider filters on each activity's lowest price (free
    counts as $0); activities whose price the snapshot does not know are hidden while a price
-   bound is set. Clicking the date range opens a day picker that jumps to that day's week.
+   bound is set. Every chip shows the openings as of the last scrape (`12 left`, `Unlimited`,
+   `Full`, `Closed`, `Cancelled`); full, closed and cancelled sessions are faded, and the **Hide
+   unavailable** toggle (`open=1`) drops them. Clicking the date range opens a day picker that
+   jumps to that day's week.
 
 ### Machine-readable data
 
@@ -58,15 +61,15 @@ Pages Function on the free plan can parse what one request needs inside its 10 m
 and they double as a public read-only data API. `pnpm site:generate` regenerates them into an
 existing `dist/` without rebuilding the app.
 
-| URL                          | Contents                                                                                           |
-| ---------------------------- | -------------------------------------------------------------------------------------------------- |
-| `/data/meta.json`            | Scrape time, period, counts, the Mondays of every week with sessions, generator version            |
-| `/data/calendars.json`       | The calendars with their group (`Drop-in`, `Fitness`, `Sports`, `Art & Culture`)                   |
-| `/data/centres.json`         | Centres with address, phone, coordinates and activity count, plus facilities                       |
-| `/data/catalog.json`         | Every activity without its description HTML, fee table or URL: enough to search and filter (~2 MB) |
-| `/data/weeks/{monday}.json`  | All sessions (`{a, s, e}`) in one Monday-based week                                                |
-| `/data/activities/{id}.json` | One activity in full: plain-text description, fees, centre, calendar, sessions and covac links     |
-| `/data/snapshot.json`        | The whole snapshot the app loads (~4 MB)                                                           |
+| URL                          | Contents                                                                                                                                  |
+| ---------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| `/data/meta.json`            | Scrape time, period, counts, the Mondays of every week with sessions, generator version                                                   |
+| `/data/calendars.json`       | The calendars with their group (`Drop-in`, `Fitness`, `Sports`, `Art & Culture`)                                                          |
+| `/data/centres.json`         | Centres with address, phone, coordinates and activity count, plus facilities                                                              |
+| `/data/catalog.json`         | Every activity without its description HTML, fee table or URL: enough to search and filter, including `availability` and `spaces` (~2 MB) |
+| `/data/weeks/{monday}.json`  | All sessions (`{a, s, e}`) in one Monday-based week                                                                                       |
+| `/data/activities/{id}.json` | One activity in full: plain-text description, fees, centre, calendar, sessions and covac links                                            |
+| `/data/snapshot.json`        | The whole snapshot the app loads (~4 MB)                                                                                                  |
 
 All `/data/*` responses carry `Access-Control-Allow-Origin: *` and five minutes of edge caching
 (`public/_headers`). Times are Vancouver local with no offset, as everywhere in the snapshot. The
@@ -108,16 +111,16 @@ In ChatGPT it works as a custom connector (Settings → Connectors → Developer
 the connector contract: `search` returns `{ results: [{ id, title, url }] }` and `fetch`
 returns `{ id, title, text, url, metadata }`, both as structured content and as JSON text.
 
-| Tool              | What it does                                                                                    |
-| ----------------- | ----------------------------------------------------------------------------------------------- |
-| `search`          | Free-text search over titles, instructors, centres, calendars and descriptions; ids + page URLs |
-| `fetch`           | One activity as a markdown document with metadata                                               |
-| `find_activities` | Filter sessions by text, group, calendars, centres, dates, days, times, price, free only, age   |
-| `get_activity`    | Full structured record for one activity, sessions with UTC offsets                              |
-| `list_centres`    | Centres with address, phone, coordinates, activity counts                                       |
-| `list_calendars`  | Calendars and their groups                                                                      |
-| `get_schedule`    | Everything on one date, grouped by centre                                                       |
-| `snapshot_info`   | Scrape time, period, counts, weeks, links                                                       |
+| Tool              | What it does                                                                                                  |
+| ----------------- | ------------------------------------------------------------------------------------------------------------- |
+| `search`          | Free-text search over titles, instructors, centres, calendars and descriptions; ids + page URLs               |
+| `fetch`           | One activity as a markdown document with metadata                                                             |
+| `find_activities` | Filter sessions by text, group, calendars, centres, dates, days, times, price, free only, available only, age |
+| `get_activity`    | Full structured record for one activity, sessions with UTC offsets                                            |
+| `list_centres`    | Centres with address, phone, coordinates, activity counts                                                     |
+| `list_calendars`  | Calendars and their groups                                                                                    |
+| `get_schedule`    | Everything on one date, grouped by centre                                                                     |
+| `snapshot_info`   | Scrape time, period, counts, weeks, links                                                                     |
 
 It also exposes resources (`covac://snapshot`, `covac://centres`, `covac://calendars`,
 `covac://activities/{id}`) and a `plan_activities` prompt.
@@ -138,12 +141,12 @@ serving them.
 The calendar page at `anc.ca.apm.activecommunities.com/vancouver/calendars` is a React app backed
 by an unauthenticated JSON API under `/vancouver/rest/onlinecalendar`. The scraper uses:
 
-| Endpoint                                 | Method | Notes                                                                                   |
-| ---------------------------------------- | ------ | --------------------------------------------------------------------------------------- |
-| `/calendars`                             | GET    | 24 calendars; id 23 is a "Choose a Calendar" placeholder                                |
-| `/filters`                               | POST   | `{"calendar_id": N}` → centres, facilities, categories and the calendar's date range    |
-| `/multicenter/events`                    | POST   | calendar id + all its centre ids → every session in the ~8 week window, in one response |
-| `/activity-details/{id}?selected_date=…` | GET    | age range, openings, price, centre address and lat/long                                 |
+| Endpoint                                 | Method | Notes                                                                                                |
+| ---------------------------------------- | ------ | ---------------------------------------------------------------------------------------------------- |
+| `/calendars`                             | GET    | 24 calendars; id 23 is a "Choose a Calendar" placeholder                                             |
+| `/filters`                               | POST   | `{"calendar_id": N}` → centres, facilities, categories and the calendar's date range                 |
+| `/multicenter/events`                    | POST   | calendar id + all its centre ids → every session in the ~8 week window, in one response              |
+| `/activity-details/{id}?selected_date=…` | GET    | age range, openings (`space_status` label and `space_type` code), price, centre address and lat/long |
 
 There are no date parameters; each calendar returns its whole rolling window. A full pull is 46
 bulk requests plus one details request per activity (about 3,200), and takes around two minutes
