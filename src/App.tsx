@@ -62,7 +62,9 @@ export function App() {
 function Calendar({ index }: { index: SnapshotIndex }) {
   const defaultWeek = useMemo(() => clampWeek(startOfWeek(today()), index), [index])
   const [filters, setFilters] = useUrlFilters(defaultWeek)
-  const [selectedActivity, setSelectedActivity] = useState<number | null>(null)
+  // The open activity lives in the URL too, so a link can land straight on its detail panel.
+  const selectedActivity = filters.activity
+  const setSelectedActivity = (activity: number | null) => setFilters({ ...filters, activity })
   const [selectedDay, setSelectedDay] = useState<DateString>(today())
   const [showMap, setShowMap] = useState(false)
   const compact = useMediaQuery('(max-width: 700px)')

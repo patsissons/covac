@@ -25,6 +25,8 @@ export interface Filters {
   priceMin: number | null
   /** Highest price in dollars to include, or null for no maximum. */
   priceMax: number | null
+  /** Activity whose detail panel is open, or null. Not a filter, but part of the shareable URL. */
+  activity: number | null
 }
 
 export function emptyFilters(weekStart: DateString): Filters {
@@ -39,6 +41,7 @@ export function emptyFilters(weekStart: DateString): Filters {
     q: '',
     priceMin: null,
     priceMax: null,
+    activity: null,
   }
 }
 
@@ -90,7 +93,8 @@ export function applyFilters(index: SnapshotIndex, filters: Filters): Occurrence
   return result
 }
 
-function matchesQuery(title: string, instructors: string[], q: string): boolean {
+/** Case-insensitive match of a lower-cased query against a title or any instructor name. */
+export function matchesQuery(title: string, instructors: string[], q: string): boolean {
   if (title.toLowerCase().includes(q)) return true
   return instructors.some((name) => name.toLowerCase().includes(q))
 }

@@ -10,10 +10,10 @@ export default defineConfig({
   test: {
     environment: 'jsdom',
     setupFiles: ['./vitest.setup.ts'],
-    include: ['src/**/*.test.{ts,tsx}', 'scripts/**/*.test.ts'],
+    include: ['src/**/*.test.{ts,tsx}', 'scripts/**/*.test.ts', 'mcp/**/*.test.ts'],
     coverage: {
       provider: 'v8',
-      include: ['src/**', 'scripts/**'],
+      include: ['src/**', 'scripts/**', 'mcp/**', 'functions/**'],
       exclude: ['src/components/ui/**', 'src/main.tsx'],
     },
   },

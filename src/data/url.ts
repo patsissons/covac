@@ -32,6 +32,8 @@ export function filtersFromSearch(search: string, defaultWeek: DateString): Filt
   filters.q = params.get('q') ?? ''
   filters.priceMin = price(params.get('pmin'))
   filters.priceMax = price(params.get('pmax'))
+  const activity = Number(params.get('activity'))
+  filters.activity = Number.isInteger(activity) && activity > 0 ? activity : null
   return filters
 }
 
@@ -48,6 +50,7 @@ export function filtersToSearch(filters: Filters, defaultWeek: DateString): stri
   if (filters.q.trim()) params.set('q', filters.q.trim())
   if (filters.priceMin !== null) params.set('pmin', String(filters.priceMin))
   if (filters.priceMax !== null) params.set('pmax', String(filters.priceMax))
+  if (filters.activity !== null) params.set('activity', String(filters.activity))
   const search = params.toString()
   return search ? `?${search}` : ''
 }

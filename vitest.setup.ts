@@ -6,7 +6,8 @@ import { cleanup } from '@testing-library/react'
 // vitest runs without globals, so unmount between tests explicitly.
 afterEach(cleanup)
 
-// jsdom lacks a few layout APIs that cmdk and Radix rely on.
+// jsdom lacks a few layout APIs that cmdk and Radix rely on. (Node-environment test files, such
+// as the MCP handler tests, have no Element at all, hence the guards.)
 if (typeof globalThis.ResizeObserver === 'undefined') {
   globalThis.ResizeObserver = class {
     observe() {}
@@ -14,6 +15,6 @@ if (typeof globalThis.ResizeObserver === 'undefined') {
     disconnect() {}
   }
 }
-if (!Element.prototype.scrollIntoView) {
+if (typeof Element !== 'undefined' && !Element.prototype.scrollIntoView) {
   Element.prototype.scrollIntoView = () => {}
 }

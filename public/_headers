@@ -1,0 +1,24 @@
+# Cloudflare Pages headers. Generated data and text files are meant for machine readers on other
+# origins, so they get CORS; five minutes of edge caching matches how often the data can change.
+/data/*
+  Cache-Control: public, max-age=300, stale-while-revalidate=86400
+  Access-Control-Allow-Origin: *
+
+/llms.txt
+  Content-Type: text/plain; charset=utf-8
+  Access-Control-Allow-Origin: *
+  Cache-Control: public, max-age=300, stale-while-revalidate=86400
+
+/llms-full.txt
+  Content-Type: text/plain; charset=utf-8
+  Access-Control-Allow-Origin: *
+  Cache-Control: public, max-age=300, stale-while-revalidate=86400
+
+/llms/*
+  Content-Type: text/markdown; charset=utf-8
+  Access-Control-Allow-Origin: *
+  Cache-Control: public, max-age=300, stale-while-revalidate=86400
+
+/.well-known/mcp/*
+  Access-Control-Allow-Origin: *
+  Cache-Control: public, max-age=3600

@@ -368,3 +368,21 @@ test.describe('phone width', () => {
     expect(r.next).toBe(true)
   })
 })
+
+test('the open activity lives in the URL and a deep link reopens it', async ({ page }) => {
+  await gotoWeek(page)
+  const chip = page.getByRole('table').getByRole('button').first()
+  const title = (await chip.locator('[data-slot="title"]').textContent())!
+  await chip.click()
+  const dialog = page.getByRole('dialog')
+  await expect(dialog).toBeVisible()
+  await expect(page).toHaveURL(/[?&]activity=\d+/)
+  const url = page.url()
+  await page.keyboard.press('Escape')
+  await expect(dialog).toBeHidden()
+  await expect(page).not.toHaveURL(/activity=/)
+
+  await page.goto(url)
+  await expect(page.getByRole('dialog')).toBeVisible()
+  await expect(page.getByRole('dialog')).toContainText(title)
+})

@@ -14,7 +14,9 @@ After making changes from a prompt and **before committing**:
 Conventions:
 
 - Tests import `describe`, `it`, and `expect` from `vitest` explicitly; test globals are off.
-- Import from `src/` with the `@/` alias.
+- Import from `src/` with the `@/` alias in app code. Code that is also bundled outside Vite
+  (`src/data/`, `src/types/`, `scripts/`, `mcp/`, `functions/`) may use `@/` only for type
+  imports; runtime imports there are relative, and ESLint enforces it.
 - UI primitives come from shadcn/ui in `src/components/ui/`; add new ones with
   `pnpm dlx shadcn@latest add <component>` rather than hand-writing them.
 - Keep commits small and focused on one logical change.
@@ -24,3 +26,13 @@ Conventions:
   trimmed copies of real API responses.
 - The snapshot shape in `src/types/snapshot.ts` is shared by the scraper and the app; changing it
   means re-running the scraper and updating both sides.
+- Everything derived from the snapshot for machines (data shards under `dist/data/`, prerendered
+  pages, `sitemap.xml`, `llms*.txt`) is generated into `dist/` by `scripts/site/` from the Vite
+  plugin's `closeBundle`; never commit generated files or write them into `public/`.
+- `mcp/` and `functions/` run on Cloudflare Workers: no DOM, no React, no `import.meta.env`, no
+  Node built-ins. The MCP server must never parse `snapshot.json`; every tool reads the small
+  shards through `env.ASSETS` (see `mcp/data.ts`) so a cold request stays under the free plan's
+  10 ms CPU budget. If a tool needs data that is not in a shard, add a shard. Exercise the
+  endpoint with `pnpm dev:cf`; `pnpm mcp:build` catches bundling mistakes.
+- Tool definitions live one per file in `mcp/tools/` and are listed in `mcp/tools/index.ts` in
+  the order `tools/list` returns them; keep names and schemas backward compatible.

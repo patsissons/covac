@@ -17,10 +17,11 @@ describe('url filters', () => {
       q: 'swim',
       priceMin: 5,
       priceMax: 20.5,
+      activity: 389427,
     }
     const search = filtersToSearch(filters, defaultWeek)
     expect(search).toBe(
-      '?week=2026-09-14&view=location&cal=55%2C3&centers=37&from=12%3A00&to=18%3A00&days=6%2C0&q=swim&pmin=5&pmax=20.5',
+      '?week=2026-09-14&view=location&cal=55%2C3&centers=37&from=12%3A00&to=18%3A00&days=6%2C0&q=swim&pmin=5&pmax=20.5&activity=389427',
     )
     expect(filtersFromSearch(search, defaultWeek)).toEqual(filters)
   })
@@ -28,9 +29,10 @@ describe('url filters', () => {
   it('omits defaults and ignores invalid values', () => {
     expect(filtersToSearch(emptyFilters(defaultWeek), defaultWeek)).toBe('')
     const parsed = filtersFromSearch(
-      '?week=nope&view=bogus&from=25&days=9,3&cal=x,55&pmin=-1&pmax=lots',
+      '?week=nope&view=bogus&from=25&days=9,3&cal=x,55&pmin=-1&pmax=lots&activity=-4',
       defaultWeek,
     )
+    expect(parsed.activity).toBeNull()
     expect(parsed.weekStart).toBe(defaultWeek)
     expect(parsed.view).toBe('time')
     expect(parsed.from).toBe('')
@@ -51,6 +53,14 @@ describe('url filters', () => {
     expect(filtersFromSearch('', defaultWeek)).toEqual(emptyFilters(defaultWeek))
     expect(filtersFromSearch('?cal=&centers=&days=', defaultWeek)).toEqual(
       emptyFilters(defaultWeek),
+    )
+  })
+
+  it('carries the open activity', () => {
+    expect(filtersFromSearch('?activity=42', defaultWeek).activity).toBe(42)
+    expect(filtersFromSearch('?activity=abc', defaultWeek).activity).toBeNull()
+    expect(filtersToSearch({ ...emptyFilters(defaultWeek), activity: 42 }, defaultWeek)).toBe(
+      '?activity=42',
     )
   })
 

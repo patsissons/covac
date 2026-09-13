@@ -149,7 +149,9 @@ export function FilterBar({ index, filters, onChange, resultCount }: FilterBarPr
           <Button
             variant="ghost"
             size="sm"
-            onClick={() => onChange(emptyFilters(filters.weekStart))}
+            onClick={() =>
+              onChange({ ...emptyFilters(filters.weekStart), activity: filters.activity })
+            }
           >
             <X /> Clear filters
           </Button>
