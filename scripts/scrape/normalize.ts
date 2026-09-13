@@ -9,6 +9,7 @@ import type {
 } from './api'
 import type {
   Activity,
+  Availability,
   Calendar,
   Center,
   Facility,
@@ -210,6 +211,47 @@ function addFacility(map: Map<number, Facility>, id: number, name: string, cente
   if (!map.has(id)) map.set(id, { id, name: cleanName(name), centerId })
 }
 
+export interface ParsedOpenings {
+  availability?: Availability
+  spaces?: number
+}
+
+const OPENINGS_COUNT = /^(\d+) openings? remaining$/i
+
+/**
+ * Turn ActiveNet's `space_status` label into a status and, when the label carries one, a count.
+ * The label is the only source of the count and the only thing that separates Closed from
+ * Cancelled; `space_type` is a fallback for wordings we have not seen.
+ */
+export function parseOpenings(status: string, type?: number): ParsedOpenings {
+  const label = status.trim()
+  const count = OPENINGS_COUNT.exec(label)
+  if (count) {
+    const spaces = Number(count[1])
+    return { availability: spaces > 0 ? 'open' : 'full', spaces }
+  }
+  switch (label.toLowerCase()) {
+    case 'unlimited openings':
+      return { availability: 'open' }
+    case 'full':
+      return { availability: 'full', spaces: 0 }
+    case 'closed':
+      return { availability: 'closed' }
+    case 'cancelled':
+      return { availability: 'cancelled' }
+  }
+  switch (type) {
+    case 2:
+      return { availability: 'open' }
+    case 3:
+      return { availability: 'full', spaces: 0 }
+    case 0:
+      return { availability: 'closed' }
+    default:
+      return {}
+  }
+}
+
 /** Merge per-activity detail responses into the snapshot. Returns the number of activities enriched. */
 export function applyEnrichment(
   snapshot: Snapshot,
@@ -224,7 +266,12 @@ export function applyEnrichment(
     if (detail.age_min_year != null) activity.ageMin = detail.age_min_year
     if (detail.age_max_year != null) activity.ageMax = detail.age_max_year
     if (detail.age_description) activity.ageText = detail.age_description
-    if (detail.space_status) activity.openings = detail.space_status
+    if (detail.space_status) {
+      activity.openings = detail.space_status
+      const { availability, spaces } = parseOpenings(detail.space_status, detail.space_type)
+      if (availability) activity.availability = availability
+      if (spaces !== undefined) activity.spaces = spaces
+    }
     const firstDate = toLocalDate(detail.first_date)
     const lastDate = toLocalDate(detail.last_date)
     if (firstDate) activity.firstDate = firstDate

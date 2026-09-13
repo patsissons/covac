@@ -62,10 +62,18 @@ export interface Activity {
   ageMin?: number
   ageMax?: number
   ageText?: string
+  /** ActiveNet's openings label verbatim: `24 openings remaining`, `Full`, `Closed`, … */
   openings?: string
+  /** Registration status parsed from `openings`; absent when it could not be parsed. */
+  availability?: Availability
+  /** Remaining spaces: N for `N openings remaining`, 0 for Full; absent for unlimited, closed and cancelled. */
+  spaces?: number
   firstDate?: string
   lastDate?: string
 }
+
+/** `open` includes unlimited openings; `full` may still have a waiting list. */
+export type Availability = 'open' | 'full' | 'closed' | 'cancelled'
 
 export interface PriceLine {
   /** `$182.00`, or a discount such as `50.00%`. */

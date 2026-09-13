@@ -17,6 +17,7 @@ import {
   cleanTitle,
   instructorNames,
   isPublicCalendar,
+  parseOpenings,
   priceLines,
   summarizePrice,
   sanitizeDescription,
@@ -186,6 +187,8 @@ describe('applyEnrichment', () => {
     expect(freeSwim.ageMax).toBe(18)
     expect(freeSwim.ageText).toBe('Age at least 13 yrs but less than 18y 11m')
     expect(freeSwim.openings).toBe('100 openings remaining')
+    expect(freeSwim.availability).toBe('open')
+    expect(freeSwim.spaces).toBe(100)
     expect(freeSwim.firstDate).toBe('2026-09-01')
     expect(freeSwim.lastDate).toBe('2026-11-10')
     const britannia = snapshot.centers.find((c) => c.id === 37)!
@@ -202,6 +205,34 @@ describe('applyEnrichment', () => {
     )
     expect(applyEnrichment(snapshot, new Map())).toBe(0)
     expect(snapshot.activities.every((a) => a.ageText === undefined)).toBe(true)
+  })
+})
+
+describe('parseOpenings', () => {
+  it.each([
+    ['24 openings remaining', { availability: 'open', spaces: 24 }],
+    ['1 opening remaining', { availability: 'open', spaces: 1 }],
+    ['0 openings remaining', { availability: 'full', spaces: 0 }],
+    ['Unlimited openings', { availability: 'open' }],
+    ['Full', { availability: 'full', spaces: 0 }],
+    ['Closed', { availability: 'closed' }],
+    ['Cancelled', { availability: 'cancelled' }],
+    ['  full ', { availability: 'full', spaces: 0 }],
+  ])('parses %j', (status, expected) => {
+    expect(parseOpenings(status)).toEqual(expected)
+  })
+
+  it('falls back on space_type for unknown wording', () => {
+    expect(parseOpenings('Waiting list', 2)).toEqual({ availability: 'open' })
+    expect(parseOpenings('Waiting list', 3)).toEqual({ availability: 'full', spaces: 0 })
+    expect(parseOpenings('Waiting list', 0)).toEqual({ availability: 'closed' })
+    expect(parseOpenings('Waiting list', 7)).toEqual({})
+    expect(parseOpenings('Waiting list')).toEqual({})
+  })
+
+  it('prefers the label over space_type when both are known', () => {
+    expect(parseOpenings('Cancelled', 0)).toEqual({ availability: 'cancelled' })
+    expect(parseOpenings('3 openings remaining', 3)).toEqual({ availability: 'open', spaces: 3 })
   })
 })
 
