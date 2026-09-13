@@ -190,6 +190,11 @@
     "centerId": 43
   },
   {
+    "id": 694,
+    "name": "Board Room",
+    "centerId": 32
+  },
+  {
     "id": 478,
     "name": "Board Room",
     "centerId": 44
@@ -943,11 +948,6 @@
     "id": 566,
     "name": "Off Site - Tapestry - North Room",
     "centerId": 48
-  },
-  {
-    "id": 3504,
-    "name": "Offsite - W Covered Area Britannia Elem",
-    "centerId": 38
   },
   {
     "id": 575,
