@@ -76,6 +76,8 @@ describe('filterOccurrences', () => {
     expect(drop({ days: [1] })).toEqual([1])
     expect(drop({ priceMax: 6 })).toEqual([1, 1, 2])
     expect(drop({ freeOnly: true })).toEqual([1, 1])
+    // Basketball (2) is full; Adult Lengths (3) has no availability and is kept.
+    expect(drop({ availableOnly: true })).toEqual([1, 1, 3])
     expect(drop({ age: 10 })).toEqual([1, 1, 2])
     expect(drop({ age: 30 })).toEqual([1, 1, 3, 2])
     expect(drop({ q: 'hastings' })).toEqual([2])

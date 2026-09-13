@@ -17,11 +17,12 @@ describe('url filters', () => {
       q: 'swim',
       priceMin: 5,
       priceMax: 20.5,
+      openOnly: true,
       activity: 389427,
     }
     const search = filtersToSearch(filters, defaultWeek)
     expect(search).toBe(
-      '?week=2026-09-14&view=location&cal=55%2C3&centers=37&from=12%3A00&to=18%3A00&days=6%2C0&q=swim&pmin=5&pmax=20.5&activity=389427',
+      '?week=2026-09-14&view=location&cal=55%2C3&centers=37&from=12%3A00&to=18%3A00&days=6%2C0&q=swim&pmin=5&pmax=20.5&open=1&activity=389427',
     )
     expect(filtersFromSearch(search, defaultWeek)).toEqual(filters)
   })
@@ -53,6 +54,15 @@ describe('url filters', () => {
     expect(filtersFromSearch('', defaultWeek)).toEqual(emptyFilters(defaultWeek))
     expect(filtersFromSearch('?cal=&centers=&days=', defaultWeek)).toEqual(
       emptyFilters(defaultWeek),
+    )
+  })
+
+  it('only honours open=1 for the availability toggle', () => {
+    expect(filtersFromSearch('?open=1', defaultWeek).openOnly).toBe(true)
+    expect(filtersFromSearch('?open=0', defaultWeek).openOnly).toBe(false)
+    expect(filtersFromSearch('?open=true', defaultWeek).openOnly).toBe(false)
+    expect(filtersToSearch({ ...emptyFilters(defaultWeek), openOnly: true }, defaultWeek)).toBe(
+      '?open=1',
     )
   })
 

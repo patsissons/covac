@@ -47,6 +47,29 @@ describe('WeekGrid', () => {
     )
   })
 
+  it('shows openings on each chip and fades unavailable ones', () => {
+    render(
+      <WeekGrid
+        index={index}
+        weekStart={week}
+        grid={grid}
+        days={[]}
+        onSelect={() => {}}
+        compact={false}
+        selectedDay={week}
+        onSelectDay={() => {}}
+      />,
+    )
+    const swim = screen.getAllByRole('button', { name: /Free Swim/ })[0]!
+    expect(swim).toHaveTextContent('100 left')
+    expect(swim).toHaveAttribute('data-availability', 'open')
+    expect(swim).not.toHaveClass('opacity-50')
+    const basketball = screen.getByRole('button', { name: /Basketball Drop-in/ })
+    expect(basketball).toHaveTextContent('Full')
+    expect(basketball).toHaveAttribute('data-availability', 'full')
+    expect(basketball).toHaveClass('opacity-50')
+  })
+
   it('reports the selected activity on chip click', async () => {
     const onSelect = vi.fn()
     render(

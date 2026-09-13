@@ -65,8 +65,10 @@ test('the data API serves the catalog and one activity', async ({ request }) => 
   const activity = await sampleActivity()
   const catalog = await request.get('/data/catalog.json')
   expect(catalog.ok()).toBe(true)
-  const body = await catalog.json()
+  const body = (await catalog.json()) as { activities: { availability?: string }[] }
   expect(body.activities.length).toBeGreaterThan(100)
+  // The nightly scrape classifies nearly every activity; open ones dominate.
+  expect(body.activities.filter((a) => a.availability === 'open').length).toBeGreaterThan(100)
   const detail = await request.get(`/data/activities/${activity.id}.json`)
   expect(detail.ok()).toBe(true)
   expect((await detail.json()).title).toBe(activity.title)

@@ -1,4 +1,5 @@
 import { useRef } from 'react'
+import { availabilityLabel, isAvailable } from '@/data/availability'
 import {
   addDays,
   dayOfWeek,
@@ -145,24 +146,30 @@ export function ActivityChip({
   if (!activity) return null
   const group = index.calendarById.get(activity.calendarId)?.group ?? ''
   const center = showLocation ? index.centerById.get(activity.centerId) : undefined
+  const openings = availabilityLabel(activity)
+  const unavailable = !isAvailable(activity)
   return (
     <button
       type="button"
       onClick={() => onSelect(activity.id)}
+      data-availability={activity.availability}
       className={cn(
-        'flex w-full flex-col rounded-md px-2 py-1 text-left text-xs leading-tight transition-colors',
+        'flex w-full flex-col rounded-md px-2 py-1 text-left text-xs leading-tight transition-[color,background-color,opacity]',
         'focus-visible:ring-ring focus-visible:ring-2 focus-visible:outline-none',
         groupStyle(group).chip,
+        // Faded when registration is not possible, restored on hover so it stays readable.
+        unavailable && 'opacity-50 hover:opacity-100 focus-visible:opacity-100',
       )}
     >
       <span className="font-medium tabular-nums">
         {formatTime(timeOf(occurrence.s))}–{formatTime(timeOf(occurrence.e))}
       </span>
       <span data-slot="title">{activity.title}</span>
-      <span className="flex flex-wrap justify-between gap-x-2 opacity-70">
-        {center ? <span>{center.name}</span> : <span />}
+      {center && <span className="opacity-70">{center.name}</span>}
+      <span className="flex justify-between gap-x-2 font-medium">
+        {openings ? <span data-slot="openings">{openings}</span> : <span />}
         {activity.priceText && (
-          <span className="shrink-0 font-medium tabular-nums">{activity.priceText}</span>
+          <span className="shrink-0 tabular-nums opacity-70">{activity.priceText}</span>
         )}
       </span>
     </button>

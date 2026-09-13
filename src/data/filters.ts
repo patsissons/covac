@@ -1,4 +1,5 @@
 import type { Occurrence } from '@/types/snapshot'
+import { isAvailable } from './availability'
 import { dateOf, dayOfWeek, timeOf, toMinutes, weekDays, type DateString } from './dates'
 import type { SnapshotIndex } from './index'
 
@@ -25,6 +26,8 @@ export interface Filters {
   priceMin: number | null
   /** Highest price in dollars to include, or null for no maximum. */
   priceMax: number | null
+  /** Hide activities known to be full, closed or cancelled. */
+  openOnly: boolean
   /** Activity whose detail panel is open, or null. Not a filter, but part of the shareable URL. */
   activity: number | null
 }
@@ -41,6 +44,7 @@ export function emptyFilters(weekStart: DateString): Filters {
     q: '',
     priceMin: null,
     priceMax: null,
+    openOnly: false,
     activity: null,
   }
 }
@@ -54,7 +58,8 @@ export function hasActiveFilters(filters: Filters): boolean {
     filters.days.length > 0 ||
     filters.q.trim() !== '' ||
     filters.priceMin !== null ||
-    filters.priceMax !== null
+    filters.priceMax !== null ||
+    filters.openOnly
   )
 }
 
@@ -81,6 +86,7 @@ export function applyFilters(index: SnapshotIndex, filters: Filters): Occurrence
       if (calendars.size && !calendars.has(activity.calendarId)) continue
       if (centers.size && !centers.has(activity.centerId)) continue
       if (q && !matchesQuery(activity.title, activity.instructors, q)) continue
+      if (filters.openOnly && !isAvailable(activity)) continue
       if (priced) {
         const price = index.priceById.get(activity.id)
         if (price === undefined) continue

@@ -6,6 +6,7 @@
  */
 import type {
   Activity,
+  Availability,
   Calendar,
   Center,
   Facility,
@@ -34,6 +35,8 @@ export interface CatalogActivity {
   ageMax?: number
   ageText?: string
   openings?: string
+  availability?: Availability
+  spaces?: number
   /** First ~200 characters of the plain-text description. */
   blurb?: string
   /** Earliest and latest session start in the snapshot window, and the number of sessions. */
@@ -112,6 +115,8 @@ export function toCatalogActivity(activity: Activity, sessions: Occurrence[]): C
   if (activity.ageMax !== undefined) row.ageMax = activity.ageMax
   if (activity.ageText) row.ageText = activity.ageText
   if (activity.openings) row.openings = activity.openings
+  if (activity.availability) row.availability = activity.availability
+  if (activity.spaces !== undefined) row.spaces = activity.spaces
   if (text) row.blurb = text
   if (sessions.length) {
     row.first = sessions[0]!.s

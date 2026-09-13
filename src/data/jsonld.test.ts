@@ -71,7 +71,7 @@ describe('eventNodes', () => {
   })
 
   it('marks full activities sold out and omits offers without a price', () => {
-    const full = { ...snapshot.activities[1]!, openings: 'Full' }
+    const full = { ...snapshot.activities[1]!, openings: 'Full', availability: 'full' as const }
     const detail = buildActivityDetail(index, full, sessions.get(2)!, '2026-09-07')
     const [event] = eventNodes(detail, detail.sessions)
     expect(event!.offers).toMatchObject({ price: 5, availability: 'https://schema.org/SoldOut' })
@@ -82,6 +82,19 @@ describe('eventNodes', () => {
       '2026-09-07',
     )
     expect(eventNodes(unpriced, unpriced.sessions)[0]).not.toHaveProperty('offers')
+  })
+
+  it('marks cancelled activities with the cancelled event status', () => {
+    const cancelled = {
+      ...snapshot.activities[1]!,
+      openings: 'Cancelled',
+      availability: 'cancelled' as const,
+      spaces: undefined,
+    }
+    const detail = buildActivityDetail(index, cancelled, sessions.get(2)!, '2026-09-07')
+    const [event] = eventNodes(detail, detail.sessions)
+    expect(event!.eventStatus).toBe('https://schema.org/EventCancelled')
+    expect(event!.offers).toMatchObject({ availability: 'https://schema.org/SoldOut' })
   })
 })
 

@@ -138,7 +138,10 @@ export interface RawActivityDetail {
   age_min_year: number | null
   age_max_year: number | null
   age_description: string
+  /** `24 openings remaining`, `Unlimited openings`, `Full`, `Closed` or `Cancelled`. */
   space_status: string
+  /** 2 = open (including unlimited), 3 = full, 0 = closed or cancelled. */
+  space_type?: number
   first_date: string
   last_date: string
   price: RawPrice

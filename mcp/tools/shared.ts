@@ -54,6 +54,8 @@ export function summarise(activity: CatalogActivity, ctx: SearchContext, site: s
     free: activity.free || activity.price === 0,
     ages: activity.ageText,
     openings: activity.openings,
+    availability: activity.availability,
+    spaces: activity.spaces,
     instructors: activity.instructors,
     url: `${site}/activities/${activity.id}/`,
   }
@@ -70,6 +72,7 @@ export function calendarLink(
     to?: string
     days?: number[]
     priceMax?: number
+    openOnly?: boolean
   },
 ): string {
   return deepLink(
@@ -82,6 +85,7 @@ export function calendarLink(
       to: filters.to ?? '',
       days: filters.days ?? [],
       priceMax: filters.priceMax ?? null,
+      openOnly: filters.openOnly ?? false,
     },
     site,
   )

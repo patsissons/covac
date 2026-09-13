@@ -22,6 +22,9 @@ describe('buildCatalog', () => {
       price: 0,
       instructors: ['Ada Lovelace'],
       blurb: 'Recreational swim for everyone.',
+      openings: '100 openings remaining',
+      availability: 'open',
+      spaces: 100,
       first: '2026-09-07T07:00',
       last: '2026-09-08T14:00',
       n: 2,
@@ -30,6 +33,7 @@ describe('buildCatalog', () => {
     expect(swim).not.toHaveProperty('url')
     const ball = catalog.activities.find((a) => a.id === 2)!
     expect(ball.price).toBe(5)
+    expect(ball).toMatchObject({ availability: 'full', spaces: 0 })
     expect(ball).not.toHaveProperty('instructors')
     expect(ball).not.toHaveProperty('blurb')
   })
