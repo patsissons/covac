@@ -90,7 +90,8 @@ export function applyFilters(index: SnapshotIndex, filters: Filters): Occurrence
   return result
 }
 
-function matchesQuery(title: string, instructors: string[], q: string): boolean {
+/** Case-insensitive match of a lower-cased query against a title or any instructor name. */
+export function matchesQuery(title: string, instructors: string[], q: string): boolean {
   if (title.toLowerCase().includes(q)) return true
   return instructors.some((name) => name.toLowerCase().includes(q))
 }

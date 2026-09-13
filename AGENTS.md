@@ -14,7 +14,9 @@ After making changes from a prompt and **before committing**:
 Conventions:
 
 - Tests import `describe`, `it`, and `expect` from `vitest` explicitly; test globals are off.
-- Import from `src/` with the `@/` alias.
+- Import from `src/` with the `@/` alias in app code. Code that is also bundled outside Vite
+  (`src/data/`, `src/types/`, `scripts/`, `mcp/`, `functions/`) may use `@/` only for type
+  imports; runtime imports there are relative, and ESLint enforces it.
 - UI primitives come from shadcn/ui in `src/components/ui/`; add new ones with
   `pnpm dlx shadcn@latest add <component>` rather than hand-writing them.
 - Keep commits small and focused on one logical change.
