@@ -78,6 +78,15 @@ and a deep link into the calendar. `sitemap.xml` lists them all; `public/robots.
 crawler explicitly, AI search bots included; the app shell in `index.html` gets `WebSite` and
 `Dataset` JSON-LD plus `<noscript>` links to the indexes at build time.
 
+### llms.txt
+
+`/llms.txt` is a short markdown index for language models: what the site is, how to query it (MCP
+endpoint and the data API above), one link per centre to `/llms/centres/{id}.md` (full write-ups
+of every activity there: description, fees, ages, sessions, links) and the calendar list.
+`/llms-full.txt` lists every activity on one line with a link to its page. All three are generated
+at build by `scripts/site/llms.ts` and served as text with CORS (`public/_headers`); the app
+shell links `llms.txt` as an alternate representation.
+
 ### The ActiveNet API
 
 The calendar page at `anc.ca.apm.activecommunities.com/vancouver/calendars` is a React app backed

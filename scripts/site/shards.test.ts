@@ -59,13 +59,18 @@ describe('generateSite', () => {
         version: '0',
         today: '2026-09-08',
       })
-      // 7 shards + home, two indexes, two centre pages and two activity pages in the sitemap.
-      expect(report.files).toBe(14)
+      // 7 shards + 7 sitemap entries (home, two indexes, two centres, two activities)
+      // + llms.txt, llms-full.txt and two centre markdown files.
+      expect(report.files).toBe(18)
       const sitemap = await readFile(path.join(out, 'sitemap.xml'), 'utf8')
       expect(sitemap).toContain('<loc>https://covac.fyi/activities/2/</loc>')
       expect(sitemap).toContain('<loc>https://covac.fyi/centres/44/</loc>')
       await readFile(path.join(out, 'activities', '1', 'index.html'), 'utf8')
       await readFile(path.join(out, 'centres', 'index.html'), 'utf8')
+      expect(await readFile(path.join(out, 'llms.txt'), 'utf8')).toContain('# covac')
+      expect(await readFile(path.join(out, 'llms', 'centres', '37.md'), 'utf8')).toContain(
+        '# Britannia Pool',
+      )
     } finally {
       await rm(out, { recursive: true, force: true })
     }

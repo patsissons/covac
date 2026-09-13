@@ -44,8 +44,10 @@ function snapshotBundle(): Plugin {
       const noscript =
         '<noscript><p>covac needs JavaScript for the calendar. Browse the static pages instead: ' +
         '<a href="/activities/">all activities</a> or <a href="/centres/">recreation centres</a>.</p></noscript>'
+      const alternate =
+        '<link rel="alternate" type="text/plain" href="/llms.txt" title="llms.txt" />'
       return html
-        .replace('</head>', `    ${jsonLd}\n  </head>`)
+        .replace('</head>', `    ${alternate}\n    ${jsonLd}\n  </head>`)
         .replace('<div id="root"></div>', `<div id="root"></div>\n    ${noscript}`)
     },
     async closeBundle() {
