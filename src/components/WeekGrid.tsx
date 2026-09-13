@@ -165,14 +165,12 @@ export function ActivityChip({
         {formatTime(timeOf(occurrence.s))}–{formatTime(timeOf(occurrence.e))}
       </span>
       <span data-slot="title">{activity.title}</span>
-      <span className="flex flex-wrap justify-between gap-x-2">
-        {center ? <span className="opacity-70">{center.name}</span> : <span />}
-        <span className="flex shrink-0 gap-x-2 font-medium">
-          {activity.priceText && (
-            <span className="tabular-nums opacity-70">{activity.priceText}</span>
-          )}
-          {openings && <span data-slot="openings">{openings}</span>}
-        </span>
+      {center && <span className="opacity-70">{center.name}</span>}
+      <span className="flex justify-between gap-x-2 font-medium">
+        {openings ? <span data-slot="openings">{openings}</span> : <span />}
+        {activity.priceText && (
+          <span className="shrink-0 tabular-nums opacity-70">{activity.priceText}</span>
+        )}
       </span>
     </button>
   )
