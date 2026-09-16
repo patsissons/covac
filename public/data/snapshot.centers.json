@@ -136,6 +136,14 @@
     "phone": "(604) 257-8121"
   },
   {
+    "id": 34,
+    "name": "Kerrisdale Pool",
+    "lat": 49.2332,
+    "lng": -123.1564,
+    "address": "5851 West Boulevard, Vancouver",
+    "phone": "(604) 257-8100"
+  },
+  {
     "id": 35,
     "name": "Killarney Community Centre",
     "lat": 49.2269,

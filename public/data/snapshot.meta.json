@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-15T14:40:11.742Z",
+  "generatedAt": "2026-09-16T14:39:29.496Z",
   "period": {
     "start": "2026-09-13",
     "end": "2026-11-09"
   },
   "counts": {
     "calendars": 23,
-    "centers": 40,
-    "activities": 3641,
-    "occurrences": 17626,
-    "enriched": 3641
+    "centers": 41,
+    "activities": 3643,
+    "occurrences": 17722,
+    "enriched": 3643
   }
 }
