@@ -107,9 +107,8 @@
     "ageMin": 13,
     "ageMax": 18,
     "ageText": "Age at least 13 yrs but less than 18y 11m",
-    "openings": "100 openings remaining",
-    "availability": "open",
-    "spaces": 100,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-01",
     "lastDate": "2026-11-10"
   },
@@ -387,10 +386,11 @@
     "ageMin": 0,
     "ageMax": 0,
     "ageText": "All ages",
-    "openings": "Closed",
-    "availability": "closed",
-    "firstDate": "2026-09-13",
-    "lastDate": "2026-09-15"
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
+    "firstDate": "2026-09-18",
+    "lastDate": "2026-09-25"
   },
   {
     "id": 603780,
@@ -2344,9 +2344,9 @@
     "ageMin": 18,
     "ageMax": 100,
     "ageText": "Age at least 18 yrs but less than 100 yrs",
-    "openings": "8 openings remaining",
+    "openings": "7 openings remaining",
     "availability": "open",
-    "spaces": 8,
+    "spaces": 7,
     "firstDate": "2026-09-10",
     "lastDate": "2026-11-26",
     "prices": [
@@ -3274,6 +3274,40 @@
     ]
   },
   {
+    "id": 620777,
+    "title": "Zumba (Wed) Nov/Dec",
+    "calendarId": 56,
+    "centerId": 38,
+    "facilityIds": [
+      348
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/zumba-wed-nov-dec/620777",
+    "description": "<p>ZUMBA® fuses Latin rhythms and easy to follow moves to create a dynamic workout system designed for everyone at any fitness level. Using fitness principles of interval and resistance training to maximize caloric output, fat burning, and total body toning. It combines Salsa, Cumbia, Merengue, and more giving you a feel-happy workout that is great for both the body and the mind. <a href=\"http://www.zumbavancouver.ca\">www.zumbavancouver.ca</a></p><p>$15/Drop in </p><p>Instructor: Kathy-Ann</p><p><b>No sess Nov 11</b></p>",
+    "instructors": [
+      "DNA Wellness Co."
+    ],
+    "priceText": "$81.00",
+    "free": false,
+    "ageMin": 18,
+    "ageMax": 99,
+    "ageText": "Age at least 18 yrs but less than 99 yrs",
+    "openings": "50 openings remaining",
+    "availability": "open",
+    "spaces": 50,
+    "firstDate": "2026-11-04",
+    "lastDate": "2026-12-16",
+    "prices": [
+      {
+        "price": "$81.00",
+        "description": "Standard charge"
+      },
+      {
+        "price": "50.00%",
+        "description": "Leisure Access - CCA: for Customer"
+      }
+    ]
+  },
+  {
     "id": 620778,
     "title": "Zumba (Wed) Sept/Oct",
     "calendarId": 56,
@@ -3282,7 +3316,7 @@
       348
     ],
     "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/zumba-wed-sept-oct/620778",
-    "description": "<p>ZUMBA® fuses Latin rhythms and easy to follow moves to create a dynamic workout system designed for everyone at any fitness level. Using fitness principles of interval and resistance training to maximize caloric output, fat burning, and total body toning. It combines Salsa, Cumbia, Merengue, and more giving you a feel-happy workout that is great for both the body and the mind.<a href=\"http://www.zumbavancouver.ca/\">www.zumbavancouver.ca</a></p>$15/Drop in <br />Instructor: Denise<br /><b>No class Sept 30</b>",
+    "description": "<p>ZUMBA® fuses Latin rhythms and easy to follow moves to create a dynamic workout system designed for everyone at any fitness level. Using fitness principles of interval and resistance training to maximize caloric output, fat burning, and total body toning. It combines Salsa, Cumbia, Merengue, and more giving you a feel-happy workout that is great for both the body and the mind.<a href=\"http://www.zumbavancouver.ca/\">www.zumbavancouver.ca</a></p>$15/Drop in <br />Instructor: Kathy-Ann<br /><b>No class Sept 30</b>",
     "instructors": [
       "DNA Wellness Co."
     ],
@@ -5295,9 +5329,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "7 openings remaining",
-    "availability": "open",
-    "spaces": 7,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-18",
     "lastDate": "2026-09-18",
     "prices": [
@@ -5550,9 +5583,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "22 openings remaining",
-    "availability": "open",
-    "spaces": 22,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-09-21",
     "lastDate": "2026-09-21",
     "prices": [
@@ -5996,9 +6029,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "42 openings remaining",
-    "availability": "open",
-    "spaces": 42,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-09-21",
     "lastDate": "2026-09-21",
     "prices": [
@@ -7763,9 +7796,9 @@
     "ageMin": 55,
     "ageMax": 0,
     "ageText": "55 yrs +",
-    "openings": "4 openings remaining",
+    "openings": "2 openings remaining",
     "availability": "open",
-    "spaces": 4,
+    "spaces": 2,
     "firstDate": "2026-09-18",
     "lastDate": "2026-12-11",
     "prices": [
@@ -8513,9 +8546,9 @@
     "ageMin": 45,
     "ageMax": 0,
     "ageText": "45 yrs +",
-    "openings": "22 openings remaining",
+    "openings": "21 openings remaining",
     "availability": "open",
-    "spaces": 22,
+    "spaces": 21,
     "firstDate": "2026-09-09",
     "lastDate": "2026-10-28",
     "prices": [
@@ -8581,9 +8614,9 @@
     "ageMin": 45,
     "ageMax": 0,
     "ageText": "45 yrs +",
-    "openings": "21 openings remaining",
+    "openings": "19 openings remaining",
     "availability": "open",
-    "spaces": 21,
+    "spaces": 19,
     "firstDate": "2026-09-11",
     "lastDate": "2026-10-30",
     "prices": [
@@ -8806,9 +8839,9 @@
     "ageMin": 5,
     "ageMax": 7,
     "ageText": "Age at least 5 yrs but less than 7y 11m",
-    "openings": "10 openings remaining",
+    "openings": "9 openings remaining",
     "availability": "open",
-    "spaces": 10,
+    "spaces": 9,
     "firstDate": "2026-09-19",
     "lastDate": "2026-12-19",
     "prices": [
@@ -9108,9 +9141,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "7 openings remaining",
+    "openings": "6 openings remaining",
     "availability": "open",
-    "spaces": 7,
+    "spaces": 6,
     "firstDate": "2026-09-20",
     "lastDate": "2026-09-20",
     "prices": [
@@ -9664,9 +9697,9 @@
     "ageMin": 55,
     "ageMax": 0,
     "ageText": "55 yrs +",
-    "openings": "3 openings remaining",
+    "openings": "2 openings remaining",
     "availability": "open",
-    "spaces": 3,
+    "spaces": 2,
     "firstDate": "2026-09-19",
     "lastDate": "2026-09-19",
     "prices": [
@@ -10743,9 +10776,9 @@
     "ageMin": 13,
     "ageMax": 18,
     "ageText": "Age at least 13 yrs but less than 18y 11m",
-    "openings": "28 openings remaining",
+    "openings": "16 openings remaining",
     "availability": "open",
-    "spaces": 28,
+    "spaces": 16,
     "firstDate": "2026-09-11",
     "lastDate": "2026-12-11"
   },
@@ -10768,9 +10801,9 @@
     "ageMin": 2,
     "ageMax": 13,
     "ageText": "Age at least 2 yrs but less than 13 yrs",
-    "openings": "57 openings remaining",
+    "openings": "55 openings remaining",
     "availability": "open",
-    "spaces": 57,
+    "spaces": 55,
     "firstDate": "2026-10-30",
     "lastDate": "2026-10-30"
   },
@@ -11690,9 +11723,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "1 opening remaining",
-    "availability": "open",
-    "spaces": 1,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-09-11",
     "lastDate": "2026-12-18",
     "prices": [
@@ -12470,9 +12503,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "2 openings remaining",
-    "availability": "open",
-    "spaces": 2,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-10-19",
     "lastDate": "2026-11-09",
     "prices": [
@@ -14008,9 +14041,9 @@
     "ageMin": 2,
     "ageMax": 5,
     "ageText": "Age at least 2y 6m but less than 5y 11m",
-    "openings": "5 openings remaining",
+    "openings": "7 openings remaining",
     "availability": "open",
-    "spaces": 5,
+    "spaces": 7,
     "firstDate": "2026-09-15",
     "lastDate": "2026-10-20",
     "prices": [
@@ -14605,9 +14638,9 @@
     "ageMin": 2,
     "ageMax": 4,
     "ageText": "Age at least 2 yrs but less than 4y 11m 4w",
-    "openings": "8 openings remaining",
+    "openings": "7 openings remaining",
     "availability": "open",
-    "spaces": 8,
+    "spaces": 7,
     "firstDate": "2026-09-17",
     "lastDate": "2026-10-29",
     "prices": [
@@ -18616,9 +18649,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "45 openings remaining",
+    "openings": "44 openings remaining",
     "availability": "open",
-    "spaces": 45,
+    "spaces": 44,
     "firstDate": "2026-09-04",
     "lastDate": "2026-12-18",
     "prices": [
@@ -18956,9 +18989,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "2 openings remaining",
+    "openings": "1 opening remaining",
     "availability": "open",
-    "spaces": 2,
+    "spaces": 1,
     "firstDate": "2026-09-12",
     "lastDate": "2026-09-26",
     "prices": [
@@ -19646,9 +19679,9 @@
     "ageMin": 55,
     "ageMax": 0,
     "ageText": "55 yrs +",
-    "openings": "6 openings remaining",
+    "openings": "5 openings remaining",
     "availability": "open",
-    "spaces": 6,
+    "spaces": 5,
     "firstDate": "2026-09-25",
     "lastDate": "2026-12-11"
   },
@@ -20581,9 +20614,9 @@
     "ageMin": 18,
     "ageMax": 0,
     "ageText": "18 yrs +",
-    "openings": "1 opening remaining",
-    "availability": "open",
-    "spaces": 1,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-09-17",
     "lastDate": "2026-12-10",
     "prices": [
@@ -22876,9 +22909,9 @@
     "ageMin": 16,
     "ageMax": 0,
     "ageText": "16 yrs +",
-    "openings": "10 openings remaining",
+    "openings": "9 openings remaining",
     "availability": "open",
-    "spaces": 10,
+    "spaces": 9,
     "firstDate": "2026-09-26",
     "lastDate": "2026-12-19",
     "prices": [
@@ -22910,9 +22943,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "10 openings remaining",
+    "openings": "9 openings remaining",
     "availability": "open",
-    "spaces": 10,
+    "spaces": 9,
     "firstDate": "2026-09-11",
     "lastDate": "2026-12-18",
     "prices": [
@@ -23339,9 +23372,9 @@
     "ageMin": 13,
     "ageMax": 18,
     "ageText": "Age at least 13 yrs but less than 18y 11m",
-    "openings": "8 openings remaining",
+    "openings": "7 openings remaining",
     "availability": "open",
-    "spaces": 8,
+    "spaces": 7,
     "firstDate": "2026-11-04",
     "lastDate": "2026-12-16",
     "prices": [
@@ -23609,9 +23642,9 @@
     "ageMin": 18,
     "ageMax": 0,
     "ageText": "18 yrs +",
-    "openings": "11 openings remaining",
+    "openings": "10 openings remaining",
     "availability": "open",
-    "spaces": 11,
+    "spaces": 10,
     "firstDate": "2026-09-17",
     "lastDate": "2026-10-29",
     "prices": [
@@ -25024,9 +25057,9 @@
     "ageMin": 16,
     "ageMax": 0,
     "ageText": "16 yrs +",
-    "openings": "4 openings remaining",
+    "openings": "3 openings remaining",
     "availability": "open",
-    "spaces": 4,
+    "spaces": 3,
     "firstDate": "2026-09-12",
     "lastDate": "2026-12-12",
     "prices": [
@@ -26531,9 +26564,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "24 openings remaining",
-    "availability": "open",
-    "spaces": 24,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-09-21",
     "lastDate": "2026-09-21",
     "prices": [
@@ -26735,9 +26768,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-18",
     "lastDate": "2026-09-18",
     "prices": [
@@ -28152,9 +28184,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "1 opening remaining",
+    "availability": "open",
+    "spaces": 1,
     "firstDate": "2026-09-14",
     "lastDate": "2026-12-14",
     "prices": [
@@ -28408,9 +28440,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "1 opening remaining",
-    "availability": "open",
-    "spaces": 1,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-09-10",
     "lastDate": "2026-12-17",
     "prices": [
@@ -28602,9 +28634,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "5 openings remaining",
+    "openings": "3 openings remaining",
     "availability": "open",
-    "spaces": 5,
+    "spaces": 3,
     "firstDate": "2026-09-14",
     "lastDate": "2026-11-23",
     "prices": [
@@ -28796,9 +28828,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "47 openings remaining",
+    "openings": "45 openings remaining",
     "availability": "open",
-    "spaces": 47,
+    "spaces": 45,
     "firstDate": "2026-09-11",
     "lastDate": "2026-12-18",
     "prices": [
@@ -31284,9 +31316,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "11 openings remaining",
+    "openings": "9 openings remaining",
     "availability": "open",
-    "spaces": 11,
+    "spaces": 9,
     "firstDate": "2026-09-18",
     "lastDate": "2026-10-23",
     "prices": [
@@ -31735,9 +31767,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "24 openings remaining",
+    "openings": "23 openings remaining",
     "availability": "open",
-    "spaces": 24,
+    "spaces": 23,
     "firstDate": "2026-09-08",
     "lastDate": "2026-10-27",
     "prices": [
@@ -31968,9 +32000,9 @@
     "ageMin": 55,
     "ageMax": 0,
     "ageText": "55 yrs +",
-    "openings": "2 openings remaining",
+    "openings": "3 openings remaining",
     "availability": "open",
-    "spaces": 2,
+    "spaces": 3,
     "firstDate": "2026-09-18",
     "lastDate": "2026-12-04",
     "prices": [
@@ -32431,9 +32463,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "3 openings remaining",
+    "openings": "2 openings remaining",
     "availability": "open",
-    "spaces": 3,
+    "spaces": 2,
     "firstDate": "2026-09-09",
     "lastDate": "2026-09-23",
     "prices": [
@@ -32601,9 +32633,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "8 openings remaining",
+    "openings": "7 openings remaining",
     "availability": "open",
-    "spaces": 8,
+    "spaces": 7,
     "firstDate": "2026-10-14",
     "lastDate": "2026-10-28",
     "prices": [
@@ -34172,9 +34204,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "13 openings remaining",
+    "openings": "12 openings remaining",
     "availability": "open",
-    "spaces": 13,
+    "spaces": 12,
     "firstDate": "2026-09-04",
     "lastDate": "2026-12-04",
     "prices": [
@@ -34206,9 +34238,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "9 openings remaining",
+    "openings": "7 openings remaining",
     "availability": "open",
-    "spaces": 9,
+    "spaces": 7,
     "firstDate": "2026-09-19",
     "lastDate": "2026-09-19",
     "prices": [
@@ -34445,9 +34477,9 @@
     "ageMin": 55,
     "ageMax": 0,
     "ageText": "55 yrs +",
-    "openings": "12 openings remaining",
+    "openings": "11 openings remaining",
     "availability": "open",
-    "spaces": 12,
+    "spaces": 11,
     "firstDate": "2026-09-12",
     "lastDate": "2026-09-19",
     "prices": [
@@ -34819,9 +34851,9 @@
     "ageMin": 13,
     "ageMax": 0,
     "ageText": "13 yrs +",
-    "openings": "12 openings remaining",
+    "openings": "11 openings remaining",
     "availability": "open",
-    "spaces": 12,
+    "spaces": 11,
     "firstDate": "2026-09-11",
     "lastDate": "2026-10-02",
     "prices": [
@@ -35814,9 +35846,9 @@
     "ageMin": 18,
     "ageMax": 0,
     "ageText": "18 yrs +",
-    "openings": "1 opening remaining",
-    "availability": "open",
-    "spaces": 1,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-09-17",
     "lastDate": "2026-12-10",
     "prices": [
@@ -35974,9 +36006,9 @@
     "ageMin": 16,
     "ageMax": 0,
     "ageText": "16 yrs +",
-    "openings": "9 openings remaining",
+    "openings": "8 openings remaining",
     "availability": "open",
-    "spaces": 9,
+    "spaces": 8,
     "firstDate": "2026-09-08",
     "lastDate": "2026-12-15",
     "prices": [
@@ -36613,9 +36645,9 @@
     "ageMin": 6,
     "ageMax": 8,
     "ageText": "Age at least 6 yrs but less than 8y 11m",
-    "openings": "2 openings remaining",
+    "openings": "3 openings remaining",
     "availability": "open",
-    "spaces": 2,
+    "spaces": 3,
     "firstDate": "2026-09-16",
     "lastDate": "2026-10-30",
     "prices": [
@@ -37237,9 +37269,9 @@
     "ageMin": 5,
     "ageMax": 12,
     "ageText": "Age at least 5 yrs but less than 12y 11m",
-    "openings": "3 openings remaining",
+    "openings": "4 openings remaining",
     "availability": "open",
-    "spaces": 3,
+    "spaces": 4,
     "firstDate": "2026-09-25",
     "lastDate": "2026-09-25",
     "prices": [
@@ -37720,9 +37752,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "9 openings remaining",
+    "openings": "8 openings remaining",
     "availability": "open",
-    "spaces": 9,
+    "spaces": 8,
     "firstDate": "2026-09-11",
     "lastDate": "2026-11-27",
     "prices": [
@@ -38068,9 +38100,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "9 openings remaining",
+    "openings": "8 openings remaining",
     "availability": "open",
-    "spaces": 9,
+    "spaces": 8,
     "firstDate": "2026-09-19",
     "lastDate": "2026-10-31",
     "prices": [
@@ -39543,9 +39575,9 @@
     "ageMin": 55,
     "ageMax": 99,
     "ageText": "Age at least 55 yrs but less than 99y 11m 4w",
-    "openings": "5 openings remaining",
+    "openings": "4 openings remaining",
     "availability": "open",
-    "spaces": 5,
+    "spaces": 4,
     "firstDate": "2026-09-16",
     "lastDate": "2026-11-04",
     "prices": [
@@ -39615,9 +39647,9 @@
     "ageMin": 65,
     "ageMax": 0,
     "ageText": "65 yrs +",
-    "openings": "8 openings remaining",
+    "openings": "7 openings remaining",
     "availability": "open",
-    "spaces": 8,
+    "spaces": 7,
     "firstDate": "2026-11-03",
     "lastDate": "2026-12-15",
     "prices": [
@@ -40461,9 +40493,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "14 openings remaining",
+    "openings": "13 openings remaining",
     "availability": "open",
-    "spaces": 14,
+    "spaces": 13,
     "firstDate": "2026-09-25",
     "lastDate": "2026-11-27",
     "prices": [
@@ -40495,9 +40527,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "12 openings remaining",
+    "openings": "11 openings remaining",
     "availability": "open",
-    "spaces": 12,
+    "spaces": 11,
     "firstDate": "2026-09-22",
     "lastDate": "2026-11-24",
     "prices": [
@@ -40595,9 +40627,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "13 openings remaining",
-    "availability": "open",
-    "spaces": 13,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-18",
     "lastDate": "2026-09-18",
     "prices": [
@@ -41052,9 +41083,9 @@
     "ageMin": 4,
     "ageMax": 5,
     "ageText": "Age at least 4 yrs but less than 5y 11m 3w",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "1 opening remaining",
+    "availability": "open",
+    "spaces": 1,
     "firstDate": "2026-09-13",
     "lastDate": "2026-10-11",
     "prices": [
@@ -41426,9 +41457,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "6 openings remaining",
+    "openings": "5 openings remaining",
     "availability": "open",
-    "spaces": 6,
+    "spaces": 5,
     "firstDate": "2026-09-11",
     "lastDate": "2026-11-27",
     "prices": [
@@ -42209,9 +42240,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "2 openings remaining",
+    "openings": "1 opening remaining",
     "availability": "open",
-    "spaces": 2,
+    "spaces": 1,
     "firstDate": "2026-09-12",
     "lastDate": "2026-12-19",
     "prices": [
@@ -43635,9 +43666,9 @@
     "ageMin": 55,
     "ageMax": 0,
     "ageText": "55 yrs +",
-    "openings": "49 openings remaining",
+    "openings": "46 openings remaining",
     "availability": "open",
-    "spaces": 49,
+    "spaces": 46,
     "firstDate": "2026-09-11",
     "lastDate": "2026-12-18",
     "prices": [
@@ -44641,9 +44672,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "28 openings remaining",
-    "availability": "open",
-    "spaces": 28,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-09-21",
     "lastDate": "2026-09-21"
   },
@@ -45728,9 +45759,9 @@
     "ageMin": 6,
     "ageMax": 9,
     "ageText": "Age at least 6 yrs but less than 9y 11m 3w",
-    "openings": "7 openings remaining",
+    "openings": "6 openings remaining",
     "availability": "open",
-    "spaces": 7,
+    "spaces": 6,
     "firstDate": "2026-09-13",
     "lastDate": "2026-10-25",
     "prices": [
@@ -46170,9 +46201,9 @@
     "ageMin": 6,
     "ageMax": 9,
     "ageText": "Age at least 6 yrs but less than 9y 11m 3w",
-    "openings": "8 openings remaining",
+    "openings": "7 openings remaining",
     "availability": "open",
-    "spaces": 8,
+    "spaces": 7,
     "firstDate": "2026-11-01",
     "lastDate": "2026-12-13",
     "prices": [
@@ -48562,9 +48593,9 @@
     "ageMin": 5,
     "ageMax": 100,
     "ageText": "Age at least 5 yrs but less than 100 yrs",
-    "openings": "1 opening remaining",
-    "availability": "open",
-    "spaces": 1,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-10-28",
     "lastDate": "2026-12-09",
     "prices": [
@@ -49140,9 +49171,9 @@
     "ageMin": 3,
     "ageMax": 5,
     "ageText": "Age at least 3 yrs but less than 5y 11m 3w",
-    "openings": "8 openings remaining",
+    "openings": "6 openings remaining",
     "availability": "open",
-    "spaces": 8,
+    "spaces": 6,
     "firstDate": "2026-11-02",
     "lastDate": "2026-12-07",
     "prices": [
@@ -49964,9 +49995,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-18",
     "lastDate": "2026-09-18"
   },
@@ -49986,9 +50016,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-18",
     "lastDate": "2026-09-18"
   },
@@ -50008,9 +50037,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-18",
     "lastDate": "2026-09-18"
   },
@@ -50031,9 +50059,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-18",
     "lastDate": "2026-09-18"
   },
@@ -51428,9 +51455,9 @@
     "ageMin": 16,
     "ageMax": 0,
     "ageText": "16 yrs +",
-    "openings": "7 openings remaining",
+    "openings": "8 openings remaining",
     "availability": "open",
-    "spaces": 7,
+    "spaces": 8,
     "firstDate": "2026-09-17",
     "lastDate": "2026-12-17",
     "prices": [
@@ -52658,9 +52685,9 @@
     "ageMin": 16,
     "ageMax": 0,
     "ageText": "16 yrs +",
-    "openings": "9 openings remaining",
+    "openings": "8 openings remaining",
     "availability": "open",
-    "spaces": 9,
+    "spaces": 8,
     "firstDate": "2026-09-11",
     "lastDate": "2026-12-11",
     "prices": [
@@ -53472,9 +53499,9 @@
     "ageMin": 11,
     "ageMax": 13,
     "ageText": "Age at least 11 yrs but less than 13y 11m",
-    "openings": "8 openings remaining",
+    "openings": "7 openings remaining",
     "availability": "open",
-    "spaces": 8,
+    "spaces": 7,
     "firstDate": "2026-09-16",
     "lastDate": "2026-12-16",
     "prices": [
@@ -53874,9 +53901,9 @@
     "ageMin": 0,
     "ageMax": 4,
     "ageText": "Age at least 6m but less than 4y 11m",
-    "openings": "6 openings remaining",
+    "openings": "5 openings remaining",
     "availability": "open",
-    "spaces": 6,
+    "spaces": 5,
     "firstDate": "2026-09-18",
     "lastDate": "2026-10-30",
     "prices": [
@@ -54208,9 +54235,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "7 openings remaining",
+    "openings": "6 openings remaining",
     "availability": "open",
-    "spaces": 7,
+    "spaces": 6,
     "firstDate": "2026-09-12",
     "lastDate": "2026-12-19",
     "prices": [
@@ -55999,9 +56026,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "35 openings remaining",
+    "openings": "34 openings remaining",
     "availability": "open",
-    "spaces": 35,
+    "spaces": 34,
     "firstDate": "2026-09-18",
     "lastDate": "2026-10-30",
     "prices": [
@@ -56421,9 +56448,9 @@
     "ageMin": 5,
     "ageMax": 8,
     "ageText": "Age at least 5y 5m but less than 8y 11m",
-    "openings": "8 openings remaining",
+    "openings": "7 openings remaining",
     "availability": "open",
-    "spaces": 8,
+    "spaces": 7,
     "firstDate": "2026-09-14",
     "lastDate": "2026-12-14",
     "prices": [
@@ -57578,9 +57605,9 @@
     "ageMin": 55,
     "ageMax": 0,
     "ageText": "55 yrs +",
-    "openings": "1 opening remaining",
-    "availability": "open",
-    "spaces": 1,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-09-09",
     "lastDate": "2026-12-16",
     "prices": [
@@ -57895,7 +57922,17 @@
     "availability": "full",
     "spaces": 0,
     "firstDate": "2026-09-10",
-    "lastDate": "2026-12-17"
+    "lastDate": "2026-12-17",
+    "prices": [
+      {
+        "price": "$113.00",
+        "description": "Standard charge"
+      },
+      {
+        "price": "50.00%",
+        "description": "*CCA Discount Leisure Access 50% No Tax: for Customer"
+      }
+    ]
   },
   {
     "id": 629041,
@@ -58193,9 +58230,9 @@
     "ageMin": 54,
     "ageMax": 99,
     "ageText": "Age at least 54y 11m but less than 99y 11m",
-    "openings": "16 openings remaining",
+    "openings": "15 openings remaining",
     "availability": "open",
-    "spaces": 16,
+    "spaces": 15,
     "firstDate": "2026-09-15",
     "lastDate": "2026-10-27",
     "prices": [
@@ -58380,9 +58417,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "4 openings remaining",
+    "openings": "2 openings remaining",
     "availability": "open",
-    "spaces": 4,
+    "spaces": 2,
     "firstDate": "2026-09-11",
     "lastDate": "2026-10-16",
     "prices": [
@@ -59748,9 +59785,9 @@
     "ageMin": 9,
     "ageMax": 12,
     "ageText": "Age at least 9 yrs but less than 12y 11m",
-    "openings": "3 openings remaining",
+    "openings": "2 openings remaining",
     "availability": "open",
-    "spaces": 3,
+    "spaces": 2,
     "firstDate": "2026-09-11",
     "lastDate": "2026-12-11"
   },
@@ -59772,9 +59809,9 @@
     "ageMin": 7,
     "ageMax": 10,
     "ageText": "Age at least 7 yrs but less than 10y 11m",
-    "openings": "1 opening remaining",
-    "availability": "open",
-    "spaces": 1,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-09-11",
     "lastDate": "2026-12-11"
   },
@@ -60307,9 +60344,9 @@
     "ageMin": 14,
     "ageMax": 0,
     "ageText": "14 yrs +",
-    "openings": "10 openings remaining",
+    "openings": "9 openings remaining",
     "availability": "open",
-    "spaces": 10,
+    "spaces": 9,
     "firstDate": "2026-10-02",
     "lastDate": "2026-10-27",
     "prices": [
@@ -60346,9 +60383,9 @@
     "ageMin": 6,
     "ageMax": 18,
     "ageText": "Age at least 6 yrs but less than 18y 11m 4w",
-    "openings": "3 openings remaining",
+    "openings": "2 openings remaining",
     "availability": "open",
-    "spaces": 3,
+    "spaces": 2,
     "firstDate": "2026-09-18",
     "lastDate": "2026-11-27"
   },
@@ -60464,9 +60501,9 @@
     "ageMin": 16,
     "ageMax": 0,
     "ageText": "16 yrs +",
-    "openings": "12 openings remaining",
+    "openings": "11 openings remaining",
     "availability": "open",
-    "spaces": 12,
+    "spaces": 11,
     "firstDate": "2026-09-11",
     "lastDate": "2026-12-18",
     "prices": [
@@ -62184,9 +62221,9 @@
     "ageMin": 10,
     "ageMax": 18,
     "ageText": "Age at least 10 yrs but less than 18y 11m",
-    "openings": "11 openings remaining",
+    "openings": "10 openings remaining",
     "availability": "open",
-    "spaces": 11,
+    "spaces": 10,
     "firstDate": "2026-09-11",
     "lastDate": "2026-09-28",
     "prices": [
@@ -62218,9 +62255,9 @@
     "ageMin": 10,
     "ageMax": 18,
     "ageText": "Age at least 10 yrs but less than 18y 11m",
-    "openings": "22 openings remaining",
+    "openings": "21 openings remaining",
     "availability": "open",
-    "spaces": 22,
+    "spaces": 21,
     "firstDate": "2026-10-02",
     "lastDate": "2026-10-30",
     "prices": [
@@ -65730,9 +65767,8 @@
     "ageMin": 55,
     "ageMax": 99,
     "ageText": "Age at least 55 yrs but less than 99 yrs",
-    "openings": "1 opening remaining",
-    "availability": "open",
-    "spaces": 1,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-18",
     "lastDate": "2026-09-18"
   },
@@ -66251,9 +66287,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "4 openings remaining",
+    "openings": "3 openings remaining",
     "availability": "open",
-    "spaces": 4,
+    "spaces": 3,
     "firstDate": "2026-11-03",
     "lastDate": "2026-12-22",
     "prices": [
@@ -67140,9 +67176,9 @@
     "ageMin": 3,
     "ageMax": 5,
     "ageText": "Age at least 3y 6m but less than 5y 11m 3w",
-    "openings": "7 openings remaining",
+    "openings": "6 openings remaining",
     "availability": "open",
-    "spaces": 7,
+    "spaces": 6,
     "firstDate": "2026-09-20",
     "lastDate": "2026-12-13",
     "prices": [
@@ -67174,9 +67210,9 @@
     "ageMin": 6,
     "ageMax": 12,
     "ageText": "Age at least 6 yrs but less than 12y 11m 3w",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "2 openings remaining",
+    "availability": "open",
+    "spaces": 2,
     "firstDate": "2026-09-20",
     "lastDate": "2026-12-13",
     "prices": [
@@ -67338,9 +67374,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "1 opening remaining",
+    "availability": "open",
+    "spaces": 1,
     "firstDate": "2026-09-03",
     "lastDate": "2026-12-17",
     "prices": [
@@ -68982,9 +69018,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "1 opening remaining",
+    "openings": "2 openings remaining",
     "availability": "open",
-    "spaces": 1,
+    "spaces": 2,
     "firstDate": "2026-09-11",
     "lastDate": "2026-10-30",
     "prices": [
@@ -70180,9 +70216,9 @@
     "ageMin": 50,
     "ageMax": 0,
     "ageText": "50 yrs +",
-    "openings": "16 openings remaining",
+    "openings": "3 openings remaining",
     "availability": "open",
-    "spaces": 16,
+    "spaces": 3,
     "firstDate": "2026-09-21",
     "lastDate": "2026-09-21"
   },
@@ -70594,9 +70630,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "3 openings remaining",
+    "openings": "4 openings remaining",
     "availability": "open",
-    "spaces": 3,
+    "spaces": 4,
     "firstDate": "2026-09-11",
     "lastDate": "2026-10-30",
     "prices": [
@@ -70991,9 +71027,9 @@
     "ageMin": 18,
     "ageMax": 0,
     "ageText": "18 yrs +",
-    "openings": "6 openings remaining",
+    "openings": "7 openings remaining",
     "availability": "open",
-    "spaces": 6,
+    "spaces": 7,
     "firstDate": "2026-09-17",
     "lastDate": "2026-12-17",
     "prices": [
@@ -72281,74 +72317,6 @@
     ]
   },
   {
-    "id": 631439,
-    "title": "Creative Writing: It's the Right Time to Write!",
-    "calendarId": 56,
-    "centerId": 48,
-    "facilityIds": [
-      572
-    ],
-    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/creative-writing-it-s-the-right-time-to-write/631439",
-    "description": "Adventure into the world of creative writing! Through writing prompts, hands-on activities, examples, and sharing, we’ll write original stories, poems, songs, and more! Ready to use your imagination? No class Oct 11.",
-    "instructors": [
-      "Tanya Banerjee"
-    ],
-    "priceText": "$200.00",
-    "free": false,
-    "ageMin": 7,
-    "ageMax": 12,
-    "ageText": "Age at least 7 yrs but less than 12y 11m 4w",
-    "openings": "5 openings remaining",
-    "availability": "open",
-    "spaces": 5,
-    "firstDate": "2026-09-20",
-    "lastDate": "2026-11-29",
-    "prices": [
-      {
-        "price": "$200.00",
-        "description": "Standard charge"
-      },
-      {
-        "price": "50.00%",
-        "description": "Leisure Access - CCA: for Customer"
-      }
-    ]
-  },
-  {
-    "id": 631444,
-    "title": "Music to your Ears: Songwriting",
-    "calendarId": 56,
-    "centerId": 48,
-    "facilityIds": [
-      572
-    ],
-    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/music-to-your-ears-songwriting/631444",
-    "description": "Through discussions, song examples, and writing activities, we'll explore foundational songwriting elements, song structures, and ways to find inspiration, while workshopping your lyrical creations. Get ready to jam! No class Oct 11.",
-    "instructors": [
-      "Tanya Banerjee"
-    ],
-    "priceText": "$200.00",
-    "free": false,
-    "ageMin": 19,
-    "ageMax": 0,
-    "ageText": "19 yrs +",
-    "openings": "8 openings remaining",
-    "availability": "open",
-    "spaces": 8,
-    "firstDate": "2026-09-20",
-    "lastDate": "2026-11-29",
-    "prices": [
-      {
-        "price": "$200.00",
-        "description": "Standard charge"
-      },
-      {
-        "price": "50.00%",
-        "description": "Leisure Access - CCA: for Customer"
-      }
-    ]
-  },
-  {
     "id": 631445,
     "title": "Kids Yoga",
     "calendarId": 20,
@@ -73476,9 +73444,9 @@
     "ageMin": 65,
     "ageMax": 0,
     "ageText": "65 yrs +",
-    "openings": "1 opening remaining",
-    "availability": "open",
-    "spaces": 1,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-09-24",
     "lastDate": "2026-09-24",
     "prices": [
@@ -73510,9 +73478,9 @@
     "ageMin": 65,
     "ageMax": 0,
     "ageText": "65 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "1 opening remaining",
+    "availability": "open",
+    "spaces": 1,
     "firstDate": "2026-09-24",
     "lastDate": "2026-09-24",
     "prices": [
@@ -73714,9 +73682,9 @@
     "ageMin": 65,
     "ageMax": 0,
     "ageText": "65 yrs +",
-    "openings": "1 opening remaining",
-    "availability": "open",
-    "spaces": 1,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-09-24",
     "lastDate": "2026-09-24",
     "prices": [
@@ -74586,9 +74554,9 @@
     "ageMin": 55,
     "ageMax": 0,
     "ageText": "55 yrs +",
-    "openings": "10 openings remaining",
+    "openings": "9 openings remaining",
     "availability": "open",
-    "spaces": 10,
+    "spaces": 9,
     "firstDate": "2026-09-18",
     "lastDate": "2026-12-19",
     "prices": [
@@ -74951,9 +74919,9 @@
     "ageMin": 18,
     "ageMax": 0,
     "ageText": "18 yrs +",
-    "openings": "20 openings remaining",
+    "openings": "19 openings remaining",
     "availability": "open",
-    "spaces": 20,
+    "spaces": 19,
     "firstDate": "2026-09-08",
     "lastDate": "2026-12-15",
     "prices": [
@@ -76272,9 +76240,8 @@
     "ageMin": 19,
     "ageMax": 99,
     "ageText": "Age at least 19 yrs but less than 99 yrs",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-18",
     "lastDate": "2026-09-18",
     "prices": [
@@ -77421,9 +77388,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "4 openings remaining",
+    "openings": "3 openings remaining",
     "availability": "open",
-    "spaces": 4,
+    "spaces": 3,
     "firstDate": "2026-10-19",
     "lastDate": "2026-11-30",
     "prices": [
@@ -78823,9 +78790,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "24 openings remaining",
+    "openings": "23 openings remaining",
     "availability": "open",
-    "spaces": 24,
+    "spaces": 23,
     "firstDate": "2026-09-12",
     "lastDate": "2026-12-12"
   },
@@ -78847,9 +78814,9 @@
     "ageMin": 6,
     "ageMax": 18,
     "ageText": "Age at least 6 yrs but less than 18 yrs",
-    "openings": "23 openings remaining",
+    "openings": "22 openings remaining",
     "availability": "open",
-    "spaces": 23,
+    "spaces": 22,
     "firstDate": "2026-09-08",
     "lastDate": "2026-12-15",
     "prices": [
@@ -78947,9 +78914,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-18",
     "lastDate": "2026-09-18"
   },
@@ -79248,9 +79214,9 @@
     "ageMin": 18,
     "ageMax": 0,
     "ageText": "18 yrs +",
-    "openings": "5 openings remaining",
+    "openings": "4 openings remaining",
     "availability": "open",
-    "spaces": 5,
+    "spaces": 4,
     "firstDate": "2026-09-18",
     "lastDate": "2026-12-18",
     "prices": [
@@ -81523,9 +81489,9 @@
     "ageMin": 13,
     "ageMax": 18,
     "ageText": "Age at least 13 yrs but less than 18y 11m 3w",
-    "openings": "42 openings remaining",
+    "openings": "41 openings remaining",
     "availability": "open",
-    "spaces": 42,
+    "spaces": 41,
     "firstDate": "2026-09-05",
     "lastDate": "2026-12-12",
     "prices": [
@@ -82320,9 +82286,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "15 openings remaining",
+    "openings": "14 openings remaining",
     "availability": "open",
-    "spaces": 15,
+    "spaces": 14,
     "firstDate": "2026-09-21",
     "lastDate": "2026-12-14",
     "prices": [
@@ -83386,9 +83352,8 @@
     "ageMin": 0,
     "ageMax": 0,
     "ageText": "All ages",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-18",
     "lastDate": "2026-09-18",
     "prices": [
@@ -83456,9 +83421,9 @@
     "ageMin": 0,
     "ageMax": 0,
     "ageText": "All ages",
-    "openings": "24 openings remaining",
+    "openings": "21 openings remaining",
     "availability": "open",
-    "spaces": 24,
+    "spaces": 21,
     "firstDate": "2026-10-02",
     "lastDate": "2026-10-02",
     "prices": [
@@ -83491,9 +83456,9 @@
     "ageMin": 0,
     "ageMax": 0,
     "ageText": "All ages",
-    "openings": "26 openings remaining",
+    "openings": "25 openings remaining",
     "availability": "open",
-    "spaces": 26,
+    "spaces": 25,
     "firstDate": "2026-10-09",
     "lastDate": "2026-10-09",
     "prices": [
@@ -83526,9 +83491,9 @@
     "ageMin": 0,
     "ageMax": 0,
     "ageText": "All ages",
-    "openings": "30 openings remaining",
+    "openings": "26 openings remaining",
     "availability": "open",
-    "spaces": 30,
+    "spaces": 26,
     "firstDate": "2026-10-16",
     "lastDate": "2026-10-16",
     "prices": [
@@ -83561,9 +83526,9 @@
     "ageMin": 0,
     "ageMax": 0,
     "ageText": "All ages",
-    "openings": "26 openings remaining",
+    "openings": "15 openings remaining",
     "availability": "open",
-    "spaces": 26,
+    "spaces": 15,
     "firstDate": "2026-10-23",
     "lastDate": "2026-10-23",
     "prices": [
@@ -83596,9 +83561,9 @@
     "ageMin": 0,
     "ageMax": 0,
     "ageText": "All ages",
-    "openings": "28 openings remaining",
+    "openings": "26 openings remaining",
     "availability": "open",
-    "spaces": 28,
+    "spaces": 26,
     "firstDate": "2026-10-30",
     "lastDate": "2026-10-30",
     "prices": [
@@ -84849,9 +84814,8 @@
     "ageMin": 19,
     "ageMax": 99,
     "ageText": "Age at least 19 yrs but less than 99 yrs",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-18",
     "lastDate": "2026-09-18"
   },
@@ -85120,9 +85084,9 @@
     "ageMin": 13,
     "ageMax": 18,
     "ageText": "Age at least 13 yrs but less than 18y 11m",
-    "openings": "2 openings remaining",
+    "openings": "1 opening remaining",
     "availability": "open",
-    "spaces": 2,
+    "spaces": 1,
     "firstDate": "2026-09-18",
     "lastDate": "2026-12-11",
     "prices": [
@@ -85556,9 +85520,9 @@
     "ageMin": 18,
     "ageMax": 0,
     "ageText": "18 yrs +",
-    "openings": "4 openings remaining",
+    "openings": "3 openings remaining",
     "availability": "open",
-    "spaces": 4,
+    "spaces": 3,
     "firstDate": "2026-10-22",
     "lastDate": "2026-11-19",
     "prices": [
@@ -86596,9 +86560,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "8 openings remaining",
+    "openings": "7 openings remaining",
     "availability": "open",
-    "spaces": 8,
+    "spaces": 7,
     "firstDate": "2026-11-02",
     "lastDate": "2026-12-14",
     "prices": [
@@ -86706,9 +86670,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "8 openings remaining",
+    "openings": "7 openings remaining",
     "availability": "open",
-    "spaces": 8,
+    "spaces": 7,
     "firstDate": "2026-09-18",
     "lastDate": "2026-12-11",
     "prices": [
@@ -87147,9 +87111,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "11 openings remaining",
+    "openings": "10 openings remaining",
     "availability": "open",
-    "spaces": 11,
+    "spaces": 10,
     "firstDate": "2026-09-20",
     "lastDate": "2026-12-13",
     "prices": [
@@ -88333,9 +88297,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "35 openings remaining",
+    "openings": "34 openings remaining",
     "availability": "open",
-    "spaces": 35,
+    "spaces": 34,
     "firstDate": "2026-09-11",
     "lastDate": "2026-10-23",
     "prices": [
@@ -88635,9 +88599,9 @@
     "ageMin": 10,
     "ageMax": 100,
     "ageText": "Age at least 10y 10m but less than 100y 10m",
-    "openings": "2 openings remaining",
-    "availability": "open",
-    "spaces": 2,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-09-22",
     "lastDate": "2026-09-22",
     "prices": [
@@ -89154,9 +89118,9 @@
     "ageMin": 9,
     "ageMax": 12,
     "ageText": "Age at least 9 yrs but less than 12y 11m 3w",
-    "openings": "7 openings remaining",
+    "openings": "6 openings remaining",
     "availability": "open",
-    "spaces": 7,
+    "spaces": 6,
     "firstDate": "2026-09-28",
     "lastDate": "2026-12-07",
     "prices": [
@@ -89222,9 +89186,9 @@
     "ageMin": 18,
     "ageMax": 0,
     "ageText": "18 yrs +",
-    "openings": "5 openings remaining",
+    "openings": "4 openings remaining",
     "availability": "open",
-    "spaces": 5,
+    "spaces": 4,
     "firstDate": "2026-09-02",
     "lastDate": "2026-09-30",
     "prices": [
@@ -89532,9 +89496,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "16 openings remaining",
+    "openings": "15 openings remaining",
     "availability": "open",
-    "spaces": 16,
+    "spaces": 15,
     "firstDate": "2026-11-05",
     "lastDate": "2026-12-10",
     "prices": [
@@ -89966,9 +89930,9 @@
     "ageMin": 11,
     "ageMax": 16,
     "ageText": "Age at least 11 yrs but less than 16y 11m",
-    "openings": "1 opening remaining",
-    "availability": "open",
-    "spaces": 1,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-09-11",
     "lastDate": "2026-10-23"
   },
@@ -89990,9 +89954,9 @@
     "ageMin": 11,
     "ageMax": 16,
     "ageText": "Age at least 11 yrs but less than 16y 11m",
-    "openings": "43 openings remaining",
+    "openings": "42 openings remaining",
     "availability": "open",
-    "spaces": 43,
+    "spaces": 42,
     "firstDate": "2026-09-25",
     "lastDate": "2026-09-25"
   },
@@ -90135,9 +90099,8 @@
     "ageMin": 9,
     "ageMax": 12,
     "ageText": "Age at least 9 yrs but less than 12y 11m",
-    "openings": "7 openings remaining",
-    "availability": "open",
-    "spaces": 7,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-18",
     "lastDate": "2026-09-18"
   },
@@ -90189,9 +90152,9 @@
     "ageMin": 9,
     "ageMax": 12,
     "ageText": "Age at least 9 yrs but less than 12y 11m",
-    "openings": "8 openings remaining",
+    "openings": "7 openings remaining",
     "availability": "open",
-    "spaces": 8,
+    "spaces": 7,
     "firstDate": "2026-09-25",
     "lastDate": "2026-09-25"
   },
@@ -90942,9 +90905,9 @@
     "ageMin": 5,
     "ageMax": 0,
     "ageText": "5 yrs +",
-    "openings": "14 openings remaining",
+    "openings": "13 openings remaining",
     "availability": "open",
-    "spaces": 14,
+    "spaces": 13,
     "firstDate": "2026-09-11",
     "lastDate": "2026-12-11",
     "prices": [
@@ -91320,9 +91283,9 @@
     "ageMin": 4,
     "ageMax": 10,
     "ageText": "Age at least 4 yrs but less than 10 yrs",
-    "openings": "14 openings remaining",
+    "openings": "13 openings remaining",
     "availability": "open",
-    "spaces": 14,
+    "spaces": 13,
     "firstDate": "2026-09-27",
     "lastDate": "2026-09-27"
   },
@@ -91696,9 +91659,9 @@
     "ageMin": 8,
     "ageMax": 17,
     "ageText": "Age at least 8 yrs but less than 17 yrs",
-    "openings": "1 opening remaining",
+    "openings": "3 openings remaining",
     "availability": "open",
-    "spaces": 1,
+    "spaces": 3,
     "firstDate": "2026-09-13",
     "lastDate": "2026-11-01",
     "prices": [
@@ -92832,9 +92795,8 @@
     "ageMin": 13,
     "ageMax": 0,
     "ageText": "13 yrs +",
-    "openings": "14 openings remaining",
-    "availability": "open",
-    "spaces": 14,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-18",
     "lastDate": "2026-09-18",
     "prices": [
@@ -93138,9 +93100,9 @@
     "ageMin": 13,
     "ageMax": 0,
     "ageText": "13 yrs +",
-    "openings": "13 openings remaining",
+    "openings": "11 openings remaining",
     "availability": "open",
-    "spaces": 13,
+    "spaces": 11,
     "firstDate": "2026-09-20",
     "lastDate": "2026-09-20",
     "prices": [
@@ -93376,9 +93338,9 @@
     "ageMin": 13,
     "ageMax": 0,
     "ageText": "13 yrs +",
-    "openings": "18 openings remaining",
+    "openings": "17 openings remaining",
     "availability": "open",
-    "spaces": 18,
+    "spaces": 17,
     "firstDate": "2026-09-21",
     "lastDate": "2026-09-21",
     "prices": [
@@ -93794,9 +93756,9 @@
     "ageMin": 13,
     "ageMax": 18,
     "ageText": "Age at least 13 yrs but less than 18 yrs",
-    "openings": "9 openings remaining",
+    "openings": "8 openings remaining",
     "availability": "open",
-    "spaces": 9,
+    "spaces": 8,
     "firstDate": "2026-09-23",
     "lastDate": "2026-12-09"
   },
@@ -93818,9 +93780,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "11 openings remaining",
+    "openings": "10 openings remaining",
     "availability": "open",
-    "spaces": 11,
+    "spaces": 10,
     "firstDate": "2026-09-16",
     "lastDate": "2026-10-28",
     "prices": [
@@ -94435,9 +94397,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "11 openings remaining",
+    "openings": "10 openings remaining",
     "availability": "open",
-    "spaces": 11,
+    "spaces": 10,
     "firstDate": "2026-10-06",
     "lastDate": "2026-10-27",
     "prices": [
@@ -94469,9 +94431,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "1 opening remaining",
+    "openings": "3 openings remaining",
     "availability": "open",
-    "spaces": 1,
+    "spaces": 3,
     "firstDate": "2026-09-17",
     "lastDate": "2026-10-29",
     "prices": [
@@ -94707,9 +94669,8 @@
     "ageMin": 50,
     "ageMax": 0,
     "ageText": "50 yrs +",
-    "openings": "29 openings remaining",
-    "availability": "open",
-    "spaces": 29,
+    "openings": "Cancelled",
+    "availability": "cancelled",
     "firstDate": "2026-09-09",
     "lastDate": "2026-11-04"
   },
@@ -94731,9 +94692,8 @@
     "ageMin": 50,
     "ageMax": 0,
     "ageText": "50 yrs +",
-    "openings": "18 openings remaining",
-    "availability": "open",
-    "spaces": 18,
+    "openings": "Cancelled",
+    "availability": "cancelled",
     "firstDate": "2026-09-09",
     "lastDate": "2026-11-04"
   },
@@ -95023,7 +94983,7 @@
     "availability": "open",
     "spaces": 20,
     "firstDate": "2026-10-02",
-    "lastDate": "2026-12-18"
+    "lastDate": "2026-10-02"
   },
   {
     "id": 634785,
@@ -95091,7 +95051,7 @@
     "availability": "open",
     "spaces": 20,
     "firstDate": "2026-10-02",
-    "lastDate": "2026-12-18"
+    "lastDate": "2026-10-02"
   },
   {
     "id": 634788,
@@ -95115,7 +95075,7 @@
     "availability": "open",
     "spaces": 20,
     "firstDate": "2026-10-02",
-    "lastDate": "2026-12-18"
+    "lastDate": "2026-10-02"
   },
   {
     "id": 634789,
@@ -95970,9 +95930,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "1 opening remaining",
-    "availability": "open",
-    "spaces": 1,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-09-14",
     "lastDate": "2026-11-02",
     "prices": [
@@ -99279,9 +99239,8 @@
     "ageMin": 15,
     "ageMax": 100,
     "ageText": "Age at least 15y 10m but less than 100y 10m",
-    "openings": "9 openings remaining",
-    "availability": "open",
-    "spaces": 9,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-18",
     "lastDate": "2026-09-18",
     "prices": [
@@ -99957,9 +99916,8 @@
     "ageMin": 8,
     "ageMax": 99,
     "ageText": "Age at least 8 yrs but less than 99 yrs",
-    "openings": "18 openings remaining",
-    "availability": "open",
-    "spaces": 18,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-18",
     "lastDate": "2026-09-18"
   },
@@ -100005,9 +99963,8 @@
     "ageMin": 8,
     "ageMax": 99,
     "ageText": "Age at least 8 yrs but less than 99 yrs",
-    "openings": "18 openings remaining",
-    "availability": "open",
-    "spaces": 18,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-18",
     "lastDate": "2026-09-18"
   },
@@ -100147,9 +100104,9 @@
     "ageMin": 19,
     "ageMax": 99,
     "ageText": "Age at least 19 yrs but less than 99 yrs",
-    "openings": "2 openings remaining",
-    "availability": "open",
-    "spaces": 2,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-09-25",
     "lastDate": "2026-09-25"
   },
@@ -100887,9 +100844,9 @@
     "ageMin": 13,
     "ageMax": 0,
     "ageText": "13 yrs +",
-    "openings": "12 openings remaining",
+    "openings": "11 openings remaining",
     "availability": "open",
-    "spaces": 12,
+    "spaces": 11,
     "firstDate": "2026-09-21",
     "lastDate": "2026-09-21",
     "prices": [
@@ -101721,9 +101678,9 @@
     "ageMin": 13,
     "ageMax": 0,
     "ageText": "13 yrs +",
-    "openings": "12 openings remaining",
+    "openings": "9 openings remaining",
     "availability": "open",
-    "spaces": 12,
+    "spaces": 9,
     "firstDate": "2026-09-19",
     "lastDate": "2026-09-19",
     "prices": [
@@ -102092,9 +102049,9 @@
     "ageMin": 16,
     "ageMax": 0,
     "ageText": "16 yrs +",
-    "openings": "10 openings remaining",
+    "openings": "9 openings remaining",
     "availability": "open",
-    "spaces": 10,
+    "spaces": 9,
     "firstDate": "2026-09-12",
     "lastDate": "2026-12-12",
     "prices": [
@@ -102380,9 +102337,9 @@
     "ageMin": 19,
     "ageMax": 99,
     "ageText": "Age at least 19 yrs but less than 99 yrs",
-    "openings": "20 openings remaining",
+    "openings": "17 openings remaining",
     "availability": "open",
-    "spaces": 20,
+    "spaces": 17,
     "firstDate": "2026-09-21",
     "lastDate": "2026-09-21",
     "prices": [
@@ -104865,31 +104822,6 @@
     ]
   },
   {
-    "id": 636101,
-    "title": "False Creek Youth Concession (Friday Volunteers)",
-    "calendarId": 43,
-    "centerId": 43,
-    "facilityIds": [
-      546,
-      544
-    ],
-    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/false-creek-youth-concession-friday-volunteers/636101",
-    "description": "Come join this leadership team to give back to our False Creek neighborhood while connecting with new people and gaining skills such as notetaking, budgeting, public speaking, etc. Participants will have the opportunity to practice their skills through planning activities for other youth, implementing their own community projects, assisting with special events and taking part in workshops. This is a great way to achieve volunteer hours and/or work experience! Volunteers will be provided with an hour log and are responsible for tracking their own hours volunteered. *<b>NO SESSION MAY 16*</b><br />*Please note: participants who do not show up for the first two sessions without providing notice will be automatically removed from the program to make space for others*",
-    "instructors": [
-      "Youth Leader"
-    ],
-    "priceText": "Free",
-    "free": true,
-    "ageMin": 13,
-    "ageMax": 18,
-    "ageText": "Age at least 13 yrs but less than 18 yrs",
-    "openings": "18 openings remaining",
-    "availability": "open",
-    "spaces": 18,
-    "firstDate": "2026-09-12",
-    "lastDate": "2026-11-14"
-  },
-  {
     "id": 636102,
     "title": "False Creek Youth Volunteers",
     "calendarId": 43,
@@ -105074,9 +105006,9 @@
     "ageMin": 13,
     "ageMax": 0,
     "ageText": "13 yrs +",
-    "openings": "15 openings remaining",
+    "openings": "13 openings remaining",
     "availability": "open",
-    "spaces": 15,
+    "spaces": 13,
     "firstDate": "2026-09-21",
     "lastDate": "2026-09-21",
     "prices": [
@@ -106195,9 +106127,8 @@
     "ageMin": 13,
     "ageMax": 0,
     "ageText": "13 yrs +",
-    "openings": "5 openings remaining",
-    "availability": "open",
-    "spaces": 5,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-18",
     "lastDate": "2026-09-18",
     "prices": [
@@ -106497,9 +106428,9 @@
     "ageMin": 13,
     "ageMax": 0,
     "ageText": "13 yrs +",
-    "openings": "9 openings remaining",
+    "openings": "4 openings remaining",
     "availability": "open",
-    "spaces": 9,
+    "spaces": 4,
     "firstDate": "2026-09-19",
     "lastDate": "2026-09-19",
     "prices": [
@@ -106799,9 +106730,9 @@
     "ageMin": 55,
     "ageMax": 0,
     "ageText": "55 yrs +",
-    "openings": "3 openings remaining",
+    "openings": "2 openings remaining",
     "availability": "open",
-    "spaces": 3,
+    "spaces": 2,
     "firstDate": "2026-10-17",
     "lastDate": "2026-10-17"
   },
@@ -107334,9 +107265,9 @@
     "ageMin": 12,
     "ageMax": 18,
     "ageText": "Age at least 12 yrs but less than 18y 11m 4w",
-    "openings": "20 openings remaining",
+    "openings": "1 opening remaining",
     "availability": "open",
-    "spaces": 20,
+    "spaces": 1,
     "firstDate": "2026-09-19",
     "lastDate": "2026-09-19"
   },
@@ -107430,9 +107361,9 @@
     "ageMin": 12,
     "ageMax": 18,
     "ageText": "Age at least 12 yrs but less than 18y 11m 4w",
-    "openings": "40 openings remaining",
+    "openings": "19 openings remaining",
     "availability": "open",
-    "spaces": 40,
+    "spaces": 19,
     "firstDate": "2026-09-19",
     "lastDate": "2026-09-19"
   },
@@ -107526,9 +107457,8 @@
     "ageMin": 12,
     "ageMax": 18,
     "ageText": "Age at least 12 yrs but less than 18y 11m 4w",
-    "openings": "21 openings remaining",
-    "availability": "open",
-    "spaces": 21,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-18",
     "lastDate": "2026-09-18"
   },
@@ -107718,9 +107648,8 @@
     "ageMin": 12,
     "ageMax": 18,
     "ageText": "Age at least 12 yrs but less than 18y 11m 4w",
-    "openings": "15 openings remaining",
-    "availability": "open",
-    "spaces": 15,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-18",
     "lastDate": "2026-09-18"
   },
@@ -108123,9 +108052,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "20 openings remaining",
-    "availability": "open",
-    "spaces": 20,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-09-21",
     "lastDate": "2026-09-21",
     "prices": [
@@ -108214,9 +108143,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "22 openings remaining",
+    "openings": "15 openings remaining",
     "availability": "open",
-    "spaces": 22,
+    "spaces": 15,
     "firstDate": "2026-09-21",
     "lastDate": "2026-09-21",
     "prices": [
@@ -108489,9 +108418,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-18",
     "lastDate": "2026-09-18",
     "prices": [
@@ -108722,9 +108650,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-18",
     "lastDate": "2026-09-18"
   },
@@ -108746,9 +108673,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "2 openings remaining",
+    "openings": "1 opening remaining",
     "availability": "open",
-    "spaces": 2,
+    "spaces": 1,
     "firstDate": "2026-09-25",
     "lastDate": "2026-09-25"
   },
@@ -108839,9 +108766,8 @@
     "ageMin": 55,
     "ageMax": 0,
     "ageText": "55 yrs +",
-    "openings": "13 openings remaining",
-    "availability": "open",
-    "spaces": 13,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-18",
     "lastDate": "2026-09-18"
   },
@@ -109541,9 +109467,8 @@
     "ageMin": 19,
     "ageMax": 99,
     "ageText": "Age at least 19 yrs but less than 99 yrs",
-    "openings": "1 opening remaining",
-    "availability": "open",
-    "spaces": 1,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-18",
     "lastDate": "2026-09-18"
   },
@@ -111752,9 +111677,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "8 openings remaining",
+    "openings": "6 openings remaining",
     "availability": "open",
-    "spaces": 8,
+    "spaces": 6,
     "firstDate": "2026-09-21",
     "lastDate": "2026-09-21"
   },
@@ -111800,9 +111725,9 @@
     "ageMin": 55,
     "ageMax": 0,
     "ageText": "55 yrs +",
-    "openings": "39 openings remaining",
+    "openings": "38 openings remaining",
     "availability": "open",
-    "spaces": 39,
+    "spaces": 38,
     "firstDate": "2026-10-08",
     "lastDate": "2026-10-08"
   },
@@ -112321,9 +112246,9 @@
     "ageMin": 13,
     "ageMax": 0,
     "ageText": "13 yrs +",
-    "openings": "14 openings remaining",
+    "openings": "9 openings remaining",
     "availability": "open",
-    "spaces": 14,
+    "spaces": 9,
     "firstDate": "2026-09-19",
     "lastDate": "2026-09-19",
     "prices": [
@@ -112869,9 +112794,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "22 openings remaining",
+    "openings": "17 openings remaining",
     "availability": "open",
-    "spaces": 22,
+    "spaces": 17,
     "firstDate": "2026-09-21",
     "lastDate": "2026-09-21",
     "prices": [
@@ -114157,9 +114082,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "10 openings remaining",
-    "availability": "open",
-    "spaces": 10,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-18",
     "lastDate": "2026-09-18"
   },
@@ -114663,9 +114587,9 @@
     "ageMin": 13,
     "ageMax": 0,
     "ageText": "13 yrs +",
-    "openings": "30 openings remaining",
+    "openings": "28 openings remaining",
     "availability": "open",
-    "spaces": 30,
+    "spaces": 28,
     "firstDate": "2026-09-21",
     "lastDate": "2026-09-21"
   },
@@ -114761,9 +114685,9 @@
     "ageMin": 18,
     "ageMax": 0,
     "ageText": "18 yrs +",
-    "openings": "2 openings remaining",
+    "openings": "1 opening remaining",
     "availability": "open",
-    "spaces": 2,
+    "spaces": 1,
     "firstDate": "2026-09-24",
     "lastDate": "2026-10-15",
     "prices": [
@@ -115131,5 +115055,1087 @@
     "spaces": 50,
     "firstDate": "2026-10-01",
     "lastDate": "2026-12-17"
+  },
+  {
+    "id": 641253,
+    "title": "Hillcrest Arena - Public Figure Skating - Friday 10:00am",
+    "calendarId": 3,
+    "centerId": 22,
+    "facilityIds": [
+      121
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/hillcrest-arena---public-figure-skating---friday-10-00am/641253",
+    "description": "<p>This session is for those looking to practice their jumps, spins and field moves.</p><p>No partners or pairs skating allowed. No skate rentals, and no lessons are provided.</p><p><i>*Monthly Flexipass and 10-Visit passes are accepted for this program</i>.</p><p>All registered participants must check in with the attendant up to 5 minutes after the program start time. Failure to do so may result in the spot being forfeited to a waiting skater.</p>Registrations, Cancellations, and Refunds• You can register online up to three days prior to your session.<br />• Cancel online through your account at vanrec.ca by 11:59pm the day before your class.<br />If you are cancelling by phone or in person you must cancel by 3pm the day before the session or by 3pm Saturday for a Monday session. Please call a community center to cancel by phone and note voicemail messages will not be accepted.<br />When sessions are cancelled within the cancellation period, paid transactions will be refunded back to the credit card or a credit can be used towards another booking.",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "from $3.97",
+    "free": false,
+    "ageMin": 8,
+    "ageMax": 99,
+    "ageText": "Age at least 8 yrs but less than 99 yrs",
+    "openings": "22 openings remaining",
+    "availability": "open",
+    "spaces": 22,
+    "firstDate": "2026-10-09",
+    "lastDate": "2026-10-09",
+    "prices": [
+      {
+        "price": "$7.93",
+        "description": "Public Skate Admission - Adult (19-64yrs) for 19 up to 64 years old"
+      },
+      {
+        "price": "$5.55",
+        "description": "Public Skate Admission - Senior (65yrs+) for 65 up to 100 years old"
+      },
+      {
+        "price": "$5.55",
+        "description": "Public Skate Admission - Youth (13-18yrs) for enrolling up to 2 activities"
+      },
+      {
+        "price": "$5.55",
+        "description": "Public Skate Admission - Youth (13-18yrs) for 13 up to 18 years old"
+      },
+      {
+        "price": "$3.97",
+        "description": "Public Skate Admission - Child (5-12yrs) for 5 up to 12 years old"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - Flexipass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - 10 Visit Pass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Leisure Access Pass Discount: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 641254,
+    "title": "Hillcrest Arena - Public Figure Skating - Friday 10:00am",
+    "calendarId": 3,
+    "centerId": 22,
+    "facilityIds": [
+      121
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/hillcrest-arena---public-figure-skating---friday-10-00am/641254",
+    "description": "<p>This session is for those looking to practice their jumps, spins and field moves.</p><p>No partners or pairs skating allowed. No skate rentals, and no lessons are provided.</p><p><i>*Monthly Flexipass and 10-Visit passes are accepted for this program</i>.</p><p>All registered participants must check in with the attendant up to 5 minutes after the program start time. Failure to do so may result in the spot being forfeited to a waiting skater.</p>Registrations, Cancellations, and Refunds• You can register online up to three days prior to your session.<br />• Cancel online through your account at vanrec.ca by 11:59pm the day before your class.<br />If you are cancelling by phone or in person you must cancel by 3pm the day before the session or by 3pm Saturday for a Monday session. Please call a community center to cancel by phone and note voicemail messages will not be accepted.<br />When sessions are cancelled within the cancellation period, paid transactions will be refunded back to the credit card or a credit can be used towards another booking.",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "from $3.97",
+    "free": false,
+    "ageMin": 8,
+    "ageMax": 99,
+    "ageText": "Age at least 8 yrs but less than 99 yrs",
+    "openings": "22 openings remaining",
+    "availability": "open",
+    "spaces": 22,
+    "firstDate": "2026-10-16",
+    "lastDate": "2026-10-16",
+    "prices": [
+      {
+        "price": "$7.93",
+        "description": "Public Skate Admission - Adult (19-64yrs) for 19 up to 64 years old"
+      },
+      {
+        "price": "$5.55",
+        "description": "Public Skate Admission - Senior (65yrs+) for 65 up to 100 years old"
+      },
+      {
+        "price": "$5.55",
+        "description": "Public Skate Admission - Youth (13-18yrs) for enrolling up to 2 activities"
+      },
+      {
+        "price": "$5.55",
+        "description": "Public Skate Admission - Youth (13-18yrs) for 13 up to 18 years old"
+      },
+      {
+        "price": "$3.97",
+        "description": "Public Skate Admission - Child (5-12yrs) for 5 up to 12 years old"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - Flexipass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - 10 Visit Pass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Leisure Access Pass Discount: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 641256,
+    "title": "Hillcrest Arena - Public Figure Skating - Friday 10:00am",
+    "calendarId": 3,
+    "centerId": 22,
+    "facilityIds": [
+      121
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/hillcrest-arena---public-figure-skating---friday-10-00am/641256",
+    "description": "<p>This session is for those looking to practice their jumps, spins and field moves.</p><p>No partners or pairs skating allowed. No skate rentals, and no lessons are provided.</p><p><i>*Monthly Flexipass and 10-Visit passes are accepted for this program</i>.</p><p>All registered participants must check in with the attendant up to 5 minutes after the program start time. Failure to do so may result in the spot being forfeited to a waiting skater.</p>Registrations, Cancellations, and Refunds• You can register online up to three days prior to your session.<br />• Cancel online through your account at vanrec.ca by 11:59pm the day before your class.<br />If you are cancelling by phone or in person you must cancel by 3pm the day before the session or by 3pm Saturday for a Monday session. Please call a community center to cancel by phone and note voicemail messages will not be accepted.<br />When sessions are cancelled within the cancellation period, paid transactions will be refunded back to the credit card or a credit can be used towards another booking.",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "from $3.97",
+    "free": false,
+    "ageMin": 8,
+    "ageMax": 99,
+    "ageText": "Age at least 8 yrs but less than 99 yrs",
+    "openings": "22 openings remaining",
+    "availability": "open",
+    "spaces": 22,
+    "firstDate": "2026-10-23",
+    "lastDate": "2026-10-23",
+    "prices": [
+      {
+        "price": "$7.93",
+        "description": "Public Skate Admission - Adult (19-64yrs) for 19 up to 64 years old"
+      },
+      {
+        "price": "$5.55",
+        "description": "Public Skate Admission - Senior (65yrs+) for 65 up to 100 years old"
+      },
+      {
+        "price": "$5.55",
+        "description": "Public Skate Admission - Youth (13-18yrs) for enrolling up to 2 activities"
+      },
+      {
+        "price": "$5.55",
+        "description": "Public Skate Admission - Youth (13-18yrs) for 13 up to 18 years old"
+      },
+      {
+        "price": "$3.97",
+        "description": "Public Skate Admission - Child (5-12yrs) for 5 up to 12 years old"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - Flexipass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - 10 Visit Pass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Leisure Access Pass Discount: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 641257,
+    "title": "Hillcrest Arena - Public Figure Skating - Friday 10:00am",
+    "calendarId": 3,
+    "centerId": 22,
+    "facilityIds": [
+      121
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/hillcrest-arena---public-figure-skating---friday-10-00am/641257",
+    "description": "<p>This session is for those looking to practice their jumps, spins and field moves.</p><p>No partners or pairs skating allowed. No skate rentals, and no lessons are provided.</p><p><i>*Monthly Flexipass and 10-Visit passes are accepted for this program</i>.</p><p>All registered participants must check in with the attendant up to 5 minutes after the program start time. Failure to do so may result in the spot being forfeited to a waiting skater.</p>Registrations, Cancellations, and Refunds• You can register online up to three days prior to your session.<br />• Cancel online through your account at vanrec.ca by 11:59pm the day before your class.<br />If you are cancelling by phone or in person you must cancel by 3pm the day before the session or by 3pm Saturday for a Monday session. Please call a community center to cancel by phone and note voicemail messages will not be accepted.<br />When sessions are cancelled within the cancellation period, paid transactions will be refunded back to the credit card or a credit can be used towards another booking.",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "from $3.97",
+    "free": false,
+    "ageMin": 8,
+    "ageMax": 99,
+    "ageText": "Age at least 8 yrs but less than 99 yrs",
+    "openings": "22 openings remaining",
+    "availability": "open",
+    "spaces": 22,
+    "firstDate": "2026-10-30",
+    "lastDate": "2026-10-30",
+    "prices": [
+      {
+        "price": "$7.93",
+        "description": "Public Skate Admission - Adult (19-64yrs) for 19 up to 64 years old"
+      },
+      {
+        "price": "$5.55",
+        "description": "Public Skate Admission - Senior (65yrs+) for 65 up to 100 years old"
+      },
+      {
+        "price": "$5.55",
+        "description": "Public Skate Admission - Youth (13-18yrs) for enrolling up to 2 activities"
+      },
+      {
+        "price": "$5.55",
+        "description": "Public Skate Admission - Youth (13-18yrs) for 13 up to 18 years old"
+      },
+      {
+        "price": "$3.97",
+        "description": "Public Skate Admission - Child (5-12yrs) for 5 up to 12 years old"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - Flexipass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - 10 Visit Pass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Leisure Access Pass Discount: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 641258,
+    "title": "Hillcrest Arena - Public Figure Skating - Friday 10:00am",
+    "calendarId": 3,
+    "centerId": 22,
+    "facilityIds": [
+      121
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/hillcrest-arena---public-figure-skating---friday-10-00am/641258",
+    "description": "<p>This session is for those looking to practice their jumps, spins and field moves.</p><p>No partners or pairs skating allowed. No skate rentals, and no lessons are provided.</p><p><i>*Monthly Flexipass and 10-Visit passes are accepted for this program</i>.</p><p>All registered participants must check in with the attendant up to 5 minutes after the program start time. Failure to do so may result in the spot being forfeited to a waiting skater.</p>Registrations, Cancellations, and Refunds• You can register online up to three days prior to your session.<br />• Cancel online through your account at vanrec.ca by 11:59pm the day before your class.<br />If you are cancelling by phone or in person you must cancel by 3pm the day before the session or by 3pm Saturday for a Monday session. Please call a community center to cancel by phone and note voicemail messages will not be accepted.<br />When sessions are cancelled within the cancellation period, paid transactions will be refunded back to the credit card or a credit can be used towards another booking.",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "from $3.97",
+    "free": false,
+    "ageMin": 8,
+    "ageMax": 99,
+    "ageText": "Age at least 8 yrs but less than 99 yrs",
+    "openings": "22 openings remaining",
+    "availability": "open",
+    "spaces": 22,
+    "firstDate": "2026-11-06",
+    "lastDate": "2026-11-06",
+    "prices": [
+      {
+        "price": "$7.93",
+        "description": "Public Skate Admission - Adult (19-64yrs) for 19 up to 64 years old"
+      },
+      {
+        "price": "$5.55",
+        "description": "Public Skate Admission - Senior (65yrs+) for 65 up to 100 years old"
+      },
+      {
+        "price": "$5.55",
+        "description": "Public Skate Admission - Youth (13-18yrs) for enrolling up to 2 activities"
+      },
+      {
+        "price": "$5.55",
+        "description": "Public Skate Admission - Youth (13-18yrs) for 13 up to 18 years old"
+      },
+      {
+        "price": "$3.97",
+        "description": "Public Skate Admission - Child (5-12yrs) for 5 up to 12 years old"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - Flexipass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - 10 Visit Pass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Leisure Access Pass Discount: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 641265,
+    "title": "Hillcrest Arena - Public Hockey - Friday 11:45am",
+    "calendarId": 3,
+    "centerId": 22,
+    "facilityIds": [
+      121
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/hillcrest-arena---public-hockey---friday-11-45am/641265",
+    "description": "<p>Recreational hockey game for those 19 years and older. Full hockey gear is required. No rental equipment provided.</p><p>GOALIES must register in a separate goalie specific activity with the same session time. If you are a goalie registered in this activity, you will be withdrawn.</p><p>All registered participants must check in with the attendant up to 5 minutes after the program start time. Failure to do so may result in the spot being forfeited to a waiting player.</p><i>*Monthly Flexipass and 10-Visit passes are accepted for this program</i>.<br />Registrations, Cancellations, and Refunds• You can register online up to three days prior to your session.<br />• Cancel online through your account at vanrec.ca by 11:59pm the day before your class.<br />If you are cancelling by phone or in person you must cancel by 3pm the day before the session or by 3pm Saturday for a Monday session. Please call a community center to cancel by phone and note voicemail messages will not be accepted.<br />When sessions are cancelled within the cancellation period, paid transactions will be refunded back to the credit card or a credit can be used towards another booking.",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 99,
+    "ageText": "Age at least 19 yrs but less than 99 yrs",
+    "openings": "20 openings remaining",
+    "availability": "open",
+    "spaces": 20,
+    "firstDate": "2026-10-09",
+    "lastDate": "2026-10-09"
+  },
+  {
+    "id": 641266,
+    "title": "Hillcrest Arena - Public Hockey - Friday 11:45am",
+    "calendarId": 3,
+    "centerId": 22,
+    "facilityIds": [
+      121
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/hillcrest-arena---public-hockey---friday-11-45am/641266",
+    "description": "<p>Recreational hockey game for those 19 years and older. Full hockey gear is required. No rental equipment provided.</p><p>GOALIES must register in a separate goalie specific activity with the same session time. If you are a goalie registered in this activity, you will be withdrawn.</p><p>All registered participants must check in with the attendant up to 5 minutes after the program start time. Failure to do so may result in the spot being forfeited to a waiting player.</p><i>*Monthly Flexipass and 10-Visit passes are accepted for this program</i>.<br />Registrations, Cancellations, and Refunds• You can register online up to three days prior to your session.<br />• Cancel online through your account at vanrec.ca by 11:59pm the day before your class.<br />If you are cancelling by phone or in person you must cancel by 3pm the day before the session or by 3pm Saturday for a Monday session. Please call a community center to cancel by phone and note voicemail messages will not be accepted.<br />When sessions are cancelled within the cancellation period, paid transactions will be refunded back to the credit card or a credit can be used towards another booking.",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 99,
+    "ageText": "Age at least 19 yrs but less than 99 yrs",
+    "openings": "20 openings remaining",
+    "availability": "open",
+    "spaces": 20,
+    "firstDate": "2026-10-16",
+    "lastDate": "2026-10-16"
+  },
+  {
+    "id": 641267,
+    "title": "Hillcrest Arena - Public Hockey - Friday 11:45am",
+    "calendarId": 3,
+    "centerId": 22,
+    "facilityIds": [
+      121
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/hillcrest-arena---public-hockey---friday-11-45am/641267",
+    "description": "<p>Recreational hockey game for those 19 years and older. Full hockey gear is required. No rental equipment provided.</p><p>GOALIES must register in a separate goalie specific activity with the same session time. If you are a goalie registered in this activity, you will be withdrawn.</p><p>All registered participants must check in with the attendant up to 5 minutes after the program start time. Failure to do so may result in the spot being forfeited to a waiting player.</p><i>*Monthly Flexipass and 10-Visit passes are accepted for this program</i>.<br />Registrations, Cancellations, and Refunds• You can register online up to three days prior to your session.<br />• Cancel online through your account at vanrec.ca by 11:59pm the day before your class.<br />If you are cancelling by phone or in person you must cancel by 3pm the day before the session or by 3pm Saturday for a Monday session. Please call a community center to cancel by phone and note voicemail messages will not be accepted.<br />When sessions are cancelled within the cancellation period, paid transactions will be refunded back to the credit card or a credit can be used towards another booking.",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 99,
+    "ageText": "Age at least 19 yrs but less than 99 yrs",
+    "openings": "20 openings remaining",
+    "availability": "open",
+    "spaces": 20,
+    "firstDate": "2026-10-23",
+    "lastDate": "2026-10-23"
+  },
+  {
+    "id": 641268,
+    "title": "Hillcrest Arena - Public Hockey - Friday 11:45am",
+    "calendarId": 3,
+    "centerId": 22,
+    "facilityIds": [
+      121
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/hillcrest-arena---public-hockey---friday-11-45am/641268",
+    "description": "<p>Recreational hockey game for those 19 years and older. Full hockey gear is required. No rental equipment provided.</p><p>GOALIES must register in a separate goalie specific activity with the same session time. If you are a goalie registered in this activity, you will be withdrawn.</p><p>All registered participants must check in with the attendant up to 5 minutes after the program start time. Failure to do so may result in the spot being forfeited to a waiting player.</p><i>*Monthly Flexipass and 10-Visit passes are accepted for this program</i>.<br />Registrations, Cancellations, and Refunds• You can register online up to three days prior to your session.<br />• Cancel online through your account at vanrec.ca by 11:59pm the day before your class.<br />If you are cancelling by phone or in person you must cancel by 3pm the day before the session or by 3pm Saturday for a Monday session. Please call a community center to cancel by phone and note voicemail messages will not be accepted.<br />When sessions are cancelled within the cancellation period, paid transactions will be refunded back to the credit card or a credit can be used towards another booking.",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 99,
+    "ageText": "Age at least 19 yrs but less than 99 yrs",
+    "openings": "20 openings remaining",
+    "availability": "open",
+    "spaces": 20,
+    "firstDate": "2026-10-30",
+    "lastDate": "2026-10-30"
+  },
+  {
+    "id": 641269,
+    "title": "Hillcrest Arena - Public Hockey - Friday 11:45am",
+    "calendarId": 3,
+    "centerId": 22,
+    "facilityIds": [
+      121
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/hillcrest-arena---public-hockey---friday-11-45am/641269",
+    "description": "<p>Recreational hockey game for those 19 years and older. Full hockey gear is required. No rental equipment provided.</p><p>GOALIES must register in a separate goalie specific activity with the same session time. If you are a goalie registered in this activity, you will be withdrawn.</p><p>All registered participants must check in with the attendant up to 5 minutes after the program start time. Failure to do so may result in the spot being forfeited to a waiting player.</p><i>*Monthly Flexipass and 10-Visit passes are accepted for this program</i>.<br />Registrations, Cancellations, and Refunds• You can register online up to three days prior to your session.<br />• Cancel online through your account at vanrec.ca by 11:59pm the day before your class.<br />If you are cancelling by phone or in person you must cancel by 3pm the day before the session or by 3pm Saturday for a Monday session. Please call a community center to cancel by phone and note voicemail messages will not be accepted.<br />When sessions are cancelled within the cancellation period, paid transactions will be refunded back to the credit card or a credit can be used towards another booking.",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 99,
+    "ageText": "Age at least 19 yrs but less than 99 yrs",
+    "openings": "20 openings remaining",
+    "availability": "open",
+    "spaces": 20,
+    "firstDate": "2026-11-06",
+    "lastDate": "2026-11-06"
+  },
+  {
+    "id": 641276,
+    "title": "Hillcrest Arena - Para Hockey Beg - Friday 6:45pm",
+    "calendarId": 3,
+    "centerId": 22,
+    "facilityIds": [
+      121
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/hillcrest-arena---para-hockey-beg---friday-6-45pm/641276",
+    "description": "<p>Para Ice hockey for Intermediate/Advanced who want to play in a casual game.</p><p>Everyone is welcome to participate - people with a physical disability and able-bodied people, but all participants must play in a sled.</p><p>Equipment: A CSA approved hockey helmet with a full cage, hockey gloves and elbow pads are required. Chest protector and shin guards are strongly recommended. Equipment provided on a first-come, first-served basis.</p><p>All Hockey Programs are co-ed and participants must sign a waiver at the beginning of each session.</p><p>All registered participants must check in with the attendant up to 5 minutes after the program start time. Failure to do so may result in the spot being forfeited to a waiting player.</p><p><i>*Monthly Flexipass and 10-Visit passes are accepted for this program</i>.</p>Registrations, Cancellations, and Refunds• You can register online up to three days prior to your session.<br />• Cancel online through your account at vanrec.ca by 11:59pm the day before your class.<br />If you are cancelling by phone or in person you must cancel by 3pm the day before the session or by 3pm Saturday for a Monday session. Please call a community center to cancel by phone and note voicemail messages will not be accepted.<br />When sessions are cancelled within the cancellation period, paid transactions will be refunded back to the credit card or a credit can be used towards another booking.",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "",
+    "free": false,
+    "ageMin": 8,
+    "ageMax": 99,
+    "ageText": "Age at least 8 yrs but less than 99 yrs",
+    "openings": "20 openings remaining",
+    "availability": "open",
+    "spaces": 20,
+    "firstDate": "2026-10-09",
+    "lastDate": "2026-10-09"
+  },
+  {
+    "id": 641277,
+    "title": "Hillcrest Arena - Para Hockey Beg - Friday 6:45pm",
+    "calendarId": 3,
+    "centerId": 22,
+    "facilityIds": [
+      121
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/hillcrest-arena---para-hockey-beg---friday-6-45pm/641277",
+    "description": "<p>Para Ice hockey for Intermediate/Advanced who want to play in a casual game.</p><p>Everyone is welcome to participate - people with a physical disability and able-bodied people, but all participants must play in a sled.</p><p>Equipment: A CSA approved hockey helmet with a full cage, hockey gloves and elbow pads are required. Chest protector and shin guards are strongly recommended. Equipment provided on a first-come, first-served basis.</p><p>All Hockey Programs are co-ed and participants must sign a waiver at the beginning of each session.</p><p>All registered participants must check in with the attendant up to 5 minutes after the program start time. Failure to do so may result in the spot being forfeited to a waiting player.</p><p><i>*Monthly Flexipass and 10-Visit passes are accepted for this program</i>.</p>Registrations, Cancellations, and Refunds• You can register online up to three days prior to your session.<br />• Cancel online through your account at vanrec.ca by 11:59pm the day before your class.<br />If you are cancelling by phone or in person you must cancel by 3pm the day before the session or by 3pm Saturday for a Monday session. Please call a community center to cancel by phone and note voicemail messages will not be accepted.<br />When sessions are cancelled within the cancellation period, paid transactions will be refunded back to the credit card or a credit can be used towards another booking.",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "",
+    "free": false,
+    "ageMin": 8,
+    "ageMax": 99,
+    "ageText": "Age at least 8 yrs but less than 99 yrs",
+    "openings": "20 openings remaining",
+    "availability": "open",
+    "spaces": 20,
+    "firstDate": "2026-10-16",
+    "lastDate": "2026-10-16"
+  },
+  {
+    "id": 641278,
+    "title": "Hillcrest Arena - Para Hockey Beg - Friday 6:45pm",
+    "calendarId": 3,
+    "centerId": 22,
+    "facilityIds": [
+      121
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/hillcrest-arena---para-hockey-beg---friday-6-45pm/641278",
+    "description": "<p>Para Ice hockey for Intermediate/Advanced who want to play in a casual game.</p><p>Everyone is welcome to participate - people with a physical disability and able-bodied people, but all participants must play in a sled.</p><p>Equipment: A CSA approved hockey helmet with a full cage, hockey gloves and elbow pads are required. Chest protector and shin guards are strongly recommended. Equipment provided on a first-come, first-served basis.</p><p>All Hockey Programs are co-ed and participants must sign a waiver at the beginning of each session.</p><p>All registered participants must check in with the attendant up to 5 minutes after the program start time. Failure to do so may result in the spot being forfeited to a waiting player.</p><p><i>*Monthly Flexipass and 10-Visit passes are accepted for this program</i>.</p>Registrations, Cancellations, and Refunds• You can register online up to three days prior to your session.<br />• Cancel online through your account at vanrec.ca by 11:59pm the day before your class.<br />If you are cancelling by phone or in person you must cancel by 3pm the day before the session or by 3pm Saturday for a Monday session. Please call a community center to cancel by phone and note voicemail messages will not be accepted.<br />When sessions are cancelled within the cancellation period, paid transactions will be refunded back to the credit card or a credit can be used towards another booking.",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "",
+    "free": false,
+    "ageMin": 8,
+    "ageMax": 99,
+    "ageText": "Age at least 8 yrs but less than 99 yrs",
+    "openings": "20 openings remaining",
+    "availability": "open",
+    "spaces": 20,
+    "firstDate": "2026-10-23",
+    "lastDate": "2026-10-23"
+  },
+  {
+    "id": 641279,
+    "title": "Hillcrest Arena - Para Hockey Beg - Friday 6:45pm",
+    "calendarId": 3,
+    "centerId": 22,
+    "facilityIds": [
+      121
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/hillcrest-arena---para-hockey-beg---friday-6-45pm/641279",
+    "description": "<p>Para Ice hockey for Intermediate/Advanced who want to play in a casual game.</p><p>Everyone is welcome to participate - people with a physical disability and able-bodied people, but all participants must play in a sled.</p><p>Equipment: A CSA approved hockey helmet with a full cage, hockey gloves and elbow pads are required. Chest protector and shin guards are strongly recommended. Equipment provided on a first-come, first-served basis.</p><p>All Hockey Programs are co-ed and participants must sign a waiver at the beginning of each session.</p><p>All registered participants must check in with the attendant up to 5 minutes after the program start time. Failure to do so may result in the spot being forfeited to a waiting player.</p><p><i>*Monthly Flexipass and 10-Visit passes are accepted for this program</i>.</p>Registrations, Cancellations, and Refunds• You can register online up to three days prior to your session.<br />• Cancel online through your account at vanrec.ca by 11:59pm the day before your class.<br />If you are cancelling by phone or in person you must cancel by 3pm the day before the session or by 3pm Saturday for a Monday session. Please call a community center to cancel by phone and note voicemail messages will not be accepted.<br />When sessions are cancelled within the cancellation period, paid transactions will be refunded back to the credit card or a credit can be used towards another booking.",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "",
+    "free": false,
+    "ageMin": 8,
+    "ageMax": 99,
+    "ageText": "Age at least 8 yrs but less than 99 yrs",
+    "openings": "20 openings remaining",
+    "availability": "open",
+    "spaces": 20,
+    "firstDate": "2026-10-30",
+    "lastDate": "2026-10-30"
+  },
+  {
+    "id": 641280,
+    "title": "Hillcrest Arena - Para Hockey Beg - Friday 6:45pm",
+    "calendarId": 3,
+    "centerId": 22,
+    "facilityIds": [
+      121
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/hillcrest-arena---para-hockey-beg---friday-6-45pm/641280",
+    "description": "<p>Para Ice hockey for Intermediate/Advanced who want to play in a casual game.</p><p>Everyone is welcome to participate - people with a physical disability and able-bodied people, but all participants must play in a sled.</p><p>Equipment: A CSA approved hockey helmet with a full cage, hockey gloves and elbow pads are required. Chest protector and shin guards are strongly recommended. Equipment provided on a first-come, first-served basis.</p><p>All Hockey Programs are co-ed and participants must sign a waiver at the beginning of each session.</p><p>All registered participants must check in with the attendant up to 5 minutes after the program start time. Failure to do so may result in the spot being forfeited to a waiting player.</p><p><i>*Monthly Flexipass and 10-Visit passes are accepted for this program</i>.</p>Registrations, Cancellations, and Refunds• You can register online up to three days prior to your session.<br />• Cancel online through your account at vanrec.ca by 11:59pm the day before your class.<br />If you are cancelling by phone or in person you must cancel by 3pm the day before the session or by 3pm Saturday for a Monday session. Please call a community center to cancel by phone and note voicemail messages will not be accepted.<br />When sessions are cancelled within the cancellation period, paid transactions will be refunded back to the credit card or a credit can be used towards another booking.",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "",
+    "free": false,
+    "ageMin": 8,
+    "ageMax": 99,
+    "ageText": "Age at least 8 yrs but less than 99 yrs",
+    "openings": "20 openings remaining",
+    "availability": "open",
+    "spaces": 20,
+    "firstDate": "2026-11-06",
+    "lastDate": "2026-11-06"
+  },
+  {
+    "id": 641287,
+    "title": "Hillcrest Arena - Para Hockey Int/Adv- Friday 8:15pm",
+    "calendarId": 3,
+    "centerId": 22,
+    "facilityIds": [
+      121
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/hillcrest-arena---para-hockey-int-adv--friday-8-15pm/641287",
+    "description": "<p>Para Ice hockey for Intermediate/Advanced who want to play in a casual game.</p><p>Everyone is welcome to participate - people with a physical disability and able-bodied people, but all participants must play in a sled.</p><p>Equipment: A CSA approved hockey helmet with a full cage, hockey gloves and elbow pads are required. Chest protector and shin guards are strongly recommended. Equipment provided on a first-come, first-served basis.</p><p>All Hockey Programs are co-ed and participants must sign a waiver at the beginning of each session.</p><p>All registered participants must check in with the attendant up to 5 minutes after the program start time. Failure to do so may result in the spot being forfeited to a waiting player.</p><p><i>*Monthly Flexipass and 10-Visit passes are accepted for this program</i>.</p>Registrations, Cancellations, and Refunds• You can register online up to three days prior to your session.<br />• Cancel online through your account at vanrec.ca by 11:59pm the day before your class.<br />If you are cancelling by phone or in person you must cancel by 3pm the day before the session or by 3pm Saturday for a Monday session. Please call a community center to cancel by phone and note voicemail messages will not be accepted.<br />When sessions are cancelled within the cancellation period, paid transactions will be refunded back to the credit card or a credit can be used towards another booking.",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "",
+    "free": false,
+    "ageMin": 8,
+    "ageMax": 99,
+    "ageText": "Age at least 8 yrs but less than 99 yrs",
+    "openings": "20 openings remaining",
+    "availability": "open",
+    "spaces": 20,
+    "firstDate": "2026-10-09",
+    "lastDate": "2026-10-09"
+  },
+  {
+    "id": 641288,
+    "title": "Hillcrest Arena - Para Hockey Int/Adv- Friday 8:15pm",
+    "calendarId": 3,
+    "centerId": 22,
+    "facilityIds": [
+      121
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/hillcrest-arena---para-hockey-int-adv--friday-8-15pm/641288",
+    "description": "<p>Para Ice hockey for Intermediate/Advanced who want to play in a casual game.</p><p>Everyone is welcome to participate - people with a physical disability and able-bodied people, but all participants must play in a sled.</p><p>Equipment: A CSA approved hockey helmet with a full cage, hockey gloves and elbow pads are required. Chest protector and shin guards are strongly recommended. Equipment provided on a first-come, first-served basis.</p><p>All Hockey Programs are co-ed and participants must sign a waiver at the beginning of each session.</p><p>All registered participants must check in with the attendant up to 5 minutes after the program start time. Failure to do so may result in the spot being forfeited to a waiting player.</p><p><i>*Monthly Flexipass and 10-Visit passes are accepted for this program</i>.</p>Registrations, Cancellations, and Refunds• You can register online up to three days prior to your session.<br />• Cancel online through your account at vanrec.ca by 11:59pm the day before your class.<br />If you are cancelling by phone or in person you must cancel by 3pm the day before the session or by 3pm Saturday for a Monday session. Please call a community center to cancel by phone and note voicemail messages will not be accepted.<br />When sessions are cancelled within the cancellation period, paid transactions will be refunded back to the credit card or a credit can be used towards another booking.",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "",
+    "free": false,
+    "ageMin": 8,
+    "ageMax": 99,
+    "ageText": "Age at least 8 yrs but less than 99 yrs",
+    "openings": "20 openings remaining",
+    "availability": "open",
+    "spaces": 20,
+    "firstDate": "2026-10-16",
+    "lastDate": "2026-10-16"
+  },
+  {
+    "id": 641289,
+    "title": "Hillcrest Arena - Para Hockey Int/Adv- Friday 8:15pm",
+    "calendarId": 3,
+    "centerId": 22,
+    "facilityIds": [
+      121
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/hillcrest-arena---para-hockey-int-adv--friday-8-15pm/641289",
+    "description": "<p>Para Ice hockey for Intermediate/Advanced who want to play in a casual game.</p><p>Everyone is welcome to participate - people with a physical disability and able-bodied people, but all participants must play in a sled.</p><p>Equipment: A CSA approved hockey helmet with a full cage, hockey gloves and elbow pads are required. Chest protector and shin guards are strongly recommended. Equipment provided on a first-come, first-served basis.</p><p>All Hockey Programs are co-ed and participants must sign a waiver at the beginning of each session.</p><p>All registered participants must check in with the attendant up to 5 minutes after the program start time. Failure to do so may result in the spot being forfeited to a waiting player.</p><p><i>*Monthly Flexipass and 10-Visit passes are accepted for this program</i>.</p>Registrations, Cancellations, and Refunds• You can register online up to three days prior to your session.<br />• Cancel online through your account at vanrec.ca by 11:59pm the day before your class.<br />If you are cancelling by phone or in person you must cancel by 3pm the day before the session or by 3pm Saturday for a Monday session. Please call a community center to cancel by phone and note voicemail messages will not be accepted.<br />When sessions are cancelled within the cancellation period, paid transactions will be refunded back to the credit card or a credit can be used towards another booking.",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "",
+    "free": false,
+    "ageMin": 8,
+    "ageMax": 99,
+    "ageText": "Age at least 8 yrs but less than 99 yrs",
+    "openings": "20 openings remaining",
+    "availability": "open",
+    "spaces": 20,
+    "firstDate": "2026-10-23",
+    "lastDate": "2026-10-23"
+  },
+  {
+    "id": 641290,
+    "title": "Hillcrest Arena - Para Hockey Int/Adv- Friday 8:15pm",
+    "calendarId": 3,
+    "centerId": 22,
+    "facilityIds": [
+      121
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/hillcrest-arena---para-hockey-int-adv--friday-8-15pm/641290",
+    "description": "<p>Para Ice hockey for Intermediate/Advanced who want to play in a casual game.</p><p>Everyone is welcome to participate - people with a physical disability and able-bodied people, but all participants must play in a sled.</p><p>Equipment: A CSA approved hockey helmet with a full cage, hockey gloves and elbow pads are required. Chest protector and shin guards are strongly recommended. Equipment provided on a first-come, first-served basis.</p><p>All Hockey Programs are co-ed and participants must sign a waiver at the beginning of each session.</p><p>All registered participants must check in with the attendant up to 5 minutes after the program start time. Failure to do so may result in the spot being forfeited to a waiting player.</p><p><i>*Monthly Flexipass and 10-Visit passes are accepted for this program</i>.</p>Registrations, Cancellations, and Refunds• You can register online up to three days prior to your session.<br />• Cancel online through your account at vanrec.ca by 11:59pm the day before your class.<br />If you are cancelling by phone or in person you must cancel by 3pm the day before the session or by 3pm Saturday for a Monday session. Please call a community center to cancel by phone and note voicemail messages will not be accepted.<br />When sessions are cancelled within the cancellation period, paid transactions will be refunded back to the credit card or a credit can be used towards another booking.",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "",
+    "free": false,
+    "ageMin": 8,
+    "ageMax": 99,
+    "ageText": "Age at least 8 yrs but less than 99 yrs",
+    "openings": "20 openings remaining",
+    "availability": "open",
+    "spaces": 20,
+    "firstDate": "2026-10-30",
+    "lastDate": "2026-10-30"
+  },
+  {
+    "id": 641291,
+    "title": "Hillcrest Arena - Para Hockey Int/Adv- Friday 8:15pm",
+    "calendarId": 3,
+    "centerId": 22,
+    "facilityIds": [
+      121
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/hillcrest-arena---para-hockey-int-adv--friday-8-15pm/641291",
+    "description": "<p>Para Ice hockey for Intermediate/Advanced who want to play in a casual game.</p><p>Everyone is welcome to participate - people with a physical disability and able-bodied people, but all participants must play in a sled.</p><p>Equipment: A CSA approved hockey helmet with a full cage, hockey gloves and elbow pads are required. Chest protector and shin guards are strongly recommended. Equipment provided on a first-come, first-served basis.</p><p>All Hockey Programs are co-ed and participants must sign a waiver at the beginning of each session.</p><p>All registered participants must check in with the attendant up to 5 minutes after the program start time. Failure to do so may result in the spot being forfeited to a waiting player.</p><p><i>*Monthly Flexipass and 10-Visit passes are accepted for this program</i>.</p>Registrations, Cancellations, and Refunds• You can register online up to three days prior to your session.<br />• Cancel online through your account at vanrec.ca by 11:59pm the day before your class.<br />If you are cancelling by phone or in person you must cancel by 3pm the day before the session or by 3pm Saturday for a Monday session. Please call a community center to cancel by phone and note voicemail messages will not be accepted.<br />When sessions are cancelled within the cancellation period, paid transactions will be refunded back to the credit card or a credit can be used towards another booking.",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "",
+    "free": false,
+    "ageMin": 8,
+    "ageMax": 99,
+    "ageText": "Age at least 8 yrs but less than 99 yrs",
+    "openings": "20 openings remaining",
+    "availability": "open",
+    "spaces": 20,
+    "firstDate": "2026-11-06",
+    "lastDate": "2026-11-06"
+  },
+  {
+    "id": 641387,
+    "title": "Hillcrest Arena - Public Hockey GOALIES - Wednesday 11:45am",
+    "calendarId": 3,
+    "centerId": 22,
+    "facilityIds": [
+      121
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/hillcrest-arena---public-hockey-goalies---wednesday-11-45am/641387",
+    "description": "<p>GOALIE REGISTRATION ONLY! Players register in the Public Hockey session.</p><p>Only 2 goalies permitted per session. Free admission.</p><p>Recreational hockey game for those 19 years and older. Full hockey gear is required. No rental equipment provided.</p><p><i>*Monthly Flexipass and 10-Visit passes are accepted for this program</i>.</p><br />",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 99,
+    "ageText": "Age at least 19 yrs but less than 99 yrs",
+    "openings": "2 openings remaining",
+    "availability": "open",
+    "spaces": 2,
+    "firstDate": "2026-09-30",
+    "lastDate": "2026-09-30"
+  },
+  {
+    "id": 641391,
+    "title": "Hillcrest Arena - Public Hockey GOALIES - Wednesday 11:45am",
+    "calendarId": 3,
+    "centerId": 22,
+    "facilityIds": [
+      121
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/hillcrest-arena---public-hockey-goalies---wednesday-11-45am/641391",
+    "description": "<p>GOALIE REGISTRATION ONLY! Players register in the Public Hockey session.</p><p>Only 2 goalies permitted per session. Free admission.</p><p>Recreational hockey game for those 19 years and older. Full hockey gear is required. No rental equipment provided.</p><p><i>*Monthly Flexipass and 10-Visit passes are accepted for this program</i>.</p><br />",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 99,
+    "ageText": "Age at least 19 yrs but less than 99 yrs",
+    "openings": "2 openings remaining",
+    "availability": "open",
+    "spaces": 2,
+    "firstDate": "2026-10-07",
+    "lastDate": "2026-10-07"
+  },
+  {
+    "id": 641392,
+    "title": "Hillcrest Arena - Public Hockey GOALIES - Wednesday 11:45am",
+    "calendarId": 3,
+    "centerId": 22,
+    "facilityIds": [
+      121
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/hillcrest-arena---public-hockey-goalies---wednesday-11-45am/641392",
+    "description": "<p>GOALIE REGISTRATION ONLY! Players register in the Public Hockey session.</p><p>Only 2 goalies permitted per session. Free admission.</p><p>Recreational hockey game for those 19 years and older. Full hockey gear is required. No rental equipment provided.</p><p><i>*Monthly Flexipass and 10-Visit passes are accepted for this program</i>.</p><br />",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 99,
+    "ageText": "Age at least 19 yrs but less than 99 yrs",
+    "openings": "2 openings remaining",
+    "availability": "open",
+    "spaces": 2,
+    "firstDate": "2026-10-14",
+    "lastDate": "2026-10-14"
+  },
+  {
+    "id": 641393,
+    "title": "Hillcrest Arena - Public Hockey GOALIES - Wednesday 11:45am",
+    "calendarId": 3,
+    "centerId": 22,
+    "facilityIds": [
+      121
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/hillcrest-arena---public-hockey-goalies---wednesday-11-45am/641393",
+    "description": "<p>GOALIE REGISTRATION ONLY! Players register in the Public Hockey session.</p><p>Only 2 goalies permitted per session. Free admission.</p><p>Recreational hockey game for those 19 years and older. Full hockey gear is required. No rental equipment provided.</p><p><i>*Monthly Flexipass and 10-Visit passes are accepted for this program</i>.</p><br />",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 99,
+    "ageText": "Age at least 19 yrs but less than 99 yrs",
+    "openings": "2 openings remaining",
+    "availability": "open",
+    "spaces": 2,
+    "firstDate": "2026-10-21",
+    "lastDate": "2026-10-21"
+  },
+  {
+    "id": 641394,
+    "title": "Hillcrest Arena - Public Hockey GOALIES - Wednesday 11:45am",
+    "calendarId": 3,
+    "centerId": 22,
+    "facilityIds": [
+      121
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/hillcrest-arena---public-hockey-goalies---wednesday-11-45am/641394",
+    "description": "<p>GOALIE REGISTRATION ONLY! Players register in the Public Hockey session.</p><p>Only 2 goalies permitted per session. Free admission.</p><p>Recreational hockey game for those 19 years and older. Full hockey gear is required. No rental equipment provided.</p><p><i>*Monthly Flexipass and 10-Visit passes are accepted for this program</i>.</p><br />",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 99,
+    "ageText": "Age at least 19 yrs but less than 99 yrs",
+    "openings": "2 openings remaining",
+    "availability": "open",
+    "spaces": 2,
+    "firstDate": "2026-10-28",
+    "lastDate": "2026-10-28"
+  },
+  {
+    "id": 641395,
+    "title": "Hillcrest Arena - Public Hockey GOALIES - Wednesday 11:45am",
+    "calendarId": 3,
+    "centerId": 22,
+    "facilityIds": [
+      121
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/hillcrest-arena---public-hockey-goalies---wednesday-11-45am/641395",
+    "description": "<p>GOALIE REGISTRATION ONLY! Players register in the Public Hockey session.</p><p>Only 2 goalies permitted per session. Free admission.</p><p>Recreational hockey game for those 19 years and older. Full hockey gear is required. No rental equipment provided.</p><p><i>*Monthly Flexipass and 10-Visit passes are accepted for this program</i>.</p><br />",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 99,
+    "ageText": "Age at least 19 yrs but less than 99 yrs",
+    "openings": "2 openings remaining",
+    "availability": "open",
+    "spaces": 2,
+    "firstDate": "2026-11-04",
+    "lastDate": "2026-11-04"
+  },
+  {
+    "id": 641402,
+    "title": "Hillcrest Arena - Public Hockey GOALIES - Thursday 1:45pm",
+    "calendarId": 3,
+    "centerId": 22,
+    "facilityIds": [
+      121
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/hillcrest-arena---public-hockey-goalies---thursday-1-45pm/641402",
+    "description": "<p>GOALIE REGISTRATION ONLY! Players register in the Public Hockey session.</p><p>Only 2 goalies permitted per session. Free admission.</p><p>Recreational hockey game for those 19 years and older. Full hockey gear is required. No rental equipment provided.</p><p><i>*Monthly Flexipass and 10-Visit passes are accepted for this program</i>.</p><br />",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 99,
+    "ageText": "Age at least 19 yrs but less than 99 yrs",
+    "openings": "2 openings remaining",
+    "availability": "open",
+    "spaces": 2,
+    "firstDate": "2026-10-01",
+    "lastDate": "2026-10-01"
+  },
+  {
+    "id": 641403,
+    "title": "Hillcrest Arena - Public Hockey GOALIES - Thursday 1:45pm",
+    "calendarId": 3,
+    "centerId": 22,
+    "facilityIds": [
+      121
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/hillcrest-arena---public-hockey-goalies---thursday-1-45pm/641403",
+    "description": "<p>GOALIE REGISTRATION ONLY! Players register in the Public Hockey session.</p><p>Only 2 goalies permitted per session. Free admission.</p><p>Recreational hockey game for those 19 years and older. Full hockey gear is required. No rental equipment provided.</p><p><i>*Monthly Flexipass and 10-Visit passes are accepted for this program</i>.</p><br />",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 99,
+    "ageText": "Age at least 19 yrs but less than 99 yrs",
+    "openings": "2 openings remaining",
+    "availability": "open",
+    "spaces": 2,
+    "firstDate": "2026-10-08",
+    "lastDate": "2026-10-08"
+  },
+  {
+    "id": 641404,
+    "title": "Hillcrest Arena - Public Hockey GOALIES - Thursday 1:45pm",
+    "calendarId": 3,
+    "centerId": 22,
+    "facilityIds": [
+      121
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/hillcrest-arena---public-hockey-goalies---thursday-1-45pm/641404",
+    "description": "<p>GOALIE REGISTRATION ONLY! Players register in the Public Hockey session.</p><p>Only 2 goalies permitted per session. Free admission.</p><p>Recreational hockey game for those 19 years and older. Full hockey gear is required. No rental equipment provided.</p><p><i>*Monthly Flexipass and 10-Visit passes are accepted for this program</i>.</p><br />",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 99,
+    "ageText": "Age at least 19 yrs but less than 99 yrs",
+    "openings": "2 openings remaining",
+    "availability": "open",
+    "spaces": 2,
+    "firstDate": "2026-10-15",
+    "lastDate": "2026-10-15"
+  },
+  {
+    "id": 641405,
+    "title": "Hillcrest Arena - Public Hockey GOALIES - Thursday 1:45pm",
+    "calendarId": 3,
+    "centerId": 22,
+    "facilityIds": [
+      121
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/hillcrest-arena---public-hockey-goalies---thursday-1-45pm/641405",
+    "description": "<p>GOALIE REGISTRATION ONLY! Players register in the Public Hockey session.</p><p>Only 2 goalies permitted per session. Free admission.</p><p>Recreational hockey game for those 19 years and older. Full hockey gear is required. No rental equipment provided.</p><p><i>*Monthly Flexipass and 10-Visit passes are accepted for this program</i>.</p><br />",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 99,
+    "ageText": "Age at least 19 yrs but less than 99 yrs",
+    "openings": "2 openings remaining",
+    "availability": "open",
+    "spaces": 2,
+    "firstDate": "2026-10-22",
+    "lastDate": "2026-10-22"
+  },
+  {
+    "id": 641407,
+    "title": "Hillcrest Arena - Public Hockey GOALIES - Thursday 1:45pm",
+    "calendarId": 3,
+    "centerId": 22,
+    "facilityIds": [
+      121
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/hillcrest-arena---public-hockey-goalies---thursday-1-45pm/641407",
+    "description": "<p>GOALIE REGISTRATION ONLY! Players register in the Public Hockey session.</p><p>Only 2 goalies permitted per session. Free admission.</p><p>Recreational hockey game for those 19 years and older. Full hockey gear is required. No rental equipment provided.</p><p><i>*Monthly Flexipass and 10-Visit passes are accepted for this program</i>.</p><br />",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 99,
+    "ageText": "Age at least 19 yrs but less than 99 yrs",
+    "openings": "2 openings remaining",
+    "availability": "open",
+    "spaces": 2,
+    "firstDate": "2026-10-29",
+    "lastDate": "2026-10-29"
+  },
+  {
+    "id": 641408,
+    "title": "Hillcrest Arena - Public Hockey GOALIES - Thursday 1:45pm",
+    "calendarId": 3,
+    "centerId": 22,
+    "facilityIds": [
+      121
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/hillcrest-arena---public-hockey-goalies---thursday-1-45pm/641408",
+    "description": "<p>GOALIE REGISTRATION ONLY! Players register in the Public Hockey session.</p><p>Only 2 goalies permitted per session. Free admission.</p><p>Recreational hockey game for those 19 years and older. Full hockey gear is required. No rental equipment provided.</p><p><i>*Monthly Flexipass and 10-Visit passes are accepted for this program</i>.</p><br />",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 99,
+    "ageText": "Age at least 19 yrs but less than 99 yrs",
+    "openings": "2 openings remaining",
+    "availability": "open",
+    "spaces": 2,
+    "firstDate": "2026-11-05",
+    "lastDate": "2026-11-05"
+  },
+  {
+    "id": 641415,
+    "title": "Hillcrest Arena - Public Hockey GOALIES - Friday 11:45am",
+    "calendarId": 3,
+    "centerId": 22,
+    "facilityIds": [
+      121
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/hillcrest-arena---public-hockey-goalies---friday-11-45am/641415",
+    "description": "<p>GOALIE REGISTRATION ONLY! Players register in the Public Hockey session.</p><p>Only 2 goalies permitted per session. Free admission.</p><p>Recreational hockey game for those 19 years and older. Full hockey gear is required. No rental equipment provided.</p><p><i>*Monthly Flexipass and 10-Visit passes are accepted for this program</i>.</p><br />",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 99,
+    "ageText": "Age at least 19 yrs but less than 99 yrs",
+    "openings": "2 openings remaining",
+    "availability": "open",
+    "spaces": 2,
+    "firstDate": "2026-10-02",
+    "lastDate": "2026-10-02"
+  },
+  {
+    "id": 641416,
+    "title": "Hillcrest Arena - Public Hockey GOALIES - Friday 11:45am",
+    "calendarId": 3,
+    "centerId": 22,
+    "facilityIds": [
+      121
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/hillcrest-arena---public-hockey-goalies---friday-11-45am/641416",
+    "description": "<p>GOALIE REGISTRATION ONLY! Players register in the Public Hockey session.</p><p>Only 2 goalies permitted per session. Free admission.</p><p>Recreational hockey game for those 19 years and older. Full hockey gear is required. No rental equipment provided.</p><p><i>*Monthly Flexipass and 10-Visit passes are accepted for this program</i>.</p><br />",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 99,
+    "ageText": "Age at least 19 yrs but less than 99 yrs",
+    "openings": "2 openings remaining",
+    "availability": "open",
+    "spaces": 2,
+    "firstDate": "2026-10-09",
+    "lastDate": "2026-10-09"
+  },
+  {
+    "id": 641417,
+    "title": "Hillcrest Arena - Public Hockey GOALIES - Friday 11:45am",
+    "calendarId": 3,
+    "centerId": 22,
+    "facilityIds": [
+      121
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/hillcrest-arena---public-hockey-goalies---friday-11-45am/641417",
+    "description": "<p>GOALIE REGISTRATION ONLY! Players register in the Public Hockey session.</p><p>Only 2 goalies permitted per session. Free admission.</p><p>Recreational hockey game for those 19 years and older. Full hockey gear is required. No rental equipment provided.</p><p><i>*Monthly Flexipass and 10-Visit passes are accepted for this program</i>.</p><br />",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 99,
+    "ageText": "Age at least 19 yrs but less than 99 yrs",
+    "openings": "2 openings remaining",
+    "availability": "open",
+    "spaces": 2,
+    "firstDate": "2026-10-16",
+    "lastDate": "2026-10-16"
+  },
+  {
+    "id": 641418,
+    "title": "Hillcrest Arena - Public Hockey GOALIES - Friday 11:45am",
+    "calendarId": 3,
+    "centerId": 22,
+    "facilityIds": [
+      121
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/hillcrest-arena---public-hockey-goalies---friday-11-45am/641418",
+    "description": "<p>GOALIE REGISTRATION ONLY! Players register in the Public Hockey session.</p><p>Only 2 goalies permitted per session. Free admission.</p><p>Recreational hockey game for those 19 years and older. Full hockey gear is required. No rental equipment provided.</p><p><i>*Monthly Flexipass and 10-Visit passes are accepted for this program</i>.</p><br />",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 99,
+    "ageText": "Age at least 19 yrs but less than 99 yrs",
+    "openings": "2 openings remaining",
+    "availability": "open",
+    "spaces": 2,
+    "firstDate": "2026-10-23",
+    "lastDate": "2026-10-23"
+  },
+  {
+    "id": 641419,
+    "title": "Hillcrest Arena - Public Hockey GOALIES - Friday 11:45am",
+    "calendarId": 3,
+    "centerId": 22,
+    "facilityIds": [
+      121
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/hillcrest-arena---public-hockey-goalies---friday-11-45am/641419",
+    "description": "<p>GOALIE REGISTRATION ONLY! Players register in the Public Hockey session.</p><p>Only 2 goalies permitted per session. Free admission.</p><p>Recreational hockey game for those 19 years and older. Full hockey gear is required. No rental equipment provided.</p><p><i>*Monthly Flexipass and 10-Visit passes are accepted for this program</i>.</p><br />",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 99,
+    "ageText": "Age at least 19 yrs but less than 99 yrs",
+    "openings": "2 openings remaining",
+    "availability": "open",
+    "spaces": 2,
+    "firstDate": "2026-10-30",
+    "lastDate": "2026-10-30"
+  },
+  {
+    "id": 641420,
+    "title": "Hillcrest Arena - Public Hockey GOALIES - Friday 11:45am",
+    "calendarId": 3,
+    "centerId": 22,
+    "facilityIds": [
+      121
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/hillcrest-arena---public-hockey-goalies---friday-11-45am/641420",
+    "description": "<p>GOALIE REGISTRATION ONLY! Players register in the Public Hockey session.</p><p>Only 2 goalies permitted per session. Free admission.</p><p>Recreational hockey game for those 19 years and older. Full hockey gear is required. No rental equipment provided.</p><p><i>*Monthly Flexipass and 10-Visit passes are accepted for this program</i>.</p><br />",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 99,
+    "ageText": "Age at least 19 yrs but less than 99 yrs",
+    "openings": "2 openings remaining",
+    "availability": "open",
+    "spaces": 2,
+    "firstDate": "2026-11-06",
+    "lastDate": "2026-11-06"
   }
 ]
