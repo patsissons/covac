@@ -1022,9 +1022,9 @@
     "ageMin": 18,
     "ageMax": 99,
     "ageText": "Age at least 18 yrs but less than 99 yrs",
-    "openings": "20 openings remaining",
+    "openings": "21 openings remaining",
     "availability": "open",
-    "spaces": 20,
+    "spaces": 21,
     "firstDate": "2026-09-13",
     "lastDate": "2026-12-13",
     "prices": [
@@ -2238,9 +2238,9 @@
     "ageMin": 16,
     "ageMax": 99,
     "ageText": "Age at least 16 yrs but less than 99 yrs",
-    "openings": "10 openings remaining",
+    "openings": "9 openings remaining",
     "availability": "open",
-    "spaces": 10,
+    "spaces": 9,
     "firstDate": "2026-10-01",
     "lastDate": "2026-11-05",
     "prices": [
@@ -2612,9 +2612,9 @@
     "ageMin": 5,
     "ageMax": 7,
     "ageText": "Age at least 5y 9m but less than 7y 11m",
-    "openings": "5 openings remaining",
+    "openings": "4 openings remaining",
     "availability": "open",
-    "spaces": 5,
+    "spaces": 4,
     "firstDate": "2026-09-13",
     "lastDate": "2026-11-29",
     "prices": [
@@ -3024,9 +3024,9 @@
     "ageMin": 6,
     "ageMax": 99,
     "ageText": "Age at least 6 yrs but less than 99 yrs",
-    "openings": "11 openings remaining",
+    "openings": "8 openings remaining",
     "availability": "open",
-    "spaces": 11,
+    "spaces": 8,
     "firstDate": "2026-09-11",
     "lastDate": "2026-12-14",
     "prices": [
@@ -3194,9 +3194,9 @@
     "ageMin": 54,
     "ageMax": 100,
     "ageText": "Age at least 54 yrs but less than 100 yrs",
-    "openings": "1 opening remaining",
-    "availability": "open",
-    "spaces": 1,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-11-04",
     "lastDate": "2026-12-16",
     "prices": [
@@ -3306,35 +3306,6 @@
         "price": "$94.50",
         "description": "Standard charge"
       },
-      {
-        "price": "50.00%",
-        "description": "Leisure Access - CCA: for Customer"
-      }
-    ]
-  },
-  {
-    "id": 620776,
-    "title": "Zumba (Wed) Free Trial",
-    "calendarId": 56,
-    "centerId": 38,
-    "facilityIds": [
-      348
-    ],
-    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/zumba-wed-free-trial/620776",
-    "description": "<p>ZUMBA® fuses Latin rhythms and easy to follow moves to create a dynamic workout system designed for everyone at any fitness level. Using fitness principles of interval and resistance training to maximize caloric output, fat burning, and total body toning. It combines Salsa, Cumbia, Merengue, and more giving you a feel-happy workout that is great for both the body and the mind.<a href=\"http://www.zumbavancouver.ca/\">www.zumbavancouver.ca</a></p><p>$15/Drop in </p>Instructor: Denise",
-    "instructors": [
-      "DNA Wellness Co."
-    ],
-    "priceText": "",
-    "free": false,
-    "ageMin": 18,
-    "ageMax": 99,
-    "ageText": "Age at least 18 yrs but less than 99 yrs",
-    "openings": "Closed",
-    "availability": "closed",
-    "firstDate": "2026-09-16",
-    "lastDate": "2026-09-16",
-    "prices": [
       {
         "price": "50.00%",
         "description": "Leisure Access - CCA: for Customer"
@@ -4172,9 +4143,9 @@
     "ageMin": 16,
     "ageMax": 0,
     "ageText": "16 yrs +",
-    "openings": "2 openings remaining",
+    "openings": "1 opening remaining",
     "availability": "open",
-    "spaces": 2,
+    "spaces": 1,
     "firstDate": "2026-09-13",
     "lastDate": "2026-11-01",
     "prices": [
@@ -4206,9 +4177,9 @@
     "ageMin": 16,
     "ageMax": 0,
     "ageText": "16 yrs +",
-    "openings": "15 openings remaining",
+    "openings": "13 openings remaining",
     "availability": "open",
-    "spaces": 15,
+    "spaces": 13,
     "firstDate": "2026-09-13",
     "lastDate": "2026-11-01",
     "prices": [
@@ -4762,9 +4733,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "11 openings remaining",
-    "availability": "open",
-    "spaces": 11,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-20",
     "lastDate": "2026-09-20",
     "prices": [
@@ -4922,9 +4892,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "9 openings remaining",
+    "openings": "4 openings remaining",
     "availability": "open",
-    "spaces": 9,
+    "spaces": 4,
     "firstDate": "2026-09-22",
     "lastDate": "2026-09-22",
     "prices": [
@@ -5146,9 +5116,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "22 openings remaining",
+    "openings": "19 openings remaining",
     "availability": "open",
-    "spaces": 22,
+    "spaces": 19,
     "firstDate": "2026-09-23",
     "lastDate": "2026-09-23",
     "prices": [
@@ -6180,9 +6150,9 @@
     "ageMin": 16,
     "ageMax": 0,
     "ageText": "16 yrs +",
-    "openings": "9 openings remaining",
+    "openings": "8 openings remaining",
     "availability": "open",
-    "spaces": 9,
+    "spaces": 8,
     "firstDate": "2026-09-17",
     "lastDate": "2026-10-29",
     "prices": [
@@ -9099,9 +9069,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "6 openings remaining",
-    "availability": "open",
-    "spaces": 6,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-20",
     "lastDate": "2026-09-20",
     "prices": [
@@ -10663,9 +10632,9 @@
     "ageMin": 2,
     "ageMax": 13,
     "ageText": "Age at least 2 yrs but less than 13 yrs",
-    "openings": "54 openings remaining",
+    "openings": "48 openings remaining",
     "availability": "open",
-    "spaces": 54,
+    "spaces": 48,
     "firstDate": "2026-10-30",
     "lastDate": "2026-10-30"
   },
@@ -12571,9 +12540,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "8 openings remaining",
+    "openings": "7 openings remaining",
     "availability": "open",
-    "spaces": 8,
+    "spaces": 7,
     "firstDate": "2026-11-01",
     "lastDate": "2026-12-13",
     "prices": [
@@ -13269,29 +13238,6 @@
         "description": "Leisure Access Taxable – CCA: for Customer"
       }
     ]
-  },
-  {
-    "id": 622885,
-    "title": "Zumba Mondays (Free Trial)",
-    "calendarId": 56,
-    "centerId": 32,
-    "facilityIds": [
-      698
-    ],
-    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/zumba-mondays-free-trial/622885",
-    "description": "<p>ZUMBA® fuses Latin rhythms and easy to follow moves to create a dynamic workout system designed for everyone at any fitness level. Using fitness principles of interval and resistance training to maximize caloric output, fat burning, and total body toning. It combines Salsa, Cumbia, Merengue, and more giving you a feel-happy workout that is great for both the body and the mind. <a href=\"http://www.ZumbaVancouver.ca\">http://www.ZumbaVancouver.ca</a> Free trial class.</p>",
-    "instructors": [
-      "Zumba Vancouver"
-    ],
-    "priceText": "Free",
-    "free": true,
-    "ageMin": 19,
-    "ageMax": 0,
-    "ageText": "19 yrs +",
-    "openings": "Closed",
-    "availability": "closed",
-    "firstDate": "2026-09-14",
-    "lastDate": "2026-09-14"
   },
   {
     "id": 622886,
@@ -14277,9 +14223,8 @@
     "ageMin": 0,
     "ageMax": 0,
     "ageText": "All ages",
-    "openings": "100 openings remaining",
-    "availability": "open",
-    "spaces": 100,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-13",
     "lastDate": "2026-09-20"
   },
@@ -14630,9 +14575,9 @@
     "ageMin": 4,
     "ageMax": 6,
     "ageText": "Age at least 4 yrs but less than 6y 11m 4w",
-    "openings": "3 openings remaining",
+    "openings": "2 openings remaining",
     "availability": "open",
-    "spaces": 3,
+    "spaces": 2,
     "firstDate": "2026-11-01",
     "lastDate": "2026-12-13",
     "prices": [
@@ -14698,9 +14643,9 @@
     "ageMin": 5,
     "ageMax": 7,
     "ageText": "Age at least 5 yrs but less than 7y 11m 4w",
-    "openings": "12 openings remaining",
+    "openings": "11 openings remaining",
     "availability": "open",
-    "spaces": 12,
+    "spaces": 11,
     "firstDate": "2026-11-01",
     "lastDate": "2026-12-13",
     "prices": [
@@ -14968,9 +14913,9 @@
     "ageMin": 8,
     "ageMax": 14,
     "ageText": "Age at least 8 yrs but less than 14 yrs",
-    "openings": "25 openings remaining",
+    "openings": "24 openings remaining",
     "availability": "open",
-    "spaces": 25,
+    "spaces": 24,
     "firstDate": "2026-09-21",
     "lastDate": "2026-11-02",
     "prices": [
@@ -15554,9 +15499,9 @@
     "ageMin": 18,
     "ageMax": 0,
     "ageText": "18 yrs +",
-    "openings": "4 openings remaining",
+    "openings": "5 openings remaining",
     "availability": "open",
-    "spaces": 4,
+    "spaces": 5,
     "firstDate": "2026-10-21",
     "lastDate": "2026-12-09",
     "prices": [
@@ -18714,9 +18659,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "4 openings remaining",
+    "openings": "2 openings remaining",
     "availability": "open",
-    "spaces": 4,
+    "spaces": 2,
     "firstDate": "2026-09-06",
     "lastDate": "2026-12-13",
     "prices": [
@@ -19893,9 +19838,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "5 openings remaining",
+    "openings": "4 openings remaining",
     "availability": "open",
-    "spaces": 5,
+    "spaces": 4,
     "firstDate": "2026-09-22",
     "lastDate": "2026-12-08",
     "prices": [
@@ -19930,40 +19875,6 @@
     "openings": "Full",
     "availability": "full",
     "spaces": 0,
-    "firstDate": "2026-09-23",
-    "lastDate": "2026-12-09",
-    "prices": [
-      {
-        "price": "$85.00",
-        "description": "Standard charge"
-      },
-      {
-        "price": "50.00%",
-        "description": "Leisure Access Discount: for Customer"
-      }
-    ]
-  },
-  {
-    "id": 623767,
-    "title": "Tai Chi: Practicing Yang Style 24 Form",
-    "calendarId": 14,
-    "centerId": 43,
-    "facilityIds": [
-      552
-    ],
-    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/tai-chi-practicing-yang-style-24-form/623767",
-    "description": "<p> Slow, gentle Tai Chi movements improve balance, alignment and range of motion while promoting relaxation. Emphasis is on practicing and refining the Yang Style 24 Form with opportunities for deeper understanding of Tai Chi: familiarity with the 24 Form is required. Suitable for all body types and fitness levels; moderate stance with no extreme moves. Drop in at $10.50 if space permits. No class Sep 30 and Nov 11.</p>",
-    "instructors": [
-      "Jean Kares"
-    ],
-    "priceText": "$85.00",
-    "free": false,
-    "ageMin": 19,
-    "ageMax": 0,
-    "ageText": "19 yrs +",
-    "openings": "7 openings remaining",
-    "availability": "open",
-    "spaces": 7,
     "firstDate": "2026-09-23",
     "lastDate": "2026-12-09",
     "prices": [
@@ -20825,6 +20736,40 @@
     ]
   },
   {
+    "id": 623935,
+    "title": "Indoor/Outdoor Stroller Fitness with Carey",
+    "calendarId": 56,
+    "centerId": 57,
+    "facilityIds": [
+      487
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/indoor-outdoor-stroller-fitness-with-carey/623935",
+    "description": "<p>Come join other parents and babies in the community. It will be an all levels class with strength &amp; cardio intervals, mobility work, and postnatal-specific core work. The class takes place outdoors so bring what you need to keep your little(s) one happy. The class will move indoors on wet days. For your own enjoyment, this class is best for non-mobile babies or babies with limited mobility. Come for the workout, stay for the friendships. Participants should be 4+ weeks postpartum and 6+ weeks for caesareans. Participants will need a yoga mat and water bottle. Optional to bring their own resistance band. Instructor is a Certified Pre &amp; Postnatal Fitness Specialist. Drop in $16, space permitting.</p>",
+    "instructors": [
+      "Carey Yuen"
+    ],
+    "priceText": "$90.00",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 0,
+    "ageText": "19 yrs +",
+    "openings": "14 openings remaining",
+    "availability": "open",
+    "spaces": 14,
+    "firstDate": "2026-11-09",
+    "lastDate": "2026-12-14",
+    "prices": [
+      {
+        "price": "$90.00",
+        "description": "Activity Fee: for having minimum of 1 registrations in any activity"
+      },
+      {
+        "price": "50.00%",
+        "description": "Leisure Access Discount Taxable - CCA: for Customer"
+      }
+    ]
+  },
+  {
     "id": 623936,
     "title": "Guitar/Ukelele- Private Lessons",
     "calendarId": 14,
@@ -21580,9 +21525,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "10 openings remaining",
+    "openings": "8 openings remaining",
     "availability": "open",
-    "spaces": 10,
+    "spaces": 8,
     "firstDate": "2026-10-21",
     "lastDate": "2026-12-02",
     "prices": [
@@ -21852,9 +21797,9 @@
     "ageMin": 2,
     "ageMax": 3,
     "ageText": "Age at least 2 yrs but less than 3y 11m 3w",
-    "openings": "10 openings remaining",
+    "openings": "9 openings remaining",
     "availability": "open",
-    "spaces": 10,
+    "spaces": 9,
     "firstDate": "2026-11-07",
     "lastDate": "2026-12-12",
     "prices": [
@@ -22833,9 +22778,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "2 openings remaining",
+    "openings": "1 opening remaining",
     "availability": "open",
-    "spaces": 2,
+    "spaces": 1,
     "firstDate": "2026-09-10",
     "lastDate": "2026-12-17",
     "prices": [
@@ -23018,29 +22963,6 @@
         "description": "Leisure Access - CCA: for Customer"
       }
     ]
-  },
-  {
-    "id": 624570,
-    "title": "Strikewell Adult Boxing - Free Demo Class",
-    "calendarId": 56,
-    "centerId": 35,
-    "facilityIds": [
-      309
-    ],
-    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/strikewell-adult-boxing---free-demo-class/624570",
-    "description": "FREE DEMO CLASS<br />Introducing Strikewell Boxing, a beginner and friendly non-contact program at Killarney Community Center. Elevate your fitness through dynamic workouts, camaraderie, and mental fortitude. Our Boxing Canada Certified coach leads engaging sessions through \"The Sweet Science\". Strikewell is more than a workout; it's a community-driven journey fostering strength. Punch, sweat, and grow together—experience fitness with us. Join for fun, connection, and empowerment.<i><br /></i>Please note that Participant Waiver forms must be filled out for participants before the program starts. Forms are available from the instructor.",
-    "instructors": [
-      "Strikewell Boxing"
-    ],
-    "priceText": "Free",
-    "free": true,
-    "ageMin": 19,
-    "ageMax": 0,
-    "ageText": "19 yrs +",
-    "openings": "Closed",
-    "availability": "closed",
-    "firstDate": "2026-09-14",
-    "lastDate": "2026-09-14"
   },
   {
     "id": 624575,
@@ -24116,9 +24038,9 @@
     "ageMin": 7,
     "ageMax": 10,
     "ageText": "Age at least 7 yrs but less than 10y 11m 3w",
-    "openings": "9 openings remaining",
+    "openings": "8 openings remaining",
     "availability": "open",
-    "spaces": 9,
+    "spaces": 8,
     "firstDate": "2026-10-28",
     "lastDate": "2026-12-16",
     "prices": [
@@ -24800,9 +24722,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-20",
     "lastDate": "2026-09-20"
   },
@@ -24976,9 +24897,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-20",
     "lastDate": "2026-09-20"
   },
@@ -25186,9 +25106,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-20",
     "lastDate": "2026-09-20"
   },
@@ -25362,9 +25281,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-20",
     "lastDate": "2026-09-20"
   },
@@ -25538,9 +25456,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-20",
     "lastDate": "2026-09-20"
   },
@@ -25692,9 +25609,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "1 opening remaining",
-    "availability": "open",
-    "spaces": 1,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-11-08",
     "lastDate": "2026-11-08"
   },
@@ -25714,9 +25631,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-20",
     "lastDate": "2026-09-20"
   },
@@ -26198,9 +26114,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "8 openings remaining",
+    "openings": "7 openings remaining",
     "availability": "open",
-    "spaces": 8,
+    "spaces": 7,
     "firstDate": "2026-09-13",
     "lastDate": "2026-11-29",
     "prices": [
@@ -27193,29 +27109,6 @@
     ]
   },
   {
-    "id": 625180,
-    "title": "Strikewell Youth Boxing - Free Demo Class",
-    "calendarId": 56,
-    "centerId": 35,
-    "facilityIds": [
-      309
-    ],
-    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/strikewell-youth-boxing---free-demo-class/625180",
-    "description": "FREE DEMO CLASS - YOUTH BOXING EXPLORATION <br /><i><br /></i>Please note that Participant Waiver forms must be filled out for participants before the program starts. Forms are available from the instructor.",
-    "instructors": [
-      "Strikewell Boxing"
-    ],
-    "priceText": "Free",
-    "free": true,
-    "ageMin": 13,
-    "ageMax": 18,
-    "ageText": "Age at least 13 yrs but less than 18 yrs",
-    "openings": "Closed",
-    "availability": "closed",
-    "firstDate": "2026-09-14",
-    "lastDate": "2026-09-14"
-  },
-  {
     "id": 625181,
     "title": "Strikewell Adult Boxing Level 1 - Set 1",
     "calendarId": 56,
@@ -27233,9 +27126,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "9 openings remaining",
+    "openings": "8 openings remaining",
     "availability": "open",
-    "spaces": 9,
+    "spaces": 8,
     "firstDate": "2026-09-21",
     "lastDate": "2026-10-26",
     "prices": [
@@ -27301,9 +27194,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "11 openings remaining",
+    "openings": "9 openings remaining",
     "availability": "open",
-    "spaces": 11,
+    "spaces": 9,
     "firstDate": "2026-09-21",
     "lastDate": "2026-10-26",
     "prices": [
@@ -29403,9 +29296,9 @@
     "ageMin": 3,
     "ageMax": 5,
     "ageText": "Age at least 3 yrs but less than 5y 11m 3w",
-    "openings": "6 openings remaining",
+    "openings": "5 openings remaining",
     "availability": "open",
-    "spaces": 6,
+    "spaces": 5,
     "firstDate": "2026-11-01",
     "lastDate": "2026-12-13",
     "prices": [
@@ -30122,40 +30015,6 @@
     ]
   },
   {
-    "id": 625404,
-    "title": "Axe Capoeira Super Mini Kids - Nov",
-    "calendarId": 14,
-    "centerId": 35,
-    "facilityIds": [
-      3325
-    ],
-    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/axe-capoeira-super-mini-kids---nov/625404",
-    "description": "<p>Space Permitting - Drop-in $20</p><p>These are ongoing classes where anyone can join, no previous experience necessary. It covers all aspects of Capoeira; martial-arts, dance, music, acrobatics, culture, language and more. It focuses on developing the student's rhythm, reflexes, balance, co-ordination and increasing strength and flexibility as they learn.</p><p><i>Please note that Participant Waiver forms must be filled out before the program starts. Forms are available from the instructor.</i></p><p><b>Activity Drop-in Policy </b><i>(excluding adult sports activities)</i></p><p>Drop-ins are accepted in programs where stated “Space Permitting - Drop-in fees”… Drop-in patrons can purchase their spot 15 minutes prior to program start time in person ONLY, based on 1st come 1st served. <b>IMPORTANT</b>: If maximum program capacity has already been met with registered patrons no drop-ins will be permitted, regardless of no-show patrons.</p>",
-    "instructors": [
-      "Marcus Aurelio"
-    ],
-    "priceText": "$100.00",
-    "free": false,
-    "ageMin": 2,
-    "ageMax": 4,
-    "ageText": "Age at least 2 yrs but less than 4y 11m 4w",
-    "openings": "24 openings remaining",
-    "availability": "open",
-    "spaces": 24,
-    "firstDate": "2026-11-03",
-    "lastDate": "2026-11-28",
-    "prices": [
-      {
-        "price": "$100.00",
-        "description": "Standard charge"
-      },
-      {
-        "price": "50.00%",
-        "description": "Leisure Access - CCA: for Customer"
-      }
-    ]
-  },
-  {
     "id": 625406,
     "title": "Axe Capoeira Mini Kids - Sep",
     "calendarId": 14,
@@ -30212,40 +30071,6 @@
     "spaces": 24,
     "firstDate": "2026-10-01",
     "lastDate": "2026-10-31",
-    "prices": [
-      {
-        "price": "$100.00",
-        "description": "Standard charge"
-      },
-      {
-        "price": "50.00%",
-        "description": "Leisure Access - CCA: for Customer"
-      }
-    ]
-  },
-  {
-    "id": 625409,
-    "title": "Axe Capoeira Mini Kids - Nov",
-    "calendarId": 14,
-    "centerId": 35,
-    "facilityIds": [
-      3325
-    ],
-    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/axe-capoeira-mini-kids---nov/625409",
-    "description": "<p>These ongoing classes cover all aspects of Capoeira; martial-arts, dance, music, acrobatics, culture, language and more. It focuses on developing the student's rhythm, reflexes, balance, co-ordination and increasing strength and flexibility as they learn. </p><p><i>Space Permitting - Drop-in $20</i></p><p><b>Activity Drop-in Policy </b><i>(excluding adult sports activities)</i></p><p>Drop-ins are accepted in programs where stated “Space Permitting - Drop-in fees”… Drop-in patrons can purchase their spot 15 minutes prior to program start time in person ONLY, based on 1st come 1st served. <b>IMPORTANT</b>: If maximum program capacity has already been met with registered patrons no drop-ins will be permitted, regardless of no-show patrons.</p>",
-    "instructors": [
-      "Marcus Aurelio"
-    ],
-    "priceText": "$100.00",
-    "free": false,
-    "ageMin": 5,
-    "ageMax": 7,
-    "ageText": "Age at least 5 yrs but less than 7y 11m 4w",
-    "openings": "24 openings remaining",
-    "availability": "open",
-    "spaces": 24,
-    "firstDate": "2026-11-03",
-    "lastDate": "2026-11-28",
     "prices": [
       {
         "price": "$100.00",
@@ -30394,40 +30219,6 @@
     ]
   },
   {
-    "id": 625419,
-    "title": "Axe Capoeira Youth Kids - Beginners - Nov",
-    "calendarId": 14,
-    "centerId": 35,
-    "facilityIds": [
-      3325
-    ],
-    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/axe-capoeira-youth-kids---beginners---nov/625419",
-    "description": "<p>Space Permitting - Drop-in $20<br></p><p>These are ongoing classes where anyone can join, no previous experience necessary. It covers all aspects of Capoeira; martial-arts, dance, music, acrobatics, culture, language and more. It focuses on developing the students rhythm, reflexes, balance, co-ordination and increasing strength and flexibility as they learn.</p><p><i>Please note that Participant Waiver forms must be filled out before the program starts. Forms are available from the instructor.</i></p><p><b><br /></b></p><p><b>Activity Drop-in Policy </b><i>(excluding adult sports activities)</i></p><p>Drop-ins are accepted in programs where stated “Space Permitting - Drop-in fees”… Drop-in patrons can purchase their spot 15 minutes prior to program start time in person ONLY, based on 1st come 1st served. <b>IMPORTANT</b>: If maximum program capacity has already been met with registered patrons no drop-ins will be permitted, regardless of no-show patrons.</p>",
-    "instructors": [
-      "Marcus Aurelio"
-    ],
-    "priceText": "$100.00",
-    "free": false,
-    "ageMin": 8,
-    "ageMax": 17,
-    "ageText": "Age at least 8 yrs but less than 17 yrs",
-    "openings": "25 openings remaining",
-    "availability": "open",
-    "spaces": 25,
-    "firstDate": "2026-11-03",
-    "lastDate": "2026-11-28",
-    "prices": [
-      {
-        "price": "$100.00",
-        "description": "Standard charge"
-      },
-      {
-        "price": "50.00%",
-        "description": "Leisure Access - CCA: for Customer"
-      }
-    ]
-  },
-  {
     "id": 625437,
     "title": "Axe Capoeira Youth Kids Advance - Sep",
     "calendarId": 14,
@@ -30496,40 +30287,6 @@
     ]
   },
   {
-    "id": 625441,
-    "title": "Axe Capoeira Youth Kids Advance - Nov",
-    "calendarId": 14,
-    "centerId": 35,
-    "facilityIds": [
-      3325
-    ],
-    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/axe-capoeira-youth-kids-advance---nov/625441",
-    "description": "<p>Space Permitting - Drop-in $20<br></p><p>These ongoing classes cover all aspects of Capoeira; martial-arts, dance, music, acrobatics, culture, language and more. It focuses on developing the student's rhythm, reflexes, balance, co-ordination and increasing strength and flexibility as they learn.</p><p><i>Please note that Participant Waiver forms must be filled out before the program starts. Forms are available from the instructor.</i></p><p><i>Students </i><i> $20</i><i>enrolled in this class, must have approval from the instructor.</i></p><p><i>This is an advanced program: students should have a full knowledge of basic movements as this class will have an emphasis on advanced movements and sequences in Capoeira. Classes cover all aspects of Capoeira: martial arts, dance, music, acrobatics, culture, language and more.</i></p><p><i></i></p><p><i>*Uniform is required to join class</i></p><p><b>Activity Drop-in Policy </b><i>(excluding adult sports activities)</i></p><p>Drop-ins are accepted in programs where stated “Space Permitting - Drop-in fees”… Drop-in patrons can purchase their spot 15 minutes prior to program start time in person ONLY, based on 1st come 1st served. <b>IMPORTANT</b>: If maximum program capacity has already been met with registered patrons no drop-in<i>.</i>s will be permitted, regardless of no-show patrons.</p>",
-    "instructors": [
-      "Marcus Aurelio"
-    ],
-    "priceText": "$100.00",
-    "free": false,
-    "ageMin": 8,
-    "ageMax": 17,
-    "ageText": "Age at least 8 yrs but less than 17 yrs",
-    "openings": "24 openings remaining",
-    "availability": "open",
-    "spaces": 24,
-    "firstDate": "2026-11-03",
-    "lastDate": "2026-11-28",
-    "prices": [
-      {
-        "price": "$100.00",
-        "description": "Standard charge"
-      },
-      {
-        "price": "50.00%",
-        "description": "Leisure Access - CCA: for Customer"
-      }
-    ]
-  },
-  {
     "id": 625443,
     "title": "Axe Capoeira Adults - Sep",
     "calendarId": 14,
@@ -30586,40 +30343,6 @@
     "spaces": 25,
     "firstDate": "2026-10-01",
     "lastDate": "2026-10-31",
-    "prices": [
-      {
-        "price": "$125.00",
-        "description": "Standard charge"
-      },
-      {
-        "price": "50.00%",
-        "description": "Leisure Access - CCA: for Customer"
-      }
-    ]
-  },
-  {
-    "id": 625446,
-    "title": "Axe Capoeira Adults - Nov",
-    "calendarId": 14,
-    "centerId": 35,
-    "facilityIds": [
-      3325
-    ],
-    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/axe-capoeira-adults---nov/625446",
-    "description": "<p>Space Permitting - Drop-in $20</p><p>These are ongoing classes where anyone can join, no previous experience necessary. It covers all aspects of Capoeira; martial-arts, dance, music, acrobatics, culture, language and more. It focuses on developing the students rhythm, reflexes, balance, co-ordination and increasing strength and flexibility as they learn. </p><p>Please note that Participant Waiver forms must be filled out for participants before the program starts. Forms are available from the instructor.</p><p><b>Activity Drop-in Policy </b><i>(excluding adult sports activities)</i></p><p>Drop-ins are accepted in programs where stated “Space Permitting - Drop-in fees”… Drop-in patrons can purchase their spot 15 minutes prior to program start time in person ONLY, based on 1st come 1st served. <b>IMPORTANT</b>: If maximum program capacity has already been met with registered patrons no drop-ins will be permitted, regardless of no-show patrons.</p>",
-    "instructors": [
-      "Marcus Aurelio"
-    ],
-    "priceText": "$125.00",
-    "free": false,
-    "ageMin": 18,
-    "ageMax": 0,
-    "ageText": "18 yrs +",
-    "openings": "25 openings remaining",
-    "availability": "open",
-    "spaces": 25,
-    "firstDate": "2026-11-03",
-    "lastDate": "2026-11-28",
     "prices": [
       {
         "price": "$125.00",
@@ -31455,9 +31178,9 @@
     "ageMin": 3,
     "ageMax": 5,
     "ageText": "Age at least 3y 6m but less than 5y 11m 4w",
-    "openings": "4 openings remaining",
+    "openings": "3 openings remaining",
     "availability": "open",
-    "spaces": 4,
+    "spaces": 3,
     "firstDate": "2026-09-12",
     "lastDate": "2026-09-26",
     "prices": [
@@ -33121,9 +32844,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "8 openings remaining",
+    "openings": "6 openings remaining",
     "availability": "open",
-    "spaces": 8,
+    "spaces": 6,
     "firstDate": "2026-09-17",
     "lastDate": "2026-10-29",
     "prices": [
@@ -33495,9 +33218,9 @@
     "ageMin": 55,
     "ageMax": 0,
     "ageText": "55 yrs +",
-    "openings": "3 openings remaining",
+    "openings": "2 openings remaining",
     "availability": "open",
-    "spaces": 3,
+    "spaces": 2,
     "firstDate": "2026-09-11",
     "lastDate": "2026-10-23",
     "prices": [
@@ -33964,9 +33687,9 @@
     "ageMin": 55,
     "ageMax": 0,
     "ageText": "55 yrs +",
-    "openings": "9 openings remaining",
+    "openings": "8 openings remaining",
     "availability": "open",
-    "spaces": 9,
+    "spaces": 8,
     "firstDate": "2026-09-13",
     "lastDate": "2026-10-11"
   },
@@ -34955,9 +34678,9 @@
     "ageMin": 13,
     "ageMax": 0,
     "ageText": "13 yrs +",
-    "openings": "5 openings remaining",
+    "openings": "4 openings remaining",
     "availability": "open",
-    "spaces": 5,
+    "spaces": 4,
     "firstDate": "2026-09-14",
     "lastDate": "2026-10-05",
     "prices": [
@@ -35985,9 +35708,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "40 openings remaining",
+    "openings": "38 openings remaining",
     "availability": "open",
-    "spaces": 40,
+    "spaces": 38,
     "firstDate": "2026-10-30",
     "lastDate": "2026-10-30",
     "prices": [
@@ -37214,9 +36937,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "3 openings remaining",
+    "openings": "2 openings remaining",
     "availability": "open",
-    "spaces": 3,
+    "spaces": 2,
     "firstDate": "2026-09-27",
     "lastDate": "2026-09-27",
     "prices": [
@@ -37477,9 +37200,9 @@
     "ageMin": 5,
     "ageMax": 12,
     "ageText": "Age at least 5 yrs but less than 12y 11m",
-    "openings": "4 openings remaining",
+    "openings": "3 openings remaining",
     "availability": "open",
-    "spaces": 4,
+    "spaces": 3,
     "firstDate": "2026-09-25",
     "lastDate": "2026-09-25",
     "prices": [
@@ -39308,7 +39031,7 @@
     "calendarId": 56,
     "centerId": 57,
     "facilityIds": [
-      491
+      492
     ],
     "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/barre-core-and-more/626580",
     "description": "Barre fitness is distinguished from other group fitness activities by its use of the ballet barre and its incorporation of movements derived from ballet. These classical dance movements and positions are combined with those drawn from yoga and pilates, and other equipment is sometimes used in addition to the barre, such as resistance bands, exercise balls and hand weights. Barre classes focus on strength, alignment and core engagement. Great for posture, strength, balance and rehabilitation. Drop in $15, space permitting. No class May 16.<br />",
@@ -39444,9 +39167,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "18 openings remaining",
+    "openings": "15 openings remaining",
     "availability": "open",
-    "spaces": 18,
+    "spaces": 15,
     "firstDate": "2026-09-14",
     "lastDate": "2026-10-05",
     "prices": [
@@ -39622,9 +39345,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "13 openings remaining",
+    "openings": "11 openings remaining",
     "availability": "open",
-    "spaces": 13,
+    "spaces": 11,
     "firstDate": "2026-09-09",
     "lastDate": "2026-10-07",
     "prices": [
@@ -39930,9 +39653,9 @@
     "ageMin": 65,
     "ageMax": 0,
     "ageText": "65 yrs +",
-    "openings": "2 openings remaining",
+    "openings": "1 opening remaining",
     "availability": "open",
-    "spaces": 2,
+    "spaces": 1,
     "firstDate": "2026-11-05",
     "lastDate": "2026-12-17",
     "prices": [
@@ -40666,9 +40389,9 @@
     "ageMin": 7,
     "ageMax": 14,
     "ageText": "Age at least 7 yrs but less than 14y 11m 4w",
-    "openings": "15 openings remaining",
+    "openings": "14 openings remaining",
     "availability": "open",
-    "spaces": 15,
+    "spaces": 14,
     "firstDate": "2026-11-02",
     "lastDate": "2026-12-07",
     "prices": [
@@ -40810,105 +40533,6 @@
     "prices": [
       {
         "price": "$160.00",
-        "description": "Activity Fee: for having minimum of 1 registrations in any activity in 2026 Community Centre - Fall: 2026 Fall Champlain"
-      },
-      {
-        "price": "50.00%",
-        "description": "Leisure Access Taxable – CCA: for Customer"
-      }
-    ]
-  },
-  {
-    "id": 626674,
-    "title": "Dutch Kickboxing Trial Class",
-    "calendarId": 56,
-    "centerId": 57,
-    "facilityIds": [
-      492
-    ],
-    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/dutch-kickboxing-trial-class/626674",
-    "description": "<p>Our Kids Dutch Kickboxing program is an engaging, high-energy class designed to help young athletes ages 9-12 build confidence, develop assertiveness, and learn practical martial arts skills. Students improve their fitness and discipline while having fun! </p><p>This is a light to non-contact class that emphasizes technique, sportsmanship, and teamwork. It’s designed to help kids enhance coordination and develop foundational defensive skills through play in a safe, supportive environment. No previous experience is needed to get started! Students will need to bring their own boxing gloves after two weeks.</p><br />",
-    "instructors": [
-      "Michael Ekkers"
-    ],
-    "priceText": "$5.00",
-    "free": false,
-    "ageMin": 9,
-    "ageMax": 12,
-    "ageText": "Age at least 9 yrs but less than 12y 11m",
-    "openings": "Cancelled",
-    "availability": "cancelled",
-    "firstDate": "2026-09-15",
-    "lastDate": "2026-09-15",
-    "prices": [
-      {
-        "price": "$5.00",
-        "description": "Standard charge"
-      },
-      {
-        "price": "50.00%",
-        "description": "Leisure Access Taxable – CCA: for Customer"
-      }
-    ]
-  },
-  {
-    "id": 626675,
-    "title": "Dutch Kickboxing - Adult Trial",
-    "calendarId": 56,
-    "centerId": 57,
-    "facilityIds": [
-      492
-    ],
-    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/dutch-kickboxing---adult-trial/626675",
-    "description": "<p>Learn Dutch Kickboxing, the premier martial art from the Netherlands. Also known as Dutch Muay Thai, this striking art blends the best aspects of Boxing, Muay Thai and Kyokushin Karate. This is a technical, non-competition-focused class that includes shadowboxing, pad work and controlled sparring. Dutch Kickboxing is physically challenging and perfect for adults who want to get fitter while learning defensive skills in a fun and supportive environment. No previous experience needed to get started! Students will need their own boxing gloves after two weeks.</p>",
-    "instructors": [
-      "Michael Ekkers"
-    ],
-    "priceText": "$5.00",
-    "free": false,
-    "ageMin": 19,
-    "ageMax": 0,
-    "ageText": "19 yrs +",
-    "openings": "Closed",
-    "availability": "closed",
-    "firstDate": "2026-09-15",
-    "lastDate": "2026-09-15",
-    "prices": [
-      {
-        "price": "$5.00",
-        "description": "Activity Fee: for having minimum of 1 registrations in any activity in 2026 Community Centre - Fall: 2026 Fall Champlain"
-      },
-      {
-        "price": "50.00%",
-        "description": "Leisure Access Taxable – CCA: for Customer"
-      }
-    ]
-  },
-  {
-    "id": 626678,
-    "title": "Dutch Kickboxing - Adult Trial",
-    "calendarId": 56,
-    "centerId": 57,
-    "facilityIds": [
-      492
-    ],
-    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/dutch-kickboxing---adult-trial/626678",
-    "description": "<p>Learn Dutch Kickboxing, the premier martial art from the Netherlands. Also known as Dutch Muay Thai, this striking art blends the best aspects of Boxing, Muay Thai and Kyokushin Karate. This is a technical, non-competition-focused class that includes shadowboxing, pad work and controlled sparring. Dutch Kickboxing is physically challenging and perfect for adults who want to get fitter while learning defensive skills in a fun and supportive environment. No previous experience needed to get started! Students will need their own boxing gloves after two weeks.</p>",
-    "instructors": [
-      "Michael Ekkers"
-    ],
-    "priceText": "$5.00",
-    "free": false,
-    "ageMin": 19,
-    "ageMax": 0,
-    "ageText": "19 yrs +",
-    "openings": "Closed",
-    "availability": "closed",
-    "firstDate": "2026-09-18",
-    "lastDate": "2026-09-18",
-    "prices": [
-      {
-        "price": "$5.00",
         "description": "Activity Fee: for having minimum of 1 registrations in any activity in 2026 Community Centre - Fall: 2026 Fall Champlain"
       },
       {
@@ -41076,29 +40700,6 @@
         "description": "Leisure Access Discount: for Customer"
       }
     ]
-  },
-  {
-    "id": 626728,
-    "title": "Zumba - Free Trial",
-    "calendarId": 56,
-    "centerId": 6,
-    "facilityIds": [
-      42
-    ],
-    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/zumba---free-trial/626728",
-    "description": "Free Trial<br /> ZUMBA® fuses Latin rhythms and easy to follow moves to create a dynamic workout system designed for everyone at any fitness level. Using fitness principles of interval and resistance training to maximize caloric output, fat burning, and total body toning. It combines Salsa, Cumbia, Merengue, and more giving you a feel-happy workout that is great for both the body and the mind. <a href=\"http://www.ZumbaVancouver.ca\">www.ZumbaVancouver.ca</a>. Drop-in, $14 space permitting.",
-    "instructors": [
-      "Zumba Vancouver"
-    ],
-    "priceText": "Free",
-    "free": true,
-    "ageMin": 19,
-    "ageMax": 0,
-    "ageText": "19 yrs +",
-    "openings": "Closed",
-    "availability": "closed",
-    "firstDate": "2026-09-14",
-    "lastDate": "2026-09-14"
   },
   {
     "id": 626729,
@@ -42018,9 +41619,9 @@
     "ageMin": 15,
     "ageMax": 35,
     "ageText": "Age at least 15 yrs but less than 35 yrs",
-    "openings": "4 openings remaining",
+    "openings": "3 openings remaining",
     "availability": "open",
-    "spaces": 4,
+    "spaces": 3,
     "firstDate": "2026-09-13",
     "lastDate": "2026-11-29"
   },
@@ -44344,9 +43945,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "28 openings remaining",
-    "availability": "open",
-    "spaces": 28,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-09-23",
     "lastDate": "2026-09-23"
   },
@@ -44556,9 +44157,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "1 opening remaining",
-    "availability": "open",
-    "spaces": 1,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-20",
     "lastDate": "2026-09-20"
   },
@@ -44766,9 +44366,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-20",
     "lastDate": "2026-09-20"
   },
@@ -45358,9 +44957,9 @@
     "ageMin": 7,
     "ageMax": 10,
     "ageText": "Age at least 7 yrs but less than 10y 11m 3w",
-    "openings": "1 opening remaining",
+    "openings": "2 openings remaining",
     "availability": "open",
-    "spaces": 1,
+    "spaces": 2,
     "firstDate": "2026-09-20",
     "lastDate": "2026-12-13",
     "prices": [
@@ -46998,9 +46597,9 @@
     "ageMin": 4,
     "ageMax": 6,
     "ageText": "Age at least 4 yrs but less than 6y 11m",
-    "openings": "8 openings remaining",
+    "openings": "7 openings remaining",
     "availability": "open",
-    "spaces": 8,
+    "spaces": 7,
     "firstDate": "2026-11-01",
     "lastDate": "2026-12-13"
   },
@@ -50206,9 +49805,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "1 opening remaining",
-    "availability": "open",
-    "spaces": 1,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-09-21",
     "lastDate": "2026-09-21"
   },
@@ -51920,6 +51519,40 @@
     ]
   },
   {
+    "id": 627714,
+    "title": "Full Body Stretching",
+    "calendarId": 56,
+    "centerId": 35,
+    "facilityIds": [
+      313
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/full-body-stretching/627714",
+    "description": "<p>Space Permitting - Drop-in $7.50</p><p>A low-impact fitness session focused on improving flexibility, releasing muscle tension, and aiding recovery. The routine includes a balanced sequence of stretches for all major muscle groups, suitable for all fitness levels.</p><p><b>Activity Drop-in Policy </b><i>(excluding adult sports activities)</i></p><p>Drop-ins are accepted in programs where stated “Space Permitting - Drop-in fees”… Drop-in patrons can purchase their spot 15 minutes prior to program start time in person ONLY, based on 1st come 1st served. <b>IMPORTANT</b>: If maximum program capacity has already been met with registered patrons no drop-ins will be permitted, regardless of no-show patrons.</p>",
+    "instructors": [
+      "Cecilia Barbero"
+    ],
+    "priceText": "$42.00",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 0,
+    "ageText": "19 yrs +",
+    "openings": "14 openings remaining",
+    "availability": "open",
+    "spaces": 14,
+    "firstDate": "2026-11-09",
+    "lastDate": "2026-12-14",
+    "prices": [
+      {
+        "price": "$42.00",
+        "description": "Standard charge"
+      },
+      {
+        "price": "50.00%",
+        "description": "Leisure Access - CCA: for Customer"
+      }
+    ]
+  },
+  {
     "id": 627715,
     "title": "Full Body Stretching",
     "calendarId": 56,
@@ -52615,9 +52248,9 @@
     "ageMin": 8,
     "ageMax": 12,
     "ageText": "Age at least 8 yrs but less than 12y 11m",
-    "openings": "1 opening remaining",
-    "availability": "open",
-    "spaces": 1,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-09-22",
     "lastDate": "2026-12-01",
     "prices": [
@@ -53913,9 +53546,9 @@
     "ageMin": 11,
     "ageMax": 13,
     "ageText": "Age at least 11 yrs but less than 13y 11m",
-    "openings": "6 openings remaining",
+    "openings": "7 openings remaining",
     "availability": "open",
-    "spaces": 6,
+    "spaces": 7,
     "firstDate": "2026-09-16",
     "lastDate": "2026-12-16",
     "prices": [
@@ -54485,9 +54118,8 @@
     "ageMin": 13,
     "ageMax": 0,
     "ageText": "13 yrs +",
-    "openings": "7 openings remaining",
-    "availability": "open",
-    "spaces": 7,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-20",
     "lastDate": "2026-09-20",
     "prices": [
@@ -54781,9 +54413,9 @@
     "ageMin": 5,
     "ageMax": 8,
     "ageText": "Age at least 5 yrs but less than 8y 5m",
-    "openings": "13 openings remaining",
+    "openings": "10 openings remaining",
     "availability": "open",
-    "spaces": 13,
+    "spaces": 10,
     "firstDate": "2026-09-11",
     "lastDate": "2026-12-18",
     "prices": [
@@ -55052,9 +54684,9 @@
     "ageMin": 3,
     "ageMax": 5,
     "ageText": "Age at least 3 yrs but less than 5y 11m",
-    "openings": "9 openings remaining",
+    "openings": "8 openings remaining",
     "availability": "open",
-    "spaces": 9,
+    "spaces": 8,
     "firstDate": "2026-11-01",
     "lastDate": "2026-12-13",
     "prices": [
@@ -55456,9 +55088,9 @@
     "ageMin": 5,
     "ageMax": 7,
     "ageText": "Age at least 5 yrs but less than 7y 11m",
-    "openings": "11 openings remaining",
+    "openings": "10 openings remaining",
     "availability": "open",
-    "spaces": 11,
+    "spaces": 10,
     "firstDate": "2026-11-01",
     "lastDate": "2026-12-13",
     "prices": [
@@ -55729,9 +55361,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "1 opening remaining",
-    "availability": "open",
-    "spaces": 1,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-09-13",
     "lastDate": "2026-12-27",
     "prices": [
@@ -58686,9 +58318,9 @@
     "ageMin": 13,
     "ageMax": 18,
     "ageText": "Age at least 13 yrs but less than 18y 11m",
-    "openings": "15 openings remaining",
+    "openings": "14 openings remaining",
     "availability": "open",
-    "spaces": 15,
+    "spaces": 14,
     "firstDate": "2026-09-20",
     "lastDate": "2026-12-20"
   },
@@ -60707,7 +60339,7 @@
     "calendarId": 56,
     "centerId": 41,
     "facilityIds": [
-      3821
+      609
     ],
     "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/axe-capoeira---september/629616",
     "description": "These are ongoing classes where anyone can join, no previous experience necessary. It covers all aspects of Capoeira; martial-arts, dance, acrobatics, music, culture, language, and more. It focuses on developing the student's coordination, balance, strength, rhythm, and flexibility. Drop in $20.00 as space allows. <br>",
@@ -60741,7 +60373,7 @@
     "calendarId": 56,
     "centerId": 41,
     "facilityIds": [
-      3821
+      609
     ],
     "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/axe-capoeira-kids---september/629617",
     "description": "These are ongoing classes where anyone can join, no previous experience necessary. It covers all aspects of Capoeira; martial-arts, dance, acrobatics, music, culture, language, and more. It focuses on developing the student's coordination, balance, strength, rhythm, and flexibility. Drop in $20 as space allows. <br>",
@@ -60756,39 +60388,6 @@
     "openings": "6 openings remaining",
     "availability": "open",
     "spaces": 6,
-    "firstDate": "2026-09-08",
-    "lastDate": "2026-09-25",
-    "prices": [
-      {
-        "price": "$75.00",
-        "description": "Standard charge"
-      },
-      {
-        "price": "50.00%",
-        "description": "Leisure Access - CCA: for Customer"
-      }
-    ]
-  },
-  {
-    "id": 629618,
-    "title": "Axe Capoeira Minis - September",
-    "calendarId": 56,
-    "centerId": 41,
-    "facilityIds": [
-      609
-    ],
-    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/axe-capoeira-minis---september/629618",
-    "description": "These are ongoing classes where anyone can join, no previous experience necessary. It covers all aspects of Capoeira; martial-arts, dance, acrobatics, music, culture, language, and more. It focuses on developing the student's coordination, balance, strength, rhythm, and flexibility. Drop in $20 as space allows. <br>",
-    "instructors": [
-      "Amanda Torres"
-    ],
-    "priceText": "$75.00",
-    "free": false,
-    "ageMin": 6,
-    "ageMax": 13,
-    "ageText": "Age at least 6 yrs but less than 13y 11m",
-    "openings": "Cancelled",
-    "availability": "cancelled",
     "firstDate": "2026-09-08",
     "lastDate": "2026-09-25",
     "prices": [
@@ -61347,9 +60946,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "9 openings remaining",
+    "openings": "8 openings remaining",
     "availability": "open",
-    "spaces": 9,
+    "spaces": 8,
     "firstDate": "2026-09-11",
     "lastDate": "2026-10-09",
     "prices": [
@@ -61947,9 +61546,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "11 openings remaining",
+    "openings": "7 openings remaining",
     "availability": "open",
-    "spaces": 11,
+    "spaces": 7,
     "firstDate": "2026-09-22",
     "lastDate": "2026-09-22"
   },
@@ -62695,9 +62294,9 @@
     "ageMin": 1,
     "ageMax": 3,
     "ageText": "Age at least 1y 6m but less than 3y 11m",
-    "openings": "4 openings remaining",
+    "openings": "3 openings remaining",
     "availability": "open",
-    "spaces": 4,
+    "spaces": 3,
     "firstDate": "2026-09-15",
     "lastDate": "2026-11-10",
     "prices": [
@@ -63069,9 +62668,9 @@
     "ageMin": 10,
     "ageMax": 18,
     "ageText": "Age at least 10 yrs but less than 18y 11m",
-    "openings": "25 openings remaining",
+    "openings": "24 openings remaining",
     "availability": "open",
-    "spaces": 25,
+    "spaces": 24,
     "firstDate": "2026-09-11",
     "lastDate": "2026-09-28",
     "prices": [
@@ -63103,9 +62702,9 @@
     "ageMin": 10,
     "ageMax": 18,
     "ageText": "Age at least 10 yrs but less than 18y 11m",
-    "openings": "28 openings remaining",
+    "openings": "27 openings remaining",
     "availability": "open",
-    "spaces": 28,
+    "spaces": 27,
     "firstDate": "2026-10-02",
     "lastDate": "2026-10-30",
     "prices": [
@@ -63137,9 +62736,9 @@
     "ageMin": 10,
     "ageMax": 18,
     "ageText": "Age at least 10 yrs but less than 18y 11m",
-    "openings": "28 openings remaining",
+    "openings": "27 openings remaining",
     "availability": "open",
-    "spaces": 28,
+    "spaces": 27,
     "firstDate": "2026-11-02",
     "lastDate": "2026-11-27",
     "prices": [
@@ -63507,9 +63106,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "1 opening remaining",
-    "availability": "open",
-    "spaces": 1,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-20",
     "lastDate": "2026-09-20",
     "prices": [
@@ -64083,9 +63681,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "4 openings remaining",
+    "openings": "3 openings remaining",
     "availability": "open",
-    "spaces": 4,
+    "spaces": 3,
     "firstDate": "2026-09-06",
     "lastDate": "2026-10-25",
     "prices": [
@@ -64285,9 +63883,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "36 openings remaining",
+    "openings": "34 openings remaining",
     "availability": "open",
-    "spaces": 36,
+    "spaces": 34,
     "firstDate": "2026-09-14",
     "lastDate": "2026-10-26",
     "prices": [
@@ -64336,29 +63934,6 @@
     ]
   },
   {
-    "id": 630570,
-    "title": "Bellydancing for All Levels - Free Trial",
-    "calendarId": 56,
-    "centerId": 42,
-    "facilityIds": [
-      406
-    ],
-    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/bellydancing-for-all-levels---free-trial/630570",
-    "description": "<p>Free Trial Sept 14th.</p><p>Belly Dance has a rich history and offers numerous health benefits. Shimmies and rolls in these positive, fun and highly expressive dance sessions that focus primarily on movements of the hips and torso. Bellydancing emphasizing core engagement, posture, and exploring movements at your own pace for empowerment and fitness.</p>",
-    "instructors": [
-      "Emmy Chan"
-    ],
-    "priceText": "Free",
-    "free": true,
-    "ageMin": 19,
-    "ageMax": 0,
-    "ageText": "19 yrs +",
-    "openings": "Closed",
-    "availability": "closed",
-    "firstDate": "2026-09-14",
-    "lastDate": "2026-09-14"
-  },
-  {
     "id": 630572,
     "title": "Bellydancing for All Levels",
     "calendarId": 56,
@@ -64381,6 +63956,40 @@
     "spaces": 19,
     "firstDate": "2026-09-21",
     "lastDate": "2026-11-02",
+    "prices": [
+      {
+        "price": "$120.00",
+        "description": "Standard charge"
+      },
+      {
+        "price": "50.00%",
+        "description": "Leisure Access - CCA: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 630574,
+    "title": "Bellydancing for All Levels",
+    "calendarId": 56,
+    "centerId": 42,
+    "facilityIds": [
+      406
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/bellydancing-for-all-levels/630574",
+    "description": "<p>Belly Dance has a rich history and offers numerous health benefits. Shimmies and rolls in these positive, fun and highly expressive dance sessions that focus primarily on movements of the hips and torso. Bellydancing emphasizing core engagement, posture, and exploring movements at your own pace for empowerment and fitness.</p>Drop-in $22",
+    "instructors": [
+      "Emmy Chan"
+    ],
+    "priceText": "$120.00",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 0,
+    "ageText": "19 yrs +",
+    "openings": "25 openings remaining",
+    "availability": "open",
+    "spaces": 25,
+    "firstDate": "2026-11-09",
+    "lastDate": "2026-12-14",
     "prices": [
       {
         "price": "$120.00",
@@ -64984,9 +64593,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "14 openings remaining",
+    "openings": "13 openings remaining",
     "availability": "open",
-    "spaces": 14,
+    "spaces": 13,
     "firstDate": "2026-09-08",
     "lastDate": "2026-10-27",
     "prices": [
@@ -65227,29 +64836,6 @@
         "description": "Leisure Access - CCA: for Customer"
       }
     ]
-  },
-  {
-    "id": 630678,
-    "title": "Alaia Dance - Free Trial",
-    "calendarId": 56,
-    "centerId": 42,
-    "facilityIds": [
-      406
-    ],
-    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/alaia-dance---free-trial/630678",
-    "description": "<p>Free Trial Sept 16</p><p>Alaia is somatic dance that has you feel alive, grounded, and energized. The guided choreography offers agility, flow, floor work, and stillness. Through play and presence, Alaia boosts mood, resilience, and whole body conditioning.</p><p>If you have any questions please contact the instructor at info@AlaiaDance.com</p>",
-    "instructors": [
-      "Jasjit Rai"
-    ],
-    "priceText": "Free",
-    "free": true,
-    "ageMin": 19,
-    "ageMax": 0,
-    "ageText": "19 yrs +",
-    "openings": "Closed",
-    "availability": "closed",
-    "firstDate": "2026-09-16",
-    "lastDate": "2026-09-16"
   },
   {
     "id": 630681,
@@ -68015,9 +67601,9 @@
     "ageMin": 6,
     "ageMax": 12,
     "ageText": "Age at least 6 yrs but less than 12y 11m 3w",
-    "openings": "2 openings remaining",
+    "openings": "1 opening remaining",
     "availability": "open",
-    "spaces": 2,
+    "spaces": 1,
     "firstDate": "2026-09-20",
     "lastDate": "2026-12-13",
     "prices": [
@@ -68349,9 +67935,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "20 openings remaining",
+    "openings": "19 openings remaining",
     "availability": "open",
-    "spaces": 20,
+    "spaces": 19,
     "firstDate": "2026-11-05",
     "lastDate": "2026-11-19",
     "prices": [
@@ -68383,9 +67969,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "19 openings remaining",
+    "openings": "18 openings remaining",
     "availability": "open",
-    "spaces": 19,
+    "spaces": 18,
     "firstDate": "2026-10-15",
     "lastDate": "2026-10-29",
     "prices": [
@@ -69824,9 +69410,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "2 openings remaining",
+    "openings": "1 opening remaining",
     "availability": "open",
-    "spaces": 2,
+    "spaces": 1,
     "firstDate": "2026-09-11",
     "lastDate": "2026-10-30",
     "prices": [
@@ -72979,9 +72565,8 @@
     "ageMin": 18,
     "ageMax": 0,
     "ageText": "18 yrs +",
-    "openings": "17 openings remaining",
-    "availability": "open",
-    "spaces": 17,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-20",
     "lastDate": "2026-09-20",
     "prices": [
@@ -74631,9 +74216,9 @@
     "ageMin": 65,
     "ageMax": 0,
     "ageText": "65 yrs +",
-    "openings": "1 opening remaining",
-    "availability": "open",
-    "spaces": 1,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-10-15",
     "lastDate": "2026-10-15",
     "prices": [
@@ -77014,9 +76599,9 @@
     "ageMin": 19,
     "ageMax": 99,
     "ageText": "Age at least 19 yrs but less than 99 yrs",
-    "openings": "20 openings remaining",
+    "openings": "18 openings remaining",
     "availability": "open",
-    "spaces": 20,
+    "spaces": 18,
     "firstDate": "2026-09-23",
     "lastDate": "2026-09-23",
     "prices": [
@@ -77060,9 +76645,9 @@
     "ageMin": 19,
     "ageMax": 99,
     "ageText": "Age at least 19 yrs but less than 99 yrs",
-    "openings": "22 openings remaining",
+    "openings": "20 openings remaining",
     "availability": "open",
-    "spaces": 22,
+    "spaces": 20,
     "firstDate": "2026-09-23",
     "lastDate": "2026-09-23",
     "prices": [
@@ -77946,9 +77531,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "1 opening remaining",
-    "availability": "open",
-    "spaces": 1,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-09-14",
     "lastDate": "2026-10-26",
     "prices": [
@@ -78448,9 +78033,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "11 openings remaining",
+    "openings": "10 openings remaining",
     "availability": "open",
-    "spaces": 11,
+    "spaces": 10,
     "firstDate": "2026-09-20",
     "lastDate": "2026-11-08",
     "prices": [
@@ -80828,9 +80413,9 @@
     "ageMin": 16,
     "ageMax": 0,
     "ageText": "16 yrs +",
-    "openings": "7 openings remaining",
+    "openings": "5 openings remaining",
     "availability": "open",
-    "spaces": 7,
+    "spaces": 5,
     "firstDate": "2026-10-30",
     "lastDate": "2026-12-04",
     "prices": [
@@ -81150,29 +80735,6 @@
         "description": "Leisure Access Discount: for Customer"
       }
     ]
-  },
-  {
-    "id": 632383,
-    "title": "Zumba Gold - Free Trial - Monday",
-    "calendarId": 56,
-    "centerId": 7,
-    "facilityIds": [
-      30
-    ],
-    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/zumba-gold---free-trial---monday/632383",
-    "description": "<p>A low impact dance-fitness class for beginners and seniors that uses zesty Latin music, Salsa, Cha Cha, Cumbia, Merengue, Rock n Roll, Twist and Charleston. Easy to follow moves create a dynamic and fun fitness class. Zumba® Gold strives to improve your balance, strength, flexibility and most importantly your heart. For for information visit www.zumbavancouver.ca Drop-in $15.75, if space permits.</p><br />",
-    "instructors": [
-      "Zumba Vancouver"
-    ],
-    "priceText": "Free",
-    "free": true,
-    "ageMin": 19,
-    "ageMax": 0,
-    "ageText": "19 yrs +",
-    "openings": "Closed",
-    "availability": "closed",
-    "firstDate": "2026-09-14",
-    "lastDate": "2026-09-14"
   },
   {
     "id": 632384,
@@ -81877,9 +81439,9 @@
     "ageMin": 55,
     "ageMax": 0,
     "ageText": "55 yrs +",
-    "openings": "10 openings remaining",
+    "openings": "9 openings remaining",
     "availability": "open",
-    "spaces": 10,
+    "spaces": 9,
     "firstDate": "2026-09-16",
     "lastDate": "2026-12-02",
     "prices": [
@@ -84167,9 +83729,9 @@
     "ageMin": 0,
     "ageMax": 0,
     "ageText": "All ages",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "1 opening remaining",
+    "availability": "open",
+    "spaces": 1,
     "firstDate": "2026-09-25",
     "lastDate": "2026-09-25",
     "prices": [
@@ -84688,9 +84250,9 @@
     "ageMin": 19,
     "ageMax": 99,
     "ageText": "Age at least 19 yrs but less than 99 yrs",
-    "openings": "20 openings remaining",
+    "openings": "13 openings remaining",
     "availability": "open",
-    "spaces": 20,
+    "spaces": 13,
     "firstDate": "2026-09-23",
     "lastDate": "2026-09-23",
     "prices": [
@@ -85388,35 +84950,6 @@
         "price": "$81.81",
         "description": "Senior, 65 and over"
       },
-      {
-        "price": "50.00%",
-        "description": "Leisure Access Discount: for Customer"
-      }
-    ]
-  },
-  {
-    "id": 632726,
-    "title": "ZUMBA® - Free Trial",
-    "calendarId": 56,
-    "centerId": 40,
-    "facilityIds": [
-      447
-    ],
-    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/zumba---free-trial/632726",
-    "description": "<p> ZUMBA® fuses Latin rhythms and easy to follow moves to create a dynamic workout system designed for everyone at any fitness level. Interval and resistance training maximize caloric output, fat burning, and total body toning. Combining Salsa, Cumbia, Merengue, and more, your feel-happy workout is great for the body and the mind.</p><p>Instructor: Kathy-Ann</p><p>Drop-ins $15, space permitting.</p>",
-    "instructors": [
-      "Zumba Vancouver"
-    ],
-    "priceText": "",
-    "free": false,
-    "ageMin": 19,
-    "ageMax": 0,
-    "ageText": "19 yrs +",
-    "openings": "Closed",
-    "availability": "closed",
-    "firstDate": "2026-09-14",
-    "lastDate": "2026-09-14",
-    "prices": [
       {
         "price": "50.00%",
         "description": "Leisure Access Discount: for Customer"
@@ -87277,9 +86810,9 @@
     "ageMin": 54,
     "ageMax": 100,
     "ageText": "Age at least 54y 11m but less than 100 yrs",
-    "openings": "4 openings remaining",
+    "openings": "3 openings remaining",
     "availability": "open",
-    "spaces": 4,
+    "spaces": 3,
     "firstDate": "2026-11-02",
     "lastDate": "2026-12-14",
     "prices": [
@@ -87481,9 +87014,9 @@
     "ageMin": 54,
     "ageMax": 99,
     "ageText": "Age at least 54y 11m but less than 99y 11m",
-    "openings": "22 openings remaining",
+    "openings": "21 openings remaining",
     "availability": "open",
-    "spaces": 22,
+    "spaces": 21,
     "firstDate": "2026-09-16",
     "lastDate": "2026-12-16",
     "prices": [
@@ -89111,9 +88644,9 @@
     "ageMin": 4,
     "ageMax": 6,
     "ageText": "Age at least 4 yrs but less than 6y 11m",
-    "openings": "5 openings remaining",
+    "openings": "4 openings remaining",
     "availability": "open",
-    "spaces": 5,
+    "spaces": 4,
     "firstDate": "2026-09-10",
     "lastDate": "2026-12-17",
     "prices": [
@@ -90613,9 +90146,9 @@
     "ageMin": 3,
     "ageMax": 99,
     "ageText": "Age at least 3 yrs but less than 99y 11m",
-    "openings": "28 openings remaining",
+    "openings": "27 openings remaining",
     "availability": "open",
-    "spaces": 28,
+    "spaces": 27,
     "firstDate": "2026-10-21",
     "lastDate": "2026-10-21"
   },
@@ -91446,9 +90979,9 @@
     "ageMin": 16,
     "ageMax": 0,
     "ageText": "16 yrs +",
-    "openings": "22 openings remaining",
+    "openings": "19 openings remaining",
     "availability": "open",
-    "spaces": 22,
+    "spaces": 19,
     "firstDate": "2026-09-11",
     "lastDate": "2026-11-13",
     "prices": [
@@ -91518,9 +91051,9 @@
     "ageMin": 16,
     "ageMax": 0,
     "ageText": "16 yrs +",
-    "openings": "16 openings remaining",
+    "openings": "18 openings remaining",
     "availability": "open",
-    "spaces": 16,
+    "spaces": 18,
     "firstDate": "2026-09-13",
     "lastDate": "2026-11-15",
     "prices": [
@@ -91552,9 +91085,8 @@
     "ageMin": 16,
     "ageMax": 0,
     "ageText": "16 yrs +",
-    "openings": "17 openings remaining",
-    "availability": "open",
-    "spaces": 17,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-13",
     "lastDate": "2026-09-20",
     "prices": [
@@ -92234,9 +91766,9 @@
     "ageMin": 8,
     "ageMax": 17,
     "ageText": "Age at least 8 yrs but less than 17 yrs",
-    "openings": "3 openings remaining",
+    "openings": "4 openings remaining",
     "availability": "open",
-    "spaces": 3,
+    "spaces": 4,
     "firstDate": "2026-09-13",
     "lastDate": "2026-11-01",
     "prices": [
@@ -93150,9 +92682,9 @@
     "ageMin": 13,
     "ageMax": 0,
     "ageText": "13 yrs +",
-    "openings": "18 openings remaining",
+    "openings": "16 openings remaining",
     "availability": "open",
-    "spaces": 18,
+    "spaces": 16,
     "firstDate": "2026-09-23",
     "lastDate": "2026-09-23",
     "prices": [
@@ -93708,9 +93240,8 @@
     "ageMin": 13,
     "ageMax": 0,
     "ageText": "13 yrs +",
-    "openings": "8 openings remaining",
-    "availability": "open",
-    "spaces": 8,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-20",
     "lastDate": "2026-09-20",
     "prices": [
@@ -93986,9 +93517,9 @@
     "ageMin": 13,
     "ageMax": 0,
     "ageText": "13 yrs +",
-    "openings": "17 openings remaining",
+    "openings": "14 openings remaining",
     "availability": "open",
-    "spaces": 17,
+    "spaces": 14,
     "firstDate": "2026-09-21",
     "lastDate": "2026-09-21",
     "prices": [
@@ -94476,9 +94007,9 @@
     "ageMin": 13,
     "ageMax": 18,
     "ageText": "Age at least 13 yrs but less than 18 yrs",
-    "openings": "8 openings remaining",
+    "openings": "5 openings remaining",
     "availability": "open",
-    "spaces": 8,
+    "spaces": 5,
     "firstDate": "2026-09-23",
     "lastDate": "2026-12-09"
   },
@@ -96025,9 +95556,8 @@
     "ageMin": 0,
     "ageMax": 0,
     "ageText": "All ages",
-    "openings": "100 openings remaining",
-    "availability": "open",
-    "spaces": 100,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-13",
     "lastDate": "2026-09-20"
   },
@@ -96047,9 +95577,8 @@
     "ageMin": 0,
     "ageMax": 0,
     "ageText": "All ages",
-    "openings": "100 openings remaining",
-    "availability": "open",
-    "spaces": 100,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-13",
     "lastDate": "2026-09-20"
   },
@@ -99398,9 +98927,9 @@
     "ageMin": 4,
     "ageMax": 6,
     "ageText": "Age at least 4 yrs but less than 6y 11m 3w",
-    "openings": "11 openings remaining",
+    "openings": "9 openings remaining",
     "availability": "open",
-    "spaces": 11,
+    "spaces": 9,
     "firstDate": "2026-11-07",
     "lastDate": "2026-12-12",
     "prices": [
@@ -100226,9 +99755,9 @@
     "ageMin": 19,
     "ageMax": 99,
     "ageText": "Age at least 19 yrs but less than 99 yrs",
-    "openings": "10 openings remaining",
+    "openings": "2 openings remaining",
     "availability": "open",
-    "spaces": 10,
+    "spaces": 2,
     "firstDate": "2026-09-22",
     "lastDate": "2026-09-22",
     "prices": [
@@ -100272,9 +99801,9 @@
     "ageMin": 8,
     "ageMax": 99,
     "ageText": "Age at least 8 yrs but less than 99 yrs",
-    "openings": "19 openings remaining",
+    "openings": "15 openings remaining",
     "availability": "open",
-    "spaces": 19,
+    "spaces": 15,
     "firstDate": "2026-09-22",
     "lastDate": "2026-09-22",
     "prices": [
@@ -100330,9 +99859,9 @@
     "ageMin": 8,
     "ageMax": 99,
     "ageText": "Age at least 8 yrs but less than 99 yrs",
-    "openings": "22 openings remaining",
+    "openings": "12 openings remaining",
     "availability": "open",
-    "spaces": 22,
+    "spaces": 12,
     "firstDate": "2026-09-23",
     "lastDate": "2026-09-23",
     "prices": [
@@ -100388,9 +99917,9 @@
     "ageMin": 19,
     "ageMax": 99,
     "ageText": "Age at least 19 yrs but less than 99 yrs",
-    "openings": "20 openings remaining",
-    "availability": "open",
-    "spaces": 20,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-09-23",
     "lastDate": "2026-09-23"
   },
@@ -100412,9 +99941,9 @@
     "ageMin": 19,
     "ageMax": 99,
     "ageText": "Age at least 19 yrs but less than 99 yrs",
-    "openings": "22 openings remaining",
+    "openings": "13 openings remaining",
     "availability": "open",
-    "spaces": 22,
+    "spaces": 13,
     "firstDate": "2026-09-24",
     "lastDate": "2026-09-24",
     "prices": [
@@ -100458,9 +99987,9 @@
     "ageMin": 19,
     "ageMax": 99,
     "ageText": "Age at least 19 yrs but less than 99 yrs",
-    "openings": "20 openings remaining",
+    "openings": "3 openings remaining",
     "availability": "open",
-    "spaces": 20,
+    "spaces": 3,
     "firstDate": "2026-09-24",
     "lastDate": "2026-09-24"
   },
@@ -101400,9 +100929,9 @@
     "ageMin": 13,
     "ageMax": 0,
     "ageText": "13 yrs +",
-    "openings": "11 openings remaining",
+    "openings": "8 openings remaining",
     "availability": "open",
-    "spaces": 11,
+    "spaces": 8,
     "firstDate": "2026-09-21",
     "lastDate": "2026-09-21",
     "prices": [
@@ -102539,9 +102068,9 @@
     "ageMin": 55,
     "ageMax": 0,
     "ageText": "55 yrs +",
-    "openings": "62 openings remaining",
+    "openings": "59 openings remaining",
     "availability": "open",
-    "spaces": 62,
+    "spaces": 59,
     "firstDate": "2026-10-09",
     "lastDate": "2026-10-09",
     "prices": [
@@ -102928,9 +102457,9 @@
     "ageMin": 19,
     "ageMax": 99,
     "ageText": "Age at least 19 yrs but less than 99 yrs",
-    "openings": "17 openings remaining",
+    "openings": "12 openings remaining",
     "availability": "open",
-    "spaces": 17,
+    "spaces": 12,
     "firstDate": "2026-09-21",
     "lastDate": "2026-09-21",
     "prices": [
@@ -104775,9 +104304,9 @@
     "ageMin": 13,
     "ageMax": 0,
     "ageText": "13 yrs +",
-    "openings": "12 openings remaining",
+    "openings": "9 openings remaining",
     "availability": "open",
-    "spaces": 12,
+    "spaces": 9,
     "firstDate": "2026-09-23",
     "lastDate": "2026-09-23",
     "prices": [
@@ -105610,9 +105139,9 @@
     "ageMin": 13,
     "ageMax": 18,
     "ageText": "Age at least 13 yrs but less than 18 yrs",
-    "openings": "5 openings remaining",
+    "openings": "3 openings remaining",
     "availability": "open",
-    "spaces": 5,
+    "spaces": 3,
     "firstDate": "2026-10-31",
     "lastDate": "2026-10-31"
   },
@@ -105702,9 +105231,9 @@
     "ageMin": 13,
     "ageMax": 0,
     "ageText": "13 yrs +",
-    "openings": "10 openings remaining",
+    "openings": "2 openings remaining",
     "availability": "open",
-    "spaces": 10,
+    "spaces": 2,
     "firstDate": "2026-09-21",
     "lastDate": "2026-09-21",
     "prices": [
@@ -107526,9 +107055,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "6 openings remaining",
+    "openings": "5 openings remaining",
     "availability": "open",
-    "spaces": 6,
+    "spaces": 5,
     "firstDate": "2026-10-07",
     "lastDate": "2026-10-07"
   },
@@ -107574,9 +107103,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "6 openings remaining",
+    "openings": "5 openings remaining",
     "availability": "open",
-    "spaces": 6,
+    "spaces": 5,
     "firstDate": "2026-11-04",
     "lastDate": "2026-11-04"
   },
@@ -107598,9 +107127,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "4 openings remaining",
-    "availability": "open",
-    "spaces": 4,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-20",
     "lastDate": "2026-09-20"
   },
@@ -107922,9 +107450,9 @@
     "ageMin": 3,
     "ageMax": 6,
     "ageText": "Age at least 3 yrs but less than 6y 11m 4w",
-    "openings": "2 openings remaining",
-    "availability": "open",
-    "spaces": 2,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-09-13",
     "lastDate": "2026-12-06",
     "prices": [
@@ -108743,9 +108271,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "12 openings remaining",
+    "openings": "7 openings remaining",
     "availability": "open",
-    "spaces": 12,
+    "spaces": 7,
     "firstDate": "2026-09-21",
     "lastDate": "2026-09-21",
     "prices": [
@@ -108789,9 +108317,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "22 openings remaining",
+    "openings": "13 openings remaining",
     "availability": "open",
-    "spaces": 22,
+    "spaces": 13,
     "firstDate": "2026-09-23",
     "lastDate": "2026-09-23",
     "prices": [
@@ -108835,9 +108363,9 @@
     "ageMin": 40,
     "ageMax": 0,
     "ageText": "40 yrs +",
-    "openings": "20 openings remaining",
+    "openings": "5 openings remaining",
     "availability": "open",
-    "spaces": 20,
+    "spaces": 5,
     "firstDate": "2026-09-23",
     "lastDate": "2026-09-23"
   },
@@ -108859,9 +108387,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "20 openings remaining",
+    "openings": "10 openings remaining",
     "availability": "open",
-    "spaces": 20,
+    "spaces": 10,
     "firstDate": "2026-09-24",
     "lastDate": "2026-09-24",
     "prices": [
@@ -112037,9 +111565,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "6 openings remaining",
+    "openings": "3 openings remaining",
     "availability": "open",
-    "spaces": 6,
+    "spaces": 3,
     "firstDate": "2026-09-21",
     "lastDate": "2026-09-21"
   },
@@ -112935,9 +112463,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "22 openings remaining",
+    "openings": "20 openings remaining",
     "availability": "open",
-    "spaces": 22,
+    "spaces": 20,
     "firstDate": "2026-09-23",
     "lastDate": "2026-09-23",
     "prices": [
@@ -112981,9 +112509,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "17 openings remaining",
+    "openings": "16 openings remaining",
     "availability": "open",
-    "spaces": 17,
+    "spaces": 16,
     "firstDate": "2026-09-21",
     "lastDate": "2026-09-21",
     "prices": [
@@ -113027,9 +112555,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "20 openings remaining",
+    "openings": "15 openings remaining",
     "availability": "open",
-    "spaces": 20,
+    "spaces": 15,
     "firstDate": "2026-09-23",
     "lastDate": "2026-09-23",
     "prices": [
@@ -114427,9 +113955,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "9 openings remaining",
-    "availability": "open",
-    "spaces": 9,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-20",
     "lastDate": "2026-09-20"
   },
@@ -114449,9 +113976,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "10 openings remaining",
+    "openings": "9 openings remaining",
     "availability": "open",
-    "spaces": 10,
+    "spaces": 9,
     "firstDate": "2026-09-27",
     "lastDate": "2026-09-27"
   },
@@ -114629,9 +114156,9 @@
     "ageMin": 13,
     "ageMax": 0,
     "ageText": "13 yrs +",
-    "openings": "19 openings remaining",
+    "openings": "17 openings remaining",
     "availability": "open",
-    "spaces": 19,
+    "spaces": 17,
     "firstDate": "2026-09-23",
     "lastDate": "2026-09-23"
   },
@@ -114701,9 +114228,9 @@
     "ageMin": 13,
     "ageMax": 0,
     "ageText": "13 yrs +",
-    "openings": "27 openings remaining",
+    "openings": "23 openings remaining",
     "availability": "open",
-    "spaces": 27,
+    "spaces": 23,
     "firstDate": "2026-09-21",
     "lastDate": "2026-09-21"
   },
@@ -114726,9 +114253,9 @@
     "ageMin": 13,
     "ageMax": 0,
     "ageText": "13 yrs +",
-    "openings": "29 openings remaining",
+    "openings": "26 openings remaining",
     "availability": "open",
-    "spaces": 29,
+    "spaces": 26,
     "firstDate": "2026-09-22",
     "lastDate": "2026-09-22"
   },
@@ -114751,9 +114278,9 @@
     "ageMin": 13,
     "ageMax": 0,
     "ageText": "13 yrs +",
-    "openings": "30 openings remaining",
+    "openings": "28 openings remaining",
     "availability": "open",
-    "spaces": 30,
+    "spaces": 28,
     "firstDate": "2026-09-23",
     "lastDate": "2026-09-23"
   },
@@ -116453,5 +115980,77 @@
     "spaces": 2,
     "firstDate": "2026-11-13",
     "lastDate": "2026-11-13"
+  },
+  {
+    "id": 641453,
+    "title": "Aquafit - Shallow Moderate",
+    "calendarId": 55,
+    "centerId": 10,
+    "facilityIds": [
+      16
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/aquafit---shallow-moderate/641453",
+    "description": "<p>Shallow aquafit </p><p>This 50-minute Aquafit class is imbedded in a 90-minute Swim Session. Aquafit is a moderately paced and energizing class that utilizes water resistance for a variety of exercise combinations with warm up, cardio, strength, stretch and cool down components, designed for participants who want to increase their fitness and muscular endurance.<br />Hot Tub access is limited and is first come first serve. Recommended maximum of 10 minutes. Saunas and steam rooms are not available at all locations.<br />Please call the facility for more details.<br /></p>",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "",
+    "free": false,
+    "ageMin": 13,
+    "ageMax": 0,
+    "ageText": "13 yrs +",
+    "openings": "19 openings remaining",
+    "availability": "open",
+    "spaces": 19,
+    "firstDate": "2026-10-06",
+    "lastDate": "2026-10-06"
+  },
+  {
+    "id": 641454,
+    "title": "Aquafit - Shallow Moderate",
+    "calendarId": 55,
+    "centerId": 10,
+    "facilityIds": [
+      16
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/aquafit---shallow-moderate/641454",
+    "description": "<p>Shallow aquafit </p><p>This 50-minute Aquafit class is imbedded in a 90-minute Swim Session. Aquafit is a moderately paced and energizing class that utilizes water resistance for a variety of exercise combinations with warm up, cardio, strength, stretch and cool down components, designed for participants who want to increase their fitness and muscular endurance.<br />Hot Tub access is limited and is first come first serve. Recommended maximum of 10 minutes. Saunas and steam rooms are not available at all locations.<br />Please call the facility for more details.<br /></p>",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "",
+    "free": false,
+    "ageMin": 13,
+    "ageMax": 0,
+    "ageText": "13 yrs +",
+    "openings": "19 openings remaining",
+    "availability": "open",
+    "spaces": 19,
+    "firstDate": "2026-10-08",
+    "lastDate": "2026-10-08"
+  },
+  {
+    "id": 641455,
+    "title": "Aquafit - Shallow Moderate",
+    "calendarId": 55,
+    "centerId": 10,
+    "facilityIds": [
+      16
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/aquafit---shallow-moderate/641455",
+    "description": "<p>Shallow aquafit </p><p>This 60-minute Aquafit class is imbedded in a 90-minute Swim Session. Aquafit is a moderately paced and energizing class that utilizes water resistance for a variety of exercise combinations with warm up, cardio, strength, stretch and cool down components, designed for participants who want to increase their fitness and muscular endurance.<br></p>",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "",
+    "free": false,
+    "ageMin": 55,
+    "ageMax": 0,
+    "ageText": "55 yrs +",
+    "openings": "19 openings remaining",
+    "availability": "open",
+    "spaces": 19,
+    "firstDate": "2026-10-09",
+    "lastDate": "2026-10-09"
   }
 ]
