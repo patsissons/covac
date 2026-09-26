@@ -740,9 +740,9 @@
     "ageMin": 6,
     "ageMax": 15,
     "ageText": "Age at least 6y 11m but less than 15y 11m",
-    "openings": "24 openings remaining",
+    "openings": "23 openings remaining",
     "availability": "open",
-    "spaces": 24,
+    "spaces": 23,
     "firstDate": "2026-10-05",
     "lastDate": "2026-10-28",
     "prices": [
@@ -1002,11 +1002,11 @@
       351
     ],
     "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/ball-hockey---co-ed/620701",
-    "description": "Fun, recreational ball hockey - no body checking - all skill levels welcome. Protective gear recommended. Plastic sticks provided, no wooden sticks allowed. Great practice for goalies! $7/drop-in, space permitting. Register early as this class will fill up! <br /><b>No class Sept 23</b>",
+    "description": "Fun, recreational ball hockey - no body checking - all skill levels welcome. Protective gear recommended. Plastic sticks provided, no wooden sticks allowed. Great practice for goalies! $7/drop-in, space permitting. Register early as this class will fill up! <br /><b>No class Sept 23, 30, Oct 7, Nov 11</b>",
     "instructors": [
       "Warren Creighton"
     ],
-    "priceText": "$84.00",
+    "priceText": "$77.00",
     "free": false,
     "ageMin": 18,
     "ageMax": 99,
@@ -1018,7 +1018,7 @@
     "lastDate": "2026-12-16",
     "prices": [
       {
-        "price": "$84.00",
+        "price": "$77.00",
         "description": "Standard charge"
       },
       {
@@ -1036,11 +1036,11 @@
       351
     ],
     "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/ball-hockey---co-ed-recreational/620702",
-    "description": "4 vs 4, Fun, Co-ed recreational ball hockey - no body checking - no contact - no slapshots - Protective gear recommended. Great practice for goalies! $7/drop-in, space permitting. Register early as this class will fill up!Bring a light and dark coloured shirt for team making!Please see our program guide for drop in rules. <br><b>No session Oct 17, 31 &amp; Nov 28</b>",
+    "description": "4 vs 4, Fun, Co-ed recreational ball hockey - no body checking - no contact - no slapshots - Protective gear recommended. Great practice for goalies! $7/drop-in, space permitting. Register early as this class will fill up!Bring a light and dark coloured shirt for team making!Please see our program guide for drop in rules. <br><b>No session Oct 3,10,17, 24, 31 &amp; Nov 28</b>",
     "instructors": [
       "Julina Wong"
     ],
-    "priceText": "$72.00",
+    "priceText": "$54.00",
     "free": false,
     "ageMin": 18,
     "ageMax": 99,
@@ -1052,7 +1052,7 @@
     "lastDate": "2026-12-12",
     "prices": [
       {
-        "price": "$72.00",
+        "price": "$54.00",
         "description": "Standard charge"
       },
       {
@@ -1453,9 +1453,9 @@
     "ageMin": 3,
     "ageMax": 6,
     "ageText": "Age at least 3y 8m but less than 6 yrs",
-    "openings": "1 opening remaining",
+    "openings": "3 openings remaining",
     "availability": "open",
-    "spaces": 1,
+    "spaces": 3,
     "firstDate": "2026-09-12",
     "lastDate": "2026-12-12",
     "prices": [
@@ -1521,9 +1521,9 @@
     "ageMin": 3,
     "ageMax": 6,
     "ageText": "Age at least 3y 8m but less than 6 yrs",
-    "openings": "2 openings remaining",
-    "availability": "open",
-    "spaces": 2,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-09-12",
     "lastDate": "2026-12-12",
     "prices": [
@@ -1724,9 +1724,9 @@
     "ageMin": 8,
     "ageMax": 13,
     "ageText": "Age at least 8y 8m but less than 13 yrs",
-    "openings": "7 openings remaining",
+    "openings": "8 openings remaining",
     "availability": "open",
-    "spaces": 7,
+    "spaces": 8,
     "firstDate": "2026-09-13",
     "lastDate": "2026-12-13",
     "prices": [
@@ -3115,9 +3115,9 @@
     "ageMin": 18,
     "ageMax": 99,
     "ageText": "Age at least 18 yrs but less than 99y 9m",
-    "openings": "1 opening remaining",
-    "availability": "open",
-    "spaces": 1,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-09-13",
     "lastDate": "2026-12-13",
     "prices": [
@@ -3544,9 +3544,9 @@
     "ageMin": 10,
     "ageMax": 16,
     "ageText": "Age at least 10 yrs but less than 16y 11m",
-    "openings": "1 opening remaining",
-    "availability": "open",
-    "spaces": 1,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-09-22",
     "lastDate": "2026-12-08",
     "prices": [
@@ -3997,9 +3997,9 @@
     "ageMin": 16,
     "ageMax": 0,
     "ageText": "16 yrs +",
-    "openings": "1 opening remaining",
-    "availability": "open",
-    "spaces": 1,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-09-13",
     "lastDate": "2026-11-01",
     "prices": [
@@ -5095,9 +5095,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "2 openings remaining",
-    "availability": "open",
-    "spaces": 2,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-25",
     "lastDate": "2026-09-25",
     "prices": [
@@ -5318,9 +5317,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "22 openings remaining",
-    "availability": "open",
-    "spaces": 22,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-09-28",
     "lastDate": "2026-09-28",
     "prices": [
@@ -5700,9 +5699,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "42 openings remaining",
-    "availability": "open",
-    "spaces": 42,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-09-28",
     "lastDate": "2026-09-28",
     "prices": [
@@ -5930,9 +5929,9 @@
     "ageMin": 16,
     "ageMax": 0,
     "ageText": "16 yrs +",
-    "openings": "4 openings remaining",
+    "openings": "3 openings remaining",
     "availability": "open",
-    "spaces": 4,
+    "spaces": 3,
     "firstDate": "2026-09-28",
     "lastDate": "2026-12-14",
     "prices": [
@@ -6032,9 +6031,9 @@
     "ageMin": 16,
     "ageMax": 0,
     "ageText": "16 yrs +",
-    "openings": "21 openings remaining",
+    "openings": "20 openings remaining",
     "availability": "open",
-    "spaces": 21,
+    "spaces": 20,
     "firstDate": "2026-09-14",
     "lastDate": "2026-10-26",
     "prices": [
@@ -6730,9 +6729,9 @@
     "ageMin": 16,
     "ageMax": 0,
     "ageText": "16 yrs +",
-    "openings": "29 openings remaining",
+    "openings": "28 openings remaining",
     "availability": "open",
-    "spaces": 29,
+    "spaces": 28,
     "firstDate": "2026-11-02",
     "lastDate": "2026-12-14",
     "prices": [
@@ -7118,9 +7117,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "16 openings remaining",
+    "openings": "14 openings remaining",
     "availability": "open",
-    "spaces": 16,
+    "spaces": 14,
     "firstDate": "2026-09-18",
     "lastDate": "2026-10-30",
     "prices": [
@@ -7602,9 +7601,9 @@
     "ageMin": 55,
     "ageMax": 0,
     "ageText": "55 yrs +",
-    "openings": "20 openings remaining",
+    "openings": "19 openings remaining",
     "availability": "open",
-    "spaces": 20,
+    "spaces": 19,
     "firstDate": "2026-09-11",
     "lastDate": "2026-10-30",
     "prices": [
@@ -8407,6 +8406,30 @@
     ]
   },
   {
+    "id": 621739,
+    "title": "Tax Planning for Assisted Living & Long-Term Care Options",
+    "calendarId": 47,
+    "centerId": 40,
+    "facilityIds": [
+      445
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/tax-planning-for-assisted-living-long-term-care-options/621739",
+    "description": "Navigating the health care and senior benefits system can be challenging. Many seniors and their caregivers are not prepared when the situation arises, and they are suddenly faced with the research, requirements, paperwork, and often difficult decisions around choosing the best option for their changing needs. Awareness and proper planning can ease the transitions between the varying levels of care. From aging at home to long-term care, join us for an informative 1-hour workshop on the health care options available for you or your loved ones. Topics will include: levels of care in retirement, potential care costs, income planning to reduce taxes and care costs, working with Health Authorities.",
+    "instructors": [
+      "David Perkins"
+    ],
+    "priceText": "Free",
+    "free": true,
+    "ageMin": 50,
+    "ageMax": 0,
+    "ageText": "50 yrs +",
+    "openings": "9 openings remaining",
+    "availability": "open",
+    "spaces": 9,
+    "firstDate": "2026-09-29",
+    "lastDate": "2026-09-29"
+  },
+  {
     "id": 621775,
     "title": "Family Play Gym",
     "calendarId": 1,
@@ -8581,9 +8604,9 @@
     "ageMin": 3,
     "ageMax": 5,
     "ageText": "Age at least 3 yrs but less than 5y 11m",
-    "openings": "13 openings remaining",
+    "openings": "12 openings remaining",
     "availability": "open",
-    "spaces": 13,
+    "spaces": 12,
     "firstDate": "2026-09-19",
     "lastDate": "2026-12-19",
     "prices": [
@@ -10386,9 +10409,9 @@
     "ageMin": 13,
     "ageMax": 18,
     "ageText": "Age at least 13 yrs but less than 18y 11m",
-    "openings": "14 openings remaining",
+    "openings": "7 openings remaining",
     "availability": "open",
-    "spaces": 14,
+    "spaces": 7,
     "firstDate": "2026-09-11",
     "lastDate": "2026-12-11"
   },
@@ -10411,9 +10434,9 @@
     "ageMin": 2,
     "ageMax": 13,
     "ageText": "Age at least 2 yrs but less than 13 yrs",
-    "openings": "48 openings remaining",
+    "openings": "44 openings remaining",
     "availability": "open",
-    "spaces": 48,
+    "spaces": 44,
     "firstDate": "2026-10-30",
     "lastDate": "2026-10-30"
   },
@@ -13939,9 +13962,8 @@
     "ageMin": 0,
     "ageMax": 0,
     "ageText": "All ages",
-    "openings": "100 openings remaining",
-    "availability": "open",
-    "spaces": 100,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-11",
     "lastDate": "2026-09-25"
   },
@@ -13984,8 +14006,8 @@
     "ageMin": 13,
     "ageMax": 18,
     "ageText": "Age at least 13 yrs but less than 18y 6m",
-    "openings": "Unlimited openings",
-    "availability": "open",
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-11",
     "lastDate": "2026-09-25"
   },
@@ -14177,9 +14199,8 @@
     "ageMin": 3,
     "ageMax": 5,
     "ageText": "Age at least 3 yrs but less than 5y 11m 4w",
-    "openings": "8 openings remaining",
-    "availability": "open",
-    "spaces": 8,
+    "openings": "Cancelled",
+    "availability": "cancelled",
     "firstDate": "2026-09-17",
     "lastDate": "2026-10-29",
     "prices": [
@@ -14483,9 +14504,9 @@
     "ageMin": 5,
     "ageMax": 10,
     "ageText": "Age at least 5 yrs but less than 10y 11m 4w",
-    "openings": "6 openings remaining",
+    "openings": "5 openings remaining",
     "availability": "open",
-    "spaces": 6,
+    "spaces": 5,
     "firstDate": "2026-09-27",
     "lastDate": "2026-11-22",
     "prices": [
@@ -14651,9 +14672,9 @@
     "ageMin": 8,
     "ageMax": 14,
     "ageText": "Age at least 8 yrs but less than 14 yrs",
-    "openings": "24 openings remaining",
+    "openings": "25 openings remaining",
     "availability": "open",
-    "spaces": 24,
+    "spaces": 25,
     "firstDate": "2026-09-21",
     "lastDate": "2026-11-02",
     "prices": [
@@ -19313,9 +19334,9 @@
     "ageMin": 55,
     "ageMax": 0,
     "ageText": "55 yrs +",
-    "openings": "4 openings remaining",
+    "openings": "3 openings remaining",
     "availability": "open",
-    "spaces": 4,
+    "spaces": 3,
     "firstDate": "2026-09-25",
     "lastDate": "2026-12-11"
   },
@@ -21466,9 +21487,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "6 openings remaining",
+    "openings": "5 openings remaining",
     "availability": "open",
-    "spaces": 6,
+    "spaces": 5,
     "firstDate": "2026-11-05",
     "lastDate": "2026-12-17",
     "prices": [
@@ -21825,9 +21846,9 @@
     "ageMin": 55,
     "ageMax": 0,
     "ageText": "55 yrs +",
-    "openings": "10 openings remaining",
+    "openings": "11 openings remaining",
     "availability": "open",
-    "spaces": 10,
+    "spaces": 11,
     "firstDate": "2026-09-10",
     "lastDate": "2026-12-17",
     "prices": [
@@ -22583,9 +22604,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "9 openings remaining",
+    "openings": "8 openings remaining",
     "availability": "open",
-    "spaces": 9,
+    "spaces": 8,
     "firstDate": "2026-09-11",
     "lastDate": "2026-12-18",
     "prices": [
@@ -23811,9 +23832,8 @@
     "ageMin": 5,
     "ageMax": 7,
     "ageText": "Age at least 5 yrs but less than 7y 11m",
-    "openings": "7 openings remaining",
-    "availability": "open",
-    "spaces": 7,
+    "openings": "Cancelled",
+    "availability": "cancelled",
     "firstDate": "2026-09-25",
     "lastDate": "2026-11-27",
     "prices": [
@@ -24257,9 +24277,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "9 openings remaining",
+    "openings": "8 openings remaining",
     "availability": "open",
-    "spaces": 9,
+    "spaces": 8,
     "firstDate": "2026-10-17",
     "lastDate": "2026-11-07",
     "prices": [
@@ -26081,9 +26101,8 @@
     "ageMin": 3,
     "ageMax": 5,
     "ageText": "Age at least 3 yrs but less than 5y 11m",
-    "openings": "4 openings remaining",
-    "availability": "open",
-    "spaces": 4,
+    "openings": "Cancelled",
+    "availability": "cancelled",
     "firstDate": "2026-09-25",
     "lastDate": "2026-11-27",
     "prices": [
@@ -26148,9 +26167,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "24 openings remaining",
-    "availability": "open",
-    "spaces": 24,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-09-28",
     "lastDate": "2026-09-28",
     "prices": [
@@ -26352,9 +26371,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-25",
     "lastDate": "2026-09-25",
     "prices": [
@@ -30879,9 +30897,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "9 openings remaining",
+    "openings": "8 openings remaining",
     "availability": "open",
-    "spaces": 9,
+    "spaces": 8,
     "firstDate": "2026-09-18",
     "lastDate": "2026-10-23",
     "prices": [
@@ -31047,9 +31065,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "10 openings remaining",
+    "openings": "9 openings remaining",
     "availability": "open",
-    "spaces": 10,
+    "spaces": 9,
     "firstDate": "2026-09-24",
     "lastDate": "2026-12-17",
     "prices": [
@@ -31529,9 +31547,9 @@
     "ageMin": 55,
     "ageMax": 0,
     "ageText": "55 yrs +",
-    "openings": "3 openings remaining",
+    "openings": "1 opening remaining",
     "availability": "open",
-    "spaces": 3,
+    "spaces": 1,
     "firstDate": "2026-09-18",
     "lastDate": "2026-12-04",
     "prices": [
@@ -32193,9 +32211,9 @@
     "ageMin": 50,
     "ageMax": 0,
     "ageText": "50 yrs +",
-    "openings": "49 openings remaining",
+    "openings": "47 openings remaining",
     "availability": "open",
-    "spaces": 49,
+    "spaces": 47,
     "firstDate": "2026-09-11",
     "lastDate": "2026-12-18",
     "prices": [
@@ -32988,9 +33006,9 @@
     "ageMin": 18,
     "ageMax": 0,
     "ageText": "18 yrs +",
-    "openings": "13 openings remaining",
+    "openings": "12 openings remaining",
     "availability": "open",
-    "spaces": 13,
+    "spaces": 12,
     "firstDate": "2026-09-12",
     "lastDate": "2026-12-19",
     "prices": [
@@ -33240,9 +33258,9 @@
     "ageMin": 19,
     "ageMax": 100,
     "ageText": "Age at least 19 yrs but less than 100 yrs",
-    "openings": "8 openings remaining",
+    "openings": "7 openings remaining",
     "availability": "open",
-    "spaces": 8,
+    "spaces": 7,
     "firstDate": "2026-09-24",
     "lastDate": "2026-12-03",
     "prices": [
@@ -34275,9 +34293,9 @@
     "ageMin": 13,
     "ageMax": 0,
     "ageText": "13 yrs +",
-    "openings": "10 openings remaining",
+    "openings": "9 openings remaining",
     "availability": "open",
-    "spaces": 10,
+    "spaces": 9,
     "firstDate": "2026-09-11",
     "lastDate": "2026-10-02",
     "prices": [
@@ -34309,9 +34327,9 @@
     "ageMin": 13,
     "ageMax": 0,
     "ageText": "13 yrs +",
-    "openings": "13 openings remaining",
+    "openings": "12 openings remaining",
     "availability": "open",
-    "spaces": 13,
+    "spaces": 12,
     "firstDate": "2026-10-09",
     "lastDate": "2026-11-13",
     "prices": [
@@ -34964,9 +34982,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "13 openings remaining",
-    "availability": "open",
-    "spaces": 13,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-11",
     "lastDate": "2026-09-25",
     "prices": [
@@ -36660,9 +36677,8 @@
     "ageMin": 5,
     "ageMax": 12,
     "ageText": "Age at least 5 yrs but less than 12y 11m",
-    "openings": "1 opening remaining",
-    "availability": "open",
-    "spaces": 1,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-25",
     "lastDate": "2026-09-25",
     "prices": [
@@ -36728,9 +36744,9 @@
     "ageMin": 13,
     "ageMax": 18,
     "ageText": "Age at least 13 yrs but less than 18y 11m 3w",
-    "openings": "18 openings remaining",
+    "openings": "14 openings remaining",
     "availability": "open",
-    "spaces": 18,
+    "spaces": 14,
     "firstDate": "2026-10-02",
     "lastDate": "2026-12-11",
     "prices": [
@@ -39951,9 +39967,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "13 openings remaining",
+    "openings": "12 openings remaining",
     "availability": "open",
-    "spaces": 13,
+    "spaces": 12,
     "firstDate": "2026-09-25",
     "lastDate": "2026-11-27",
     "prices": [
@@ -41195,9 +41211,9 @@
     "ageMin": 16,
     "ageMax": 0,
     "ageText": "16 yrs +",
-    "openings": "1 opening remaining",
+    "openings": "6 openings remaining",
     "availability": "open",
-    "spaces": 1,
+    "spaces": 6,
     "firstDate": "2026-09-13",
     "lastDate": "2026-12-13",
     "prices": [
@@ -42875,9 +42891,9 @@
     "ageMin": 0,
     "ageMax": 5,
     "ageText": "Age less than 5y 11m 3w",
-    "openings": "1 opening remaining",
-    "availability": "open",
-    "spaces": 1,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-09-26",
     "lastDate": "2026-12-05",
     "prices": [
@@ -43339,9 +43355,9 @@
     "ageMin": 2,
     "ageMax": 3,
     "ageText": "Age at least 2 yrs but less than 3y 11m 3w",
-    "openings": "3 openings remaining",
+    "openings": "2 openings remaining",
     "availability": "open",
-    "spaces": 3,
+    "spaces": 2,
     "firstDate": "2026-09-19",
     "lastDate": "2026-11-07",
     "prices": [
@@ -43528,9 +43544,9 @@
     "ageMin": 4,
     "ageMax": 5,
     "ageText": "Age at least 4 yrs but less than 5y 11m 3w",
-    "openings": "8 openings remaining",
+    "openings": "7 openings remaining",
     "availability": "open",
-    "spaces": 8,
+    "spaces": 7,
     "firstDate": "2026-09-19",
     "lastDate": "2026-11-07",
     "prices": [
@@ -44045,9 +44061,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "28 openings remaining",
-    "availability": "open",
-    "spaces": 28,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-09-28",
     "lastDate": "2026-09-28"
   },
@@ -44779,9 +44795,9 @@
     "ageMin": 18,
     "ageMax": 0,
     "ageText": "18 yrs +",
-    "openings": "9 openings remaining",
+    "openings": "7 openings remaining",
     "availability": "open",
-    "spaces": 9,
+    "spaces": 7,
     "firstDate": "2026-09-17",
     "lastDate": "2026-10-29",
     "prices": [
@@ -45425,9 +45441,9 @@
     "ageMin": 4,
     "ageMax": 6,
     "ageText": "Age at least 4 yrs but less than 6y 11m 3w",
-    "openings": "4 openings remaining",
+    "openings": "3 openings remaining",
     "availability": "open",
-    "spaces": 4,
+    "spaces": 3,
     "firstDate": "2026-11-01",
     "lastDate": "2026-12-13",
     "prices": [
@@ -46461,9 +46477,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "8 openings remaining",
+    "openings": "7 openings remaining",
     "availability": "open",
-    "spaces": 8,
+    "spaces": 7,
     "firstDate": "2026-09-16",
     "lastDate": "2026-12-16",
     "prices": [
@@ -49369,9 +49385,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-25",
     "lastDate": "2026-09-25"
   },
@@ -49391,9 +49406,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-25",
     "lastDate": "2026-09-25"
   },
@@ -49413,9 +49427,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-25",
     "lastDate": "2026-09-25"
   },
@@ -49436,9 +49449,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "3 openings remaining",
-    "availability": "open",
-    "spaces": 3,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-25",
     "lastDate": "2026-09-25"
   },
@@ -52423,9 +52435,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "13 openings remaining",
+    "openings": "12 openings remaining",
     "availability": "open",
-    "spaces": 13,
+    "spaces": 12,
     "firstDate": "2026-10-06",
     "lastDate": "2026-11-24",
     "prices": [
@@ -53105,11 +53117,11 @@
     "ageMin": 13,
     "ageMax": 18,
     "ageText": "Age at least 13 yrs but less than 18y 11m 4w",
-    "openings": "18 openings remaining",
+    "openings": "17 openings remaining",
     "availability": "open",
-    "spaces": 18,
-    "firstDate": "2026-09-18",
-    "lastDate": "2026-12-18"
+    "spaces": 17,
+    "firstDate": "2026-09-25",
+    "lastDate": "2026-12-11"
   },
   {
     "id": 628076,
@@ -53197,9 +53209,9 @@
     "ageMin": 0,
     "ageMax": 4,
     "ageText": "Age at least 6m but less than 4y 11m",
-    "openings": "5 openings remaining",
+    "openings": "2 openings remaining",
     "availability": "open",
-    "spaces": 5,
+    "spaces": 2,
     "firstDate": "2026-09-18",
     "lastDate": "2026-10-30",
     "prices": [
@@ -53469,9 +53481,9 @@
     "ageMin": 0,
     "ageMax": 4,
     "ageText": "Age at least 6m but less than 4y 11m",
-    "openings": "7 openings remaining",
+    "openings": "5 openings remaining",
     "availability": "open",
-    "spaces": 7,
+    "spaces": 5,
     "firstDate": "2026-11-06",
     "lastDate": "2026-12-18",
     "prices": [
@@ -54712,9 +54724,9 @@
     "ageMin": 18,
     "ageMax": 0,
     "ageText": "18 yrs +",
-    "openings": "1 opening remaining",
+    "openings": "2 openings remaining",
     "availability": "open",
-    "spaces": 1,
+    "spaces": 2,
     "firstDate": "2026-10-22",
     "lastDate": "2026-12-10",
     "prices": [
@@ -58074,8 +58086,9 @@
     "ageMin": 55,
     "ageMax": 0,
     "ageText": "55 yrs +",
-    "openings": "Closed",
-    "availability": "closed",
+    "openings": "1 opening remaining",
+    "availability": "open",
+    "spaces": 1,
     "firstDate": "2026-09-29",
     "lastDate": "2026-12-01"
   },
@@ -58097,8 +58110,9 @@
     "ageMin": 55,
     "ageMax": 0,
     "ageText": "55 yrs +",
-    "openings": "Closed",
-    "availability": "closed",
+    "openings": "1 opening remaining",
+    "availability": "open",
+    "spaces": 1,
     "firstDate": "2026-09-29",
     "lastDate": "2026-12-01"
   },
@@ -58260,9 +58274,9 @@
     "ageMin": 55,
     "ageMax": 0,
     "ageText": "55 yrs +",
-    "openings": "2 openings remaining",
+    "openings": "1 opening remaining",
     "availability": "open",
-    "spaces": 2,
+    "spaces": 1,
     "firstDate": "2026-11-07",
     "lastDate": "2026-11-07"
   },
@@ -59702,9 +59716,9 @@
     "ageMin": 13,
     "ageMax": 18,
     "ageText": "Age at least 13 yrs but less than 18y 11m 4w",
-    "openings": "29 openings remaining",
+    "openings": "24 openings remaining",
     "availability": "open",
-    "spaces": 29,
+    "spaces": 24,
     "firstDate": "2026-09-26",
     "lastDate": "2026-09-26"
   },
@@ -59760,9 +59774,8 @@
     "ageMin": 14,
     "ageMax": 0,
     "ageText": "14 yrs +",
-    "openings": "2 openings remaining",
-    "availability": "open",
-    "spaces": 2,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-08",
     "lastDate": "2026-09-25",
     "prices": [
@@ -59794,9 +59807,8 @@
     "ageMin": 6,
     "ageMax": 13,
     "ageText": "Age at least 6 yrs but less than 13y 11m",
-    "openings": "6 openings remaining",
-    "availability": "open",
-    "spaces": 6,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-08",
     "lastDate": "2026-09-25",
     "prices": [
@@ -60062,9 +60074,9 @@
     "ageMin": 14,
     "ageMax": 0,
     "ageText": "14 yrs +",
-    "openings": "9 openings remaining",
+    "openings": "8 openings remaining",
     "availability": "open",
-    "spaces": 9,
+    "spaces": 8,
     "firstDate": "2026-10-02",
     "lastDate": "2026-10-27",
     "prices": [
@@ -61903,9 +61915,9 @@
     "ageMin": 7,
     "ageMax": 9,
     "ageText": "Age at least 7 yrs but less than 9y 11m",
-    "openings": "16 openings remaining",
+    "openings": "15 openings remaining",
     "availability": "open",
-    "spaces": 16,
+    "spaces": 15,
     "firstDate": "2026-10-02",
     "lastDate": "2026-10-30",
     "prices": [
@@ -63492,9 +63504,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "6 openings remaining",
+    "openings": "5 openings remaining",
     "availability": "open",
-    "spaces": 6,
+    "spaces": 5,
     "firstDate": "2026-09-21",
     "lastDate": "2026-11-02",
     "prices": [
@@ -63862,9 +63874,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "13 openings remaining",
+    "openings": "11 openings remaining",
     "availability": "open",
-    "spaces": 13,
+    "spaces": 11,
     "firstDate": "2026-10-27",
     "lastDate": "2026-12-08",
     "prices": [
@@ -64656,9 +64668,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "1 opening remaining",
-    "availability": "open",
-    "spaces": 1,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-10-19",
     "lastDate": "2026-10-19"
   },
@@ -65511,9 +65523,8 @@
     "ageMin": 55,
     "ageMax": 99,
     "ageText": "Age at least 55 yrs but less than 99 yrs",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-25",
     "lastDate": "2026-09-25"
   },
@@ -67097,9 +67108,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "1 opening remaining",
-    "availability": "open",
-    "spaces": 1,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-09-03",
     "lastDate": "2026-12-17",
     "prices": [
@@ -67733,9 +67744,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "16 openings remaining",
+    "openings": "15 openings remaining",
     "availability": "open",
-    "spaces": 16,
+    "spaces": 15,
     "firstDate": "2026-10-04",
     "lastDate": "2026-10-04",
     "prices": [
@@ -69471,40 +69482,6 @@
     ]
   },
   {
-    "id": 631200,
-    "title": "Design and Architecture for Kids",
-    "calendarId": 1,
-    "centerId": 42,
-    "facilityIds": [
-      416
-    ],
-    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/design-and-architecture-for-kids/631200",
-    "description": "<p>In this hands-on architecture class, young designers explore famous architects, design concepts, and real-world buildings. Each week, students build creativity and confidence through 2D drawing and 3D model-making. They’ll develop design vocabulary, fine motor skills, and an appreciation for the world around them, just like real architects in training! All supplies provided and students will bring home their models. No sess Nov 11. </p><br>",
-    "instructors": [
-      "Petit Architect Design For Kids Ltd."
-    ],
-    "priceText": "$270.00",
-    "free": false,
-    "ageMin": 7,
-    "ageMax": 12,
-    "ageText": "Age at least 7 yrs but less than 12y 11m",
-    "openings": "10 openings remaining",
-    "availability": "open",
-    "spaces": 10,
-    "firstDate": "2026-10-07",
-    "lastDate": "2026-12-09",
-    "prices": [
-      {
-        "price": "$270.00",
-        "description": "Standard charge"
-      },
-      {
-        "price": "50.00%",
-        "description": "Leisure Access Discount: for Customer"
-      }
-    ]
-  },
-  {
     "id": 631209,
     "title": "Mobi Stretch and Strength",
     "calendarId": 6,
@@ -69588,9 +69565,9 @@
     "ageMin": 3,
     "ageMax": 4,
     "ageText": "Age at least 3 yrs but less than 4y 11m",
-    "openings": "10 openings remaining",
+    "openings": "9 openings remaining",
     "availability": "open",
-    "spaces": 10,
+    "spaces": 9,
     "firstDate": "2026-09-11",
     "lastDate": "2026-10-30",
     "prices": [
@@ -69939,9 +69916,9 @@
     "ageMin": 50,
     "ageMax": 0,
     "ageText": "50 yrs +",
-    "openings": "16 openings remaining",
-    "availability": "open",
-    "spaces": 16,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-09-28",
     "lastDate": "2026-09-28"
   },
@@ -70541,40 +70518,6 @@
     ]
   },
   {
-    "id": 631321,
-    "title": "Brain Games & Trivia Challenge",
-    "calendarId": 26,
-    "centerId": 35,
-    "facilityIds": [
-      314
-    ],
-    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/brain-games-trivia-challenge/631321",
-    "description": "Crack puzzles, answer trivia questions, and complete fun challenges! Professor Puffin’s Challenge Club is a one-of-a-kind, BC-made program. Through a dynamic mix of interactive games, friendly challenges, and team-based activities, children come together to play, laugh, and learn in a supportive environment. Each session offers new experiences that spark curiosity, build confidence, and foster collaboration. Children will participate in 3-4 different fun and educational activities during each lesson. No session Nov 11. https://professorpuffin.ca/after-school-program/activities",
-    "instructors": [
-      "Professor Puffin's Challenge Club"
-    ],
-    "priceText": "$180.00",
-    "free": false,
-    "ageMin": 6,
-    "ageMax": 10,
-    "ageText": "Age at least 6y 6m but less than 10y 11m 3w",
-    "openings": "11 openings remaining",
-    "availability": "open",
-    "spaces": 11,
-    "firstDate": "2026-10-14",
-    "lastDate": "2026-12-09",
-    "prices": [
-      {
-        "price": "$180.00",
-        "description": "Standard charge"
-      },
-      {
-        "price": "50.00%",
-        "description": "Leisure Access - CCA: for Customer"
-      }
-    ]
-  },
-  {
     "id": 631323,
     "title": "Tai Chi Chuan - Beginners",
     "calendarId": 16,
@@ -70784,9 +70727,9 @@
     "ageMin": 18,
     "ageMax": 0,
     "ageText": "18 yrs +",
-    "openings": "5 openings remaining",
+    "openings": "6 openings remaining",
     "availability": "open",
-    "spaces": 5,
+    "spaces": 6,
     "firstDate": "2026-09-17",
     "lastDate": "2026-12-17",
     "prices": [
@@ -71892,9 +71835,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "1 opening remaining",
+    "availability": "open",
+    "spaces": 1,
     "firstDate": "2026-10-11",
     "lastDate": "2026-10-11",
     "prices": [
@@ -73727,9 +73670,9 @@
     "ageMin": 65,
     "ageMax": 0,
     "ageText": "65 yrs +",
-    "openings": "1 opening remaining",
-    "availability": "open",
-    "spaces": 1,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-10-29",
     "lastDate": "2026-10-29",
     "prices": [
@@ -74271,50 +74214,15 @@
     "ageMin": 55,
     "ageMax": 0,
     "ageText": "55 yrs +",
-    "openings": "9 openings remaining",
+    "openings": "8 openings remaining",
     "availability": "open",
-    "spaces": 9,
+    "spaces": 8,
     "firstDate": "2026-09-18",
     "lastDate": "2026-12-19",
     "prices": [
       {
         "price": "$58.50",
         "description": "Standard charge"
-      },
-      {
-        "price": "50.00%",
-        "description": "Leisure Access - CCA: for Customer"
-      }
-    ]
-  },
-  {
-    "id": 631696,
-    "title": "Teen Baking Club (12-18 yrs)",
-    "calendarId": 43,
-    "centerId": 50,
-    "facilityIds": [
-      593
-    ],
-    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/teen-baking-club-12-18-yrs/631696",
-    "description": "Learn all about baking in this fun class. Have a blast while learning something new and being creative in the kitchen! Each week, we will bake with different recipes. Please inform your instructor of any food allergies. No refunds 1 week prior at 12pm to the start date.",
-    "instructors": [
-      "TBA Instructor",
-      "Tammy Tsui"
-    ],
-    "priceText": "$50.00",
-    "free": false,
-    "ageMin": 12,
-    "ageMax": 18,
-    "ageText": "Age at least 12 yrs but less than 18y 11m 5w",
-    "openings": "7 openings remaining",
-    "availability": "open",
-    "spaces": 7,
-    "firstDate": "2026-10-01",
-    "lastDate": "2026-10-29",
-    "prices": [
-      {
-        "price": "$50.00",
-        "description": "Activity Fee: for Customer"
       },
       {
         "price": "50.00%",
@@ -75748,9 +75656,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "1 opening remaining",
+    "openings": "2 openings remaining",
     "availability": "open",
-    "spaces": 1,
+    "spaces": 2,
     "firstDate": "2026-09-11",
     "lastDate": "2026-12-18",
     "prices": [
@@ -75940,9 +75848,8 @@
     "ageMin": 19,
     "ageMax": 99,
     "ageText": "Age at least 19 yrs but less than 99 yrs",
-    "openings": "1 opening remaining",
-    "availability": "open",
-    "spaces": 1,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-25",
     "lastDate": "2026-09-25",
     "prices": [
@@ -78369,9 +78276,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "1 opening remaining",
-    "availability": "open",
-    "spaces": 1,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-04",
     "lastDate": "2026-09-25",
     "prices": [
@@ -78593,9 +78499,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-25",
     "lastDate": "2026-09-25"
   },
@@ -79105,9 +79010,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "29 openings remaining",
+    "openings": "28 openings remaining",
     "availability": "open",
-    "spaces": 29,
+    "spaces": 28,
     "firstDate": "2026-09-14",
     "lastDate": "2026-09-28",
     "prices": [
@@ -79289,9 +79194,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "39 openings remaining",
+    "openings": "37 openings remaining",
     "availability": "open",
-    "spaces": 39,
+    "spaces": 37,
     "firstDate": "2026-10-05",
     "lastDate": "2026-10-26",
     "prices": [
@@ -80276,9 +80181,8 @@
     "ageMin": 40,
     "ageMax": 0,
     "ageText": "40 yrs +",
-    "openings": "13 openings remaining",
-    "availability": "open",
-    "spaces": 13,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-11",
     "lastDate": "2026-09-25",
     "prices": [
@@ -80504,9 +80408,9 @@
     "ageMin": 40,
     "ageMax": 0,
     "ageText": "40 yrs +",
-    "openings": "19 openings remaining",
+    "openings": "18 openings remaining",
     "availability": "open",
-    "spaces": 19,
+    "spaces": 18,
     "firstDate": "2026-10-02",
     "lastDate": "2026-10-30",
     "prices": [
@@ -80716,9 +80620,9 @@
     "ageMin": 12,
     "ageMax": 18,
     "ageText": "Age at least 12 yrs but less than 18 yrs",
-    "openings": "9 openings remaining",
+    "openings": "7 openings remaining",
     "availability": "open",
-    "spaces": 9,
+    "spaces": 7,
     "firstDate": "2026-09-08",
     "lastDate": "2026-12-15",
     "prices": [
@@ -81170,9 +81074,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "10 openings remaining",
+    "openings": "9 openings remaining",
     "availability": "open",
-    "spaces": 10,
+    "spaces": 9,
     "firstDate": "2026-09-11",
     "lastDate": "2026-12-11",
     "prices": [
@@ -81703,9 +81607,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "10 openings remaining",
+    "openings": "11 openings remaining",
     "availability": "open",
-    "spaces": 10,
+    "spaces": 11,
     "firstDate": "2026-09-10",
     "lastDate": "2026-10-29",
     "prices": [
@@ -81940,9 +81844,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "15 openings remaining",
+    "openings": "14 openings remaining",
     "availability": "open",
-    "spaces": 15,
+    "spaces": 14,
     "firstDate": "2026-09-22",
     "lastDate": "2026-12-08",
     "prices": [
@@ -82788,9 +82692,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "2 openings remaining",
+    "openings": "1 opening remaining",
     "availability": "open",
-    "spaces": 2,
+    "spaces": 1,
     "firstDate": "2026-09-14",
     "lastDate": "2026-12-14",
     "prices": [
@@ -82971,9 +82875,8 @@
     "ageMin": 0,
     "ageMax": 0,
     "ageText": "All ages",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-25",
     "lastDate": "2026-09-25",
     "prices": [
@@ -83006,9 +82909,9 @@
     "ageMin": 0,
     "ageMax": 0,
     "ageText": "All ages",
-    "openings": "15 openings remaining",
+    "openings": "7 openings remaining",
     "availability": "open",
-    "spaces": 15,
+    "spaces": 7,
     "firstDate": "2026-10-02",
     "lastDate": "2026-10-02",
     "prices": [
@@ -83041,9 +82944,9 @@
     "ageMin": 0,
     "ageMax": 0,
     "ageText": "All ages",
-    "openings": "25 openings remaining",
+    "openings": "15 openings remaining",
     "availability": "open",
-    "spaces": 25,
+    "spaces": 15,
     "firstDate": "2026-10-09",
     "lastDate": "2026-10-09",
     "prices": [
@@ -83076,9 +82979,9 @@
     "ageMin": 0,
     "ageMax": 0,
     "ageText": "All ages",
-    "openings": "20 openings remaining",
+    "openings": "8 openings remaining",
     "availability": "open",
-    "spaces": 20,
+    "spaces": 8,
     "firstDate": "2026-10-16",
     "lastDate": "2026-10-16",
     "prices": [
@@ -83111,9 +83014,9 @@
     "ageMin": 0,
     "ageMax": 0,
     "ageText": "All ages",
-    "openings": "12 openings remaining",
-    "availability": "open",
-    "spaces": 12,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-10-23",
     "lastDate": "2026-10-23",
     "prices": [
@@ -83146,9 +83049,9 @@
     "ageMin": 0,
     "ageMax": 0,
     "ageText": "All ages",
-    "openings": "23 openings remaining",
+    "openings": "14 openings remaining",
     "availability": "open",
-    "spaces": 23,
+    "spaces": 14,
     "firstDate": "2026-10-30",
     "lastDate": "2026-10-30",
     "prices": [
@@ -83250,9 +83153,9 @@
     "ageMin": 12,
     "ageMax": 18,
     "ageText": "Age at least 12 yrs but less than 18y 11m 3w",
-    "openings": "7 openings remaining",
+    "openings": "6 openings remaining",
     "availability": "open",
-    "spaces": 7,
+    "spaces": 6,
     "firstDate": "2026-09-04",
     "lastDate": "2026-12-18",
     "prices": [
@@ -83399,9 +83302,8 @@
     "ageMin": 50,
     "ageMax": 0,
     "ageText": "50 yrs +",
-    "openings": "100 openings remaining",
-    "availability": "open",
-    "spaces": 100,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-11",
     "lastDate": "2026-09-25"
   },
@@ -83909,9 +83811,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "42 openings remaining",
+    "openings": "41 openings remaining",
     "availability": "open",
-    "spaces": 42,
+    "spaces": 41,
     "firstDate": "2026-11-02",
     "lastDate": "2026-12-14",
     "prices": [
@@ -84357,9 +84259,8 @@
     "ageMin": 19,
     "ageMax": 99,
     "ageText": "Age at least 19 yrs but less than 99 yrs",
-    "openings": "7 openings remaining",
-    "availability": "open",
-    "spaces": 7,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-25",
     "lastDate": "2026-09-25"
   },
@@ -84804,9 +84705,9 @@
     "ageMin": 8,
     "ageMax": 12,
     "ageText": "Age at least 8 yrs but less than 12 yrs",
-    "openings": "13 openings remaining",
+    "openings": "9 openings remaining",
     "availability": "open",
-    "spaces": 13,
+    "spaces": 9,
     "firstDate": "2026-09-26",
     "lastDate": "2026-12-12",
     "prices": [
@@ -84836,9 +84737,9 @@
     "ageMin": 10,
     "ageMax": 13,
     "ageText": "Age at least 10 yrs but less than 13 yrs",
-    "openings": "12 openings remaining",
+    "openings": "11 openings remaining",
     "availability": "open",
-    "spaces": 12,
+    "spaces": 11,
     "firstDate": "2026-09-26",
     "lastDate": "2026-12-12",
     "prices": [
@@ -85703,9 +85604,9 @@
     "ageMin": 9,
     "ageMax": 12,
     "ageText": "Age at least 9 yrs but less than 12y 11m 4w",
-    "openings": "25 openings remaining",
+    "openings": "23 openings remaining",
     "availability": "open",
-    "spaces": 25,
+    "spaces": 23,
     "firstDate": "2026-09-11",
     "lastDate": "2026-12-18"
   },
@@ -85725,9 +85626,9 @@
     "ageMin": 13,
     "ageMax": 18,
     "ageText": "Age at least 13 yrs but less than 18y 11m 4w",
-    "openings": "45 openings remaining",
+    "openings": "44 openings remaining",
     "availability": "open",
-    "spaces": 45,
+    "spaces": 44,
     "firstDate": "2026-09-11",
     "lastDate": "2026-12-18"
   },
@@ -86219,9 +86120,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "16 openings remaining",
+    "openings": "15 openings remaining",
     "availability": "open",
-    "spaces": 16,
+    "spaces": 15,
     "firstDate": "2026-09-28",
     "lastDate": "2026-11-09",
     "prices": [
@@ -87519,9 +87420,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "9 openings remaining",
-    "availability": "open",
-    "spaces": 9,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-11",
     "lastDate": "2026-09-25",
     "prices": [
@@ -88278,40 +88178,6 @@
       {
         "price": "50.00%",
         "description": "Leisure Access - CCA: for Customer"
-      }
-    ]
-  },
-  {
-    "id": 633639,
-    "title": "WCT - French Braiding",
-    "calendarId": 26,
-    "centerId": 38,
-    "facilityIds": [
-      361
-    ],
-    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/wct---french-braiding/633639",
-    "description": "Come join Knowledge Keeper Ash for French Braiding Hair. Braiding is a meaningful cultural practice that represents strength, wisdom, and connection of the body, mind, and spirit.",
-    "instructors": [
-      "TBA Instructor"
-    ],
-    "priceText": "$9.53",
-    "free": false,
-    "ageMin": 10,
-    "ageMax": 100,
-    "ageText": "Age at least 10y 10m but less than 100y 10m",
-    "openings": "10 openings remaining",
-    "availability": "open",
-    "spaces": 10,
-    "firstDate": "2026-10-06",
-    "lastDate": "2026-10-06",
-    "prices": [
-      {
-        "price": "$9.53",
-        "description": "Standard charge"
-      },
-      {
-        "price": "50.00%",
-        "description": "*CCA Discount Leisure Access 50% Taxable: for Customer"
       }
     ]
   },
@@ -89300,9 +89166,9 @@
     "ageMin": 11,
     "ageMax": 16,
     "ageText": "Age at least 11 yrs but less than 16y 11m",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "8 openings remaining",
+    "availability": "open",
+    "spaces": 8,
     "firstDate": "2026-09-11",
     "lastDate": "2026-10-23"
   },
@@ -89324,9 +89190,8 @@
     "ageMin": 11,
     "ageMax": 16,
     "ageText": "Age at least 11 yrs but less than 16y 11m",
-    "openings": "40 openings remaining",
-    "availability": "open",
-    "spaces": 40,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-25",
     "lastDate": "2026-09-25"
   },
@@ -89348,9 +89213,9 @@
     "ageMin": 3,
     "ageMax": 99,
     "ageText": "Age at least 3 yrs but less than 99y 11m",
-    "openings": "21 openings remaining",
+    "openings": "19 openings remaining",
     "availability": "open",
-    "spaces": 21,
+    "spaces": 19,
     "firstDate": "2026-10-21",
     "lastDate": "2026-10-21"
   },
@@ -89431,9 +89296,9 @@
     "ageMin": 15,
     "ageMax": 100,
     "ageText": "Age at least 15y 10m but less than 100y 10m",
-    "openings": "3 openings remaining",
+    "openings": "1 opening remaining",
     "availability": "open",
-    "spaces": 3,
+    "spaces": 1,
     "firstDate": "2026-11-04",
     "lastDate": "2026-11-04",
     "prices": [
@@ -89461,9 +89326,8 @@
     "ageMin": 9,
     "ageMax": 12,
     "ageText": "Age at least 9 yrs but less than 12y 11m",
-    "openings": "4 openings remaining",
-    "availability": "open",
-    "spaces": 4,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-25",
     "lastDate": "2026-09-25"
   },
@@ -90454,9 +90318,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "9 openings remaining",
+    "openings": "8 openings remaining",
     "availability": "open",
-    "spaces": 9,
+    "spaces": 8,
     "firstDate": "2026-09-11",
     "lastDate": "2026-10-30",
     "prices": [
@@ -90590,9 +90454,9 @@
     "ageMin": 4,
     "ageMax": 10,
     "ageText": "Age at least 4 yrs but less than 10 yrs",
-    "openings": "6 openings remaining",
+    "openings": "4 openings remaining",
     "availability": "open",
-    "spaces": 6,
+    "spaces": 4,
     "firstDate": "2026-09-27",
     "lastDate": "2026-09-27"
   },
@@ -92132,9 +91996,8 @@
     "ageMin": 13,
     "ageMax": 0,
     "ageText": "13 yrs +",
-    "openings": "7 openings remaining",
-    "availability": "open",
-    "spaces": 7,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-25",
     "lastDate": "2026-09-25",
     "prices": [
@@ -92477,9 +92340,9 @@
     "ageMin": 13,
     "ageMax": 0,
     "ageText": "13 yrs +",
-    "openings": "14 openings remaining",
+    "openings": "6 openings remaining",
     "availability": "open",
-    "spaces": 14,
+    "spaces": 6,
     "firstDate": "2026-09-27",
     "lastDate": "2026-09-27",
     "prices": [
@@ -92752,9 +92615,9 @@
     "ageMin": 13,
     "ageMax": 0,
     "ageText": "13 yrs +",
-    "openings": "18 openings remaining",
+    "openings": "17 openings remaining",
     "availability": "open",
-    "spaces": 18,
+    "spaces": 17,
     "firstDate": "2026-09-28",
     "lastDate": "2026-09-28",
     "prices": [
@@ -93204,9 +93067,9 @@
     "ageMin": 13,
     "ageMax": 18,
     "ageText": "Age at least 13 yrs but less than 18 yrs",
-    "openings": "4 openings remaining",
+    "openings": "3 openings remaining",
     "availability": "open",
-    "spaces": 4,
+    "spaces": 3,
     "firstDate": "2026-09-23",
     "lastDate": "2026-12-09"
   },
@@ -93364,9 +93227,9 @@
     "ageMin": 11,
     "ageMax": 14,
     "ageText": "Age at least 11 yrs but less than 14y 11m 4w",
-    "openings": "7 openings remaining",
+    "openings": "3 openings remaining",
     "availability": "open",
-    "spaces": 7,
+    "spaces": 3,
     "firstDate": "2026-09-18",
     "lastDate": "2026-10-30",
     "prices": [
@@ -94801,9 +94664,8 @@
     "ageMin": 0,
     "ageMax": 0,
     "ageText": "All ages",
-    "openings": "100 openings remaining",
-    "availability": "open",
-    "spaces": 100,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-11",
     "lastDate": "2026-09-25"
   },
@@ -94823,9 +94685,8 @@
     "ageMin": 0,
     "ageMax": 0,
     "ageText": "All ages",
-    "openings": "100 openings remaining",
-    "availability": "open",
-    "spaces": 100,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-11",
     "lastDate": "2026-09-25"
   },
@@ -95835,9 +95696,9 @@
     "ageMin": 19,
     "ageMax": 99,
     "ageText": "Age at least 19 yrs but less than 99 yrs",
-    "openings": "22 openings remaining",
+    "openings": "19 openings remaining",
     "availability": "open",
-    "spaces": 22,
+    "spaces": 19,
     "firstDate": "2026-09-28",
     "lastDate": "2026-09-28",
     "prices": [
@@ -96493,9 +96354,9 @@
     "ageMin": 19,
     "ageMax": 99,
     "ageText": "Age at least 19 yrs but less than 99 yrs",
-    "openings": "20 openings remaining",
+    "openings": "14 openings remaining",
     "availability": "open",
-    "spaces": 20,
+    "spaces": 14,
     "firstDate": "2026-09-29",
     "lastDate": "2026-09-29"
   },
@@ -97955,6 +97816,190 @@
     ]
   },
   {
+    "id": 635181,
+    "title": "Killarney Arena - Stick, Puck & Ring - Thursday 10:00am",
+    "calendarId": 3,
+    "centerId": 25,
+    "facilityIds": [
+      119
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/killarney-arena---stick-puck-ring---thursday-10-00am/635181",
+    "description": "<p>For those 19 years and older. Hockey helmet and gloves are required, no rentals available. This is a practice session only with NO SCRIMMAGE.</p><p>All Adult Hockey Programs are co-ed and participants must sign a waiver at the beginning of each session.</p><p>All registered participants must check in with the attendant up to 5 minutes after the program start time. Failure to do so will result in the spot being forfeited to a waitlisted player, based on the order of registration.</p><p>Waitlisted participants must be present in person with the attendant at that time and will be required to pay at the front desk if a spot becomes available.</p><i>*Monthly Flexipass and 10-Visit passes are accepted for this program</i>.<br />Registrations, Cancellations, and Refunds• You can register online up to three days prior to your class. 30 minutes prior to the class any unregistered spots may be sold in-person.<br />• Cancel online through your account at vanrec.ca by 11:59pm the day before your class.<br />If you are cancelling by phone or in person you must cancel by 3pm the day before the class or by 3pm Saturday for a Monday class. Please call a community center to cancel by phone and note voicemail messages will not be accepted.<br />When sessions are cancelled within the cancellation period, paid transactions will be refunded back to the credit card or a credit can be used towards another booking.",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "from $5.55",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 99,
+    "ageText": "Age at least 19 yrs but less than 99 yrs",
+    "openings": "22 openings remaining",
+    "availability": "open",
+    "spaces": 22,
+    "firstDate": "2026-10-08",
+    "lastDate": "2026-10-08",
+    "prices": [
+      {
+        "price": "$7.93",
+        "description": "Public Skate Admission - Adult (19-64yrs) for 19 up to 64 years old"
+      },
+      {
+        "price": "$5.55",
+        "description": "Public Skate Admission - Senior (65yrs+) for 65 up to 100 years old"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - Flexipass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - 10 Visit Pass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Leisure Access Pass Discount: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 635182,
+    "title": "Killarney Arena - Stick, Puck & Ring - Thursday 10:00am",
+    "calendarId": 3,
+    "centerId": 25,
+    "facilityIds": [
+      119
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/killarney-arena---stick-puck-ring---thursday-10-00am/635182",
+    "description": "<p>For those 19 years and older. Hockey helmet and gloves are required, no rentals available. This is a practice session only with NO SCRIMMAGE.</p><p>All Adult Hockey Programs are co-ed and participants must sign a waiver at the beginning of each session.</p><p>All registered participants must check in with the attendant up to 5 minutes after the program start time. Failure to do so will result in the spot being forfeited to a waitlisted player, based on the order of registration.</p><p>Waitlisted participants must be present in person with the attendant at that time and will be required to pay at the front desk if a spot becomes available.</p><i>*Monthly Flexipass and 10-Visit passes are accepted for this program</i>.<br />Registrations, Cancellations, and Refunds• You can register online up to three days prior to your class. 30 minutes prior to the class any unregistered spots may be sold in-person.<br />• Cancel online through your account at vanrec.ca by 11:59pm the day before your class.<br />If you are cancelling by phone or in person you must cancel by 3pm the day before the class or by 3pm Saturday for a Monday class. Please call a community center to cancel by phone and note voicemail messages will not be accepted.<br />When sessions are cancelled within the cancellation period, paid transactions will be refunded back to the credit card or a credit can be used towards another booking.",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "from $5.55",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 99,
+    "ageText": "Age at least 19 yrs but less than 99 yrs",
+    "openings": "22 openings remaining",
+    "availability": "open",
+    "spaces": 22,
+    "firstDate": "2026-10-15",
+    "lastDate": "2026-10-15",
+    "prices": [
+      {
+        "price": "$7.93",
+        "description": "Public Skate Admission - Adult (19-64yrs) for 19 up to 64 years old"
+      },
+      {
+        "price": "$5.55",
+        "description": "Public Skate Admission - Senior (65yrs+) for 65 up to 100 years old"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - Flexipass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - 10 Visit Pass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Leisure Access Pass Discount: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 635183,
+    "title": "Killarney Arena - Stick, Puck & Ring - Thursday 10:00am",
+    "calendarId": 3,
+    "centerId": 25,
+    "facilityIds": [
+      119
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/killarney-arena---stick-puck-ring---thursday-10-00am/635183",
+    "description": "<p>For those 19 years and older. Hockey helmet and gloves are required, no rentals available. This is a practice session only with NO SCRIMMAGE.</p><p>All Adult Hockey Programs are co-ed and participants must sign a waiver at the beginning of each session.</p><p>All registered participants must check in with the attendant up to 5 minutes after the program start time. Failure to do so will result in the spot being forfeited to a waitlisted player, based on the order of registration.</p><p>Waitlisted participants must be present in person with the attendant at that time and will be required to pay at the front desk if a spot becomes available.</p><i>*Monthly Flexipass and 10-Visit passes are accepted for this program</i>.<br />Registrations, Cancellations, and Refunds• You can register online up to three days prior to your class. 30 minutes prior to the class any unregistered spots may be sold in-person.<br />• Cancel online through your account at vanrec.ca by 11:59pm the day before your class.<br />If you are cancelling by phone or in person you must cancel by 3pm the day before the class or by 3pm Saturday for a Monday class. Please call a community center to cancel by phone and note voicemail messages will not be accepted.<br />When sessions are cancelled within the cancellation period, paid transactions will be refunded back to the credit card or a credit can be used towards another booking.",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "from $5.55",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 99,
+    "ageText": "Age at least 19 yrs but less than 99 yrs",
+    "openings": "22 openings remaining",
+    "availability": "open",
+    "spaces": 22,
+    "firstDate": "2026-10-22",
+    "lastDate": "2026-10-22",
+    "prices": [
+      {
+        "price": "$7.93",
+        "description": "Public Skate Admission - Adult (19-64yrs) for 19 up to 64 years old"
+      },
+      {
+        "price": "$5.55",
+        "description": "Public Skate Admission - Senior (65yrs+) for 65 up to 100 years old"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - Flexipass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - 10 Visit Pass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Leisure Access Pass Discount: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 635185,
+    "title": "Killarney Arena - Stick, Puck & Ring - Thursday 10:00am",
+    "calendarId": 3,
+    "centerId": 25,
+    "facilityIds": [
+      119
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/killarney-arena---stick-puck-ring---thursday-10-00am/635185",
+    "description": "<p>For those 19 years and older. Hockey helmet and gloves are required, no rentals available. This is a practice session only with NO SCRIMMAGE.</p><p>All Adult Hockey Programs are co-ed and participants must sign a waiver at the beginning of each session.</p><p>All registered participants must check in with the attendant up to 5 minutes after the program start time. Failure to do so will result in the spot being forfeited to a waitlisted player, based on the order of registration.</p><p>Waitlisted participants must be present in person with the attendant at that time and will be required to pay at the front desk if a spot becomes available.</p><i>*Monthly Flexipass and 10-Visit passes are accepted for this program</i>.<br />Registrations, Cancellations, and Refunds• You can register online up to three days prior to your class. 30 minutes prior to the class any unregistered spots may be sold in-person.<br />• Cancel online through your account at vanrec.ca by 11:59pm the day before your class.<br />If you are cancelling by phone or in person you must cancel by 3pm the day before the class or by 3pm Saturday for a Monday class. Please call a community center to cancel by phone and note voicemail messages will not be accepted.<br />When sessions are cancelled within the cancellation period, paid transactions will be refunded back to the credit card or a credit can be used towards another booking.",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "from $5.55",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 99,
+    "ageText": "Age at least 19 yrs but less than 99 yrs",
+    "openings": "22 openings remaining",
+    "availability": "open",
+    "spaces": 22,
+    "firstDate": "2026-10-29",
+    "lastDate": "2026-10-29",
+    "prices": [
+      {
+        "price": "$7.93",
+        "description": "Public Skate Admission - Adult (19-64yrs) for 19 up to 64 years old"
+      },
+      {
+        "price": "$5.55",
+        "description": "Public Skate Admission - Senior (65yrs+) for 65 up to 100 years old"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - Flexipass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - 10 Visit Pass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Leisure Access Pass Discount: for Customer"
+      }
+    ]
+  },
+  {
     "id": 635194,
     "title": "Killarney Arena - Public Figure Skating - Thursday 11:45am",
     "calendarId": 3,
@@ -97977,6 +98022,180 @@
     "spaces": 22,
     "firstDate": "2026-10-01",
     "lastDate": "2026-10-01",
+    "prices": [
+      {
+        "price": "$7.93",
+        "description": "Public Skate Admission - Adult (19-64yrs) for 19 up to 64 years old"
+      },
+      {
+        "price": "$5.55",
+        "description": "Public Skate Admission - Senior (65yrs+) for 65 up to 100 years old"
+      },
+      {
+        "price": "$5.55",
+        "description": "Public Skate Admission - Youth (13-18yrs) for enrolling up to 2 activities"
+      },
+      {
+        "price": "$5.55",
+        "description": "Public Skate Admission - Youth (13-18yrs) for 13 up to 18 years old"
+      },
+      {
+        "price": "$3.97",
+        "description": "Public Skate Admission - Child (5-12yrs) for 5 up to 12 years old"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - Flexipass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - 10 Visit Pass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Leisure Access Pass Discount: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 635196,
+    "title": "Killarney Arena - Public Figure Skating - Thursday 11:45am",
+    "calendarId": 3,
+    "centerId": 25,
+    "facilityIds": [
+      119
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/killarney-arena---public-figure-skating---thursday-11-45am/635196",
+    "description": "<p>This session is for those looking to practice their jumps, spins and field moves.</p><p>No partners or pairs skating allowed. No skate rentals, and no lessons are provided.</p><p><i>*Monthly Flexipass and 10-Visit passes are accepted for this program</i>.</p><p>All registered participants must check in with the attendant up to 5 minutes after the program start time. Failure to do so will result in the spot being forfeited to a waitlisted player, based on the order of registration.</p><p>Waitlisted participants must be present in person with the attendant at that time and will be required to pay at the front desk if a spot becomes available.</p>Registrations, Cancellations, and Refunds• You can register online up to three days prior to your class. 30 minutes prior to the class any unregistered spots may be sold in-person.<br />• Cancel online through your account at vanrec.ca by 11:59pm the day before your class.<br />If you are cancelling by phone or in person you must cancel by 3pm the day before the class or by 3pm Saturday for a Monday class. Please call a community center to cancel by phone and note voicemail messages will not be accepted.<br />When sessions are cancelled within the cancellation period, paid transactions will be refunded back to the credit card or a credit can be used towards another booking.",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "from $3.97",
+    "free": false,
+    "ageMin": 8,
+    "ageMax": 99,
+    "ageText": "Age at least 8 yrs but less than 99 yrs",
+    "openings": "22 openings remaining",
+    "availability": "open",
+    "spaces": 22,
+    "firstDate": "2026-10-15",
+    "lastDate": "2026-10-15",
+    "prices": [
+      {
+        "price": "$7.93",
+        "description": "Public Skate Admission - Adult (19-64yrs) for 19 up to 64 years old"
+      },
+      {
+        "price": "$5.55",
+        "description": "Public Skate Admission - Senior (65yrs+) for 65 up to 100 years old"
+      },
+      {
+        "price": "$5.55",
+        "description": "Public Skate Admission - Youth (13-18yrs) for enrolling up to 2 activities"
+      },
+      {
+        "price": "$5.55",
+        "description": "Public Skate Admission - Youth (13-18yrs) for 13 up to 18 years old"
+      },
+      {
+        "price": "$3.97",
+        "description": "Public Skate Admission - Child (5-12yrs) for 5 up to 12 years old"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - Flexipass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - 10 Visit Pass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Leisure Access Pass Discount: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 635197,
+    "title": "Killarney Arena - Public Figure Skating - Thursday 11:45am",
+    "calendarId": 3,
+    "centerId": 25,
+    "facilityIds": [
+      119
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/killarney-arena---public-figure-skating---thursday-11-45am/635197",
+    "description": "<p>This session is for those looking to practice their jumps, spins and field moves.</p><p>No partners or pairs skating allowed. No skate rentals, and no lessons are provided.</p><p><i>*Monthly Flexipass and 10-Visit passes are accepted for this program</i>.</p><p>All registered participants must check in with the attendant up to 5 minutes after the program start time. Failure to do so will result in the spot being forfeited to a waitlisted player, based on the order of registration.</p><p>Waitlisted participants must be present in person with the attendant at that time and will be required to pay at the front desk if a spot becomes available.</p>Registrations, Cancellations, and Refunds• You can register online up to three days prior to your class. 30 minutes prior to the class any unregistered spots may be sold in-person.<br />• Cancel online through your account at vanrec.ca by 11:59pm the day before your class.<br />If you are cancelling by phone or in person you must cancel by 3pm the day before the class or by 3pm Saturday for a Monday class. Please call a community center to cancel by phone and note voicemail messages will not be accepted.<br />When sessions are cancelled within the cancellation period, paid transactions will be refunded back to the credit card or a credit can be used towards another booking.",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "from $3.97",
+    "free": false,
+    "ageMin": 8,
+    "ageMax": 99,
+    "ageText": "Age at least 8 yrs but less than 99 yrs",
+    "openings": "22 openings remaining",
+    "availability": "open",
+    "spaces": 22,
+    "firstDate": "2026-10-22",
+    "lastDate": "2026-10-22",
+    "prices": [
+      {
+        "price": "$7.93",
+        "description": "Public Skate Admission - Adult (19-64yrs) for 19 up to 64 years old"
+      },
+      {
+        "price": "$5.55",
+        "description": "Public Skate Admission - Senior (65yrs+) for 65 up to 100 years old"
+      },
+      {
+        "price": "$5.55",
+        "description": "Public Skate Admission - Youth (13-18yrs) for enrolling up to 2 activities"
+      },
+      {
+        "price": "$5.55",
+        "description": "Public Skate Admission - Youth (13-18yrs) for 13 up to 18 years old"
+      },
+      {
+        "price": "$3.97",
+        "description": "Public Skate Admission - Child (5-12yrs) for 5 up to 12 years old"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - Flexipass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - 10 Visit Pass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Leisure Access Pass Discount: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 635198,
+    "title": "Killarney Arena - Public Figure Skating - Thursday 11:45am",
+    "calendarId": 3,
+    "centerId": 25,
+    "facilityIds": [
+      119
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/killarney-arena---public-figure-skating---thursday-11-45am/635198",
+    "description": "<p>This session is for those looking to practice their jumps, spins and field moves.</p><p>No partners or pairs skating allowed. No skate rentals, and no lessons are provided.</p><p><i>*Monthly Flexipass and 10-Visit passes are accepted for this program</i>.</p><p>All registered participants must check in with the attendant up to 5 minutes after the program start time. Failure to do so will result in the spot being forfeited to a waitlisted player, based on the order of registration.</p><p>Waitlisted participants must be present in person with the attendant at that time and will be required to pay at the front desk if a spot becomes available.</p>Registrations, Cancellations, and Refunds• You can register online up to three days prior to your class. 30 minutes prior to the class any unregistered spots may be sold in-person.<br />• Cancel online through your account at vanrec.ca by 11:59pm the day before your class.<br />If you are cancelling by phone or in person you must cancel by 3pm the day before the class or by 3pm Saturday for a Monday class. Please call a community center to cancel by phone and note voicemail messages will not be accepted.<br />When sessions are cancelled within the cancellation period, paid transactions will be refunded back to the credit card or a credit can be used towards another booking.",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "from $3.97",
+    "free": false,
+    "ageMin": 8,
+    "ageMax": 99,
+    "ageText": "Age at least 8 yrs but less than 99 yrs",
+    "openings": "22 openings remaining",
+    "availability": "open",
+    "spaces": 22,
+    "firstDate": "2026-10-29",
+    "lastDate": "2026-10-29",
     "prices": [
       {
         "price": "$7.93",
@@ -98206,11 +98425,195 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
+    "firstDate": "2026-09-28",
+    "lastDate": "2026-09-28",
+    "prices": [
+      {
+        "price": "$7.93",
+        "description": "Public Skate Admission - Adult (19-64yrs) for 19 up to 64 years old"
+      },
+      {
+        "price": "$5.55",
+        "description": "Public Skate Admission - Senior (65yrs+) for 65 up to 100 years old"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - Flexipass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - 10 Visit Pass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Leisure Access Pass Discount: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 635216,
+    "title": "Trout Lake Arena - Public Hockey - Monday 11:45am",
+    "calendarId": 3,
+    "centerId": 28,
+    "facilityIds": [
+      123
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/trout-lake-arena---public-hockey---monday-11-45am/635216",
+    "description": "<p>Recreational hockey game for those 19 years and older. Full gear is required. No rental equipment provided.</p><p>GOALIES must register in a separate goalie specific activity with the same session time. If you are a goalie registered in this activity, you will be withdrawn.</p><p><b>Registration, cancellation, and refunds</b></p><p>• You can register online up to three days prior to the session. 30 minutes prior to the class any unregistered spots may be sold in-person.</p><p>• Cancel online through your account at vanrec.ca by 11:59pm the day before the session</p><p>If you are cancelling by phone or in person you must cancel by 3pm the day before the session, or by 3pm Saturday for a Monday session. Please call a community centre to cancel by phone and note voicemail messages will not be accepted.</p><p>When sessions are cancelled within the cancellation period, paid transactions will be refunded back to the credit card or a credit can be used towards another booking.</p>",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "from $5.55",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 0,
+    "ageText": "19 yrs +",
     "openings": "20 openings remaining",
     "availability": "open",
     "spaces": 20,
-    "firstDate": "2026-09-28",
-    "lastDate": "2026-09-28",
+    "firstDate": "2026-10-05",
+    "lastDate": "2026-10-05",
+    "prices": [
+      {
+        "price": "$7.93",
+        "description": "Public Skate Admission - Adult (19-64yrs) for 19 up to 64 years old"
+      },
+      {
+        "price": "$5.55",
+        "description": "Public Skate Admission - Senior (65yrs+) for 65 up to 100 years old"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - Flexipass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - 10 Visit Pass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Leisure Access Pass Discount: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 635217,
+    "title": "Trout Lake Arena - Public Hockey - Monday 11:45am",
+    "calendarId": 3,
+    "centerId": 28,
+    "facilityIds": [
+      123
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/trout-lake-arena---public-hockey---monday-11-45am/635217",
+    "description": "<p>Recreational hockey game for those 19 years and older. Full gear is required. No rental equipment provided.</p><p>GOALIES must register in a separate goalie specific activity with the same session time. If you are a goalie registered in this activity, you will be withdrawn.</p><p><b>Registration, cancellation, and refunds</b></p><p>• You can register online up to three days prior to the session. 30 minutes prior to the class any unregistered spots may be sold in-person.</p><p>• Cancel online through your account at vanrec.ca by 11:59pm the day before the session</p><p>If you are cancelling by phone or in person you must cancel by 3pm the day before the session, or by 3pm Saturday for a Monday session. Please call a community centre to cancel by phone and note voicemail messages will not be accepted.</p><p>When sessions are cancelled within the cancellation period, paid transactions will be refunded back to the credit card or a credit can be used towards another booking.</p>",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "from $5.55",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 0,
+    "ageText": "19 yrs +",
+    "openings": "20 openings remaining",
+    "availability": "open",
+    "spaces": 20,
+    "firstDate": "2026-10-12",
+    "lastDate": "2026-10-12",
+    "prices": [
+      {
+        "price": "$7.93",
+        "description": "Public Skate Admission - Adult (19-64yrs) for 19 up to 64 years old"
+      },
+      {
+        "price": "$5.55",
+        "description": "Public Skate Admission - Senior (65yrs+) for 65 up to 100 years old"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - Flexipass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - 10 Visit Pass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Leisure Access Pass Discount: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 635218,
+    "title": "Trout Lake Arena - Public Hockey - Monday 11:45am",
+    "calendarId": 3,
+    "centerId": 28,
+    "facilityIds": [
+      123
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/trout-lake-arena---public-hockey---monday-11-45am/635218",
+    "description": "<p>Recreational hockey game for those 19 years and older. Full gear is required. No rental equipment provided.</p><p>GOALIES must register in a separate goalie specific activity with the same session time. If you are a goalie registered in this activity, you will be withdrawn.</p><p><b>Registration, cancellation, and refunds</b></p><p>• You can register online up to three days prior to the session. 30 minutes prior to the class any unregistered spots may be sold in-person.</p><p>• Cancel online through your account at vanrec.ca by 11:59pm the day before the session</p><p>If you are cancelling by phone or in person you must cancel by 3pm the day before the session, or by 3pm Saturday for a Monday session. Please call a community centre to cancel by phone and note voicemail messages will not be accepted.</p><p>When sessions are cancelled within the cancellation period, paid transactions will be refunded back to the credit card or a credit can be used towards another booking.</p>",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "from $5.55",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 0,
+    "ageText": "19 yrs +",
+    "openings": "20 openings remaining",
+    "availability": "open",
+    "spaces": 20,
+    "firstDate": "2026-10-19",
+    "lastDate": "2026-10-19",
+    "prices": [
+      {
+        "price": "$7.93",
+        "description": "Public Skate Admission - Adult (19-64yrs) for 19 up to 64 years old"
+      },
+      {
+        "price": "$5.55",
+        "description": "Public Skate Admission - Senior (65yrs+) for 65 up to 100 years old"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - Flexipass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - 10 Visit Pass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Leisure Access Pass Discount: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 635219,
+    "title": "Trout Lake Arena - Public Hockey - Monday 11:45am",
+    "calendarId": 3,
+    "centerId": 28,
+    "facilityIds": [
+      123
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/trout-lake-arena---public-hockey---monday-11-45am/635219",
+    "description": "<p>Recreational hockey game for those 19 years and older. Full gear is required. No rental equipment provided.</p><p>GOALIES must register in a separate goalie specific activity with the same session time. If you are a goalie registered in this activity, you will be withdrawn.</p><p><b>Registration, cancellation, and refunds</b></p><p>• You can register online up to three days prior to the session. 30 minutes prior to the class any unregistered spots may be sold in-person.</p><p>• Cancel online through your account at vanrec.ca by 11:59pm the day before the session</p><p>If you are cancelling by phone or in person you must cancel by 3pm the day before the session, or by 3pm Saturday for a Monday session. Please call a community centre to cancel by phone and note voicemail messages will not be accepted.</p><p>When sessions are cancelled within the cancellation period, paid transactions will be refunded back to the credit card or a credit can be used towards another booking.</p>",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "from $5.55",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 0,
+    "ageText": "19 yrs +",
+    "openings": "20 openings remaining",
+    "availability": "open",
+    "spaces": 20,
+    "firstDate": "2026-10-26",
+    "lastDate": "2026-10-26",
     "prices": [
       {
         "price": "$7.93",
@@ -98291,6 +98694,102 @@
     "spaces": 1,
     "firstDate": "2026-09-28",
     "lastDate": "2026-09-28"
+  },
+  {
+    "id": 635229,
+    "title": "Trout Lake Arena - Public Hockey GOALIES - Monday 11:45am",
+    "calendarId": 3,
+    "centerId": 28,
+    "facilityIds": [
+      123
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/trout-lake-arena---public-hockey-goalies---monday-11-45am/635229",
+    "description": "<p>GOALIE REGISTRATION ONLY!! Players should register in the Public Hockey session.</p><p>Only 2 goalies permitted per session. Free admission.</p><p>Recreational hockey game for those 19 years and older. Full gear is required. No rental equipment provided.</p><p>REGISTERED PARTICIPANTS ONLY. NO DROP-INS ACCEPTED</p><i>*Monthly Flexipass and 10-Visit passes are accepted for this program</i>.<br />",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 0,
+    "ageText": "19 yrs +",
+    "openings": "2 openings remaining",
+    "availability": "open",
+    "spaces": 2,
+    "firstDate": "2026-10-05",
+    "lastDate": "2026-10-05"
+  },
+  {
+    "id": 635230,
+    "title": "Trout Lake Arena - Public Hockey GOALIES - Monday 11:45am",
+    "calendarId": 3,
+    "centerId": 28,
+    "facilityIds": [
+      123
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/trout-lake-arena---public-hockey-goalies---monday-11-45am/635230",
+    "description": "<p>GOALIE REGISTRATION ONLY!! Players should register in the Public Hockey session.</p><p>Only 2 goalies permitted per session. Free admission.</p><p>Recreational hockey game for those 19 years and older. Full gear is required. No rental equipment provided.</p><p>REGISTERED PARTICIPANTS ONLY. NO DROP-INS ACCEPTED</p><i>*Monthly Flexipass and 10-Visit passes are accepted for this program</i>.<br />",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 0,
+    "ageText": "19 yrs +",
+    "openings": "2 openings remaining",
+    "availability": "open",
+    "spaces": 2,
+    "firstDate": "2026-10-12",
+    "lastDate": "2026-10-12"
+  },
+  {
+    "id": 635231,
+    "title": "Trout Lake Arena - Public Hockey GOALIES - Monday 11:45am",
+    "calendarId": 3,
+    "centerId": 28,
+    "facilityIds": [
+      123
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/trout-lake-arena---public-hockey-goalies---monday-11-45am/635231",
+    "description": "<p>GOALIE REGISTRATION ONLY!! Players should register in the Public Hockey session.</p><p>Only 2 goalies permitted per session. Free admission.</p><p>Recreational hockey game for those 19 years and older. Full gear is required. No rental equipment provided.</p><p>REGISTERED PARTICIPANTS ONLY. NO DROP-INS ACCEPTED</p><i>*Monthly Flexipass and 10-Visit passes are accepted for this program</i>.<br />",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 0,
+    "ageText": "19 yrs +",
+    "openings": "2 openings remaining",
+    "availability": "open",
+    "spaces": 2,
+    "firstDate": "2026-10-19",
+    "lastDate": "2026-10-19"
+  },
+  {
+    "id": 635232,
+    "title": "Trout Lake Arena - Public Hockey GOALIES - Monday 11:45am",
+    "calendarId": 3,
+    "centerId": 28,
+    "facilityIds": [
+      123
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/trout-lake-arena---public-hockey-goalies---monday-11-45am/635232",
+    "description": "<p>GOALIE REGISTRATION ONLY!! Players should register in the Public Hockey session.</p><p>Only 2 goalies permitted per session. Free admission.</p><p>Recreational hockey game for those 19 years and older. Full gear is required. No rental equipment provided.</p><p>REGISTERED PARTICIPANTS ONLY. NO DROP-INS ACCEPTED</p><i>*Monthly Flexipass and 10-Visit passes are accepted for this program</i>.<br />",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 0,
+    "ageText": "19 yrs +",
+    "openings": "2 openings remaining",
+    "availability": "open",
+    "spaces": 2,
+    "firstDate": "2026-10-26",
+    "lastDate": "2026-10-26"
   },
   {
     "id": 635240,
@@ -98375,6 +98874,102 @@
     "lastDate": "2026-09-30"
   },
   {
+    "id": 635244,
+    "title": "Trout Lake Arena - 40+ Hockey - Wednesday 11:45am",
+    "calendarId": 3,
+    "centerId": 28,
+    "facilityIds": [
+      123
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/trout-lake-arena---40-hockey---wednesday-11-45am/635244",
+    "description": "<p>Recreational hockey game for those 40 years and older. Full gear is required. No rental equipment provided.</p><p>GOALIES must register in a separate goalie specific activity with the same session time. If you are a goalie registered in this activity, you will be withdrawn.</p>",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "",
+    "free": false,
+    "ageMin": 40,
+    "ageMax": 0,
+    "ageText": "40 yrs +",
+    "openings": "20 openings remaining",
+    "availability": "open",
+    "spaces": 20,
+    "firstDate": "2026-10-07",
+    "lastDate": "2026-10-07"
+  },
+  {
+    "id": 635245,
+    "title": "Trout Lake Arena - 40+ Hockey - Wednesday 11:45am",
+    "calendarId": 3,
+    "centerId": 28,
+    "facilityIds": [
+      123
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/trout-lake-arena---40-hockey---wednesday-11-45am/635245",
+    "description": "<p>Recreational hockey game for those 40 years and older. Full gear is required. No rental equipment provided.</p><p>GOALIES must register in a separate goalie specific activity with the same session time. If you are a goalie registered in this activity, you will be withdrawn.</p>",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "",
+    "free": false,
+    "ageMin": 40,
+    "ageMax": 0,
+    "ageText": "40 yrs +",
+    "openings": "20 openings remaining",
+    "availability": "open",
+    "spaces": 20,
+    "firstDate": "2026-10-14",
+    "lastDate": "2026-10-14"
+  },
+  {
+    "id": 635246,
+    "title": "Trout Lake Arena - 40+ Hockey - Wednesday 11:45am",
+    "calendarId": 3,
+    "centerId": 28,
+    "facilityIds": [
+      123
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/trout-lake-arena---40-hockey---wednesday-11-45am/635246",
+    "description": "<p>Recreational hockey game for those 40 years and older. Full gear is required. No rental equipment provided.</p><p>GOALIES must register in a separate goalie specific activity with the same session time. If you are a goalie registered in this activity, you will be withdrawn.</p>",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "",
+    "free": false,
+    "ageMin": 40,
+    "ageMax": 0,
+    "ageText": "40 yrs +",
+    "openings": "20 openings remaining",
+    "availability": "open",
+    "spaces": 20,
+    "firstDate": "2026-10-21",
+    "lastDate": "2026-10-21"
+  },
+  {
+    "id": 635247,
+    "title": "Trout Lake Arena - 40+ Hockey - Wednesday 11:45am",
+    "calendarId": 3,
+    "centerId": 28,
+    "facilityIds": [
+      123
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/trout-lake-arena---40-hockey---wednesday-11-45am/635247",
+    "description": "<p>Recreational hockey game for those 40 years and older. Full gear is required. No rental equipment provided.</p><p>GOALIES must register in a separate goalie specific activity with the same session time. If you are a goalie registered in this activity, you will be withdrawn.</p>",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "",
+    "free": false,
+    "ageMin": 40,
+    "ageMax": 0,
+    "ageText": "40 yrs +",
+    "openings": "20 openings remaining",
+    "availability": "open",
+    "spaces": 20,
+    "firstDate": "2026-10-28",
+    "lastDate": "2026-10-28"
+  },
+  {
     "id": 635256,
     "title": "EFK - Chemical Engineering: Mysteries of Matter",
     "calendarId": 22,
@@ -98433,6 +99028,102 @@
     "lastDate": "2026-09-30"
   },
   {
+    "id": 635258,
+    "title": "Trout Lake Arena - 40+ Hockey GOALIES - Wednesday 11:45am",
+    "calendarId": 3,
+    "centerId": 28,
+    "facilityIds": [
+      123
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/trout-lake-arena---40-hockey-goalies---wednesday-11-45am/635258",
+    "description": "<p>GOALIE REGISTRATION ONLY!! Players should register in the Public Hockey session.</p><p>Only 2 goalies permitted per session. Free admission.</p><p>Recreational hockey game for those 40 years and older. Full gear is required. No rental equipment provided.</p><i>*Monthly Flexipass and 10-Visit passes are accepted for this program</i>.<br />",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "",
+    "free": false,
+    "ageMin": 40,
+    "ageMax": 0,
+    "ageText": "40 yrs +",
+    "openings": "2 openings remaining",
+    "availability": "open",
+    "spaces": 2,
+    "firstDate": "2026-10-07",
+    "lastDate": "2026-10-07"
+  },
+  {
+    "id": 635259,
+    "title": "Trout Lake Arena - 40+ Hockey GOALIES - Wednesday 11:45am",
+    "calendarId": 3,
+    "centerId": 28,
+    "facilityIds": [
+      123
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/trout-lake-arena---40-hockey-goalies---wednesday-11-45am/635259",
+    "description": "<p>GOALIE REGISTRATION ONLY!! Players should register in the Public Hockey session.</p><p>Only 2 goalies permitted per session. Free admission.</p><p>Recreational hockey game for those 40 years and older. Full gear is required. No rental equipment provided.</p><i>*Monthly Flexipass and 10-Visit passes are accepted for this program</i>.<br />",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "",
+    "free": false,
+    "ageMin": 40,
+    "ageMax": 0,
+    "ageText": "40 yrs +",
+    "openings": "2 openings remaining",
+    "availability": "open",
+    "spaces": 2,
+    "firstDate": "2026-10-14",
+    "lastDate": "2026-10-14"
+  },
+  {
+    "id": 635260,
+    "title": "Trout Lake Arena - 40+ Hockey GOALIES - Wednesday 11:45am",
+    "calendarId": 3,
+    "centerId": 28,
+    "facilityIds": [
+      123
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/trout-lake-arena---40-hockey-goalies---wednesday-11-45am/635260",
+    "description": "<p>GOALIE REGISTRATION ONLY!! Players should register in the Public Hockey session.</p><p>Only 2 goalies permitted per session. Free admission.</p><p>Recreational hockey game for those 40 years and older. Full gear is required. No rental equipment provided.</p><i>*Monthly Flexipass and 10-Visit passes are accepted for this program</i>.<br />",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "",
+    "free": false,
+    "ageMin": 40,
+    "ageMax": 0,
+    "ageText": "40 yrs +",
+    "openings": "2 openings remaining",
+    "availability": "open",
+    "spaces": 2,
+    "firstDate": "2026-10-21",
+    "lastDate": "2026-10-21"
+  },
+  {
+    "id": 635261,
+    "title": "Trout Lake Arena - 40+ Hockey GOALIES - Wednesday 11:45am",
+    "calendarId": 3,
+    "centerId": 28,
+    "facilityIds": [
+      123
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/trout-lake-arena---40-hockey-goalies---wednesday-11-45am/635261",
+    "description": "<p>GOALIE REGISTRATION ONLY!! Players should register in the Public Hockey session.</p><p>Only 2 goalies permitted per session. Free admission.</p><p>Recreational hockey game for those 40 years and older. Full gear is required. No rental equipment provided.</p><i>*Monthly Flexipass and 10-Visit passes are accepted for this program</i>.<br />",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "",
+    "free": false,
+    "ageMin": 40,
+    "ageMax": 0,
+    "ageText": "40 yrs +",
+    "openings": "2 openings remaining",
+    "availability": "open",
+    "spaces": 2,
+    "firstDate": "2026-10-28",
+    "lastDate": "2026-10-28"
+  },
+  {
     "id": 635269,
     "title": "Trout Lake Arena - Stick, Puck & Ring - Wednesday 10:00am",
     "calendarId": 3,
@@ -98455,6 +99146,190 @@
     "spaces": 22,
     "firstDate": "2026-09-30",
     "lastDate": "2026-09-30",
+    "prices": [
+      {
+        "price": "$7.93",
+        "description": "Public Skate Admission - Adult (19-64yrs) for 19 up to 64 years old"
+      },
+      {
+        "price": "$5.55",
+        "description": "Public Skate Admission - Senior (65yrs+) for 65 up to 100 years old"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - Flexipass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - 10 Visit Pass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Leisure Access Pass Discount: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 635270,
+    "title": "Trout Lake Arena - Stick, Puck & Ring - Wednesday 10:00am",
+    "calendarId": 3,
+    "centerId": 28,
+    "facilityIds": [
+      123
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/trout-lake-arena---stick-puck-ring---wednesday-10-00am/635270",
+    "description": "<p>For those 19 years and older. CSA Helmets and hockey gloves are required.</p><p>This is a session for individual practice only with NO scrimmage and no sharing of equipment. Skate rentals are not available.</p>",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "from $5.55",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 0,
+    "ageText": "19 yrs +",
+    "openings": "22 openings remaining",
+    "availability": "open",
+    "spaces": 22,
+    "firstDate": "2026-10-07",
+    "lastDate": "2026-10-07",
+    "prices": [
+      {
+        "price": "$7.93",
+        "description": "Public Skate Admission - Adult (19-64yrs) for 19 up to 64 years old"
+      },
+      {
+        "price": "$5.55",
+        "description": "Public Skate Admission - Senior (65yrs+) for 65 up to 100 years old"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - Flexipass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - 10 Visit Pass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Leisure Access Pass Discount: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 635271,
+    "title": "Trout Lake Arena - Stick, Puck & Ring - Wednesday 10:00am",
+    "calendarId": 3,
+    "centerId": 28,
+    "facilityIds": [
+      123
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/trout-lake-arena---stick-puck-ring---wednesday-10-00am/635271",
+    "description": "<p>For those 19 years and older. CSA Helmets and hockey gloves are required.</p><p>This is a session for individual practice only with NO scrimmage and no sharing of equipment. Skate rentals are not available.</p>",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "from $5.55",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 0,
+    "ageText": "19 yrs +",
+    "openings": "22 openings remaining",
+    "availability": "open",
+    "spaces": 22,
+    "firstDate": "2026-10-14",
+    "lastDate": "2026-10-14",
+    "prices": [
+      {
+        "price": "$7.93",
+        "description": "Public Skate Admission - Adult (19-64yrs) for 19 up to 64 years old"
+      },
+      {
+        "price": "$5.55",
+        "description": "Public Skate Admission - Senior (65yrs+) for 65 up to 100 years old"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - Flexipass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - 10 Visit Pass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Leisure Access Pass Discount: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 635272,
+    "title": "Trout Lake Arena - Stick, Puck & Ring - Wednesday 10:00am",
+    "calendarId": 3,
+    "centerId": 28,
+    "facilityIds": [
+      123
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/trout-lake-arena---stick-puck-ring---wednesday-10-00am/635272",
+    "description": "<p>For those 19 years and older. CSA Helmets and hockey gloves are required.</p><p>This is a session for individual practice only with NO scrimmage and no sharing of equipment. Skate rentals are not available.</p>",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "from $5.55",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 0,
+    "ageText": "19 yrs +",
+    "openings": "22 openings remaining",
+    "availability": "open",
+    "spaces": 22,
+    "firstDate": "2026-10-21",
+    "lastDate": "2026-10-21",
+    "prices": [
+      {
+        "price": "$7.93",
+        "description": "Public Skate Admission - Adult (19-64yrs) for 19 up to 64 years old"
+      },
+      {
+        "price": "$5.55",
+        "description": "Public Skate Admission - Senior (65yrs+) for 65 up to 100 years old"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - Flexipass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - 10 Visit Pass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Leisure Access Pass Discount: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 635273,
+    "title": "Trout Lake Arena - Stick, Puck & Ring - Wednesday 10:00am",
+    "calendarId": 3,
+    "centerId": 28,
+    "facilityIds": [
+      123
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/trout-lake-arena---stick-puck-ring---wednesday-10-00am/635273",
+    "description": "<p>For those 19 years and older. CSA Helmets and hockey gloves are required.</p><p>This is a session for individual practice only with NO scrimmage and no sharing of equipment. Skate rentals are not available.</p>",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "from $5.55",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 0,
+    "ageText": "19 yrs +",
+    "openings": "22 openings remaining",
+    "availability": "open",
+    "spaces": 22,
+    "firstDate": "2026-10-28",
+    "lastDate": "2026-10-28",
     "prices": [
       {
         "price": "$7.93",
@@ -98683,6 +99558,52 @@
     ]
   },
   {
+    "id": 635291,
+    "title": "Trout Lake Arena - Public Hockey - Thursday 11:45am",
+    "calendarId": 3,
+    "centerId": 28,
+    "facilityIds": [
+      123
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/trout-lake-arena---public-hockey---thursday-11-45am/635291",
+    "description": "<p>Recreational hockey game for those 19 years and older. Full gear is required. No rental equipment provided.</p><p>GOALIES must register in a separate goalie specific activity with the same session time. If you are a goalie registered in this activity, you will be withdrawn.</p><p><b>Registration, cancellation, and refunds</b></p><p>• You can register online up to three days prior to the session. 30 minutes prior to the class any unregistered spots may be sold in-person.</p><p>• Cancel online through your account at vanrec.ca by 11:59pm the day before the session</p><p>If you are cancelling by phone or in person you must cancel by 3pm the day before the session, or by 3pm Saturday for a Monday session. Please call a community centre to cancel by phone and note voicemail messages will not be accepted.</p><p>When sessions are cancelled within the cancellation period, paid transactions will be refunded back to the credit card or a credit can be used towards another booking.</p>",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "from $5.55",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 0,
+    "ageText": "19 yrs +",
+    "openings": "20 openings remaining",
+    "availability": "open",
+    "spaces": 20,
+    "firstDate": "2026-10-08",
+    "lastDate": "2026-10-08",
+    "prices": [
+      {
+        "price": "$7.93",
+        "description": "Public Skate Admission - Adult (19-64yrs) for 19 up to 64 years old"
+      },
+      {
+        "price": "$5.55",
+        "description": "Public Skate Admission - Senior (65yrs+) for 65 up to 100 years old"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - Flexipass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - 10 Visit Pass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Leisure Access Pass Discount: for Customer"
+      }
+    ]
+  },
+  {
     "id": 635292,
     "title": "Handpan (Hang drum) Private lessons",
     "calendarId": 26,
@@ -98713,6 +99634,144 @@
       {
         "price": "$352.00",
         "description": "Activity Fee - Adult for 19 or more years old"
+      }
+    ]
+  },
+  {
+    "id": 635293,
+    "title": "Trout Lake Arena - Public Hockey - Thursday 11:45am",
+    "calendarId": 3,
+    "centerId": 28,
+    "facilityIds": [
+      123
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/trout-lake-arena---public-hockey---thursday-11-45am/635293",
+    "description": "<p>Recreational hockey game for those 19 years and older. Full gear is required. No rental equipment provided.</p><p>GOALIES must register in a separate goalie specific activity with the same session time. If you are a goalie registered in this activity, you will be withdrawn.</p><p><b>Registration, cancellation, and refunds</b></p><p>• You can register online up to three days prior to the session. 30 minutes prior to the class any unregistered spots may be sold in-person.</p><p>• Cancel online through your account at vanrec.ca by 11:59pm the day before the session</p><p>If you are cancelling by phone or in person you must cancel by 3pm the day before the session, or by 3pm Saturday for a Monday session. Please call a community centre to cancel by phone and note voicemail messages will not be accepted.</p><p>When sessions are cancelled within the cancellation period, paid transactions will be refunded back to the credit card or a credit can be used towards another booking.</p>",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "from $5.55",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 0,
+    "ageText": "19 yrs +",
+    "openings": "20 openings remaining",
+    "availability": "open",
+    "spaces": 20,
+    "firstDate": "2026-10-15",
+    "lastDate": "2026-10-15",
+    "prices": [
+      {
+        "price": "$7.93",
+        "description": "Public Skate Admission - Adult (19-64yrs) for 19 up to 64 years old"
+      },
+      {
+        "price": "$5.55",
+        "description": "Public Skate Admission - Senior (65yrs+) for 65 up to 100 years old"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - Flexipass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - 10 Visit Pass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Leisure Access Pass Discount: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 635295,
+    "title": "Trout Lake Arena - Public Hockey - Thursday 11:45am",
+    "calendarId": 3,
+    "centerId": 28,
+    "facilityIds": [
+      123
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/trout-lake-arena---public-hockey---thursday-11-45am/635295",
+    "description": "<p>Recreational hockey game for those 19 years and older. Full gear is required. No rental equipment provided.</p><p>GOALIES must register in a separate goalie specific activity with the same session time. If you are a goalie registered in this activity, you will be withdrawn.</p><p><b>Registration, cancellation, and refunds</b></p><p>• You can register online up to three days prior to the session. 30 minutes prior to the class any unregistered spots may be sold in-person.</p><p>• Cancel online through your account at vanrec.ca by 11:59pm the day before the session</p><p>If you are cancelling by phone or in person you must cancel by 3pm the day before the session, or by 3pm Saturday for a Monday session. Please call a community centre to cancel by phone and note voicemail messages will not be accepted.</p><p>When sessions are cancelled within the cancellation period, paid transactions will be refunded back to the credit card or a credit can be used towards another booking.</p>",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "from $5.55",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 0,
+    "ageText": "19 yrs +",
+    "openings": "20 openings remaining",
+    "availability": "open",
+    "spaces": 20,
+    "firstDate": "2026-10-22",
+    "lastDate": "2026-10-22",
+    "prices": [
+      {
+        "price": "$7.93",
+        "description": "Public Skate Admission - Adult (19-64yrs) for 19 up to 64 years old"
+      },
+      {
+        "price": "$5.55",
+        "description": "Public Skate Admission - Senior (65yrs+) for 65 up to 100 years old"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - Flexipass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - 10 Visit Pass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Leisure Access Pass Discount: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 635296,
+    "title": "Trout Lake Arena - Public Hockey - Thursday 11:45am",
+    "calendarId": 3,
+    "centerId": 28,
+    "facilityIds": [
+      123
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/trout-lake-arena---public-hockey---thursday-11-45am/635296",
+    "description": "<p>Recreational hockey game for those 19 years and older. Full gear is required. No rental equipment provided.</p><p>GOALIES must register in a separate goalie specific activity with the same session time. If you are a goalie registered in this activity, you will be withdrawn.</p><p><b>Registration, cancellation, and refunds</b></p><p>• You can register online up to three days prior to the session. 30 minutes prior to the class any unregistered spots may be sold in-person.</p><p>• Cancel online through your account at vanrec.ca by 11:59pm the day before the session</p><p>If you are cancelling by phone or in person you must cancel by 3pm the day before the session, or by 3pm Saturday for a Monday session. Please call a community centre to cancel by phone and note voicemail messages will not be accepted.</p><p>When sessions are cancelled within the cancellation period, paid transactions will be refunded back to the credit card or a credit can be used towards another booking.</p>",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "from $5.55",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 0,
+    "ageText": "19 yrs +",
+    "openings": "20 openings remaining",
+    "availability": "open",
+    "spaces": 20,
+    "firstDate": "2026-10-29",
+    "lastDate": "2026-10-29",
+    "prices": [
+      {
+        "price": "$7.93",
+        "description": "Public Skate Admission - Adult (19-64yrs) for 19 up to 64 years old"
+      },
+      {
+        "price": "$5.55",
+        "description": "Public Skate Admission - Senior (65yrs+) for 65 up to 100 years old"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - Flexipass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - 10 Visit Pass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Leisure Access Pass Discount: for Customer"
       }
     ]
   },
@@ -98846,11 +99905,107 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
+    "firstDate": "2026-10-01",
+    "lastDate": "2026-10-01"
+  },
+  {
+    "id": 635312,
+    "title": "Trout Lake Arena - Public Hockey GOALIES - Thursday 11:45am",
+    "calendarId": 3,
+    "centerId": 28,
+    "facilityIds": [
+      123
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/trout-lake-arena---public-hockey-goalies---thursday-11-45am/635312",
+    "description": "<p>GOALIE REGISTRATION ONLY!! Players should register in the Public Hockey session.</p><p>Only 2 goalies permitted per session. Free admission.</p><p>Recreational hockey game for those 19 years and older. Full gear is required. No rental equipment provided.</p><p>REGISTERED PARTICIPANTS ONLY. NO DROP-INS ACCEPTED</p><i>*Monthly Flexipass and 10-Visit passes are accepted for this program</i>.<br />",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 0,
+    "ageText": "19 yrs +",
     "openings": "2 openings remaining",
     "availability": "open",
     "spaces": 2,
-    "firstDate": "2026-10-01",
-    "lastDate": "2026-10-01"
+    "firstDate": "2026-10-08",
+    "lastDate": "2026-10-08"
+  },
+  {
+    "id": 635313,
+    "title": "Trout Lake Arena - Public Hockey GOALIES - Thursday 11:45am",
+    "calendarId": 3,
+    "centerId": 28,
+    "facilityIds": [
+      123
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/trout-lake-arena---public-hockey-goalies---thursday-11-45am/635313",
+    "description": "<p>GOALIE REGISTRATION ONLY!! Players should register in the Public Hockey session.</p><p>Only 2 goalies permitted per session. Free admission.</p><p>Recreational hockey game for those 19 years and older. Full gear is required. No rental equipment provided.</p><p>REGISTERED PARTICIPANTS ONLY. NO DROP-INS ACCEPTED</p><i>*Monthly Flexipass and 10-Visit passes are accepted for this program</i>.<br />",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 0,
+    "ageText": "19 yrs +",
+    "openings": "2 openings remaining",
+    "availability": "open",
+    "spaces": 2,
+    "firstDate": "2026-10-15",
+    "lastDate": "2026-10-15"
+  },
+  {
+    "id": 635314,
+    "title": "Trout Lake Arena - Public Hockey GOALIES - Thursday 11:45am",
+    "calendarId": 3,
+    "centerId": 28,
+    "facilityIds": [
+      123
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/trout-lake-arena---public-hockey-goalies---thursday-11-45am/635314",
+    "description": "<p>GOALIE REGISTRATION ONLY!! Players should register in the Public Hockey session.</p><p>Only 2 goalies permitted per session. Free admission.</p><p>Recreational hockey game for those 19 years and older. Full gear is required. No rental equipment provided.</p><p>REGISTERED PARTICIPANTS ONLY. NO DROP-INS ACCEPTED</p><i>*Monthly Flexipass and 10-Visit passes are accepted for this program</i>.<br />",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 0,
+    "ageText": "19 yrs +",
+    "openings": "2 openings remaining",
+    "availability": "open",
+    "spaces": 2,
+    "firstDate": "2026-10-22",
+    "lastDate": "2026-10-22"
+  },
+  {
+    "id": 635315,
+    "title": "Trout Lake Arena - Public Hockey GOALIES - Thursday 11:45am",
+    "calendarId": 3,
+    "centerId": 28,
+    "facilityIds": [
+      123
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/trout-lake-arena---public-hockey-goalies---thursday-11-45am/635315",
+    "description": "<p>GOALIE REGISTRATION ONLY!! Players should register in the Public Hockey session.</p><p>Only 2 goalies permitted per session. Free admission.</p><p>Recreational hockey game for those 19 years and older. Full gear is required. No rental equipment provided.</p><p>REGISTERED PARTICIPANTS ONLY. NO DROP-INS ACCEPTED</p><i>*Monthly Flexipass and 10-Visit passes are accepted for this program</i>.<br />",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 0,
+    "ageText": "19 yrs +",
+    "openings": "2 openings remaining",
+    "availability": "open",
+    "spaces": 2,
+    "firstDate": "2026-10-29",
+    "lastDate": "2026-10-29"
   },
   {
     "id": 635324,
@@ -98875,6 +100030,190 @@
     "spaces": 22,
     "firstDate": "2026-10-02",
     "lastDate": "2026-10-02",
+    "prices": [
+      {
+        "price": "$7.93",
+        "description": "Public Skate Admission - Adult (19-64yrs) for 19 up to 64 years old"
+      },
+      {
+        "price": "$5.55",
+        "description": "Public Skate Admission - Senior (65yrs+) for 65 up to 100 years old"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - Flexipass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - 10 Visit Pass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Leisure Access Pass Discount: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 635325,
+    "title": "Trout Lake Arena - Stick, Puck & Ring - Friday 11:45am",
+    "calendarId": 3,
+    "centerId": 28,
+    "facilityIds": [
+      123
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/trout-lake-arena---stick-puck-ring---friday-11-45am/635325",
+    "description": "<p>For those 19 years and older. CSA Helmets and hockey gloves are required.</p><p>This is a session for individual practice only with NO scrimmage and no sharing of equipment. Skate rentals are not available.</p>",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "from $5.55",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 0,
+    "ageText": "19 yrs +",
+    "openings": "22 openings remaining",
+    "availability": "open",
+    "spaces": 22,
+    "firstDate": "2026-10-09",
+    "lastDate": "2026-10-09",
+    "prices": [
+      {
+        "price": "$7.93",
+        "description": "Public Skate Admission - Adult (19-64yrs) for 19 up to 64 years old"
+      },
+      {
+        "price": "$5.55",
+        "description": "Public Skate Admission - Senior (65yrs+) for 65 up to 100 years old"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - Flexipass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - 10 Visit Pass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Leisure Access Pass Discount: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 635328,
+    "title": "Trout Lake Arena - Stick, Puck & Ring - Friday 11:45am",
+    "calendarId": 3,
+    "centerId": 28,
+    "facilityIds": [
+      123
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/trout-lake-arena---stick-puck-ring---friday-11-45am/635328",
+    "description": "<p>For those 19 years and older. CSA Helmets and hockey gloves are required.</p><p>This is a session for individual practice only with NO scrimmage and no sharing of equipment. Skate rentals are not available.</p>",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "from $5.55",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 0,
+    "ageText": "19 yrs +",
+    "openings": "22 openings remaining",
+    "availability": "open",
+    "spaces": 22,
+    "firstDate": "2026-10-16",
+    "lastDate": "2026-10-16",
+    "prices": [
+      {
+        "price": "$7.93",
+        "description": "Public Skate Admission - Adult (19-64yrs) for 19 up to 64 years old"
+      },
+      {
+        "price": "$5.55",
+        "description": "Public Skate Admission - Senior (65yrs+) for 65 up to 100 years old"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - Flexipass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - 10 Visit Pass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Leisure Access Pass Discount: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 635330,
+    "title": "Trout Lake Arena - Stick, Puck & Ring - Friday 11:45am",
+    "calendarId": 3,
+    "centerId": 28,
+    "facilityIds": [
+      123
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/trout-lake-arena---stick-puck-ring---friday-11-45am/635330",
+    "description": "<p>For those 19 years and older. CSA Helmets and hockey gloves are required.</p><p>This is a session for individual practice only with NO scrimmage and no sharing of equipment. Skate rentals are not available.</p>",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "from $5.55",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 0,
+    "ageText": "19 yrs +",
+    "openings": "22 openings remaining",
+    "availability": "open",
+    "spaces": 22,
+    "firstDate": "2026-10-23",
+    "lastDate": "2026-10-23",
+    "prices": [
+      {
+        "price": "$7.93",
+        "description": "Public Skate Admission - Adult (19-64yrs) for 19 up to 64 years old"
+      },
+      {
+        "price": "$5.55",
+        "description": "Public Skate Admission - Senior (65yrs+) for 65 up to 100 years old"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - Flexipass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - 10 Visit Pass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Leisure Access Pass Discount: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 635331,
+    "title": "Trout Lake Arena - Stick, Puck & Ring - Friday 11:45am",
+    "calendarId": 3,
+    "centerId": 28,
+    "facilityIds": [
+      123
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/trout-lake-arena---stick-puck-ring---friday-11-45am/635331",
+    "description": "<p>For those 19 years and older. CSA Helmets and hockey gloves are required.</p><p>This is a session for individual practice only with NO scrimmage and no sharing of equipment. Skate rentals are not available.</p>",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "from $5.55",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 0,
+    "ageText": "19 yrs +",
+    "openings": "22 openings remaining",
+    "availability": "open",
+    "spaces": 22,
+    "firstDate": "2026-10-30",
+    "lastDate": "2026-10-30",
     "prices": [
       {
         "price": "$7.93",
@@ -99062,9 +100401,9 @@
     "ageMin": 40,
     "ageMax": 99,
     "ageText": "Age at least 40 yrs but less than 99 yrs",
-    "openings": "20 openings remaining",
+    "openings": "9 openings remaining",
     "availability": "open",
-    "spaces": 20,
+    "spaces": 9,
     "firstDate": "2026-09-28",
     "lastDate": "2026-09-28"
   },
@@ -99093,6 +100432,78 @@
     "lastDate": "2026-10-05"
   },
   {
+    "id": 635358,
+    "title": "Sunset Arena - 40+ Hockey - Monday 10:00am",
+    "calendarId": 3,
+    "centerId": 27,
+    "facilityIds": [
+      122
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/sunset-arena---40-hockey---monday-10-00am/635358",
+    "description": "<p>Recreational hockey game for those 40 years and older. Full gear is required. No rental equipment provided. </p><p>All registered participants must check in with the attendant up to 5 minutes after the program start time. Failure to do so may result in the spot being forfeited to a waiting player.</p><p>GOALIES must register in a separate goalie specific activity with the same session time. If you are a goalie registered in this activity, you will be withdrawn.</p><p><b>Registration, cancellation, and refunds</b></p><p>• You can register online up to three days prior to the session. 30 minutes prior to the class any unregistered spots may be sold in-person.</p><p>• Cancel online through your account at vanrec.ca by 11:59pm the day before the session</p><p>If you are cancelling by phone or in person you must cancel by 3pm the day before the session, or by 3pm Saturday for a Monday session. Please call a community centre to cancel by phone and note voicemail messages will not be accepted.</p><p>When sessions are cancelled within the cancellation period, paid transactions will be refunded back to the credit card or a credit can be used towards another booking.</p>",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "",
+    "free": false,
+    "ageMin": 40,
+    "ageMax": 99,
+    "ageText": "Age at least 40 yrs but less than 99 yrs",
+    "openings": "20 openings remaining",
+    "availability": "open",
+    "spaces": 20,
+    "firstDate": "2026-10-12",
+    "lastDate": "2026-10-12"
+  },
+  {
+    "id": 635359,
+    "title": "Sunset Arena - 40+ Hockey - Monday 10:00am",
+    "calendarId": 3,
+    "centerId": 27,
+    "facilityIds": [
+      122
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/sunset-arena---40-hockey---monday-10-00am/635359",
+    "description": "<p>Recreational hockey game for those 40 years and older. Full gear is required. No rental equipment provided. </p><p>All registered participants must check in with the attendant up to 5 minutes after the program start time. Failure to do so may result in the spot being forfeited to a waiting player.</p><p>GOALIES must register in a separate goalie specific activity with the same session time. If you are a goalie registered in this activity, you will be withdrawn.</p><p><b>Registration, cancellation, and refunds</b></p><p>• You can register online up to three days prior to the session. 30 minutes prior to the class any unregistered spots may be sold in-person.</p><p>• Cancel online through your account at vanrec.ca by 11:59pm the day before the session</p><p>If you are cancelling by phone or in person you must cancel by 3pm the day before the session, or by 3pm Saturday for a Monday session. Please call a community centre to cancel by phone and note voicemail messages will not be accepted.</p><p>When sessions are cancelled within the cancellation period, paid transactions will be refunded back to the credit card or a credit can be used towards another booking.</p>",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "",
+    "free": false,
+    "ageMin": 40,
+    "ageMax": 99,
+    "ageText": "Age at least 40 yrs but less than 99 yrs",
+    "openings": "20 openings remaining",
+    "availability": "open",
+    "spaces": 20,
+    "firstDate": "2026-10-19",
+    "lastDate": "2026-10-19"
+  },
+  {
+    "id": 635360,
+    "title": "Sunset Arena - 40+ Hockey - Monday 10:00am",
+    "calendarId": 3,
+    "centerId": 27,
+    "facilityIds": [
+      122
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/sunset-arena---40-hockey---monday-10-00am/635360",
+    "description": "<p>Recreational hockey game for those 40 years and older. Full gear is required. No rental equipment provided. </p><p>All registered participants must check in with the attendant up to 5 minutes after the program start time. Failure to do so may result in the spot being forfeited to a waiting player.</p><p>GOALIES must register in a separate goalie specific activity with the same session time. If you are a goalie registered in this activity, you will be withdrawn.</p><p><b>Registration, cancellation, and refunds</b></p><p>• You can register online up to three days prior to the session. 30 minutes prior to the class any unregistered spots may be sold in-person.</p><p>• Cancel online through your account at vanrec.ca by 11:59pm the day before the session</p><p>If you are cancelling by phone or in person you must cancel by 3pm the day before the session, or by 3pm Saturday for a Monday session. Please call a community centre to cancel by phone and note voicemail messages will not be accepted.</p><p>When sessions are cancelled within the cancellation period, paid transactions will be refunded back to the credit card or a credit can be used towards another booking.</p>",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "",
+    "free": false,
+    "ageMin": 40,
+    "ageMax": 99,
+    "ageText": "Age at least 40 yrs but less than 99 yrs",
+    "openings": "20 openings remaining",
+    "availability": "open",
+    "spaces": 20,
+    "firstDate": "2026-10-26",
+    "lastDate": "2026-10-26"
+  },
+  {
     "id": 635368,
     "title": "Sunset Arena - 40+ Hockey GOALIES - Monday 10:00am",
     "calendarId": 3,
@@ -99117,6 +100528,102 @@
     "lastDate": "2026-09-28"
   },
   {
+    "id": 635369,
+    "title": "Sunset Arena - 40+ Hockey GOALIES - Monday 10:00am",
+    "calendarId": 3,
+    "centerId": 27,
+    "facilityIds": [
+      122
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/sunset-arena---40-hockey-goalies---monday-10-00am/635369",
+    "description": "<p><b>GOALIE REGISTRATION ONLY!!</b> Players should register in the Public Hockey session.</p><p>Only 2 goalies permitted per session. Free admission.</p><p>Recreational hockey game for those 40 years and older. Full gear is required. No rental equipment provided.</p><p>REGISTERED PARTICIPANTS ONLY. NO DROP-INS ACCEPTED</p><i>*Monthly Flexipass and 10-Visit passes are accepted for this program</i>.<br /><p><b>Registration, cancellation, and refunds</b></p><p>• You can register online up to 7 days prior to the session (GOALIES ONLY). 30 minutes prior to the class any unregistered spots may be sold in-person.</p><p>• Cancel online through your account at vanrec.ca by 11:59pm the day before the session</p><p>If you are cancelling by phone or in person you must cancel by 3pm the day before the session, or by 3pm Saturday for a Monday session. Please call a community centre to cancel by phone and note voicemail messages will not be accepted.</p><p>When sessions are cancelled within the cancellation period, paid transactions will be refunded back to the credit card or a credit can be used towards another booking.</p>",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "",
+    "free": false,
+    "ageMin": 40,
+    "ageMax": 99,
+    "ageText": "Age at least 40 yrs but less than 99 yrs",
+    "openings": "2 openings remaining",
+    "availability": "open",
+    "spaces": 2,
+    "firstDate": "2026-10-05",
+    "lastDate": "2026-10-05"
+  },
+  {
+    "id": 635370,
+    "title": "Sunset Arena - 40+ Hockey GOALIES - Monday 10:00am",
+    "calendarId": 3,
+    "centerId": 27,
+    "facilityIds": [
+      122
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/sunset-arena---40-hockey-goalies---monday-10-00am/635370",
+    "description": "<p><b>GOALIE REGISTRATION ONLY!!</b> Players should register in the Public Hockey session.</p><p>Only 2 goalies permitted per session. Free admission.</p><p>Recreational hockey game for those 40 years and older. Full gear is required. No rental equipment provided.</p><p>REGISTERED PARTICIPANTS ONLY. NO DROP-INS ACCEPTED</p><i>*Monthly Flexipass and 10-Visit passes are accepted for this program</i>.<br /><p><b>Registration, cancellation, and refunds</b></p><p>• You can register online up to 7 days prior to the session (GOALIES ONLY). 30 minutes prior to the class any unregistered spots may be sold in-person.</p><p>• Cancel online through your account at vanrec.ca by 11:59pm the day before the session</p><p>If you are cancelling by phone or in person you must cancel by 3pm the day before the session, or by 3pm Saturday for a Monday session. Please call a community centre to cancel by phone and note voicemail messages will not be accepted.</p><p>When sessions are cancelled within the cancellation period, paid transactions will be refunded back to the credit card or a credit can be used towards another booking.</p>",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "",
+    "free": false,
+    "ageMin": 40,
+    "ageMax": 99,
+    "ageText": "Age at least 40 yrs but less than 99 yrs",
+    "openings": "2 openings remaining",
+    "availability": "open",
+    "spaces": 2,
+    "firstDate": "2026-10-12",
+    "lastDate": "2026-10-12"
+  },
+  {
+    "id": 635371,
+    "title": "Sunset Arena - 40+ Hockey GOALIES - Monday 10:00am",
+    "calendarId": 3,
+    "centerId": 27,
+    "facilityIds": [
+      122
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/sunset-arena---40-hockey-goalies---monday-10-00am/635371",
+    "description": "<p><b>GOALIE REGISTRATION ONLY!!</b> Players should register in the Public Hockey session.</p><p>Only 2 goalies permitted per session. Free admission.</p><p>Recreational hockey game for those 40 years and older. Full gear is required. No rental equipment provided.</p><p>REGISTERED PARTICIPANTS ONLY. NO DROP-INS ACCEPTED</p><i>*Monthly Flexipass and 10-Visit passes are accepted for this program</i>.<br /><p><b>Registration, cancellation, and refunds</b></p><p>• You can register online up to 7 days prior to the session (GOALIES ONLY). 30 minutes prior to the class any unregistered spots may be sold in-person.</p><p>• Cancel online through your account at vanrec.ca by 11:59pm the day before the session</p><p>If you are cancelling by phone or in person you must cancel by 3pm the day before the session, or by 3pm Saturday for a Monday session. Please call a community centre to cancel by phone and note voicemail messages will not be accepted.</p><p>When sessions are cancelled within the cancellation period, paid transactions will be refunded back to the credit card or a credit can be used towards another booking.</p>",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "",
+    "free": false,
+    "ageMin": 40,
+    "ageMax": 99,
+    "ageText": "Age at least 40 yrs but less than 99 yrs",
+    "openings": "2 openings remaining",
+    "availability": "open",
+    "spaces": 2,
+    "firstDate": "2026-10-19",
+    "lastDate": "2026-10-19"
+  },
+  {
+    "id": 635372,
+    "title": "Sunset Arena - 40+ Hockey GOALIES - Monday 10:00am",
+    "calendarId": 3,
+    "centerId": 27,
+    "facilityIds": [
+      122
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/sunset-arena---40-hockey-goalies---monday-10-00am/635372",
+    "description": "<p><b>GOALIE REGISTRATION ONLY!!</b> Players should register in the Public Hockey session.</p><p>Only 2 goalies permitted per session. Free admission.</p><p>Recreational hockey game for those 40 years and older. Full gear is required. No rental equipment provided.</p><p>REGISTERED PARTICIPANTS ONLY. NO DROP-INS ACCEPTED</p><i>*Monthly Flexipass and 10-Visit passes are accepted for this program</i>.<br /><p><b>Registration, cancellation, and refunds</b></p><p>• You can register online up to 7 days prior to the session (GOALIES ONLY). 30 minutes prior to the class any unregistered spots may be sold in-person.</p><p>• Cancel online through your account at vanrec.ca by 11:59pm the day before the session</p><p>If you are cancelling by phone or in person you must cancel by 3pm the day before the session, or by 3pm Saturday for a Monday session. Please call a community centre to cancel by phone and note voicemail messages will not be accepted.</p><p>When sessions are cancelled within the cancellation period, paid transactions will be refunded back to the credit card or a credit can be used towards another booking.</p>",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "",
+    "free": false,
+    "ageMin": 40,
+    "ageMax": 99,
+    "ageText": "Age at least 40 yrs but less than 99 yrs",
+    "openings": "2 openings remaining",
+    "availability": "open",
+    "spaces": 2,
+    "firstDate": "2026-10-26",
+    "lastDate": "2026-10-26"
+  },
+  {
     "id": 635380,
     "title": "Sunset Arena - Stick, Puck & Ring - Monday 11:45am",
     "calendarId": 3,
@@ -99134,11 +100641,195 @@
     "ageMin": 19,
     "ageMax": 99,
     "ageText": "Age at least 19 yrs but less than 99 yrs",
+    "openings": "14 openings remaining",
+    "availability": "open",
+    "spaces": 14,
+    "firstDate": "2026-09-28",
+    "lastDate": "2026-09-28",
+    "prices": [
+      {
+        "price": "$7.93",
+        "description": "Public Skate Admission - Adult (19-64yrs) for 19 up to 64 years old"
+      },
+      {
+        "price": "$5.55",
+        "description": "Public Skate Admission - Senior (65yrs+) for 65 up to 100 years old"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - Flexipass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - 10 Visit Pass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Leisure Access Pass Discount: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 635381,
+    "title": "Sunset Arena - Stick, Puck & Ring - Monday 11:45am",
+    "calendarId": 3,
+    "centerId": 27,
+    "facilityIds": [
+      122
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/sunset-arena---stick-puck-ring---monday-11-45am/635381",
+    "description": "<p>For those 19 years and older. Hockey helmets and gloves are required.</p><p>This is a session for individual practice only with NO scrimmage and no sharing of equipment. Skate rentals are not available.</p>",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "from $5.55",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 99,
+    "ageText": "Age at least 19 yrs but less than 99 yrs",
     "openings": "20 openings remaining",
     "availability": "open",
     "spaces": 20,
-    "firstDate": "2026-09-28",
-    "lastDate": "2026-09-28",
+    "firstDate": "2026-10-05",
+    "lastDate": "2026-10-05",
+    "prices": [
+      {
+        "price": "$7.93",
+        "description": "Public Skate Admission - Adult (19-64yrs) for 19 up to 64 years old"
+      },
+      {
+        "price": "$5.55",
+        "description": "Public Skate Admission - Senior (65yrs+) for 65 up to 100 years old"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - Flexipass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - 10 Visit Pass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Leisure Access Pass Discount: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 635382,
+    "title": "Sunset Arena - Stick, Puck & Ring - Monday 11:45am",
+    "calendarId": 3,
+    "centerId": 27,
+    "facilityIds": [
+      122
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/sunset-arena---stick-puck-ring---monday-11-45am/635382",
+    "description": "<p>For those 19 years and older. Hockey helmets and gloves are required.</p><p>This is a session for individual practice only with NO scrimmage and no sharing of equipment. Skate rentals are not available.</p>",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "from $5.55",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 99,
+    "ageText": "Age at least 19 yrs but less than 99 yrs",
+    "openings": "20 openings remaining",
+    "availability": "open",
+    "spaces": 20,
+    "firstDate": "2026-10-12",
+    "lastDate": "2026-10-12",
+    "prices": [
+      {
+        "price": "$7.93",
+        "description": "Public Skate Admission - Adult (19-64yrs) for 19 up to 64 years old"
+      },
+      {
+        "price": "$5.55",
+        "description": "Public Skate Admission - Senior (65yrs+) for 65 up to 100 years old"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - Flexipass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - 10 Visit Pass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Leisure Access Pass Discount: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 635383,
+    "title": "Sunset Arena - Stick, Puck & Ring - Monday 11:45am",
+    "calendarId": 3,
+    "centerId": 27,
+    "facilityIds": [
+      122
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/sunset-arena---stick-puck-ring---monday-11-45am/635383",
+    "description": "<p>For those 19 years and older. Hockey helmets and gloves are required.</p><p>This is a session for individual practice only with NO scrimmage and no sharing of equipment. Skate rentals are not available.</p>",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "from $5.55",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 99,
+    "ageText": "Age at least 19 yrs but less than 99 yrs",
+    "openings": "20 openings remaining",
+    "availability": "open",
+    "spaces": 20,
+    "firstDate": "2026-10-19",
+    "lastDate": "2026-10-19",
+    "prices": [
+      {
+        "price": "$7.93",
+        "description": "Public Skate Admission - Adult (19-64yrs) for 19 up to 64 years old"
+      },
+      {
+        "price": "$5.55",
+        "description": "Public Skate Admission - Senior (65yrs+) for 65 up to 100 years old"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - Flexipass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - 10 Visit Pass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Leisure Access Pass Discount: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 635384,
+    "title": "Sunset Arena - Stick, Puck & Ring - Monday 11:45am",
+    "calendarId": 3,
+    "centerId": 27,
+    "facilityIds": [
+      122
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/sunset-arena---stick-puck-ring---monday-11-45am/635384",
+    "description": "<p>For those 19 years and older. Hockey helmets and gloves are required.</p><p>This is a session for individual practice only with NO scrimmage and no sharing of equipment. Skate rentals are not available.</p>",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "from $5.55",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 99,
+    "ageText": "Age at least 19 yrs but less than 99 yrs",
+    "openings": "20 openings remaining",
+    "availability": "open",
+    "spaces": 20,
+    "firstDate": "2026-10-26",
+    "lastDate": "2026-10-26",
     "prices": [
       {
         "price": "$7.93",
@@ -99592,9 +101283,8 @@
     "ageMin": 8,
     "ageMax": 99,
     "ageText": "Age at least 8 yrs but less than 99 yrs",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-25",
     "lastDate": "2026-09-25",
     "prices": [
@@ -99650,9 +101340,8 @@
     "ageMin": 19,
     "ageMax": 99,
     "ageText": "Age at least 19 yrs but less than 99 yrs",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-25",
     "lastDate": "2026-09-25"
   },
@@ -99674,9 +101363,8 @@
     "ageMin": 8,
     "ageMax": 99,
     "ageText": "Age at least 8 yrs but less than 99 yrs",
-    "openings": "19 openings remaining",
-    "availability": "open",
-    "spaces": 19,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-25",
     "lastDate": "2026-09-25"
   },
@@ -99698,9 +101386,8 @@
     "ageMin": 8,
     "ageMax": 99,
     "ageText": "Age at least 8 yrs but less than 99 yrs",
-    "openings": "20 openings remaining",
-    "availability": "open",
-    "spaces": 20,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-25",
     "lastDate": "2026-09-25"
   },
@@ -99768,9 +101455,8 @@
     "ageMin": 19,
     "ageMax": 99,
     "ageText": "Age at least 19 yrs but less than 99 yrs",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-25",
     "lastDate": "2026-09-25"
   },
@@ -99830,9 +101516,9 @@
     "ageMin": 18,
     "ageMax": 0,
     "ageText": "18 yrs +",
-    "openings": "6 openings remaining",
+    "openings": "5 openings remaining",
     "availability": "open",
-    "spaces": 6,
+    "spaces": 5,
     "firstDate": "2026-11-06",
     "lastDate": "2026-12-11",
     "prices": [
@@ -101303,9 +102989,9 @@
     "ageMin": 13,
     "ageMax": 0,
     "ageText": "13 yrs +",
-    "openings": "11 openings remaining",
+    "openings": "9 openings remaining",
     "availability": "open",
-    "spaces": 11,
+    "spaces": 9,
     "firstDate": "2026-09-26",
     "lastDate": "2026-09-26",
     "prices": [
@@ -101606,9 +103292,9 @@
     "ageMin": 0,
     "ageMax": 99,
     "ageText": "Age less than 99 yrs",
-    "openings": "74 openings remaining",
+    "openings": "75 openings remaining",
     "availability": "open",
-    "spaces": 74,
+    "spaces": 75,
     "firstDate": "2026-10-09",
     "lastDate": "2026-10-09",
     "prices": [
@@ -101639,9 +103325,9 @@
     "ageMin": 0,
     "ageMax": 99,
     "ageText": "Age less than 99 yrs",
-    "openings": "89 openings remaining",
+    "openings": "90 openings remaining",
     "availability": "open",
-    "spaces": 89,
+    "spaces": 90,
     "firstDate": "2026-11-13",
     "lastDate": "2026-11-13",
     "prices": [
@@ -103171,9 +104857,9 @@
     "ageMin": 19,
     "ageMax": 99,
     "ageText": "Age at least 19 yrs but less than 99 yrs",
-    "openings": "15 openings remaining",
+    "openings": "11 openings remaining",
     "availability": "open",
-    "spaces": 15,
+    "spaces": 11,
     "firstDate": "2026-09-28",
     "lastDate": "2026-09-28",
     "prices": [
@@ -103537,9 +105223,9 @@
     "ageMin": 13,
     "ageMax": 0,
     "ageText": "13 yrs +",
-    "openings": "16 openings remaining",
+    "openings": "12 openings remaining",
     "availability": "open",
-    "spaces": 16,
+    "spaces": 12,
     "firstDate": "2026-09-26",
     "lastDate": "2026-09-26",
     "prices": [
@@ -104802,9 +106488,9 @@
     "ageMin": 13,
     "ageMax": 0,
     "ageText": "13 yrs +",
-    "openings": "15 openings remaining",
+    "openings": "13 openings remaining",
     "availability": "open",
-    "spaces": 15,
+    "spaces": 13,
     "firstDate": "2026-09-28",
     "lastDate": "2026-09-28",
     "prices": [
@@ -105923,9 +107609,8 @@
     "ageMin": 13,
     "ageMax": 0,
     "ageText": "13 yrs +",
-    "openings": "1 opening remaining",
-    "availability": "open",
-    "spaces": 1,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-25",
     "lastDate": "2026-09-25",
     "prices": [
@@ -106225,9 +107910,9 @@
     "ageMin": 13,
     "ageMax": 0,
     "ageText": "13 yrs +",
-    "openings": "13 openings remaining",
+    "openings": "10 openings remaining",
     "availability": "open",
-    "spaces": 13,
+    "spaces": 10,
     "firstDate": "2026-09-26",
     "lastDate": "2026-09-26",
     "prices": [
@@ -106585,9 +108270,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "5 openings remaining",
+    "openings": "4 openings remaining",
     "availability": "open",
-    "spaces": 5,
+    "spaces": 4,
     "firstDate": "2026-10-07",
     "lastDate": "2026-10-07"
   },
@@ -106609,9 +108294,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "6 openings remaining",
+    "openings": "5 openings remaining",
     "availability": "open",
-    "spaces": 6,
+    "spaces": 5,
     "firstDate": "2026-10-21",
     "lastDate": "2026-10-21"
   },
@@ -107048,9 +108733,9 @@
     "ageMin": 12,
     "ageMax": 18,
     "ageText": "Age at least 12 yrs but less than 18y 11m 4w",
-    "openings": "20 openings remaining",
-    "availability": "open",
-    "spaces": 20,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-09-26",
     "lastDate": "2026-09-26"
   },
@@ -107144,9 +108829,9 @@
     "ageMin": 12,
     "ageMax": 18,
     "ageText": "Age at least 12 yrs but less than 18y 11m 4w",
-    "openings": "40 openings remaining",
+    "openings": "19 openings remaining",
     "availability": "open",
-    "spaces": 40,
+    "spaces": 19,
     "firstDate": "2026-09-26",
     "lastDate": "2026-09-26"
   },
@@ -107240,9 +108925,8 @@
     "ageMin": 12,
     "ageMax": 18,
     "ageText": "Age at least 12 yrs but less than 18y 11m 4w",
-    "openings": "15 openings remaining",
-    "availability": "open",
-    "spaces": 15,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-25",
     "lastDate": "2026-09-25"
   },
@@ -107432,9 +109116,8 @@
     "ageMin": 12,
     "ageMax": 18,
     "ageText": "Age at least 12 yrs but less than 18y 11m 4w",
-    "openings": "16 openings remaining",
-    "availability": "open",
-    "spaces": 16,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-25",
     "lastDate": "2026-09-25"
   },
@@ -107461,30 +109144,6 @@
     "spaces": 24,
     "firstDate": "2026-10-02",
     "lastDate": "2026-10-02"
-  },
-  {
-    "id": 636824,
-    "title": "Youth Volleyball Drop-in - Friday Night (Session2)",
-    "calendarId": 43,
-    "centerId": 35,
-    "facilityIds": [
-      307
-    ],
-    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/youth-volleyball-drop-in---friday-night-session2/636824",
-    "description": "<p><b><i>All levels welcome! </i></b></p><p><b><i>Sessions are supervised by a Youth Program Assistant I/II or Community Youth Worker, but there is no instructor for this program.</i></b></p><p><i>Please note the session can accommodate up to 24 players maximum. REGISTRATION IS REQUIRED. Please check-in with a Youth Staff upon arrival.</i></p><p><b>Please do not register back-to-back session. Staff has the right to withdraw you from the other session to create space for other youth. There will be a waitlist on the day of, please speak to a youth staff to write your name down. The waitlist is not guaranteed. </b></p><p>Welcome to our youth gym programs at Killarney Community Centre! Looking to get back into the game and tune up your skills? Come by to bump, set, and spike! Youth staff will help organize games and rotations. Please note the following rules to be followed in the gymnasium:</p><p><b>How to Play:</b></p><ul><li>Competition is permitted</li><li>Wash your hands before and after play</li><li>No food or drink in the gymnasium</li><li>Use appropriate and respectful language.</li><li>Respect the equipment (volleyballs, nets, etc.).</li><li>Respect direction from Killarney staff and be kind to other youth.</li></ul><p>If you have any further inquiries, please call the Killarney Youth Office at 604-718-8212.</p>",
-    "instructors": [
-      "Britannia 55+ Team"
-    ],
-    "priceText": "Free",
-    "free": true,
-    "ageMin": 12,
-    "ageMax": 18,
-    "ageText": "Age at least 12 yrs but less than 18y 11m 4w",
-    "openings": "24 openings remaining",
-    "availability": "open",
-    "spaces": 24,
-    "firstDate": "2026-10-09",
-    "lastDate": "2026-10-09"
   },
   {
     "id": 636825,
@@ -107957,9 +109616,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "2 openings remaining",
-    "availability": "open",
-    "spaces": 2,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-25",
     "lastDate": "2026-09-25",
     "prices": [
@@ -108072,9 +109730,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-25",
     "lastDate": "2026-09-25"
   },
@@ -108846,9 +110503,8 @@
     "ageMin": 19,
     "ageMax": 99,
     "ageText": "Age at least 19 yrs but less than 99 yrs",
-    "openings": "2 openings remaining",
-    "availability": "open",
-    "spaces": 2,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-25",
     "lastDate": "2026-09-25"
   },
@@ -110685,9 +112341,9 @@
     "ageMin": 19,
     "ageMax": 99,
     "ageText": "Age at least 19 yrs but less than 99 yrs",
-    "openings": "20 openings remaining",
+    "openings": "18 openings remaining",
     "availability": "open",
-    "spaces": 20,
+    "spaces": 18,
     "firstDate": "2026-09-28",
     "lastDate": "2026-09-28",
     "prices": [
@@ -110817,9 +112473,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "1 opening remaining",
-    "availability": "open",
-    "spaces": 1,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-10-10",
     "lastDate": "2026-10-10"
   },
@@ -111590,9 +113246,9 @@
     "ageMin": 13,
     "ageMax": 0,
     "ageText": "13 yrs +",
-    "openings": "22 openings remaining",
+    "openings": "20 openings remaining",
     "availability": "open",
-    "spaces": 22,
+    "spaces": 20,
     "firstDate": "2026-09-26",
     "lastDate": "2026-09-26",
     "prices": [
@@ -113325,9 +114981,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "9 openings remaining",
-    "availability": "open",
-    "spaces": 9,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-25",
     "lastDate": "2026-09-25"
   },
@@ -113658,7 +115313,7 @@
     "availability": "open",
     "spaces": 60,
     "firstDate": "2026-10-05",
-    "lastDate": "2026-12-13"
+    "lastDate": "2026-12-10"
   },
   {
     "id": 640801,
@@ -113747,9 +115402,8 @@
     "ageMin": 55,
     "ageMax": 0,
     "ageText": "55 yrs +",
-    "openings": "16 openings remaining",
-    "availability": "open",
-    "spaces": 16,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-25",
     "lastDate": "2026-09-25"
   },
@@ -114000,9 +115654,9 @@
     "ageMin": 13,
     "ageMax": 0,
     "ageText": "13 yrs +",
-    "openings": "30 openings remaining",
+    "openings": "26 openings remaining",
     "availability": "open",
-    "spaces": 30,
+    "spaces": 26,
     "firstDate": "2026-09-28",
     "lastDate": "2026-09-28"
   },
@@ -115103,9 +116757,9 @@
     "ageMin": 19,
     "ageMax": 99,
     "ageText": "Age at least 19 yrs but less than 99 yrs",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "1 opening remaining",
+    "availability": "open",
+    "spaces": 1,
     "firstDate": "2026-09-30",
     "lastDate": "2026-09-30"
   },
@@ -115271,9 +116925,9 @@
     "ageMin": 19,
     "ageMax": 99,
     "ageText": "Age at least 19 yrs but less than 99 yrs",
-    "openings": "2 openings remaining",
-    "availability": "open",
-    "spaces": 2,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-10-01",
     "lastDate": "2026-10-01"
   },
@@ -115439,9 +117093,9 @@
     "ageMin": 19,
     "ageMax": 99,
     "ageText": "Age at least 19 yrs but less than 99 yrs",
-    "openings": "2 openings remaining",
-    "availability": "open",
-    "spaces": 2,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-10-02",
     "lastDate": "2026-10-02"
   },
@@ -116557,5 +118211,135 @@
     "spaces": 0,
     "firstDate": "2026-09-08",
     "lastDate": "2026-12-15"
+  },
+  {
+    "id": 642503,
+    "title": "Aquafit - Shallow Moderate",
+    "calendarId": 55,
+    "centerId": 56,
+    "facilityIds": [
+      203
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/aquafit---shallow-moderate/642503",
+    "description": "<p>This Aquafit class is a moderately paced and energizing class that utilizes water resistance for a variety of exercise combinations with warm up, cardio, strength, stretch and cool down components, designed for participants who want to increase their fitness and muscular endurance.</p><br />",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "",
+    "free": false,
+    "ageMin": 13,
+    "ageMax": 0,
+    "ageText": "13 yrs +",
+    "openings": "28 openings remaining",
+    "availability": "open",
+    "spaces": 28,
+    "firstDate": "2026-10-24",
+    "lastDate": "2026-10-24"
+  },
+  {
+    "id": 642504,
+    "title": "Aquafit - Shallow Moderate",
+    "calendarId": 55,
+    "centerId": 56,
+    "facilityIds": [
+      203
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/aquafit---shallow-moderate/642504",
+    "description": "<p>This Aquafit class is a moderately paced and energizing class that utilizes water resistance for a variety of exercise combinations with warm up, cardio, strength, stretch and cool down components, designed for participants who want to increase their fitness and muscular endurance.</p><br />",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "",
+    "free": false,
+    "ageMin": 13,
+    "ageMax": 0,
+    "ageText": "13 yrs +",
+    "openings": "28 openings remaining",
+    "availability": "open",
+    "spaces": 28,
+    "firstDate": "2026-10-31",
+    "lastDate": "2026-10-31"
+  },
+  {
+    "id": 642505,
+    "title": "Aquafit - Shallow Moderate",
+    "calendarId": 55,
+    "centerId": 56,
+    "facilityIds": [
+      203
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/aquafit---shallow-moderate/642505",
+    "description": "<p>This Aquafit class is a moderately paced and energizing class that utilizes water resistance for a variety of exercise combinations with warm up, cardio, strength, stretch and cool down components, designed for participants who want to increase their fitness and muscular endurance.</p><br />",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "",
+    "free": false,
+    "ageMin": 13,
+    "ageMax": 0,
+    "ageText": "13 yrs +",
+    "openings": "28 openings remaining",
+    "availability": "open",
+    "spaces": 28,
+    "firstDate": "2026-11-07",
+    "lastDate": "2026-11-07"
+  },
+  {
+    "id": 642506,
+    "title": "Aquafit - Shallow Moderate",
+    "calendarId": 55,
+    "centerId": 56,
+    "facilityIds": [
+      203
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/aquafit---shallow-moderate/642506",
+    "description": "<p>This Aquafit class is a moderately paced and energizing class that utilizes water resistance for a variety of exercise combinations with warm up, cardio, strength, stretch and cool down components, designed for participants who want to increase their fitness and muscular endurance.</p><br />",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "",
+    "free": false,
+    "ageMin": 13,
+    "ageMax": 0,
+    "ageText": "13 yrs +",
+    "openings": "28 openings remaining",
+    "availability": "open",
+    "spaces": 28,
+    "firstDate": "2026-11-14",
+    "lastDate": "2026-11-14"
+  },
+  {
+    "id": 642692,
+    "title": "WCT - T-shirt Screen Printing",
+    "calendarId": 26,
+    "centerId": 38,
+    "facilityIds": [
+      361
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/wct---t-shirt-screen-printing/642692",
+    "description": "Join David Arnault for an evening to make your own 4 Colours Directions T-shirts!<br />An Indigenous advocate, David focuses on cultural reconnection and healing intergenerational trauma, and serves as Director of the Pêyâkoskan Wellness Collective, providing advocacy, holistic support, and ceremonial outreach across Greater Vancouver.",
+    "instructors": [
+      "TBA Instructor"
+    ],
+    "priceText": "$9.52",
+    "free": false,
+    "ageMin": 10,
+    "ageMax": 100,
+    "ageText": "Age at least 10y 10m but less than 100y 10m",
+    "openings": "20 openings remaining",
+    "availability": "open",
+    "spaces": 20,
+    "firstDate": "2026-10-06",
+    "lastDate": "2026-10-06",
+    "prices": [
+      {
+        "price": "$9.52",
+        "description": "Standard charge"
+      },
+      {
+        "price": "50.00%",
+        "description": "Leisure Access - CCA: for Customer"
+      }
+    ]
   }
 ]
