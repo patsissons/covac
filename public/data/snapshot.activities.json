@@ -481,9 +481,9 @@
     "ageMin": 15,
     "ageMax": 99,
     "ageText": "Age at least 15y 11m but less than 99 yrs",
-    "openings": "22 openings remaining",
+    "openings": "19 openings remaining",
     "availability": "open",
-    "spaces": 22,
+    "spaces": 19,
     "firstDate": "2026-10-05",
     "lastDate": "2026-10-28",
     "prices": [
@@ -506,11 +506,11 @@
       334
     ],
     "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/axe-capoeira---beginner-mini-kids-3-6yrs-nov/620683",
-    "description": "<p>Anyone can join! Classes cover all aspects of Capoeira: martial arts, dance, music, acrobatics, culture, language and more. Focus on developing rhythm, reflexes, balance, coordination and increasing strength and flexibility.</p><p>Class does not pro-rate, monthly rate only</p><p>$25/drop in</p><p><b>No class Nov 15, 17 &amp; 22</b></p>",
+    "description": "<p>Anyone can join! Classes cover all aspects of Capoeira: martial arts, dance, music, acrobatics, culture, language and more. Focus on developing rhythm, reflexes, balance, coordination and increasing strength and flexibility.</p><p>Class does not pro-rate, monthly rate only</p><p>$25/drop in</p><p><b>No class Nov 10, 15, 17, 22 &amp; 24</b></p>",
     "instructors": [
       "Marcus Vinicios Maciel"
     ],
-    "priceText": "$100.00",
+    "priceText": "$75.00",
     "free": false,
     "ageMin": 2,
     "ageMax": 6,
@@ -522,7 +522,7 @@
     "lastDate": "2026-11-29",
     "prices": [
       {
-        "price": "$100.00",
+        "price": "$75.00",
         "description": "Standard charge"
       },
       {
@@ -549,9 +549,9 @@
     "ageMin": 2,
     "ageMax": 6,
     "ageText": "Age at least 2y 11m but less than 6y 11m",
-    "openings": "19 openings remaining",
+    "openings": "18 openings remaining",
     "availability": "open",
-    "spaces": 19,
+    "spaces": 18,
     "firstDate": "2026-10-04",
     "lastDate": "2026-10-27",
     "prices": [
@@ -617,9 +617,9 @@
     "ageMin": 6,
     "ageMax": 15,
     "ageText": "Age at least 6y 11m but less than 15y 11m",
-    "openings": "23 openings remaining",
+    "openings": "20 openings remaining",
     "availability": "open",
-    "spaces": 23,
+    "spaces": 20,
     "firstDate": "2026-10-05",
     "lastDate": "2026-10-28",
     "prices": [
@@ -1330,9 +1330,9 @@
     "ageMin": 3,
     "ageMax": 6,
     "ageText": "Age at least 3y 8m but less than 6 yrs",
-    "openings": "5 openings remaining",
+    "openings": "6 openings remaining",
     "availability": "open",
-    "spaces": 5,
+    "spaces": 6,
     "firstDate": "2026-09-12",
     "lastDate": "2026-12-12",
     "prices": [
@@ -1364,9 +1364,9 @@
     "ageMin": 3,
     "ageMax": 6,
     "ageText": "Age at least 3y 8m but less than 6 yrs",
-    "openings": "2 openings remaining",
+    "openings": "3 openings remaining",
     "availability": "open",
-    "spaces": 2,
+    "spaces": 3,
     "firstDate": "2026-09-12",
     "lastDate": "2026-12-12",
     "prices": [
@@ -1398,9 +1398,9 @@
     "ageMin": 3,
     "ageMax": 6,
     "ageText": "Age at least 3y 8m but less than 6 yrs",
-    "openings": "2 openings remaining",
+    "openings": "3 openings remaining",
     "availability": "open",
-    "spaces": 2,
+    "spaces": 3,
     "firstDate": "2026-09-12",
     "lastDate": "2026-12-12",
     "prices": [
@@ -1500,9 +1500,9 @@
     "ageMin": 4,
     "ageMax": 7,
     "ageText": "Age at least 4y 9m but less than 7 yrs",
-    "openings": "2 openings remaining",
+    "openings": "1 opening remaining",
     "availability": "open",
-    "spaces": 2,
+    "spaces": 1,
     "firstDate": "2026-09-13",
     "lastDate": "2026-12-13",
     "prices": [
@@ -1601,9 +1601,9 @@
     "ageMin": 8,
     "ageMax": 13,
     "ageText": "Age at least 8y 8m but less than 13 yrs",
-    "openings": "7 openings remaining",
+    "openings": "6 openings remaining",
     "availability": "open",
-    "spaces": 7,
+    "spaces": 6,
     "firstDate": "2026-09-13",
     "lastDate": "2026-12-13",
     "prices": [
@@ -1775,9 +1775,9 @@
     "ageMin": 13,
     "ageMax": 99,
     "ageText": "Age at least 13 yrs but less than 99 yrs",
-    "openings": "26 openings remaining",
+    "openings": "25 openings remaining",
     "availability": "open",
-    "spaces": 26,
+    "spaces": 25,
     "firstDate": "2026-10-01",
     "lastDate": "2026-10-31",
     "prices": [
@@ -2251,9 +2251,9 @@
     "ageMin": 5,
     "ageMax": 7,
     "ageText": "Age at least 5y 9m but less than 7y 11m",
-    "openings": "3 openings remaining",
+    "openings": "2 openings remaining",
     "availability": "open",
-    "spaces": 3,
+    "spaces": 2,
     "firstDate": "2026-09-13",
     "lastDate": "2026-11-29",
     "prices": [
@@ -3113,9 +3113,9 @@
     "ageMin": 15,
     "ageMax": 99,
     "ageText": "Age at least 15y 11m but less than 99 yrs",
-    "openings": "24 openings remaining",
+    "openings": "23 openings remaining",
     "availability": "open",
-    "spaces": 24,
+    "spaces": 23,
     "firstDate": "2026-10-05",
     "lastDate": "2026-10-26",
     "prices": [
@@ -3181,9 +3181,9 @@
     "ageMin": 6,
     "ageMax": 14,
     "ageText": "Age at least 6y 9m but less than 14 yrs",
-    "openings": "23 openings remaining",
+    "openings": "22 openings remaining",
     "availability": "open",
-    "spaces": 23,
+    "spaces": 22,
     "firstDate": "2026-10-05",
     "lastDate": "2026-10-26",
     "prices": [
@@ -3680,9 +3680,9 @@
     "ageMin": 16,
     "ageMax": 0,
     "ageText": "16 yrs +",
-    "openings": "9 openings remaining",
+    "openings": "10 openings remaining",
     "availability": "open",
-    "spaces": 9,
+    "spaces": 10,
     "firstDate": "2026-09-14",
     "lastDate": "2026-12-14",
     "prices": [
@@ -3985,9 +3985,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "2 openings remaining",
-    "availability": "open",
-    "spaces": 2,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-10-08",
     "lastDate": "2026-10-08",
     "prices": [
@@ -4400,9 +4400,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "4 openings remaining",
+    "openings": "3 openings remaining",
     "availability": "open",
-    "spaces": 4,
+    "spaces": 3,
     "firstDate": "2026-10-06",
     "lastDate": "2026-10-06",
     "prices": [
@@ -4784,9 +4784,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "1 opening remaining",
-    "availability": "open",
-    "spaces": 1,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-10-05",
     "lastDate": "2026-10-05",
     "prices": [
@@ -5072,9 +5071,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-10-05",
     "lastDate": "2026-10-05",
     "prices": [
@@ -5809,9 +5807,9 @@
     "ageMin": 16,
     "ageMax": 0,
     "ageText": "16 yrs +",
-    "openings": "34 openings remaining",
+    "openings": "33 openings remaining",
     "availability": "open",
-    "spaces": 34,
+    "spaces": 33,
     "firstDate": "2026-11-08",
     "lastDate": "2026-12-20",
     "prices": [
@@ -6696,9 +6694,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "9 openings remaining",
+    "openings": "8 openings remaining",
     "availability": "open",
-    "spaces": 9,
+    "spaces": 8,
     "firstDate": "2026-09-14",
     "lastDate": "2026-10-26",
     "prices": [
@@ -8357,9 +8355,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-14",
     "lastDate": "2026-10-05",
     "prices": [
@@ -9303,9 +9300,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "1 opening remaining",
-    "availability": "open",
-    "spaces": 1,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-10-13",
     "lastDate": "2026-10-13"
   },
@@ -9756,9 +9753,9 @@
     "ageMin": 2,
     "ageMax": 13,
     "ageText": "Age at least 2 yrs but less than 13 yrs",
-    "openings": "22 openings remaining",
+    "openings": "21 openings remaining",
     "availability": "open",
-    "spaces": 22,
+    "spaces": 21,
     "firstDate": "2026-10-30",
     "lastDate": "2026-10-30"
   },
@@ -10335,9 +10332,9 @@
     "ageMin": 17,
     "ageMax": 0,
     "ageText": "17 yrs +",
-    "openings": "33 openings remaining",
+    "openings": "32 openings remaining",
     "availability": "open",
-    "spaces": 33,
+    "spaces": 32,
     "firstDate": "2026-10-01",
     "lastDate": "2026-10-31",
     "prices": [
@@ -10609,9 +10606,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "12 openings remaining",
+    "openings": "11 openings remaining",
     "availability": "open",
-    "spaces": 12,
+    "spaces": 11,
     "firstDate": "2026-10-05",
     "lastDate": "2026-11-09",
     "prices": [
@@ -11017,9 +11014,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "11 openings remaining",
+    "openings": "10 openings remaining",
     "availability": "open",
-    "spaces": 11,
+    "spaces": 10,
     "firstDate": "2026-09-14",
     "lastDate": "2026-12-14",
     "prices": [
@@ -11391,9 +11388,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-14",
     "lastDate": "2026-10-05",
     "prices": [
@@ -11493,9 +11489,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-14",
     "lastDate": "2026-10-05",
     "prices": [
@@ -11753,9 +11748,9 @@
     "ageMin": 13,
     "ageMax": 0,
     "ageText": "13 yrs +",
-    "openings": "27 openings remaining",
+    "openings": "26 openings remaining",
     "availability": "open",
-    "spaces": 27,
+    "spaces": 26,
     "firstDate": "2026-10-02",
     "lastDate": "2026-10-31",
     "prices": [
@@ -12210,9 +12205,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "35 openings remaining",
+    "openings": "36 openings remaining",
     "availability": "open",
-    "spaces": 35,
+    "spaces": 36,
     "firstDate": "2026-09-21",
     "lastDate": "2026-10-26",
     "prices": [
@@ -12278,9 +12273,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "38 openings remaining",
+    "openings": "37 openings remaining",
     "availability": "open",
-    "spaces": 38,
+    "spaces": 37,
     "firstDate": "2026-11-04",
     "lastDate": "2026-12-16",
     "prices": [
@@ -14438,9 +14433,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "3 openings remaining",
+    "availability": "open",
+    "spaces": 3,
     "firstDate": "2026-09-14",
     "lastDate": "2026-12-21",
     "prices": [
@@ -14676,9 +14671,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "2 openings remaining",
+    "openings": "1 opening remaining",
     "availability": "open",
-    "spaces": 2,
+    "spaces": 1,
     "firstDate": "2026-10-18",
     "lastDate": "2026-11-08",
     "prices": [
@@ -16300,9 +16295,9 @@
     "ageMin": 6,
     "ageMax": 0,
     "ageText": "6 yrs +",
-    "openings": "14 openings remaining",
+    "openings": "13 openings remaining",
     "availability": "open",
-    "spaces": 14,
+    "spaces": 13,
     "firstDate": "2026-10-01",
     "lastDate": "2026-10-29",
     "prices": [
@@ -16400,9 +16395,9 @@
     "ageMin": 6,
     "ageMax": 0,
     "ageText": "6 yrs +",
-    "openings": "14 openings remaining",
+    "openings": "13 openings remaining",
     "availability": "open",
-    "spaces": 14,
+    "spaces": 13,
     "firstDate": "2026-10-01",
     "lastDate": "2026-10-29",
     "prices": [
@@ -16500,9 +16495,9 @@
     "ageMin": 6,
     "ageMax": 0,
     "ageText": "6 yrs +",
-    "openings": "14 openings remaining",
+    "openings": "12 openings remaining",
     "availability": "open",
-    "spaces": 14,
+    "spaces": 12,
     "firstDate": "2026-10-01",
     "lastDate": "2026-10-29",
     "prices": [
@@ -20461,9 +20456,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "14 openings remaining",
+    "openings": "15 openings remaining",
     "availability": "open",
-    "spaces": 14,
+    "spaces": 15,
     "firstDate": "2026-11-18",
     "lastDate": "2026-12-16",
     "prices": [
@@ -21107,9 +21102,9 @@
     "ageMin": 55,
     "ageMax": 0,
     "ageText": "55 yrs +",
-    "openings": "1 opening remaining",
-    "availability": "open",
-    "spaces": 1,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-09-15",
     "lastDate": "2026-12-15"
   },
@@ -21131,9 +21126,9 @@
     "ageMin": 4,
     "ageMax": 6,
     "ageText": "Age at least 4 yrs but less than 6y 11m 3w",
-    "openings": "9 openings remaining",
+    "openings": "7 openings remaining",
     "availability": "open",
-    "spaces": 9,
+    "spaces": 7,
     "firstDate": "2026-11-02",
     "lastDate": "2026-12-14",
     "prices": [
@@ -22287,9 +22282,8 @@
     "ageMin": 55,
     "ageMax": 0,
     "ageText": "55 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-14",
     "lastDate": "2026-10-05",
     "prices": [
@@ -22900,9 +22894,9 @@
     "ageMin": 7,
     "ageMax": 17,
     "ageText": "Age at least 7 yrs but less than 17 yrs",
-    "openings": "11 openings remaining",
+    "openings": "10 openings remaining",
     "availability": "open",
-    "spaces": 11,
+    "spaces": 10,
     "firstDate": "2026-09-11",
     "lastDate": "2026-10-30",
     "prices": [
@@ -23635,9 +23629,9 @@
     "ageMin": 55,
     "ageMax": 0,
     "ageText": "55 yrs +",
-    "openings": "6 openings remaining",
+    "openings": "7 openings remaining",
     "availability": "open",
-    "spaces": 6,
+    "spaces": 7,
     "firstDate": "2026-11-13",
     "lastDate": "2026-12-18",
     "prices": [
@@ -23833,9 +23827,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "6 openings remaining",
+    "openings": "5 openings remaining",
     "availability": "open",
-    "spaces": 6,
+    "spaces": 5,
     "firstDate": "2026-10-17",
     "lastDate": "2026-11-07",
     "prices": [
@@ -25657,9 +25651,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-10-05",
     "lastDate": "2026-10-05",
     "prices": [
@@ -25895,9 +25888,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "24 openings remaining",
+    "openings": "2 openings remaining",
     "availability": "open",
-    "spaces": 24,
+    "spaces": 2,
     "firstDate": "2026-10-09",
     "lastDate": "2026-10-09",
     "prices": [
@@ -28313,9 +28306,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "9 openings remaining",
+    "openings": "8 openings remaining",
     "availability": "open",
-    "spaces": 9,
+    "spaces": 8,
     "firstDate": "2026-11-03",
     "lastDate": "2026-11-03",
     "prices": [
@@ -29073,9 +29066,9 @@
     "ageMin": 2,
     "ageMax": 4,
     "ageText": "Age at least 2 yrs but less than 4y 11m 4w",
-    "openings": "17 openings remaining",
+    "openings": "16 openings remaining",
     "availability": "open",
-    "spaces": 17,
+    "spaces": 16,
     "firstDate": "2026-10-01",
     "lastDate": "2026-10-31",
     "prices": [
@@ -29107,9 +29100,9 @@
     "ageMin": 5,
     "ageMax": 7,
     "ageText": "Age at least 5 yrs but less than 7y 11m 4w",
-    "openings": "18 openings remaining",
+    "openings": "17 openings remaining",
     "availability": "open",
-    "spaces": 18,
+    "spaces": 17,
     "firstDate": "2026-10-01",
     "lastDate": "2026-10-31",
     "prices": [
@@ -29277,9 +29270,9 @@
     "ageMin": 18,
     "ageMax": 0,
     "ageText": "18 yrs +",
-    "openings": "17 openings remaining",
+    "openings": "16 openings remaining",
     "availability": "open",
-    "spaces": 17,
+    "spaces": 16,
     "firstDate": "2026-10-01",
     "lastDate": "2026-10-31",
     "prices": [
@@ -29651,9 +29644,9 @@
     "ageMin": 4,
     "ageMax": 7,
     "ageText": "Age at least 4 yrs but less than 7y 11m",
-    "openings": "6 openings remaining",
+    "openings": "5 openings remaining",
     "availability": "open",
-    "spaces": 6,
+    "spaces": 5,
     "firstDate": "2026-11-07",
     "lastDate": "2026-12-12",
     "prices": [
@@ -29957,9 +29950,9 @@
     "ageMin": 3,
     "ageMax": 5,
     "ageText": "Age at least 3y 6m but less than 5y 11m 4w",
-    "openings": "7 openings remaining",
+    "openings": "6 openings remaining",
     "availability": "open",
-    "spaces": 7,
+    "spaces": 6,
     "firstDate": "2026-11-03",
     "lastDate": "2026-12-15",
     "prices": [
@@ -31604,7 +31597,7 @@
       671
     ],
     "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/parent-and-tot-gym/625877",
-    "description": "Jump on the bouncy castle or swing on the jungle gym! Join in on this time for your child to socialize and play in the gym. Parent participation is required. TSBC license #LAM0200026<br />Organized birthday parties are not allowed during Parent &amp; Tot Gym program.",
+    "description": "Jump on the bouncy castle or swing on the jungle gym! Join in on this time for your child to socialize and play in the gym. Parent participation is required. No session Oct 24. TSBC license #LAM0200026<br />Organized birthday parties are not allowed during Parent &amp; Tot Gym program.",
     "instructors": [],
     "priceText": "$2.00",
     "free": false,
@@ -31941,9 +31934,9 @@
     "ageMin": 55,
     "ageMax": 0,
     "ageText": "55 yrs +",
-    "openings": "2 openings remaining",
-    "availability": "open",
-    "spaces": 2,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-11-02",
     "lastDate": "2026-12-14",
     "prices": [
@@ -32284,9 +32277,9 @@
     "ageMin": 55,
     "ageMax": 0,
     "ageText": "55 yrs +",
-    "openings": "5 openings remaining",
+    "openings": "4 openings remaining",
     "availability": "open",
-    "spaces": 5,
+    "spaces": 4,
     "firstDate": "2026-09-14",
     "lastDate": "2026-12-14",
     "prices": [
@@ -33256,9 +33249,8 @@
     "ageMin": 15,
     "ageMax": 0,
     "ageText": "15 yrs +",
-    "openings": "20 openings remaining",
-    "availability": "open",
-    "spaces": 20,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-14",
     "lastDate": "2026-10-05",
     "prices": [
@@ -33562,9 +33554,8 @@
     "ageMin": 13,
     "ageMax": 0,
     "ageText": "13 yrs +",
-    "openings": "4 openings remaining",
-    "availability": "open",
-    "spaces": 4,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-14",
     "lastDate": "2026-10-05",
     "prices": [
@@ -33596,9 +33587,9 @@
     "ageMin": 13,
     "ageMax": 0,
     "ageText": "13 yrs +",
-    "openings": "11 openings remaining",
+    "openings": "8 openings remaining",
     "availability": "open",
-    "spaces": 11,
+    "spaces": 8,
     "firstDate": "2026-10-19",
     "lastDate": "2026-11-16",
     "prices": [
@@ -33698,9 +33689,9 @@
     "ageMin": 13,
     "ageMax": 0,
     "ageText": "13 yrs +",
-    "openings": "11 openings remaining",
+    "openings": "8 openings remaining",
     "availability": "open",
-    "spaces": 11,
+    "spaces": 8,
     "firstDate": "2026-10-14",
     "lastDate": "2026-11-04",
     "prices": [
@@ -33766,9 +33757,9 @@
     "ageMin": 13,
     "ageMax": 0,
     "ageText": "13 yrs +",
-    "openings": "9 openings remaining",
+    "openings": "6 openings remaining",
     "availability": "open",
-    "spaces": 9,
+    "spaces": 6,
     "firstDate": "2026-10-09",
     "lastDate": "2026-11-13",
     "prices": [
@@ -33801,9 +33792,9 @@
     "ageMin": 55,
     "ageMax": 0,
     "ageText": "55 yrs +",
-    "openings": "26 openings remaining",
+    "openings": "25 openings remaining",
     "availability": "open",
-    "spaces": 26,
+    "spaces": 25,
     "firstDate": "2026-10-06",
     "lastDate": "2026-10-06",
     "prices": [
@@ -34150,9 +34141,8 @@
     "ageMin": 15,
     "ageMax": 0,
     "ageText": "15 yrs +",
-    "openings": "2 openings remaining",
-    "availability": "open",
-    "spaces": 2,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-14",
     "lastDate": "2026-10-05",
     "prices": [
@@ -36064,9 +36054,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "20 openings remaining",
+    "openings": "19 openings remaining",
     "availability": "open",
-    "spaces": 20,
+    "spaces": 19,
     "firstDate": "2026-10-05",
     "lastDate": "2026-10-28",
     "prices": [
@@ -38024,9 +38014,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "15 openings remaining",
-    "availability": "open",
-    "spaces": 15,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-14",
     "lastDate": "2026-10-05",
     "prices": [
@@ -41886,9 +41875,9 @@
     "ageMin": 12,
     "ageMax": 17,
     "ageText": "Age at least 12 yrs but less than 17y 11m",
-    "openings": "5 openings remaining",
+    "openings": "3 openings remaining",
     "availability": "open",
-    "spaces": 5,
+    "spaces": 3,
     "firstDate": "2026-09-08",
     "lastDate": "2026-12-15"
   },
@@ -42010,9 +41999,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "3 openings remaining",
+    "openings": "2 openings remaining",
     "availability": "open",
-    "spaces": 3,
+    "spaces": 2,
     "firstDate": "2026-09-10",
     "lastDate": "2026-10-29",
     "prices": [
@@ -43672,9 +43661,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-10-05",
     "lastDate": "2026-10-05"
   },
@@ -44148,9 +44136,9 @@
     "ageMin": 18,
     "ageMax": 0,
     "ageText": "18 yrs +",
-    "openings": "15 openings remaining",
+    "openings": "16 openings remaining",
     "availability": "open",
-    "spaces": 15,
+    "spaces": 16,
     "firstDate": "2026-10-07",
     "lastDate": "2026-11-04",
     "prices": [
@@ -44376,9 +44364,9 @@
     "ageMin": 18,
     "ageMax": 0,
     "ageText": "18 yrs +",
-    "openings": "7 openings remaining",
+    "openings": "6 openings remaining",
     "availability": "open",
-    "spaces": 7,
+    "spaces": 6,
     "firstDate": "2026-09-17",
     "lastDate": "2026-10-29",
     "prices": [
@@ -48298,9 +48286,9 @@
     "ageMin": 6,
     "ageMax": 12,
     "ageText": "Age at least 6 yrs but less than 12y 11m 3w",
-    "openings": "15 openings remaining",
+    "openings": "14 openings remaining",
     "availability": "open",
-    "spaces": 15,
+    "spaces": 14,
     "firstDate": "2026-09-11",
     "lastDate": "2026-12-04",
     "prices": [
@@ -48789,9 +48777,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-10-05",
     "lastDate": "2026-10-05"
   },
@@ -48811,9 +48798,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-10-05",
     "lastDate": "2026-10-05"
   },
@@ -50712,9 +50698,9 @@
     "ageMin": 6,
     "ageMax": 18,
     "ageText": "Age at least 6 yrs but less than 18y 11m 3w",
-    "openings": "30 openings remaining",
+    "openings": "28 openings remaining",
     "availability": "open",
-    "spaces": 30,
+    "spaces": 28,
     "firstDate": "2026-09-10",
     "lastDate": "2026-12-17",
     "prices": [
@@ -51872,9 +51858,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "8 openings remaining",
+    "openings": "7 openings remaining",
     "availability": "open",
-    "spaces": 8,
+    "spaces": 7,
     "firstDate": "2026-10-18",
     "lastDate": "2026-11-22",
     "prices": [
@@ -51906,9 +51892,8 @@
     "ageMin": 15,
     "ageMax": 0,
     "ageText": "15 yrs +",
-    "openings": "11 openings remaining",
-    "availability": "open",
-    "spaces": 11,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-14",
     "lastDate": "2026-10-05",
     "prices": [
@@ -51974,9 +51959,9 @@
     "ageMin": 15,
     "ageMax": 0,
     "ageText": "15 yrs +",
-    "openings": "15 openings remaining",
+    "openings": "14 openings remaining",
     "availability": "open",
-    "spaces": 15,
+    "spaces": 14,
     "firstDate": "2026-10-19",
     "lastDate": "2026-11-16",
     "prices": [
@@ -52076,9 +52061,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "11 openings remaining",
+    "openings": "10 openings remaining",
     "availability": "open",
-    "spaces": 11,
+    "spaces": 10,
     "firstDate": "2026-10-21",
     "lastDate": "2026-11-25",
     "prices": [
@@ -52728,7 +52713,7 @@
     "availability": "open",
     "spaces": 13,
     "firstDate": "2026-09-25",
-    "lastDate": "2026-12-11"
+    "lastDate": "2026-12-04"
   },
   {
     "id": 628076,
@@ -52850,9 +52835,9 @@
     "ageMin": 4,
     "ageMax": 7,
     "ageText": "Age at least 4y 11m but less than 7y 11m",
-    "openings": "18 openings remaining",
+    "openings": "17 openings remaining",
     "availability": "open",
-    "spaces": 18,
+    "spaces": 17,
     "firstDate": "2026-10-04",
     "lastDate": "2026-10-27",
     "prices": [
@@ -52875,11 +52860,11 @@
       334
     ],
     "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/axe-capoeira---intermediate-mini-kids-5-7-yrs-nov/628090",
-    "description": "<p>Students enrolled in this class, must have a minimum of 1 year consistent Capoeira experience, or permission from the school. </p><p>This is an intermediate program: students should have a full knowledge of basic movements and this class will focus on more advanced movements in Capoeira, which will prepare students for the youth program. Classes cover all aspects of Capoeira: martial arts, dance, music, acrobatics, culture, language and more. Focus on developing rhythm, reflexes, balance, coordination and increasing strength and flexibility. *Uniform is required to join class </p><p>Class does not pro-rate, monthly rate only</p><p>$25/drop in</p><p><b>No class Nov 15, 17 &amp; 22</b></p>",
+    "description": "<p>Students enrolled in this class, must have a minimum of 1 year consistent Capoeira experience, or permission from the school. </p><p>This is an intermediate program: students should have a full knowledge of basic movements and this class will focus on more advanced movements in Capoeira, which will prepare students for the youth program. Classes cover all aspects of Capoeira: martial arts, dance, music, acrobatics, culture, language and more. Focus on developing rhythm, reflexes, balance, coordination and increasing strength and flexibility. *Uniform is required to join class </p><p>Class does not pro-rate, monthly rate only</p><p>$25/drop in</p><p><b>No class Nov 10, 15, 17, 22 &amp; 24</b></p>",
     "instructors": [
       "Marcus Vinicios Maciel"
     ],
-    "priceText": "$100.00",
+    "priceText": "$75.00",
     "free": false,
     "ageMin": 4,
     "ageMax": 7,
@@ -52891,7 +52876,7 @@
     "lastDate": "2026-11-29",
     "prices": [
       {
-        "price": "$100.00",
+        "price": "$75.00",
         "description": "Standard charge"
       },
       {
@@ -54093,9 +54078,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "4 openings remaining",
+    "openings": "3 openings remaining",
     "availability": "open",
-    "spaces": 4,
+    "spaces": 3,
     "firstDate": "2026-10-06",
     "lastDate": "2026-10-27",
     "prices": [
@@ -54331,9 +54316,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "2 openings remaining",
+    "openings": "4 openings remaining",
     "availability": "open",
-    "spaces": 2,
+    "spaces": 4,
     "firstDate": "2026-09-09",
     "lastDate": "2026-12-30",
     "prices": [
@@ -54434,9 +54419,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "1 opening remaining",
+    "availability": "open",
+    "spaces": 1,
     "firstDate": "2026-09-13",
     "lastDate": "2026-12-27",
     "prices": [
@@ -55929,9 +55914,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "11 openings remaining",
+    "openings": "10 openings remaining",
     "availability": "open",
-    "spaces": 11,
+    "spaces": 10,
     "firstDate": "2026-09-14",
     "lastDate": "2026-10-26",
     "prices": [
@@ -57438,9 +57423,9 @@
     "ageMin": 7,
     "ageMax": 10,
     "ageText": "Age at least 7 yrs but less than 10y 11m",
-    "openings": "3 openings remaining",
+    "openings": "2 openings remaining",
     "availability": "open",
-    "spaces": 3,
+    "spaces": 2,
     "firstDate": "2026-09-20",
     "lastDate": "2026-12-20"
   },
@@ -60668,9 +60653,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "22 openings remaining",
+    "openings": "21 openings remaining",
     "availability": "open",
-    "spaces": 22,
+    "spaces": 21,
     "firstDate": "2026-10-08",
     "lastDate": "2026-10-08"
   },
@@ -61466,9 +61451,9 @@
     "ageMin": 10,
     "ageMax": 18,
     "ageText": "Age at least 10 yrs but less than 18y 11m",
-    "openings": "12 openings remaining",
+    "openings": "11 openings remaining",
     "availability": "open",
-    "spaces": 12,
+    "spaces": 11,
     "firstDate": "2026-10-02",
     "lastDate": "2026-10-30",
     "prices": [
@@ -61602,9 +61587,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-14",
     "lastDate": "2026-10-05",
     "prices": [
@@ -62302,9 +62286,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "6 openings remaining",
+    "openings": "5 openings remaining",
     "availability": "open",
-    "spaces": 6,
+    "spaces": 5,
     "firstDate": "2026-09-15",
     "lastDate": "2026-10-27",
     "prices": [
@@ -62708,9 +62692,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "29 openings remaining",
+    "openings": "28 openings remaining",
     "availability": "open",
-    "spaces": 29,
+    "spaces": 28,
     "firstDate": "2026-09-14",
     "lastDate": "2026-10-26",
     "prices": [
@@ -62912,9 +62896,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "5 openings remaining",
+    "openings": "4 openings remaining",
     "availability": "open",
-    "spaces": 5,
+    "spaces": 4,
     "firstDate": "2026-09-21",
     "lastDate": "2026-11-02",
     "prices": [
@@ -63039,9 +63023,9 @@
       402
     ],
     "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/basketball---recreational/630595",
-    "description": "Full court recreational basketball. 11 minute games with 3 teams of 6.",
+    "description": "Full court recreational basketball. 11 minute games with 3 teams of 6.<br /><b><u>No Class Oct 13</u></b>",
     "instructors": [],
-    "priceText": "$108.00",
+    "priceText": "$101.25",
     "free": false,
     "ageMin": 19,
     "ageMax": 0,
@@ -63053,7 +63037,7 @@
     "lastDate": "2026-12-15",
     "prices": [
       {
-        "price": "$108.00",
+        "price": "$101.25",
         "description": "Standard charge"
       },
       {
@@ -63071,9 +63055,9 @@
       402
     ],
     "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/indoor-soccer---recreational/630600",
-    "description": "Recreational: For players who want to improve their skills and have fun in a non-competitive environment. Not suitable for those looking to play in a competitive environment. <u><b>Slide Tackling is not permitted.</b></u>",
+    "description": "Recreational: For players who want to improve their skills and have fun in a non-competitive environment. Not suitable for those looking to play in a competitive environment. <u><b>Slide Tackling is not permitted.</b></u><u><b><br /></b></u><b><u>No Class Oct 13</u></b>",
     "instructors": [],
-    "priceText": "$108.00",
+    "priceText": "$101.25",
     "free": false,
     "ageMin": 19,
     "ageMax": 0,
@@ -63085,7 +63069,7 @@
     "lastDate": "2026-12-15",
     "prices": [
       {
-        "price": "$108.00",
+        "price": "$101.25",
         "description": "Standard charge"
       },
       {
@@ -63807,9 +63791,9 @@
       402
     ],
     "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/volleyball---recreational/630694",
-    "description": "Recreational: For players of all levels who want to have fun in a non-competitive and friendly environment. <br />No Class Sept 30 &amp; Nov 11",
+    "description": "Recreational: For players of all levels who want to have fun in a non-competitive and friendly environment. <br />No Class Sept 30, Oct 7 &amp; Nov 11",
     "instructors": [],
-    "priceText": "$94.50",
+    "priceText": "$87.75",
     "free": false,
     "ageMin": 19,
     "ageMax": 0,
@@ -63821,7 +63805,7 @@
     "lastDate": "2026-12-16",
     "prices": [
       {
-        "price": "$94.50",
+        "price": "$87.75",
         "description": "Standard charge"
       },
       {
@@ -63873,9 +63857,9 @@
       402
     ],
     "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/volleyball---advanced/630697",
-    "description": "<p>Advanced and co-ed, for experienced players only. At least one female per team each game. Must have a solid volleyball foundation, be able to pass, set, serve, spike, block with proficiency, and have a good knowledge of systems and strategic game play. Players need to show that they can be competitive in this advanced level. To ensure consistency of play and safety for all participants, a skill evaluation will be done on the first night of the session. The gym supervisor reserves the right to reassign players to the Intermediate or Recreational level if players do not meet Advanced skill levels. Skill levels are assessed based on Volleyball BC standards. <b><u>No Drop ins on Sept 2 during mandatory skill assessment. </u></b></p><p>Due to the increased interest in our Advanced Volleyball program, and in order to ensure that a high level of volleyball is offered safely and fairly, we have implemented some small changes.</p><ol><li>For the Advanced Programs an assessment of skills will occur on the first night (through observation). Those who do not demonstrate advanced skills will be asked to withdraw and register for Intermediate. We ask that you please be honest with your skill level when registering to ensure you are not left without a spot to play.</li><li>Players who do not attend the mandatory skills assessment will be withdrawn from the program and issued a full refund.</li><li>Drop-ins will still be permitted for the Advanced session, however, the Gym Supervisor will have discretion to remove players from play (without refund) should you not display the skills required</li></ol>No Class Sept 30 &amp; Nov 11",
+    "description": "<p>Advanced and co-ed, for experienced players only. At least one female per team each game. Must have a solid volleyball foundation, be able to pass, set, serve, spike, block with proficiency, and have a good knowledge of systems and strategic game play. Players need to show that they can be competitive in this advanced level. To ensure consistency of play and safety for all participants, a skill evaluation will be done on the first night of the session. The gym supervisor reserves the right to reassign players to the Intermediate or Recreational level if players do not meet Advanced skill levels. Skill levels are assessed based on Volleyball BC standards. <b><u>No Drop ins on Sept 2 during mandatory skill assessment. </u></b></p><p>Due to the increased interest in our Advanced Volleyball program, and in order to ensure that a high level of volleyball is offered safely and fairly, we have implemented some small changes.</p><ol><li>For the Advanced Programs an assessment of skills will occur on the first night (through observation). Those who do not demonstrate advanced skills will be asked to withdraw and register for Intermediate. We ask that you please be honest with your skill level when registering to ensure you are not left without a spot to play.</li><li>Players who do not attend the mandatory skills assessment will be withdrawn from the program and issued a full refund.</li><li>Drop-ins will still be permitted for the Advanced session, however, the Gym Supervisor will have discretion to remove players from play (without refund) should you not display the skills required</li></ol>No Class Sept 30, Oct 7 &amp; Nov 11",
     "instructors": [],
-    "priceText": "$94.50",
+    "priceText": "$87.75",
     "free": false,
     "ageMin": 19,
     "ageMax": 0,
@@ -63887,7 +63871,7 @@
     "lastDate": "2026-12-16",
     "prices": [
       {
-        "price": "$94.50",
+        "price": "$87.75",
         "description": "Standard charge"
       },
       {
@@ -63946,9 +63930,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "1 opening remaining",
-    "availability": "open",
-    "spaces": 1,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-10-15",
     "lastDate": "2026-10-15"
   },
@@ -68876,9 +68860,9 @@
     "ageMin": 55,
     "ageMax": 0,
     "ageText": "55 yrs +",
-    "openings": "3 openings remaining",
-    "availability": "open",
-    "spaces": 3,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-11-03",
     "lastDate": "2026-12-15",
     "prices": [
@@ -69146,9 +69130,9 @@
     "ageMin": 60,
     "ageMax": 0,
     "ageText": "60 yrs +",
-    "openings": "17 openings remaining",
+    "openings": "15 openings remaining",
     "availability": "open",
-    "spaces": 17,
+    "spaces": 15,
     "firstDate": "2026-09-14",
     "lastDate": "2026-12-14",
     "prices": [
@@ -69306,9 +69290,8 @@
     "ageMin": 50,
     "ageMax": 0,
     "ageText": "50 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-10-05",
     "lastDate": "2026-10-05"
   },
@@ -71181,9 +71164,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "7 openings remaining",
+    "openings": "5 openings remaining",
     "availability": "open",
-    "spaces": 7,
+    "spaces": 5,
     "firstDate": "2026-11-22",
     "lastDate": "2026-11-22",
     "prices": [
@@ -72447,9 +72430,9 @@
     "ageMin": 65,
     "ageMax": 0,
     "ageText": "65 yrs +",
-    "openings": "1 opening remaining",
-    "availability": "open",
-    "spaces": 1,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-10-15",
     "lastDate": "2026-10-15",
     "prices": [
@@ -75890,9 +75873,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-14",
     "lastDate": "2026-10-05",
     "prices": [
@@ -76750,9 +76732,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "17 openings remaining",
+    "openings": "15 openings remaining",
     "availability": "open",
-    "spaces": 17,
+    "spaces": 15,
     "firstDate": "2026-10-17",
     "lastDate": "2026-10-17",
     "prices": [
@@ -77285,40 +77267,6 @@
     ]
   },
   {
-    "id": 632119,
-    "title": "Movement Assessment & Personal Training Package - Oct",
-    "calendarId": 6,
-    "centerId": 6,
-    "facilityIds": [
-      41
-    ],
-    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/movement-assessment-personal-training-package---oct/632119",
-    "description": "Receive individualized guidance through a comprehensive movement assessment and three personalized Pilates sessions tailored to your goals. Ideal for new clients, those returning to exercise, recovering from injury, managing health concerns, or seeking a customized movement plan. The package includes a 60-minute assessment, three private sessions, personalized recommendations, and class placement guidance. Equipment: Mats and props are provided. Instructor: Shannon Smith, Founder of Pilates &amp; (PilatesAnd.com), Balanced Body Pilates Teacher and Certified Health &amp; Performance Professional.<br />",
-    "instructors": [
-      "Shannon Smith"
-    ],
-    "priceText": "$425.00",
-    "free": false,
-    "ageMin": 19,
-    "ageMax": 0,
-    "ageText": "19 yrs +",
-    "openings": "1 opening remaining",
-    "availability": "open",
-    "spaces": 1,
-    "firstDate": "2026-10-02",
-    "lastDate": "2026-10-23",
-    "prices": [
-      {
-        "price": "$425.00",
-        "description": "Standard charge"
-      },
-      {
-        "price": "50.00%",
-        "description": "Leisure Access Discount: for Customer"
-      }
-    ]
-  },
-  {
     "id": 632120,
     "title": "Movement Assessment & Personal Training Package - Nov",
     "calendarId": 6,
@@ -77760,9 +77708,9 @@
     "ageMin": 18,
     "ageMax": 0,
     "ageText": "18 yrs +",
-    "openings": "4 openings remaining",
+    "openings": "3 openings remaining",
     "availability": "open",
-    "spaces": 4,
+    "spaces": 3,
     "firstDate": "2026-09-18",
     "lastDate": "2026-12-18",
     "prices": [
@@ -77966,9 +77914,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "36 openings remaining",
+    "openings": "33 openings remaining",
     "availability": "open",
-    "spaces": 36,
+    "spaces": 33,
     "firstDate": "2026-10-05",
     "lastDate": "2026-10-26",
     "prices": [
@@ -78038,9 +77986,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "33 openings remaining",
+    "openings": "31 openings remaining",
     "availability": "open",
-    "spaces": 33,
+    "spaces": 31,
     "firstDate": "2026-10-05",
     "lastDate": "2026-10-26",
     "prices": [
@@ -78152,9 +78100,9 @@
     "ageMin": 18,
     "ageMax": 0,
     "ageText": "18 yrs +",
-    "openings": "3 openings remaining",
-    "availability": "open",
-    "spaces": 3,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-09-15",
     "lastDate": "2026-12-15",
     "prices": [
@@ -78713,9 +78661,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "22 openings remaining",
+    "openings": "21 openings remaining",
     "availability": "open",
-    "spaces": 22,
+    "spaces": 21,
     "firstDate": "2026-11-04",
     "lastDate": "2026-12-16",
     "prices": [
@@ -80649,9 +80597,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "15 openings remaining",
+    "openings": "12 openings remaining",
     "availability": "open",
-    "spaces": 15,
+    "spaces": 12,
     "firstDate": "2026-10-07",
     "lastDate": "2026-10-28",
     "prices": [
@@ -81225,9 +81173,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "1 opening remaining",
-    "availability": "open",
-    "spaces": 1,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-09-14",
     "lastDate": "2026-12-14",
     "prices": [
@@ -81408,9 +81356,9 @@
     "ageMin": 0,
     "ageMax": 0,
     "ageText": "All ages",
-    "openings": "4 openings remaining",
+    "openings": "2 openings remaining",
     "availability": "open",
-    "spaces": 4,
+    "spaces": 2,
     "firstDate": "2026-10-09",
     "lastDate": "2026-10-09",
     "prices": [
@@ -81513,9 +81461,9 @@
     "ageMin": 0,
     "ageMax": 0,
     "ageText": "All ages",
-    "openings": "5 openings remaining",
+    "openings": "3 openings remaining",
     "availability": "open",
-    "spaces": 5,
+    "spaces": 3,
     "firstDate": "2026-10-30",
     "lastDate": "2026-10-30",
     "prices": [
@@ -82153,9 +82101,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "27 openings remaining",
+    "openings": "26 openings remaining",
     "availability": "open",
-    "spaces": 27,
+    "spaces": 26,
     "firstDate": "2026-09-16",
     "lastDate": "2026-10-28",
     "prices": [
@@ -82529,9 +82477,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "1 opening remaining",
+    "availability": "open",
+    "spaces": 1,
     "firstDate": "2026-09-14",
     "lastDate": "2026-12-02",
     "prices": [
@@ -82635,9 +82583,9 @@
     "ageMin": 10,
     "ageMax": 14,
     "ageText": "Age at least 10 yrs but less than 14 yrs",
-    "openings": "8 openings remaining",
+    "openings": "6 openings remaining",
     "availability": "open",
-    "spaces": 8,
+    "spaces": 6,
     "firstDate": "2026-10-23",
     "lastDate": "2026-10-23",
     "prices": [
@@ -83347,9 +83295,9 @@
     "ageMin": 18,
     "ageMax": 0,
     "ageText": "18 yrs +",
-    "openings": "1 opening remaining",
-    "availability": "open",
-    "spaces": 1,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-10-22",
     "lastDate": "2026-11-19",
     "prices": [
@@ -83381,9 +83329,9 @@
     "ageMin": 18,
     "ageMax": 0,
     "ageText": "18 yrs +",
-    "openings": "1 opening remaining",
-    "availability": "open",
-    "spaces": 1,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-11-26",
     "lastDate": "2026-12-24",
     "prices": [
@@ -85221,9 +85169,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "8 openings remaining",
+    "openings": "7 openings remaining",
     "availability": "open",
-    "spaces": 8,
+    "spaces": 7,
     "firstDate": "2026-11-02",
     "lastDate": "2026-12-07",
     "prices": [
@@ -86282,9 +86230,9 @@
     "ageMin": 4,
     "ageMax": 6,
     "ageText": "Age at least 4 yrs but less than 6y 11m",
-    "openings": "2 openings remaining",
+    "openings": "1 opening remaining",
     "availability": "open",
-    "spaces": 2,
+    "spaces": 1,
     "firstDate": "2026-09-10",
     "lastDate": "2026-12-17",
     "prices": [
@@ -86764,9 +86712,9 @@
     "ageMin": 10,
     "ageMax": 100,
     "ageText": "Age at least 10y 10m but less than 100y 10m",
-    "openings": "8 openings remaining",
+    "openings": "7 openings remaining",
     "availability": "open",
-    "spaces": 8,
+    "spaces": 7,
     "firstDate": "2026-11-10",
     "lastDate": "2026-11-10",
     "prices": [
@@ -87875,9 +87823,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "3 openings remaining",
+    "openings": "2 openings remaining",
     "availability": "open",
-    "spaces": 3,
+    "spaces": 2,
     "firstDate": "2026-09-08",
     "lastDate": "2026-10-27",
     "prices": [
@@ -88001,9 +87949,9 @@
     "ageMin": 16,
     "ageMax": 0,
     "ageText": "16 yrs +",
-    "openings": "19 openings remaining",
+    "openings": "18 openings remaining",
     "availability": "open",
-    "spaces": 19,
+    "spaces": 18,
     "firstDate": "2026-09-11",
     "lastDate": "2026-11-13",
     "prices": [
@@ -89459,9 +89407,9 @@
     "ageMin": 13,
     "ageMax": 0,
     "ageText": "13 yrs +",
-    "openings": "18 openings remaining",
+    "openings": "10 openings remaining",
     "availability": "open",
-    "spaces": 18,
+    "spaces": 10,
     "firstDate": "2026-10-06",
     "lastDate": "2026-10-06",
     "prices": [
@@ -89845,9 +89793,9 @@
     "ageMin": 13,
     "ageMax": 0,
     "ageText": "13 yrs +",
-    "openings": "16 openings remaining",
+    "openings": "15 openings remaining",
     "availability": "open",
-    "spaces": 16,
+    "spaces": 15,
     "firstDate": "2026-10-07",
     "lastDate": "2026-10-07",
     "prices": [
@@ -90742,9 +90690,8 @@
     "ageMin": 13,
     "ageMax": 0,
     "ageText": "13 yrs +",
-    "openings": "14 openings remaining",
-    "availability": "open",
-    "spaces": 14,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-10-05",
     "lastDate": "2026-10-05",
     "prices": [
@@ -91528,9 +91475,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "3 openings remaining",
+    "openings": "2 openings remaining",
     "availability": "open",
-    "spaces": 3,
+    "spaces": 2,
     "firstDate": "2026-10-14",
     "lastDate": "2026-12-16",
     "prices": [
@@ -91675,9 +91622,9 @@
     "ageMin": 55,
     "ageMax": 0,
     "ageText": "55 yrs +",
-    "openings": "31 openings remaining",
+    "openings": "30 openings remaining",
     "availability": "open",
-    "spaces": 31,
+    "spaces": 30,
     "firstDate": "2026-09-14",
     "lastDate": "2026-12-14",
     "prices": [
@@ -91849,9 +91796,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "6 openings remaining",
+    "openings": "5 openings remaining",
     "availability": "open",
-    "spaces": 6,
+    "spaces": 5,
     "firstDate": "2026-10-06",
     "lastDate": "2026-10-27",
     "prices": [
@@ -92165,9 +92112,9 @@
     "ageMin": 8,
     "ageMax": 99,
     "ageText": "Age at least 8 yrs but less than 99 yrs",
-    "openings": "13 openings remaining",
+    "openings": "11 openings remaining",
     "availability": "open",
-    "spaces": 13,
+    "spaces": 11,
     "firstDate": "2026-10-06",
     "lastDate": "2026-10-06",
     "prices": [
@@ -92223,9 +92170,9 @@
     "ageMin": 8,
     "ageMax": 99,
     "ageText": "Age at least 8 yrs but less than 99 yrs",
-    "openings": "9 openings remaining",
+    "openings": "5 openings remaining",
     "availability": "open",
-    "spaces": 9,
+    "spaces": 5,
     "firstDate": "2026-10-07",
     "lastDate": "2026-10-07",
     "prices": [
@@ -92761,9 +92708,9 @@
     "ageMin": 55,
     "ageMax": 0,
     "ageText": "55 yrs +",
-    "openings": "1 opening remaining",
-    "availability": "open",
-    "spaces": 1,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-09-14",
     "lastDate": "2026-10-26",
     "prices": [
@@ -92795,9 +92742,9 @@
     "ageMin": 55,
     "ageMax": 0,
     "ageText": "55 yrs +",
-    "openings": "5 openings remaining",
+    "openings": "4 openings remaining",
     "availability": "open",
-    "spaces": 5,
+    "spaces": 4,
     "firstDate": "2026-11-02",
     "lastDate": "2026-12-07",
     "prices": [
@@ -92863,9 +92810,9 @@
     "ageMin": 55,
     "ageMax": 0,
     "ageText": "55 yrs +",
-    "openings": "7 openings remaining",
+    "openings": "6 openings remaining",
     "availability": "open",
-    "spaces": 7,
+    "spaces": 6,
     "firstDate": "2026-11-05",
     "lastDate": "2026-12-10",
     "prices": [
@@ -93158,9 +93105,8 @@
     "ageMin": 55,
     "ageMax": 0,
     "ageText": "55 yrs +",
-    "openings": "1 opening remaining",
-    "availability": "open",
-    "spaces": 1,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-10-05",
     "lastDate": "2026-10-05"
   },
@@ -93462,9 +93408,8 @@
     "ageMin": 19,
     "ageMax": 99,
     "ageText": "Age at least 19 yrs but less than 99 yrs",
-    "openings": "9 openings remaining",
-    "availability": "open",
-    "spaces": 9,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-10-05",
     "lastDate": "2026-10-05",
     "prices": [
@@ -94166,9 +94111,9 @@
     "ageMin": 19,
     "ageMax": 99,
     "ageText": "Age at least 19 yrs but less than 99 yrs",
-    "openings": "5 openings remaining",
+    "openings": "3 openings remaining",
     "availability": "open",
-    "spaces": 5,
+    "spaces": 3,
     "firstDate": "2026-10-06",
     "lastDate": "2026-10-06"
   },
@@ -94550,9 +94495,9 @@
     "ageMin": 19,
     "ageMax": 99,
     "ageText": "Age at least 19 yrs but less than 99 yrs",
-    "openings": "16 openings remaining",
+    "openings": "12 openings remaining",
     "availability": "open",
-    "spaces": 16,
+    "spaces": 12,
     "firstDate": "2026-10-06",
     "lastDate": "2026-10-06"
   },
@@ -94830,9 +94775,9 @@
     "ageMin": 19,
     "ageMax": 99,
     "ageText": "Age at least 19 yrs but less than 99 yrs",
-    "openings": "12 openings remaining",
+    "openings": "10 openings remaining",
     "availability": "open",
-    "spaces": 12,
+    "spaces": 10,
     "firstDate": "2026-10-07",
     "lastDate": "2026-10-07",
     "prices": [
@@ -95440,9 +95385,9 @@
     "ageMin": 19,
     "ageMax": 99,
     "ageText": "Age at least 19 yrs but less than 99 yrs",
-    "openings": "20 openings remaining",
+    "openings": "10 openings remaining",
     "availability": "open",
-    "spaces": 20,
+    "spaces": 10,
     "firstDate": "2026-10-09",
     "lastDate": "2026-10-09"
   },
@@ -95742,9 +95687,9 @@
     "ageMin": 19,
     "ageMax": 99,
     "ageText": "Age at least 19 yrs but less than 99 yrs",
-    "openings": "18 openings remaining",
+    "openings": "17 openings remaining",
     "availability": "open",
-    "spaces": 18,
+    "spaces": 17,
     "firstDate": "2026-10-08",
     "lastDate": "2026-10-08",
     "prices": [
@@ -96276,9 +96221,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-10-05",
     "lastDate": "2026-10-05",
     "prices": [
@@ -96494,9 +96438,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-10-05",
     "lastDate": "2026-10-05"
   },
@@ -97216,9 +97159,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "3 openings remaining",
-    "availability": "open",
-    "spaces": 3,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-10-08",
     "lastDate": "2026-10-08",
     "prices": [
@@ -97642,9 +97585,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "22 openings remaining",
+    "openings": "17 openings remaining",
     "availability": "open",
-    "spaces": 22,
+    "spaces": 17,
     "firstDate": "2026-10-09",
     "lastDate": "2026-10-09",
     "prices": [
@@ -97972,9 +97915,8 @@
     "ageMin": 40,
     "ageMax": 99,
     "ageText": "Age at least 40 yrs but less than 99 yrs",
-    "openings": "8 openings remaining",
-    "availability": "open",
-    "spaces": 8,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-10-05",
     "lastDate": "2026-10-05"
   },
@@ -98068,9 +98010,8 @@
     "ageMin": 40,
     "ageMax": 99,
     "ageText": "Age at least 40 yrs but less than 99 yrs",
-    "openings": "2 openings remaining",
-    "availability": "open",
-    "spaces": 2,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-10-05",
     "lastDate": "2026-10-05"
   },
@@ -98164,9 +98105,8 @@
     "ageMin": 19,
     "ageMax": 99,
     "ageText": "Age at least 19 yrs but less than 99 yrs",
-    "openings": "12 openings remaining",
-    "availability": "open",
-    "spaces": 12,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-10-05",
     "lastDate": "2026-10-05",
     "prices": [
@@ -98730,9 +98670,9 @@
     "ageMin": 19,
     "ageMax": 99,
     "ageText": "Age at least 19 yrs but less than 99 yrs",
-    "openings": "13 openings remaining",
+    "openings": "5 openings remaining",
     "availability": "open",
-    "spaces": 13,
+    "spaces": 5,
     "firstDate": "2026-10-06",
     "lastDate": "2026-10-06",
     "prices": [
@@ -98810,9 +98750,9 @@
     "ageMin": 13,
     "ageMax": 99,
     "ageText": "Age at least 13 yrs but less than 99 yrs",
-    "openings": "11 openings remaining",
+    "openings": "10 openings remaining",
     "availability": "open",
-    "spaces": 11,
+    "spaces": 10,
     "firstDate": "2026-09-08",
     "lastDate": "2026-12-22",
     "prices": [
@@ -98963,6 +98903,696 @@
     ]
   },
   {
+    "id": 635597,
+    "title": "Public Adult Figure Skating - Wednesday 2:00pm",
+    "calendarId": 3,
+    "centerId": 24,
+    "facilityIds": [
+      118
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/public-adult-figure-skating---wednesday-2-00pm/635597",
+    "description": "<p>This session is for those looking to practice their jumps, spins and field moves.</p><p>No throw jumps and partner lifts allowed. No skate rentals, and no lessons are provided.</p><p><i>*Monthly Flexipass and 10-Visit passes are accepted for this program</i>.</p><p>All registered participants must check in with the attendant (skate shop) up to 5 minutes after the program start time. Failure to do so may result in the spot being forfeited to a waiting skater.</p>Registrations, Cancellations, and Refunds• You can register online up to three days prior to your session.<br />• Cancel online through your account at vanrec.ca by 11:59pm the day before your class.<br />If you are cancelling by phone or in person you must cancel by 3pm the day before the session or by 3pm Saturday for a Monday session. Please call a community center to cancel by phone and note voicemail messages will not be accepted.<br />When sessions are cancelled within the cancellation period, paid transactions will be refunded back to the credit card or a credit can be used towards another booking.",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "from $5.55",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 99,
+    "ageText": "Age at least 19 yrs but less than 99 yrs",
+    "openings": "22 openings remaining",
+    "availability": "open",
+    "spaces": 22,
+    "firstDate": "2026-10-07",
+    "lastDate": "2026-10-07",
+    "prices": [
+      {
+        "price": "$7.93",
+        "description": "Public Skate Admission - Adult (19-64yrs) for 19 up to 64 years old"
+      },
+      {
+        "price": "$5.55",
+        "description": "Public Skate Admission - Senior (65yrs+) for 65 up to 100 years old"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - Flexipass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - 10 Visit Pass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Leisure Access Pass Discount: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 635598,
+    "title": "Public Adult Figure Skating - Wednesday 2:00pm",
+    "calendarId": 3,
+    "centerId": 24,
+    "facilityIds": [
+      118
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/public-adult-figure-skating---wednesday-2-00pm/635598",
+    "description": "<p>This session is for those looking to practice their jumps, spins and field moves.</p><p>No throw jumps and partner lifts allowed. No skate rentals, and no lessons are provided.</p><p><i>*Monthly Flexipass and 10-Visit passes are accepted for this program</i>.</p><p>All registered participants must check in with the attendant (skate shop) up to 5 minutes after the program start time. Failure to do so may result in the spot being forfeited to a waiting skater.</p>Registrations, Cancellations, and Refunds• You can register online up to three days prior to your session.<br />• Cancel online through your account at vanrec.ca by 11:59pm the day before your class.<br />If you are cancelling by phone or in person you must cancel by 3pm the day before the session or by 3pm Saturday for a Monday session. Please call a community center to cancel by phone and note voicemail messages will not be accepted.<br />When sessions are cancelled within the cancellation period, paid transactions will be refunded back to the credit card or a credit can be used towards another booking.",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "from $5.55",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 99,
+    "ageText": "Age at least 19 yrs but less than 99 yrs",
+    "openings": "22 openings remaining",
+    "availability": "open",
+    "spaces": 22,
+    "firstDate": "2026-10-14",
+    "lastDate": "2026-10-14",
+    "prices": [
+      {
+        "price": "$7.93",
+        "description": "Public Skate Admission - Adult (19-64yrs) for 19 up to 64 years old"
+      },
+      {
+        "price": "$5.55",
+        "description": "Public Skate Admission - Senior (65yrs+) for 65 up to 100 years old"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - Flexipass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - 10 Visit Pass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Leisure Access Pass Discount: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 635599,
+    "title": "Public Adult Figure Skating - Wednesday 2:00pm",
+    "calendarId": 3,
+    "centerId": 24,
+    "facilityIds": [
+      118
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/public-adult-figure-skating---wednesday-2-00pm/635599",
+    "description": "<p>This session is for those looking to practice their jumps, spins and field moves.</p><p>No throw jumps and partner lifts allowed. No skate rentals, and no lessons are provided.</p><p><i>*Monthly Flexipass and 10-Visit passes are accepted for this program</i>.</p><p>All registered participants must check in with the attendant (skate shop) up to 5 minutes after the program start time. Failure to do so may result in the spot being forfeited to a waiting skater.</p>Registrations, Cancellations, and Refunds• You can register online up to three days prior to your session.<br />• Cancel online through your account at vanrec.ca by 11:59pm the day before your class.<br />If you are cancelling by phone or in person you must cancel by 3pm the day before the session or by 3pm Saturday for a Monday session. Please call a community center to cancel by phone and note voicemail messages will not be accepted.<br />When sessions are cancelled within the cancellation period, paid transactions will be refunded back to the credit card or a credit can be used towards another booking.",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "from $5.55",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 99,
+    "ageText": "Age at least 19 yrs but less than 99 yrs",
+    "openings": "22 openings remaining",
+    "availability": "open",
+    "spaces": 22,
+    "firstDate": "2026-10-21",
+    "lastDate": "2026-10-21",
+    "prices": [
+      {
+        "price": "$7.93",
+        "description": "Public Skate Admission - Adult (19-64yrs) for 19 up to 64 years old"
+      },
+      {
+        "price": "$5.55",
+        "description": "Public Skate Admission - Senior (65yrs+) for 65 up to 100 years old"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - Flexipass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - 10 Visit Pass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Leisure Access Pass Discount: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 635600,
+    "title": "Public Adult Figure Skating - Wednesday 2:00pm",
+    "calendarId": 3,
+    "centerId": 24,
+    "facilityIds": [
+      118
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/public-adult-figure-skating---wednesday-2-00pm/635600",
+    "description": "<p>This session is for those looking to practice their jumps, spins and field moves.</p><p>No throw jumps and partner lifts allowed. No skate rentals, and no lessons are provided.</p><p><i>*Monthly Flexipass and 10-Visit passes are accepted for this program</i>.</p><p>All registered participants must check in with the attendant (skate shop) up to 5 minutes after the program start time. Failure to do so may result in the spot being forfeited to a waiting skater.</p>Registrations, Cancellations, and Refunds• You can register online up to three days prior to your session.<br />• Cancel online through your account at vanrec.ca by 11:59pm the day before your class.<br />If you are cancelling by phone or in person you must cancel by 3pm the day before the session or by 3pm Saturday for a Monday session. Please call a community center to cancel by phone and note voicemail messages will not be accepted.<br />When sessions are cancelled within the cancellation period, paid transactions will be refunded back to the credit card or a credit can be used towards another booking.",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "from $5.55",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 99,
+    "ageText": "Age at least 19 yrs but less than 99 yrs",
+    "openings": "22 openings remaining",
+    "availability": "open",
+    "spaces": 22,
+    "firstDate": "2026-10-28",
+    "lastDate": "2026-10-28",
+    "prices": [
+      {
+        "price": "$7.93",
+        "description": "Public Skate Admission - Adult (19-64yrs) for 19 up to 64 years old"
+      },
+      {
+        "price": "$5.55",
+        "description": "Public Skate Admission - Senior (65yrs+) for 65 up to 100 years old"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - Flexipass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - 10 Visit Pass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Leisure Access Pass Discount: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 635601,
+    "title": "Public Adult Figure Skating - Wednesday 2:00pm",
+    "calendarId": 3,
+    "centerId": 24,
+    "facilityIds": [
+      118
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/public-adult-figure-skating---wednesday-2-00pm/635601",
+    "description": "<p>This session is for those looking to practice their jumps, spins and field moves.</p><p>No throw jumps and partner lifts allowed. No skate rentals, and no lessons are provided.</p><p><i>*Monthly Flexipass and 10-Visit passes are accepted for this program</i>.</p><p>All registered participants must check in with the attendant (skate shop) up to 5 minutes after the program start time. Failure to do so may result in the spot being forfeited to a waiting skater.</p>Registrations, Cancellations, and Refunds• You can register online up to three days prior to your session.<br />• Cancel online through your account at vanrec.ca by 11:59pm the day before your class.<br />If you are cancelling by phone or in person you must cancel by 3pm the day before the session or by 3pm Saturday for a Monday session. Please call a community center to cancel by phone and note voicemail messages will not be accepted.<br />When sessions are cancelled within the cancellation period, paid transactions will be refunded back to the credit card or a credit can be used towards another booking.",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "from $5.55",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 99,
+    "ageText": "Age at least 19 yrs but less than 99 yrs",
+    "openings": "22 openings remaining",
+    "availability": "open",
+    "spaces": 22,
+    "firstDate": "2026-11-04",
+    "lastDate": "2026-11-04",
+    "prices": [
+      {
+        "price": "$7.93",
+        "description": "Public Skate Admission - Adult (19-64yrs) for 19 up to 64 years old"
+      },
+      {
+        "price": "$5.55",
+        "description": "Public Skate Admission - Senior (65yrs+) for 65 up to 100 years old"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - Flexipass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - 10 Visit Pass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Leisure Access Pass Discount: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 635602,
+    "title": "Public Adult Figure Skating - Wednesday 2:00pm",
+    "calendarId": 3,
+    "centerId": 24,
+    "facilityIds": [
+      118
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/public-adult-figure-skating---wednesday-2-00pm/635602",
+    "description": "<p>This session is for those looking to practice their jumps, spins and field moves.</p><p>No throw jumps and partner lifts allowed. No skate rentals, and no lessons are provided.</p><p><i>*Monthly Flexipass and 10-Visit passes are accepted for this program</i>.</p><p>All registered participants must check in with the attendant (skate shop) up to 5 minutes after the program start time. Failure to do so may result in the spot being forfeited to a waiting skater.</p>Registrations, Cancellations, and Refunds• You can register online up to three days prior to your session.<br />• Cancel online through your account at vanrec.ca by 11:59pm the day before your class.<br />If you are cancelling by phone or in person you must cancel by 3pm the day before the session or by 3pm Saturday for a Monday session. Please call a community center to cancel by phone and note voicemail messages will not be accepted.<br />When sessions are cancelled within the cancellation period, paid transactions will be refunded back to the credit card or a credit can be used towards another booking.",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "from $5.55",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 99,
+    "ageText": "Age at least 19 yrs but less than 99 yrs",
+    "openings": "22 openings remaining",
+    "availability": "open",
+    "spaces": 22,
+    "firstDate": "2026-11-11",
+    "lastDate": "2026-11-11",
+    "prices": [
+      {
+        "price": "$7.93",
+        "description": "Public Skate Admission - Adult (19-64yrs) for 19 up to 64 years old"
+      },
+      {
+        "price": "$5.55",
+        "description": "Public Skate Admission - Senior (65yrs+) for 65 up to 100 years old"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - Flexipass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - 10 Visit Pass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Leisure Access Pass Discount: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 635603,
+    "title": "Public Adult Figure Skating - Wednesday 2:00pm",
+    "calendarId": 3,
+    "centerId": 24,
+    "facilityIds": [
+      118
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/public-adult-figure-skating---wednesday-2-00pm/635603",
+    "description": "<p>This session is for those looking to practice their jumps, spins and field moves.</p><p>No throw jumps and partner lifts allowed. No skate rentals, and no lessons are provided.</p><p><i>*Monthly Flexipass and 10-Visit passes are accepted for this program</i>.</p><p>All registered participants must check in with the attendant (skate shop) up to 5 minutes after the program start time. Failure to do so may result in the spot being forfeited to a waiting skater.</p>Registrations, Cancellations, and Refunds• You can register online up to three days prior to your session.<br />• Cancel online through your account at vanrec.ca by 11:59pm the day before your class.<br />If you are cancelling by phone or in person you must cancel by 3pm the day before the session or by 3pm Saturday for a Monday session. Please call a community center to cancel by phone and note voicemail messages will not be accepted.<br />When sessions are cancelled within the cancellation period, paid transactions will be refunded back to the credit card or a credit can be used towards another booking.",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "from $5.55",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 99,
+    "ageText": "Age at least 19 yrs but less than 99 yrs",
+    "openings": "22 openings remaining",
+    "availability": "open",
+    "spaces": 22,
+    "firstDate": "2026-11-18",
+    "lastDate": "2026-11-18",
+    "prices": [
+      {
+        "price": "$7.93",
+        "description": "Public Skate Admission - Adult (19-64yrs) for 19 up to 64 years old"
+      },
+      {
+        "price": "$5.55",
+        "description": "Public Skate Admission - Senior (65yrs+) for 65 up to 100 years old"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - Flexipass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - 10 Visit Pass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Leisure Access Pass Discount: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 635604,
+    "title": "Public Adult Figure Skating - Wednesday 2:00pm",
+    "calendarId": 3,
+    "centerId": 24,
+    "facilityIds": [
+      118
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/public-adult-figure-skating---wednesday-2-00pm/635604",
+    "description": "<p>This session is for those looking to practice their jumps, spins and field moves.</p><p>No throw jumps and partner lifts allowed. No skate rentals, and no lessons are provided.</p><p><i>*Monthly Flexipass and 10-Visit passes are accepted for this program</i>.</p><p>All registered participants must check in with the attendant (skate shop) up to 5 minutes after the program start time. Failure to do so may result in the spot being forfeited to a waiting skater.</p>Registrations, Cancellations, and Refunds• You can register online up to three days prior to your session.<br />• Cancel online through your account at vanrec.ca by 11:59pm the day before your class.<br />If you are cancelling by phone or in person you must cancel by 3pm the day before the session or by 3pm Saturday for a Monday session. Please call a community center to cancel by phone and note voicemail messages will not be accepted.<br />When sessions are cancelled within the cancellation period, paid transactions will be refunded back to the credit card or a credit can be used towards another booking.",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "from $5.55",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 99,
+    "ageText": "Age at least 19 yrs but less than 99 yrs",
+    "openings": "22 openings remaining",
+    "availability": "open",
+    "spaces": 22,
+    "firstDate": "2026-11-25",
+    "lastDate": "2026-11-25",
+    "prices": [
+      {
+        "price": "$7.93",
+        "description": "Public Skate Admission - Adult (19-64yrs) for 19 up to 64 years old"
+      },
+      {
+        "price": "$5.55",
+        "description": "Public Skate Admission - Senior (65yrs+) for 65 up to 100 years old"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - Flexipass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - 10 Visit Pass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Leisure Access Pass Discount: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 635609,
+    "title": "Britannia Arena - Women+Gender Diverse Hockey- WED 3:30PM",
+    "calendarId": 3,
+    "centerId": 24,
+    "facilityIds": [
+      118
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/britannia-arena---women-gender-diverse-hockey--wed-3-30pm/635609",
+    "description": "<p>Recreational hockey game for women and gender diverse players 19 years and older. Full gear is required. No rental equipment provided.</p><p>GOALIES must register in a separate goalie specific activity with the same session time. If you are a goalie registered in this activity, you will be withdrawn.</p><p>All registered participants must check in with the attendant (skate shop) up to 5 minutes after the program start time. Failure to do so may result in the spot being forfeited to a waiting player.</p><i>*Monthly Flexipass and 10-Visit passes are accepted for this program</i>.<br />Registrations, Cancellations, and Refunds• You can register online up to three days prior to your session.<br />• Cancel online through your account at vanrec.ca by 11:59pm the day before your class.<br />If you are cancelling by phone or in person you must cancel by 3pm the day before the session or by 3pm Saturday for a Monday session. Please call a community center to cancel by phone and note voicemail messages will not be accepted.<br />When sessions are cancelled within the cancellation period, paid transactions will be refunded back to the credit card or a credit can be used towards another booking.",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "from $5.55",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 99,
+    "ageText": "Age at least 19 yrs but less than 99 yrs",
+    "openings": "20 openings remaining",
+    "availability": "open",
+    "spaces": 20,
+    "firstDate": "2026-10-07",
+    "lastDate": "2026-10-07",
+    "prices": [
+      {
+        "price": "$7.93",
+        "description": "Public Skate Admission - Adult (19-64yrs) for 19 up to 64 years old"
+      },
+      {
+        "price": "$5.55",
+        "description": "Public Skate Admission - Senior (65yrs+) for 65 up to 100 years old"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - Flexipass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - 10 Visit Pass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Leisure Access Pass Discount: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 635611,
+    "title": "Britannia Arena - Women+Gender Diverse Hockey- WED 3:30PM",
+    "calendarId": 3,
+    "centerId": 24,
+    "facilityIds": [
+      118
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/britannia-arena---women-gender-diverse-hockey--wed-3-30pm/635611",
+    "description": "<p>Recreational hockey game for women and gender diverse players 19 years and older. Full gear is required. No rental equipment provided.</p><p>GOALIES must register in a separate goalie specific activity with the same session time. If you are a goalie registered in this activity, you will be withdrawn.</p><p>All registered participants must check in with the attendant (skate shop) up to 5 minutes after the program start time. Failure to do so may result in the spot being forfeited to a waiting player.</p><i>*Monthly Flexipass and 10-Visit passes are accepted for this program</i>.<br />Registrations, Cancellations, and Refunds• You can register online up to three days prior to your session.<br />• Cancel online through your account at vanrec.ca by 11:59pm the day before your class.<br />If you are cancelling by phone or in person you must cancel by 3pm the day before the session or by 3pm Saturday for a Monday session. Please call a community center to cancel by phone and note voicemail messages will not be accepted.<br />When sessions are cancelled within the cancellation period, paid transactions will be refunded back to the credit card or a credit can be used towards another booking.",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "from $5.55",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 99,
+    "ageText": "Age at least 19 yrs but less than 99 yrs",
+    "openings": "20 openings remaining",
+    "availability": "open",
+    "spaces": 20,
+    "firstDate": "2026-10-14",
+    "lastDate": "2026-10-14",
+    "prices": [
+      {
+        "price": "$7.93",
+        "description": "Public Skate Admission - Adult (19-64yrs) for 19 up to 64 years old"
+      },
+      {
+        "price": "$5.55",
+        "description": "Public Skate Admission - Senior (65yrs+) for 65 up to 100 years old"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - Flexipass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - 10 Visit Pass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Leisure Access Pass Discount: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 635612,
+    "title": "Britannia Arena - Women+Gender Diverse Hockey- WED 3:30PM",
+    "calendarId": 3,
+    "centerId": 24,
+    "facilityIds": [
+      118
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/britannia-arena---women-gender-diverse-hockey--wed-3-30pm/635612",
+    "description": "<p>Recreational hockey game for women and gender diverse players 19 years and older. Full gear is required. No rental equipment provided.</p><p>GOALIES must register in a separate goalie specific activity with the same session time. If you are a goalie registered in this activity, you will be withdrawn.</p><p>All registered participants must check in with the attendant (skate shop) up to 5 minutes after the program start time. Failure to do so may result in the spot being forfeited to a waiting player.</p><i>*Monthly Flexipass and 10-Visit passes are accepted for this program</i>.<br />Registrations, Cancellations, and Refunds• You can register online up to three days prior to your session.<br />• Cancel online through your account at vanrec.ca by 11:59pm the day before your class.<br />If you are cancelling by phone or in person you must cancel by 3pm the day before the session or by 3pm Saturday for a Monday session. Please call a community center to cancel by phone and note voicemail messages will not be accepted.<br />When sessions are cancelled within the cancellation period, paid transactions will be refunded back to the credit card or a credit can be used towards another booking.",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "from $5.55",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 99,
+    "ageText": "Age at least 19 yrs but less than 99 yrs",
+    "openings": "20 openings remaining",
+    "availability": "open",
+    "spaces": 20,
+    "firstDate": "2026-10-21",
+    "lastDate": "2026-10-21",
+    "prices": [
+      {
+        "price": "$7.93",
+        "description": "Public Skate Admission - Adult (19-64yrs) for 19 up to 64 years old"
+      },
+      {
+        "price": "$5.55",
+        "description": "Public Skate Admission - Senior (65yrs+) for 65 up to 100 years old"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - Flexipass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - 10 Visit Pass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Leisure Access Pass Discount: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 635613,
+    "title": "Britannia Arena - Women+Gender Diverse Hockey- WED 3:30PM",
+    "calendarId": 3,
+    "centerId": 24,
+    "facilityIds": [
+      118
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/britannia-arena---women-gender-diverse-hockey--wed-3-30pm/635613",
+    "description": "<p>Recreational hockey game for women and gender diverse players 19 years and older. Full gear is required. No rental equipment provided.</p><p>GOALIES must register in a separate goalie specific activity with the same session time. If you are a goalie registered in this activity, you will be withdrawn.</p><p>All registered participants must check in with the attendant (skate shop) up to 5 minutes after the program start time. Failure to do so may result in the spot being forfeited to a waiting player.</p><i>*Monthly Flexipass and 10-Visit passes are accepted for this program</i>.<br />Registrations, Cancellations, and Refunds• You can register online up to three days prior to your session.<br />• Cancel online through your account at vanrec.ca by 11:59pm the day before your class.<br />If you are cancelling by phone or in person you must cancel by 3pm the day before the session or by 3pm Saturday for a Monday session. Please call a community center to cancel by phone and note voicemail messages will not be accepted.<br />When sessions are cancelled within the cancellation period, paid transactions will be refunded back to the credit card or a credit can be used towards another booking.",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "from $5.55",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 99,
+    "ageText": "Age at least 19 yrs but less than 99 yrs",
+    "openings": "20 openings remaining",
+    "availability": "open",
+    "spaces": 20,
+    "firstDate": "2026-10-28",
+    "lastDate": "2026-10-28",
+    "prices": [
+      {
+        "price": "$7.93",
+        "description": "Public Skate Admission - Adult (19-64yrs) for 19 up to 64 years old"
+      },
+      {
+        "price": "$5.55",
+        "description": "Public Skate Admission - Senior (65yrs+) for 65 up to 100 years old"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - Flexipass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - 10 Visit Pass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Leisure Access Pass Discount: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 635614,
+    "title": "Britannia Arena - Women+Gender Diverse Hockey- WED 3:30PM",
+    "calendarId": 3,
+    "centerId": 24,
+    "facilityIds": [
+      118
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/britannia-arena---women-gender-diverse-hockey--wed-3-30pm/635614",
+    "description": "<p>Recreational hockey game for women and gender diverse players 19 years and older. Full gear is required. No rental equipment provided.</p><p>GOALIES must register in a separate goalie specific activity with the same session time. If you are a goalie registered in this activity, you will be withdrawn.</p><p>All registered participants must check in with the attendant (skate shop) up to 5 minutes after the program start time. Failure to do so may result in the spot being forfeited to a waiting player.</p><i>*Monthly Flexipass and 10-Visit passes are accepted for this program</i>.<br />Registrations, Cancellations, and Refunds• You can register online up to three days prior to your session.<br />• Cancel online through your account at vanrec.ca by 11:59pm the day before your class.<br />If you are cancelling by phone or in person you must cancel by 3pm the day before the session or by 3pm Saturday for a Monday session. Please call a community center to cancel by phone and note voicemail messages will not be accepted.<br />When sessions are cancelled within the cancellation period, paid transactions will be refunded back to the credit card or a credit can be used towards another booking.",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "from $5.55",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 99,
+    "ageText": "Age at least 19 yrs but less than 99 yrs",
+    "openings": "20 openings remaining",
+    "availability": "open",
+    "spaces": 20,
+    "firstDate": "2026-11-04",
+    "lastDate": "2026-11-04",
+    "prices": [
+      {
+        "price": "$7.93",
+        "description": "Public Skate Admission - Adult (19-64yrs) for 19 up to 64 years old"
+      },
+      {
+        "price": "$5.55",
+        "description": "Public Skate Admission - Senior (65yrs+) for 65 up to 100 years old"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - Flexipass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - 10 Visit Pass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Leisure Access Pass Discount: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 635615,
+    "title": "Britannia Arena - Women+Gender Diverse Hockey- WED 3:30PM",
+    "calendarId": 3,
+    "centerId": 24,
+    "facilityIds": [
+      118
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/britannia-arena---women-gender-diverse-hockey--wed-3-30pm/635615",
+    "description": "<p>Recreational hockey game for women and gender diverse players 19 years and older. Full gear is required. No rental equipment provided.</p><p>GOALIES must register in a separate goalie specific activity with the same session time. If you are a goalie registered in this activity, you will be withdrawn.</p><p>All registered participants must check in with the attendant (skate shop) up to 5 minutes after the program start time. Failure to do so may result in the spot being forfeited to a waiting player.</p><i>*Monthly Flexipass and 10-Visit passes are accepted for this program</i>.<br />Registrations, Cancellations, and Refunds• You can register online up to three days prior to your session.<br />• Cancel online through your account at vanrec.ca by 11:59pm the day before your class.<br />If you are cancelling by phone or in person you must cancel by 3pm the day before the session or by 3pm Saturday for a Monday session. Please call a community center to cancel by phone and note voicemail messages will not be accepted.<br />When sessions are cancelled within the cancellation period, paid transactions will be refunded back to the credit card or a credit can be used towards another booking.",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "from $5.55",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 99,
+    "ageText": "Age at least 19 yrs but less than 99 yrs",
+    "openings": "20 openings remaining",
+    "availability": "open",
+    "spaces": 20,
+    "firstDate": "2026-11-11",
+    "lastDate": "2026-11-11",
+    "prices": [
+      {
+        "price": "$7.93",
+        "description": "Public Skate Admission - Adult (19-64yrs) for 19 up to 64 years old"
+      },
+      {
+        "price": "$5.55",
+        "description": "Public Skate Admission - Senior (65yrs+) for 65 up to 100 years old"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - Flexipass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - 10 Visit Pass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Leisure Access Pass Discount: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 635616,
+    "title": "Britannia Arena - Women+Gender Diverse Hockey- WED 3:30PM",
+    "calendarId": 3,
+    "centerId": 24,
+    "facilityIds": [
+      118
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/britannia-arena---women-gender-diverse-hockey--wed-3-30pm/635616",
+    "description": "<p>Recreational hockey game for women and gender diverse players 19 years and older. Full gear is required. No rental equipment provided.</p><p>GOALIES must register in a separate goalie specific activity with the same session time. If you are a goalie registered in this activity, you will be withdrawn.</p><p>All registered participants must check in with the attendant (skate shop) up to 5 minutes after the program start time. Failure to do so may result in the spot being forfeited to a waiting player.</p><i>*Monthly Flexipass and 10-Visit passes are accepted for this program</i>.<br />Registrations, Cancellations, and Refunds• You can register online up to three days prior to your session.<br />• Cancel online through your account at vanrec.ca by 11:59pm the day before your class.<br />If you are cancelling by phone or in person you must cancel by 3pm the day before the session or by 3pm Saturday for a Monday session. Please call a community center to cancel by phone and note voicemail messages will not be accepted.<br />When sessions are cancelled within the cancellation period, paid transactions will be refunded back to the credit card or a credit can be used towards another booking.",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "from $5.55",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 99,
+    "ageText": "Age at least 19 yrs but less than 99 yrs",
+    "openings": "20 openings remaining",
+    "availability": "open",
+    "spaces": 20,
+    "firstDate": "2026-11-18",
+    "lastDate": "2026-11-18",
+    "prices": [
+      {
+        "price": "$7.93",
+        "description": "Public Skate Admission - Adult (19-64yrs) for 19 up to 64 years old"
+      },
+      {
+        "price": "$5.55",
+        "description": "Public Skate Admission - Senior (65yrs+) for 65 up to 100 years old"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - Flexipass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - 10 Visit Pass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Leisure Access Pass Discount: for Customer"
+      }
+    ]
+  },
+  {
     "id": 635637,
     "title": "Britannia Arena - Adult Stick, Puck & Ring -Thursday 12:30pm",
     "calendarId": 3,
@@ -98980,9 +99610,9 @@
     "ageMin": 19,
     "ageMax": 99,
     "ageText": "Age at least 19 yrs but less than 99 yrs",
-    "openings": "21 openings remaining",
+    "openings": "19 openings remaining",
     "availability": "open",
-    "spaces": 21,
+    "spaces": 19,
     "firstDate": "2026-10-08",
     "lastDate": "2026-10-08",
     "prices": [
@@ -99348,9 +99978,9 @@
     "ageMin": 19,
     "ageMax": 99,
     "ageText": "Age at least 19 yrs but less than 99 yrs",
-    "openings": "22 openings remaining",
+    "openings": "16 openings remaining",
     "availability": "open",
-    "spaces": 22,
+    "spaces": 16,
     "firstDate": "2026-10-09",
     "lastDate": "2026-10-09",
     "prices": [
@@ -99852,9 +100482,8 @@
     "ageMin": 13,
     "ageMax": 0,
     "ageText": "13 yrs +",
-    "openings": "7 openings remaining",
-    "availability": "open",
-    "spaces": 7,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-10-05",
     "lastDate": "2026-10-05",
     "prices": [
@@ -100118,9 +100747,9 @@
     "ageMin": 13,
     "ageMax": 0,
     "ageText": "13 yrs +",
-    "openings": "11 openings remaining",
+    "openings": "10 openings remaining",
     "availability": "open",
-    "spaces": 11,
+    "spaces": 10,
     "firstDate": "2026-10-07",
     "lastDate": "2026-10-07",
     "prices": [
@@ -102459,9 +103088,8 @@
     "ageMin": 55,
     "ageMax": 0,
     "ageText": "55 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-10-05",
     "lastDate": "2026-10-05"
   },
@@ -102484,9 +103112,8 @@
     "ageMin": 55,
     "ageMax": 0,
     "ageText": "55 yrs +",
-    "openings": "1 opening remaining",
-    "availability": "open",
-    "spaces": 1,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-10-05",
     "lastDate": "2026-10-05"
   },
@@ -102509,9 +103136,8 @@
     "ageMin": 55,
     "ageMax": 0,
     "ageText": "55 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-10-05",
     "lastDate": "2026-10-05"
   },
@@ -102533,9 +103159,8 @@
     "ageMin": 19,
     "ageMax": 99,
     "ageText": "Age at least 19 yrs but less than 99 yrs",
-    "openings": "7 openings remaining",
-    "availability": "open",
-    "spaces": 7,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-10-05",
     "lastDate": "2026-10-05",
     "prices": [
@@ -103211,9 +103836,9 @@
     "ageMin": 13,
     "ageMax": 0,
     "ageText": "13 yrs +",
-    "openings": "10 openings remaining",
+    "openings": "3 openings remaining",
     "availability": "open",
-    "spaces": 10,
+    "spaces": 3,
     "firstDate": "2026-10-07",
     "lastDate": "2026-10-07",
     "prices": [
@@ -103477,9 +104102,9 @@
     "ageMin": 13,
     "ageMax": 0,
     "ageText": "13 yrs +",
-    "openings": "19 openings remaining",
+    "openings": "18 openings remaining",
     "availability": "open",
-    "spaces": 19,
+    "spaces": 18,
     "firstDate": "2026-10-07",
     "lastDate": "2026-10-07",
     "prices": [
@@ -103743,9 +104368,9 @@
     "ageMin": 13,
     "ageMax": 0,
     "ageText": "13 yrs +",
-    "openings": "20 openings remaining",
+    "openings": "16 openings remaining",
     "availability": "open",
-    "spaces": 20,
+    "spaces": 16,
     "firstDate": "2026-10-08",
     "lastDate": "2026-10-08",
     "prices": [
@@ -104048,9 +104673,9 @@
     "ageMin": 13,
     "ageMax": 18,
     "ageText": "Age at least 13 yrs but less than 18 yrs",
-    "openings": "7 openings remaining",
+    "openings": "6 openings remaining",
     "availability": "open",
-    "spaces": 7,
+    "spaces": 6,
     "firstDate": "2026-10-03",
     "lastDate": "2026-12-12"
   },
@@ -104073,9 +104698,9 @@
     "ageMin": 15,
     "ageMax": 18,
     "ageText": "Age at least 15 yrs but less than 18 yrs",
-    "openings": "6 openings remaining",
+    "openings": "5 openings remaining",
     "availability": "open",
-    "spaces": 6,
+    "spaces": 5,
     "firstDate": "2026-10-02",
     "lastDate": "2026-12-11"
   },
@@ -104240,9 +104865,8 @@
     "ageMin": 13,
     "ageMax": 0,
     "ageText": "13 yrs +",
-    "openings": "1 opening remaining",
-    "availability": "open",
-    "spaces": 1,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-10-05",
     "lastDate": "2026-10-05",
     "prices": [
@@ -104506,9 +105130,9 @@
     "ageMin": 13,
     "ageMax": 0,
     "ageText": "13 yrs +",
-    "openings": "10 openings remaining",
+    "openings": "8 openings remaining",
     "availability": "open",
-    "spaces": 10,
+    "spaces": 8,
     "firstDate": "2026-10-06",
     "lastDate": "2026-10-06",
     "prices": [
@@ -104796,9 +105420,9 @@
     "ageMin": 13,
     "ageMax": 0,
     "ageText": "13 yrs +",
-    "openings": "13 openings remaining",
+    "openings": "12 openings remaining",
     "availability": "open",
-    "spaces": 13,
+    "spaces": 12,
     "firstDate": "2026-10-07",
     "lastDate": "2026-10-07",
     "prices": [
@@ -105100,9 +105724,9 @@
     "ageMin": 13,
     "ageMax": 0,
     "ageText": "13 yrs +",
-    "openings": "15 openings remaining",
+    "openings": "14 openings remaining",
     "availability": "open",
-    "spaces": 15,
+    "spaces": 14,
     "firstDate": "2026-10-07",
     "lastDate": "2026-10-07",
     "prices": [
@@ -105984,9 +106608,9 @@
     "ageMin": 55,
     "ageMax": 0,
     "ageText": "55 yrs +",
-    "openings": "1 opening remaining",
-    "availability": "open",
-    "spaces": 1,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-11-07",
     "lastDate": "2026-11-07"
   },
@@ -109844,6 +110468,447 @@
     "lastDate": "2026-12-20"
   },
   {
+    "id": 638797,
+    "title": "Britannia Arena - Women+Gender Diverse Hockey GOALIES",
+    "calendarId": 3,
+    "centerId": 24,
+    "facilityIds": [
+      118
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/britannia-arena---women-gender-diverse-hockey-goalies/638797",
+    "description": "<p>GOALIE REGISTRATION ONLY!! Players should register in the Women's + Gender Diverse Hockey session.</p><p>Only 2 goalies permitted per session. Free registration.</p><p>Women's + Gender Diverse recreational hockey game for players 19 years of age and older. Full gear is required. No rental equipment provided.</p><p>REGISTERED PARTICIPANTS ONLY. NO DROP-INS ACCEPTED</p><p>All registered participants must check in with the attendant up to 5 minutes after the program start time. Failure to do so may result in the spot being forfeited to a waiting player.</p><i>*Monthly Flexipass and 10-Visit passes are accepted for this program</i>.<br />Registrations, Cancellations, and Refunds• You can register online up to three days prior to your session.<br />• Cancel online through your account at vanrec.ca by 11:59pm the day before your class.<br />If you are cancelling by phone or in person you must cancel by 3pm the day before the session or by 3pm Saturday for a Monday session. Please call a community center to cancel by phone and note voicemail messages will not be accepted.<br />When sessions are cancelled within the cancellation period, paid transactions will be refunded back to the credit card or a credit can be used towards another booking.",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 99,
+    "ageText": "Age at least 19 yrs but less than 99 yrs",
+    "openings": "2 openings remaining",
+    "availability": "open",
+    "spaces": 2,
+    "firstDate": "2026-10-07",
+    "lastDate": "2026-10-07",
+    "prices": [
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - Flexipass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - 10 Visit Pass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "*PB Discount Leisure Access 100% Taxable: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 638798,
+    "title": "Britannia Arena - Women+Gender Diverse Hockey GOALIES",
+    "calendarId": 3,
+    "centerId": 24,
+    "facilityIds": [
+      118
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/britannia-arena---women-gender-diverse-hockey-goalies/638798",
+    "description": "<p>GOALIE REGISTRATION ONLY!! Players should register in the Women's + Gender Diverse Hockey session.</p><p>Only 2 goalies permitted per session. Free registration.</p><p>Women's + Gender Diverse recreational hockey game for players 19 years of age and older. Full gear is required. No rental equipment provided.</p><p>REGISTERED PARTICIPANTS ONLY. NO DROP-INS ACCEPTED</p><p>All registered participants must check in with the attendant up to 5 minutes after the program start time. Failure to do so may result in the spot being forfeited to a waiting player.</p><i>*Monthly Flexipass and 10-Visit passes are accepted for this program</i>.<br />Registrations, Cancellations, and Refunds• You can register online up to three days prior to your session.<br />• Cancel online through your account at vanrec.ca by 11:59pm the day before your class.<br />If you are cancelling by phone or in person you must cancel by 3pm the day before the session or by 3pm Saturday for a Monday session. Please call a community center to cancel by phone and note voicemail messages will not be accepted.<br />When sessions are cancelled within the cancellation period, paid transactions will be refunded back to the credit card or a credit can be used towards another booking.",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 99,
+    "ageText": "Age at least 19 yrs but less than 99 yrs",
+    "openings": "2 openings remaining",
+    "availability": "open",
+    "spaces": 2,
+    "firstDate": "2026-10-14",
+    "lastDate": "2026-10-14",
+    "prices": [
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - Flexipass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - 10 Visit Pass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "*PB Discount Leisure Access 100% Taxable: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 638799,
+    "title": "Britannia Arena - Women+Gender Diverse Hockey GOALIES",
+    "calendarId": 3,
+    "centerId": 24,
+    "facilityIds": [
+      118
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/britannia-arena---women-gender-diverse-hockey-goalies/638799",
+    "description": "<p>GOALIE REGISTRATION ONLY!! Players should register in the Women's + Gender Diverse Hockey session.</p><p>Only 2 goalies permitted per session. Free registration.</p><p>Women's + Gender Diverse recreational hockey game for players 19 years of age and older. Full gear is required. No rental equipment provided.</p><p>REGISTERED PARTICIPANTS ONLY. NO DROP-INS ACCEPTED</p><p>All registered participants must check in with the attendant up to 5 minutes after the program start time. Failure to do so may result in the spot being forfeited to a waiting player.</p><i>*Monthly Flexipass and 10-Visit passes are accepted for this program</i>.<br />Registrations, Cancellations, and Refunds• You can register online up to three days prior to your session.<br />• Cancel online through your account at vanrec.ca by 11:59pm the day before your class.<br />If you are cancelling by phone or in person you must cancel by 3pm the day before the session or by 3pm Saturday for a Monday session. Please call a community center to cancel by phone and note voicemail messages will not be accepted.<br />When sessions are cancelled within the cancellation period, paid transactions will be refunded back to the credit card or a credit can be used towards another booking.",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 99,
+    "ageText": "Age at least 19 yrs but less than 99 yrs",
+    "openings": "2 openings remaining",
+    "availability": "open",
+    "spaces": 2,
+    "firstDate": "2026-10-21",
+    "lastDate": "2026-10-21",
+    "prices": [
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - Flexipass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - 10 Visit Pass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "*PB Discount Leisure Access 100% Taxable: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 638800,
+    "title": "Britannia Arena - Women+Gender Diverse Hockey GOALIES",
+    "calendarId": 3,
+    "centerId": 24,
+    "facilityIds": [
+      118
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/britannia-arena---women-gender-diverse-hockey-goalies/638800",
+    "description": "<p>GOALIE REGISTRATION ONLY!! Players should register in the Women's + Gender Diverse Hockey session.</p><p>Only 2 goalies permitted per session. Free registration.</p><p>Women's + Gender Diverse recreational hockey game for players 19 years of age and older. Full gear is required. No rental equipment provided.</p><p>REGISTERED PARTICIPANTS ONLY. NO DROP-INS ACCEPTED</p><p>All registered participants must check in with the attendant up to 5 minutes after the program start time. Failure to do so may result in the spot being forfeited to a waiting player.</p><i>*Monthly Flexipass and 10-Visit passes are accepted for this program</i>.<br />Registrations, Cancellations, and Refunds• You can register online up to three days prior to your session.<br />• Cancel online through your account at vanrec.ca by 11:59pm the day before your class.<br />If you are cancelling by phone or in person you must cancel by 3pm the day before the session or by 3pm Saturday for a Monday session. Please call a community center to cancel by phone and note voicemail messages will not be accepted.<br />When sessions are cancelled within the cancellation period, paid transactions will be refunded back to the credit card or a credit can be used towards another booking.",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 99,
+    "ageText": "Age at least 19 yrs but less than 99 yrs",
+    "openings": "2 openings remaining",
+    "availability": "open",
+    "spaces": 2,
+    "firstDate": "2026-10-28",
+    "lastDate": "2026-10-28",
+    "prices": [
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - Flexipass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - 10 Visit Pass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "*PB Discount Leisure Access 100% Taxable: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 638801,
+    "title": "Britannia Arena - Women+Gender Diverse Hockey GOALIES",
+    "calendarId": 3,
+    "centerId": 24,
+    "facilityIds": [
+      118
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/britannia-arena---women-gender-diverse-hockey-goalies/638801",
+    "description": "<p>GOALIE REGISTRATION ONLY!! Players should register in the Women's + Gender Diverse Hockey session.</p><p>Only 2 goalies permitted per session. Free registration.</p><p>Women's + Gender Diverse recreational hockey game for players 19 years of age and older. Full gear is required. No rental equipment provided.</p><p>REGISTERED PARTICIPANTS ONLY. NO DROP-INS ACCEPTED</p><p>All registered participants must check in with the attendant up to 5 minutes after the program start time. Failure to do so may result in the spot being forfeited to a waiting player.</p><i>*Monthly Flexipass and 10-Visit passes are accepted for this program</i>.<br />Registrations, Cancellations, and Refunds• You can register online up to three days prior to your session.<br />• Cancel online through your account at vanrec.ca by 11:59pm the day before your class.<br />If you are cancelling by phone or in person you must cancel by 3pm the day before the session or by 3pm Saturday for a Monday session. Please call a community center to cancel by phone and note voicemail messages will not be accepted.<br />When sessions are cancelled within the cancellation period, paid transactions will be refunded back to the credit card or a credit can be used towards another booking.",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 99,
+    "ageText": "Age at least 19 yrs but less than 99 yrs",
+    "openings": "2 openings remaining",
+    "availability": "open",
+    "spaces": 2,
+    "firstDate": "2026-11-04",
+    "lastDate": "2026-11-04",
+    "prices": [
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - Flexipass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - 10 Visit Pass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "*PB Discount Leisure Access 100% Taxable: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 638802,
+    "title": "Britannia Arena - Women+Gender Diverse Hockey GOALIES",
+    "calendarId": 3,
+    "centerId": 24,
+    "facilityIds": [
+      118
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/britannia-arena---women-gender-diverse-hockey-goalies/638802",
+    "description": "<p>GOALIE REGISTRATION ONLY!! Players should register in the Women's + Gender Diverse Hockey session.</p><p>Only 2 goalies permitted per session. Free registration.</p><p>Women's + Gender Diverse recreational hockey game for players 19 years of age and older. Full gear is required. No rental equipment provided.</p><p>REGISTERED PARTICIPANTS ONLY. NO DROP-INS ACCEPTED</p><p>All registered participants must check in with the attendant up to 5 minutes after the program start time. Failure to do so may result in the spot being forfeited to a waiting player.</p><i>*Monthly Flexipass and 10-Visit passes are accepted for this program</i>.<br />Registrations, Cancellations, and Refunds• You can register online up to three days prior to your session.<br />• Cancel online through your account at vanrec.ca by 11:59pm the day before your class.<br />If you are cancelling by phone or in person you must cancel by 3pm the day before the session or by 3pm Saturday for a Monday session. Please call a community center to cancel by phone and note voicemail messages will not be accepted.<br />When sessions are cancelled within the cancellation period, paid transactions will be refunded back to the credit card or a credit can be used towards another booking.",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 99,
+    "ageText": "Age at least 19 yrs but less than 99 yrs",
+    "openings": "2 openings remaining",
+    "availability": "open",
+    "spaces": 2,
+    "firstDate": "2026-11-11",
+    "lastDate": "2026-11-11",
+    "prices": [
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - Flexipass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - 10 Visit Pass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "*PB Discount Leisure Access 100% Taxable: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 638803,
+    "title": "Britannia Arena - Women+Gender Diverse Hockey GOALIES",
+    "calendarId": 3,
+    "centerId": 24,
+    "facilityIds": [
+      118
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/britannia-arena---women-gender-diverse-hockey-goalies/638803",
+    "description": "<p>GOALIE REGISTRATION ONLY!! Players should register in the Women's + Gender Diverse Hockey session.</p><p>Only 2 goalies permitted per session. Free registration.</p><p>Women's + Gender Diverse recreational hockey game for players 19 years of age and older. Full gear is required. No rental equipment provided.</p><p>REGISTERED PARTICIPANTS ONLY. NO DROP-INS ACCEPTED</p><p>All registered participants must check in with the attendant up to 5 minutes after the program start time. Failure to do so may result in the spot being forfeited to a waiting player.</p><i>*Monthly Flexipass and 10-Visit passes are accepted for this program</i>.<br />Registrations, Cancellations, and Refunds• You can register online up to three days prior to your session.<br />• Cancel online through your account at vanrec.ca by 11:59pm the day before your class.<br />If you are cancelling by phone or in person you must cancel by 3pm the day before the session or by 3pm Saturday for a Monday session. Please call a community center to cancel by phone and note voicemail messages will not be accepted.<br />When sessions are cancelled within the cancellation period, paid transactions will be refunded back to the credit card or a credit can be used towards another booking.",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 99,
+    "ageText": "Age at least 19 yrs but less than 99 yrs",
+    "openings": "2 openings remaining",
+    "availability": "open",
+    "spaces": 2,
+    "firstDate": "2026-11-18",
+    "lastDate": "2026-11-18",
+    "prices": [
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - Flexipass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - 10 Visit Pass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "*PB Discount Leisure Access 100% Taxable: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 638804,
+    "title": "Britannia Arena - Women+Gender Diverse Hockey GOALIES",
+    "calendarId": 3,
+    "centerId": 24,
+    "facilityIds": [
+      118
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/britannia-arena---women-gender-diverse-hockey-goalies/638804",
+    "description": "<p>GOALIE REGISTRATION ONLY!! Players should register in the Women's + Gender Diverse Hockey session.</p><p>Only 2 goalies permitted per session. Free registration.</p><p>Women's + Gender Diverse recreational hockey game for players 19 years of age and older. Full gear is required. No rental equipment provided.</p><p>REGISTERED PARTICIPANTS ONLY. NO DROP-INS ACCEPTED</p><p>All registered participants must check in with the attendant up to 5 minutes after the program start time. Failure to do so may result in the spot being forfeited to a waiting player.</p><i>*Monthly Flexipass and 10-Visit passes are accepted for this program</i>.<br />Registrations, Cancellations, and Refunds• You can register online up to three days prior to your session.<br />• Cancel online through your account at vanrec.ca by 11:59pm the day before your class.<br />If you are cancelling by phone or in person you must cancel by 3pm the day before the session or by 3pm Saturday for a Monday session. Please call a community center to cancel by phone and note voicemail messages will not be accepted.<br />When sessions are cancelled within the cancellation period, paid transactions will be refunded back to the credit card or a credit can be used towards another booking.",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 99,
+    "ageText": "Age at least 19 yrs but less than 99 yrs",
+    "openings": "2 openings remaining",
+    "availability": "open",
+    "spaces": 2,
+    "firstDate": "2026-11-25",
+    "lastDate": "2026-11-25",
+    "prices": [
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - Flexipass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - 10 Visit Pass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "*PB Discount Leisure Access 100% Taxable: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 638810,
+    "title": "Britannia Arena -Women + Gender Diverse Learn to Play Hockey",
+    "calendarId": 3,
+    "centerId": 24,
+    "facilityIds": [
+      118
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/britannia-arena--women-gender-diverse-learn-to-play-hockey/638810",
+    "description": "<p>Recreational learn to play hockey for women and gender diverse players 19 years and older. Full gear is required. No rental equipment provided.</p><p>GOALIES must register in a separate goalie specific activity with the same session time. If you are a goalie registered in this activity, you will be withdrawn.</p><p>Registration, cancellation, and refunds</p><p>• You can register online up to three days prior to the session. 30 minutes prior to the class any unregistered spots may be sold in-person.</p><p>• Cancel online through your account at vanrec.ca by 11:59pm the day before the session.</p><p>If you are cancelling by phone or in person you must cancel by 3pm the day before the session, or by 3pm Saturday for a Monday session. Please call a community centre to cancel by phone and note voicemail messages will not be accepted.</p><p>When sessions are cancelled within the cancellation period, paid transactions will be refunded back to the credit card or a credit can be used towards another booking.</p>",
+    "instructors": [
+      "Jocelyne LeBlanc"
+    ],
+    "priceText": "from $5.55",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 99,
+    "ageText": "Age at least 19 yrs but less than 99 yrs",
+    "openings": "Closed",
+    "availability": "closed",
+    "firstDate": "2026-10-05",
+    "lastDate": "2026-10-05",
+    "prices": [
+      {
+        "price": "$7.93",
+        "description": "Public Skate Admission - Adult (19-64yrs) for 19 up to 64 years old"
+      },
+      {
+        "price": "$5.55",
+        "description": "Public Skate Admission - Senior (65yrs+) for 65 up to 100 years old"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - Flexipass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - 10 Visit Pass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Leisure Access Pass Discount: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 638811,
+    "title": "Britannia Arena -Women + Gender Diverse Learn to Play Hockey",
+    "calendarId": 3,
+    "centerId": 24,
+    "facilityIds": [
+      118
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/britannia-arena--women-gender-diverse-learn-to-play-hockey/638811",
+    "description": "<p>Recreational learn to play hockey for women and gender diverse players 19 years and older. Full gear is required. No rental equipment provided.</p><p>GOALIES must register in a separate goalie specific activity with the same session time. If you are a goalie registered in this activity, you will be withdrawn.</p><p>Registration, cancellation, and refunds</p><p>• You can register online up to three days prior to the session. 30 minutes prior to the class any unregistered spots may be sold in-person.</p><p>• Cancel online through your account at vanrec.ca by 11:59pm the day before the session.</p><p>If you are cancelling by phone or in person you must cancel by 3pm the day before the session, or by 3pm Saturday for a Monday session. Please call a community centre to cancel by phone and note voicemail messages will not be accepted.</p><p>When sessions are cancelled within the cancellation period, paid transactions will be refunded back to the credit card or a credit can be used towards another booking.</p>",
+    "instructors": [
+      "Jocelyne LeBlanc"
+    ],
+    "priceText": "from $5.55",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 99,
+    "ageText": "Age at least 19 yrs but less than 99 yrs",
+    "openings": "20 openings remaining",
+    "availability": "open",
+    "spaces": 20,
+    "firstDate": "2026-10-12",
+    "lastDate": "2026-10-12",
+    "prices": [
+      {
+        "price": "$7.93",
+        "description": "Public Skate Admission - Adult (19-64yrs) for 19 up to 64 years old"
+      },
+      {
+        "price": "$5.55",
+        "description": "Public Skate Admission - Senior (65yrs+) for 65 up to 100 years old"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - Flexipass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - 10 Visit Pass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Leisure Access Pass Discount: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 638812,
+    "title": "Britannia Arena -Women + Gender Diverse Learn to Play Hockey",
+    "calendarId": 3,
+    "centerId": 24,
+    "facilityIds": [
+      118
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/britannia-arena--women-gender-diverse-learn-to-play-hockey/638812",
+    "description": "<p>Recreational learn to play hockey for women and gender diverse players 19 years and older. Full gear is required. No rental equipment provided.</p><p>GOALIES must register in a separate goalie specific activity with the same session time. If you are a goalie registered in this activity, you will be withdrawn.</p><p>Registration, cancellation, and refunds</p><p>• You can register online up to three days prior to the session. 30 minutes prior to the class any unregistered spots may be sold in-person.</p><p>• Cancel online through your account at vanrec.ca by 11:59pm the day before the session.</p><p>If you are cancelling by phone or in person you must cancel by 3pm the day before the session, or by 3pm Saturday for a Monday session. Please call a community centre to cancel by phone and note voicemail messages will not be accepted.</p><p>When sessions are cancelled within the cancellation period, paid transactions will be refunded back to the credit card or a credit can be used towards another booking.</p>",
+    "instructors": [
+      "Jocelyne LeBlanc"
+    ],
+    "priceText": "from $5.55",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 99,
+    "ageText": "Age at least 19 yrs but less than 99 yrs",
+    "openings": "20 openings remaining",
+    "availability": "open",
+    "spaces": 20,
+    "firstDate": "2026-10-19",
+    "lastDate": "2026-10-19",
+    "prices": [
+      {
+        "price": "$7.93",
+        "description": "Public Skate Admission - Adult (19-64yrs) for 19 up to 64 years old"
+      },
+      {
+        "price": "$5.55",
+        "description": "Public Skate Admission - Senior (65yrs+) for 65 up to 100 years old"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - Flexipass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - 10 Visit Pass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Leisure Access Pass Discount: for Customer"
+      }
+    ]
+  },
+  {
     "id": 638814,
     "title": "COSCO workshop: Fraud and Scams Cantonese",
     "calendarId": 47,
@@ -109866,28 +110931,6 @@
     "spaces": 28,
     "firstDate": "2026-11-16",
     "lastDate": "2026-11-16"
-  },
-  {
-    "id": 638879,
-    "title": "Court Rental Badminton",
-    "calendarId": 15,
-    "centerId": 42,
-    "facilityIds": [
-      402
-    ],
-    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/court-rental-badminton/638879",
-    "description": "Reserve your own badminton court for guaranteed fun for a maximum of four players. Each registration is a booking for one court. There are four courts available to book per timeslot. Players must supply their own racquets and birdies. All participants must be 19yrs+. Please check-in with the front desk before entering the gym. Teaching during Court Rentals is prohibited. No refunds allowed.",
-    "instructors": [],
-    "priceText": "$25.00",
-    "free": false,
-    "ageMin": 19,
-    "ageMax": 0,
-    "ageText": "19 yrs +",
-    "openings": "4 openings remaining",
-    "availability": "open",
-    "spaces": 4,
-    "firstDate": "2026-10-10",
-    "lastDate": "2026-10-10"
   },
   {
     "id": 638880,
@@ -109932,28 +110975,6 @@
     "spaces": 3,
     "firstDate": "2026-10-11",
     "lastDate": "2026-10-11"
-  },
-  {
-    "id": 638882,
-    "title": "Court Rental Badminton",
-    "calendarId": 15,
-    "centerId": 42,
-    "facilityIds": [
-      402
-    ],
-    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/court-rental-badminton/638882",
-    "description": "Reserve your own badminton court for guaranteed fun for a maximum of four players. Each registration is a booking for one court. There are four courts available to book per timeslot. Players must supply their own racquets and birdies. All participants must be 19yrs+. Please check-in with the front desk before entering the gym. Teaching during Court Rentals is prohibited. No refunds allowed.",
-    "instructors": [],
-    "priceText": "$25.00",
-    "free": false,
-    "ageMin": 19,
-    "ageMax": 0,
-    "ageText": "19 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
-    "firstDate": "2026-10-10",
-    "lastDate": "2026-10-10"
   },
   {
     "id": 638883,
@@ -110217,9 +111238,8 @@
     "ageMin": 55,
     "ageMax": 0,
     "ageText": "55 yrs +",
-    "openings": "1 opening remaining",
-    "availability": "open",
-    "spaces": 1,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-10-05",
     "lastDate": "2026-10-05"
   },
@@ -110299,9 +111319,9 @@
     "ageMin": 13,
     "ageMax": 0,
     "ageText": "13 yrs +",
-    "openings": "27 openings remaining",
+    "openings": "25 openings remaining",
     "availability": "open",
-    "spaces": 27,
+    "spaces": 25,
     "firstDate": "2026-10-08",
     "lastDate": "2026-10-08",
     "prices": [
@@ -111249,9 +112269,9 @@
     "ageMin": 19,
     "ageMax": 99,
     "ageText": "Age at least 19 yrs but less than 99 yrs",
-    "openings": "9 openings remaining",
+    "openings": "2 openings remaining",
     "availability": "open",
-    "spaces": 9,
+    "spaces": 2,
     "firstDate": "2026-10-08",
     "lastDate": "2026-10-08",
     "prices": [
@@ -112650,9 +113670,8 @@
     "ageMin": 13,
     "ageMax": 0,
     "ageText": "13 yrs +",
-    "openings": "20 openings remaining",
-    "availability": "open",
-    "spaces": 20,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-10-05",
     "lastDate": "2026-10-05"
   },
@@ -112675,9 +113694,9 @@
     "ageMin": 13,
     "ageMax": 0,
     "ageText": "13 yrs +",
-    "openings": "21 openings remaining",
+    "openings": "23 openings remaining",
     "availability": "open",
-    "spaces": 21,
+    "spaces": 23,
     "firstDate": "2026-10-06",
     "lastDate": "2026-10-06"
   },
@@ -112700,11 +113719,241 @@
     "ageMin": 13,
     "ageMax": 0,
     "ageText": "13 yrs +",
-    "openings": "25 openings remaining",
+    "openings": "22 openings remaining",
     "availability": "open",
-    "spaces": 25,
+    "spaces": 22,
     "firstDate": "2026-10-07",
     "lastDate": "2026-10-07"
+  },
+  {
+    "id": 641008,
+    "title": "Britannia Arena -Women + Gender Diverse Learn to Play Hockey",
+    "calendarId": 3,
+    "centerId": 24,
+    "facilityIds": [
+      118
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/britannia-arena--women-gender-diverse-learn-to-play-hockey/641008",
+    "description": "<p>Recreational learn to play hockey for women and gender diverse players 19 years and older. Full gear is required. No rental equipment provided.</p><p>GOALIES must register in a separate goalie specific activity with the same session time. If you are a goalie registered in this activity, you will be withdrawn.</p><p>Registration, cancellation, and refunds</p><p>• You can register online up to three days prior to the session. 30 minutes prior to the class any unregistered spots may be sold in-person.</p><p>• Cancel online through your account at vanrec.ca by 11:59pm the day before the session.</p><p>If you are cancelling by phone or in person you must cancel by 3pm the day before the session, or by 3pm Saturday for a Monday session. Please call a community centre to cancel by phone and note voicemail messages will not be accepted.</p><p>When sessions are cancelled within the cancellation period, paid transactions will be refunded back to the credit card or a credit can be used towards another booking.</p>",
+    "instructors": [
+      "Jocelyne LeBlanc"
+    ],
+    "priceText": "from $5.55",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 99,
+    "ageText": "Age at least 19 yrs but less than 99 yrs",
+    "openings": "20 openings remaining",
+    "availability": "open",
+    "spaces": 20,
+    "firstDate": "2026-10-26",
+    "lastDate": "2026-10-26",
+    "prices": [
+      {
+        "price": "$7.93",
+        "description": "Public Skate Admission - Adult (19-64yrs) for 19 up to 64 years old"
+      },
+      {
+        "price": "$5.55",
+        "description": "Public Skate Admission - Senior (65yrs+) for 65 up to 100 years old"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - Flexipass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - 10 Visit Pass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Leisure Access Pass Discount: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 641009,
+    "title": "Britannia Arena -Women + Gender Diverse Learn to Play Hockey",
+    "calendarId": 3,
+    "centerId": 24,
+    "facilityIds": [
+      118
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/britannia-arena--women-gender-diverse-learn-to-play-hockey/641009",
+    "description": "<p>Recreational learn to play hockey for women and gender diverse players 19 years and older. Full gear is required. No rental equipment provided.</p><p>GOALIES must register in a separate goalie specific activity with the same session time. If you are a goalie registered in this activity, you will be withdrawn.</p><p>Registration, cancellation, and refunds</p><p>• You can register online up to three days prior to the session. 30 minutes prior to the class any unregistered spots may be sold in-person.</p><p>• Cancel online through your account at vanrec.ca by 11:59pm the day before the session.</p><p>If you are cancelling by phone or in person you must cancel by 3pm the day before the session, or by 3pm Saturday for a Monday session. Please call a community centre to cancel by phone and note voicemail messages will not be accepted.</p><p>When sessions are cancelled within the cancellation period, paid transactions will be refunded back to the credit card or a credit can be used towards another booking.</p>",
+    "instructors": [
+      "Jocelyne LeBlanc"
+    ],
+    "priceText": "from $5.55",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 99,
+    "ageText": "Age at least 19 yrs but less than 99 yrs",
+    "openings": "20 openings remaining",
+    "availability": "open",
+    "spaces": 20,
+    "firstDate": "2026-11-02",
+    "lastDate": "2026-11-02",
+    "prices": [
+      {
+        "price": "$7.93",
+        "description": "Public Skate Admission - Adult (19-64yrs) for 19 up to 64 years old"
+      },
+      {
+        "price": "$5.55",
+        "description": "Public Skate Admission - Senior (65yrs+) for 65 up to 100 years old"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - Flexipass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - 10 Visit Pass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Leisure Access Pass Discount: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 641010,
+    "title": "Britannia Arena -Women + Gender Diverse Learn to Play Hockey",
+    "calendarId": 3,
+    "centerId": 24,
+    "facilityIds": [
+      118
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/britannia-arena--women-gender-diverse-learn-to-play-hockey/641010",
+    "description": "<p>Recreational learn to play hockey for women and gender diverse players 19 years and older. Full gear is required. No rental equipment provided.</p><p>GOALIES must register in a separate goalie specific activity with the same session time. If you are a goalie registered in this activity, you will be withdrawn.</p><p>Registration, cancellation, and refunds</p><p>• You can register online up to three days prior to the session. 30 minutes prior to the class any unregistered spots may be sold in-person.</p><p>• Cancel online through your account at vanrec.ca by 11:59pm the day before the session.</p><p>If you are cancelling by phone or in person you must cancel by 3pm the day before the session, or by 3pm Saturday for a Monday session. Please call a community centre to cancel by phone and note voicemail messages will not be accepted.</p><p>When sessions are cancelled within the cancellation period, paid transactions will be refunded back to the credit card or a credit can be used towards another booking.</p>",
+    "instructors": [
+      "Jocelyne LeBlanc"
+    ],
+    "priceText": "from $5.55",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 99,
+    "ageText": "Age at least 19 yrs but less than 99 yrs",
+    "openings": "20 openings remaining",
+    "availability": "open",
+    "spaces": 20,
+    "firstDate": "2026-11-09",
+    "lastDate": "2026-11-09",
+    "prices": [
+      {
+        "price": "$7.93",
+        "description": "Public Skate Admission - Adult (19-64yrs) for 19 up to 64 years old"
+      },
+      {
+        "price": "$5.55",
+        "description": "Public Skate Admission - Senior (65yrs+) for 65 up to 100 years old"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - Flexipass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - 10 Visit Pass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Leisure Access Pass Discount: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 641011,
+    "title": "Britannia Arena -Women + Gender Diverse Learn to Play Hockey",
+    "calendarId": 3,
+    "centerId": 24,
+    "facilityIds": [
+      118
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/britannia-arena--women-gender-diverse-learn-to-play-hockey/641011",
+    "description": "<p>Recreational learn to play hockey for women and gender diverse players 19 years and older. Full gear is required. No rental equipment provided.</p><p>GOALIES must register in a separate goalie specific activity with the same session time. If you are a goalie registered in this activity, you will be withdrawn.</p><p>Registration, cancellation, and refunds</p><p>• You can register online up to three days prior to the session. 30 minutes prior to the class any unregistered spots may be sold in-person.</p><p>• Cancel online through your account at vanrec.ca by 11:59pm the day before the session.</p><p>If you are cancelling by phone or in person you must cancel by 3pm the day before the session, or by 3pm Saturday for a Monday session. Please call a community centre to cancel by phone and note voicemail messages will not be accepted.</p><p>When sessions are cancelled within the cancellation period, paid transactions will be refunded back to the credit card or a credit can be used towards another booking.</p>",
+    "instructors": [
+      "Jocelyne LeBlanc"
+    ],
+    "priceText": "from $5.55",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 99,
+    "ageText": "Age at least 19 yrs but less than 99 yrs",
+    "openings": "20 openings remaining",
+    "availability": "open",
+    "spaces": 20,
+    "firstDate": "2026-11-16",
+    "lastDate": "2026-11-16",
+    "prices": [
+      {
+        "price": "$7.93",
+        "description": "Public Skate Admission - Adult (19-64yrs) for 19 up to 64 years old"
+      },
+      {
+        "price": "$5.55",
+        "description": "Public Skate Admission - Senior (65yrs+) for 65 up to 100 years old"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - Flexipass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - 10 Visit Pass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Leisure Access Pass Discount: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 641012,
+    "title": "Britannia Arena -Women + Gender Diverse Learn to Play Hockey",
+    "calendarId": 3,
+    "centerId": 24,
+    "facilityIds": [
+      118
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/britannia-arena--women-gender-diverse-learn-to-play-hockey/641012",
+    "description": "<p>Recreational learn to play hockey for women and gender diverse players 19 years and older. Full gear is required. No rental equipment provided.</p><p>GOALIES must register in a separate goalie specific activity with the same session time. If you are a goalie registered in this activity, you will be withdrawn.</p><p>Registration, cancellation, and refunds</p><p>• You can register online up to three days prior to the session. 30 minutes prior to the class any unregistered spots may be sold in-person.</p><p>• Cancel online through your account at vanrec.ca by 11:59pm the day before the session.</p><p>If you are cancelling by phone or in person you must cancel by 3pm the day before the session, or by 3pm Saturday for a Monday session. Please call a community centre to cancel by phone and note voicemail messages will not be accepted.</p><p>When sessions are cancelled within the cancellation period, paid transactions will be refunded back to the credit card or a credit can be used towards another booking.</p>",
+    "instructors": [
+      "Jocelyne LeBlanc"
+    ],
+    "priceText": "from $5.55",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 99,
+    "ageText": "Age at least 19 yrs but less than 99 yrs",
+    "openings": "20 openings remaining",
+    "availability": "open",
+    "spaces": 20,
+    "firstDate": "2026-11-23",
+    "lastDate": "2026-11-23",
+    "prices": [
+      {
+        "price": "$7.93",
+        "description": "Public Skate Admission - Adult (19-64yrs) for 19 up to 64 years old"
+      },
+      {
+        "price": "$5.55",
+        "description": "Public Skate Admission - Senior (65yrs+) for 65 up to 100 years old"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - Flexipass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Public Skate Admission - 10 Visit Pass: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Leisure Access Pass Discount: for Customer"
+      }
+    ]
   },
   {
     "id": 641043,
@@ -112948,9 +114197,9 @@
     "ageMin": 8,
     "ageMax": 99,
     "ageText": "Age at least 8 yrs but less than 99 yrs",
-    "openings": "22 openings remaining",
+    "openings": "19 openings remaining",
     "availability": "open",
-    "spaces": 22,
+    "spaces": 19,
     "firstDate": "2026-10-09",
     "lastDate": "2026-10-09",
     "prices": [
@@ -113412,9 +114661,9 @@
     "ageMin": 19,
     "ageMax": 99,
     "ageText": "Age at least 19 yrs but less than 99 yrs",
-    "openings": "20 openings remaining",
-    "availability": "open",
-    "spaces": 20,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-10-09",
     "lastDate": "2026-10-09"
   },
@@ -114180,9 +115429,9 @@
     "ageMin": 19,
     "ageMax": 99,
     "ageText": "Age at least 19 yrs but less than 99 yrs",
-    "openings": "2 openings remaining",
+    "openings": "1 opening remaining",
     "availability": "open",
-    "spaces": 2,
+    "spaces": 1,
     "firstDate": "2026-10-08",
     "lastDate": "2026-10-08"
   },
@@ -114588,9 +115837,9 @@
     "ageMin": 13,
     "ageMax": 0,
     "ageText": "13 yrs +",
-    "openings": "19 openings remaining",
+    "openings": "18 openings remaining",
     "availability": "open",
-    "spaces": 19,
+    "spaces": 18,
     "firstDate": "2026-10-08",
     "lastDate": "2026-10-08"
   },
@@ -114670,9 +115919,9 @@
     "ageMin": 16,
     "ageMax": 0,
     "ageText": "16 yrs +",
-    "openings": "8 openings remaining",
+    "openings": "7 openings remaining",
     "availability": "open",
-    "spaces": 8,
+    "spaces": 7,
     "firstDate": "2026-10-07",
     "lastDate": "2026-11-18",
     "prices": [
@@ -114777,9 +116026,8 @@
     "ageMin": 55,
     "ageMax": 0,
     "ageText": "55 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-10-05",
     "lastDate": "2026-10-05"
   },
@@ -114802,9 +116050,8 @@
     "ageMin": 55,
     "ageMax": 0,
     "ageText": "55 yrs +",
-    "openings": "1 opening remaining",
-    "availability": "open",
-    "spaces": 1,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-10-05",
     "lastDate": "2026-10-05"
   },
@@ -114827,9 +116074,8 @@
     "ageMin": 55,
     "ageMax": 0,
     "ageText": "55 yrs +",
-    "openings": "1 opening remaining",
-    "availability": "open",
-    "spaces": 1,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-10-05",
     "lastDate": "2026-10-05"
   },
@@ -114852,9 +116098,8 @@
     "ageMin": 55,
     "ageMax": 0,
     "ageText": "55 yrs +",
-    "openings": "1 opening remaining",
-    "availability": "open",
-    "spaces": 1,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-10-05",
     "lastDate": "2026-10-05"
   },
@@ -115051,9 +116296,9 @@
     "ageMin": 13,
     "ageMax": 0,
     "ageText": "13 yrs +",
-    "openings": "18 openings remaining",
+    "openings": "17 openings remaining",
     "availability": "open",
-    "spaces": 18,
+    "spaces": 17,
     "firstDate": "2026-10-07",
     "lastDate": "2026-10-07"
   },
@@ -115707,9 +116952,9 @@
     "ageMin": 13,
     "ageMax": 0,
     "ageText": "13 yrs +",
-    "openings": "13 openings remaining",
+    "openings": "11 openings remaining",
     "availability": "open",
-    "spaces": 13,
+    "spaces": 11,
     "firstDate": "2026-10-06",
     "lastDate": "2026-10-06",
     "prices": [
@@ -115935,5 +117180,27 @@
     "spaces": 30,
     "firstDate": "2026-10-19",
     "lastDate": "2026-10-19"
+  },
+  {
+    "id": 644734,
+    "title": "Leisure Pool Closure",
+    "calendarId": 55,
+    "centerId": 59,
+    "facilityIds": [
+      208
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/leisure-pool-closure/644734",
+    "description": "<p>Leisure Pool closed due to mechanical issue.</p>",
+    "instructors": [],
+    "priceText": "",
+    "free": false,
+    "ageMin": 0,
+    "ageMax": 0,
+    "ageText": "All ages",
+    "openings": "1 opening remaining",
+    "availability": "open",
+    "spaces": 1,
+    "firstDate": "2026-10-05",
+    "lastDate": "2026-10-07"
   }
 ]
