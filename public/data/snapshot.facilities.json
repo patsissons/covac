@@ -760,14 +760,14 @@
     "centerId": 38
   },
   {
-    "id": 490,
-    "name": "Meeting Room",
-    "centerId": 57
-  },
-  {
     "id": 452,
     "name": "Meeting Room",
     "centerId": 40
+  },
+  {
+    "id": 490,
+    "name": "Meeting Room",
+    "centerId": 57
   },
   {
     "id": 725,
