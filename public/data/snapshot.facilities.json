@@ -265,9 +265,9 @@
     "centerId": 51
   },
   {
-    "id": 715,
-    "name": "Conservatory",
-    "centerId": 49
+    "id": 339,
+    "name": "Conference Room",
+    "centerId": 38
   },
   {
     "id": 652,
@@ -665,11 +665,6 @@
     "centerId": 25
   },
   {
-    "id": 701,
-    "name": "Kitchen",
-    "centerId": 32
-  },
-  {
     "id": 315,
     "name": "Kitchen",
     "centerId": 35
@@ -678,6 +673,11 @@
     "id": 546,
     "name": "Kitchen",
     "centerId": 43
+  },
+  {
+    "id": 701,
+    "name": "Kitchen",
+    "centerId": 32
   },
   {
     "id": 526,
@@ -847,11 +847,6 @@
   {
     "id": 597,
     "name": "Multi-Purpose Room 202",
-    "centerId": 50
-  },
-  {
-    "id": 601,
-    "name": "Multi-purpose Room 210",
     "centerId": 50
   },
   {
