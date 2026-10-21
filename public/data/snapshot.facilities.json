@@ -865,14 +865,14 @@
     "centerId": 6
   },
   {
-    "id": 660,
-    "name": "Multipurpose Room",
-    "centerId": 55
-  },
-  {
     "id": 453,
     "name": "Multipurpose Room",
     "centerId": 40
+  },
+  {
+    "id": 660,
+    "name": "Multipurpose Room",
+    "centerId": 55
   },
   {
     "id": 127,
