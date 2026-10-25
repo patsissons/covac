@@ -1,10 +1,5 @@
 [
   {
-    "id": 621,
-    "name": "104 Multipurpose Room",
-    "centerId": 41
-  },
-  {
     "id": 607,
     "name": "105 Gym North",
     "centerId": 41
@@ -745,11 +740,6 @@
     "centerId": 35
   },
   {
-    "id": 504,
-    "name": "Lower Lounge",
-    "centerId": 54
-  },
-  {
     "id": 451,
     "name": "Maddie's (Seniors) Lounge",
     "centerId": 40
@@ -758,11 +748,6 @@
     "id": 354,
     "name": "Mat Room",
     "centerId": 38
-  },
-  {
-    "id": 452,
-    "name": "Meeting Room",
-    "centerId": 40
   },
   {
     "id": 490,
@@ -978,11 +963,6 @@
     "id": 421,
     "name": "Practice Room",
     "centerId": 42
-  },
-  {
-    "id": 158,
-    "name": "Preschool",
-    "centerId": 7
   },
   {
     "id": 318,
