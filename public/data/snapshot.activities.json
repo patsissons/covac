@@ -432,9 +432,9 @@
     "ageMin": 6,
     "ageMax": 12,
     "ageText": "Age at least 6 yrs but less than 12y 11m 4w",
-    "openings": "17 openings remaining",
+    "openings": "16 openings remaining",
     "availability": "open",
-    "spaces": 17,
+    "spaces": 16,
     "firstDate": "2026-11-02",
     "lastDate": "2026-12-14",
     "prices": [
@@ -636,9 +636,8 @@
     "ageMin": 2,
     "ageMax": 6,
     "ageText": "Age at least 2y 11m but less than 6y 11m",
-    "openings": "15 openings remaining",
-    "availability": "open",
-    "spaces": 15,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-10-04",
     "lastDate": "2026-10-27",
     "prices": [
@@ -1208,7 +1207,7 @@
     "description": "<p>This class will teach the basics of punching and footwork of boxing, which is not only fun and fosters confidence and body awareness. Boxing is also an excellent practice for coordination and overall movement literacy. Some youth learn to discover their strength, some to regulate their strength.</p><p>This is a non-contact class. Equipment is provided.</p><p><b>Sept 9 class is OUTDOORS - please check with coaches about location.</b></p><p>About the coaches:</p><p>River is now a professional boxer who has fought in the amateur for over 10 years, competing in the USA and Canada, bringing home medals from the Canadian National Championship twice.</p><p>She has been running Queers Box Camp Vancouver since 2011</p><p>Nana (Anaheed) is a queer, non-binary boxer who started boxing at Quinit Boxing in East Van two years ago. Boxing has become a very central and grounding part of their daily life. They are currently preparing for their debut fight in November. Nana works part-time in the community with elementary school children at Britannia's Out of School Care program. With a background in a variety of sports (like rock climbing, ski racing and basketball to name a few), Nana has previously coached youth in basketball at a high level as well as worked as a ski instructor for Cypress mountain teaching kids and adults. They love working with young people and meeting them where they are at to help them establish stronger connections to an activity, to themselves and their peers.</p><p>Boxing room is located beside Gym C.</p><p>Any questions or comments, please email - fraser.mcelroy@vancouver.ca</p><p><b>No class Sept 30 &amp; Nov 11</b></p>",
     "instructors": [
       "River Tucker",
-      "Tsvi Levi"
+      "Anaheed Saatchi"
     ],
     "priceText": "$156.00",
     "free": false,
@@ -2913,7 +2912,8 @@
     "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/volleyball---intermediate-thu/620767",
     "description": "<p>2 courts, 5/6 per team</p><p>Skill level is intermediate, purely recreational. Efforts towards making fair balanced teams to have fun continuous rallies rather than quick side outs. Please join if you have most of the basics. Register for this program to guarantee a spot to play every week. A total of 29 spaces allotted. $9/drop in, space permitting. 5 teams of 6 players are created and each team sits out one game (no subs).</p><p><b>Registered players cannot give their spot away</b></p><p><b>Teams are allowed to stay together ONLY if there are sufficient players in the program. The final decision is up to the organizer.</b></p><p><b>Drop In Rules:</b></p><p>See program guide for rules</p>",
     "instructors": [
-      "John Ng"
+      "RIcki Basra",
+      "Jonah Curl"
     ],
     "priceText": "$135.00",
     "free": false,
@@ -3601,9 +3601,9 @@
     "ageMin": 12,
     "ageMax": 18,
     "ageText": "Age at least 12 yrs but less than 18y 11m",
-    "openings": "6 openings remaining",
+    "openings": "7 openings remaining",
     "availability": "open",
-    "spaces": 6,
+    "spaces": 7,
     "firstDate": "2026-11-07",
     "lastDate": "2026-12-12",
     "prices": [
@@ -3940,9 +3940,8 @@
     "ageMin": 16,
     "ageMax": 0,
     "ageText": "16 yrs +",
-    "openings": "7 openings remaining",
-    "availability": "open",
-    "spaces": 7,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-15",
     "lastDate": "2026-10-27",
     "prices": [
@@ -4076,9 +4075,8 @@
     "ageMin": 16,
     "ageMax": 0,
     "ageText": "16 yrs +",
-    "openings": "2 openings remaining",
-    "availability": "open",
-    "spaces": 2,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-08",
     "lastDate": "2026-10-27",
     "prices": [
@@ -4174,9 +4172,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "2 openings remaining",
+    "openings": "1 opening remaining",
     "availability": "open",
-    "spaces": 2,
+    "spaces": 1,
     "firstDate": "2026-10-28",
     "lastDate": "2026-10-28",
     "prices": [
@@ -4333,9 +4331,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "4 openings remaining",
-    "availability": "open",
-    "spaces": 4,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-10-27",
     "lastDate": "2026-10-27",
     "prices": [
@@ -4429,9 +4426,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "7 openings remaining",
+    "openings": "4 openings remaining",
     "availability": "open",
-    "spaces": 7,
+    "spaces": 4,
     "firstDate": "2026-10-28",
     "lastDate": "2026-10-28",
     "prices": [
@@ -4461,9 +4458,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "22 openings remaining",
+    "openings": "15 openings remaining",
     "availability": "open",
-    "spaces": 22,
+    "spaces": 15,
     "firstDate": "2026-10-30",
     "lastDate": "2026-10-30",
     "prices": [
@@ -4685,9 +4682,8 @@
     "ageMin": 55,
     "ageMax": 0,
     "ageText": "55 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-15",
     "lastDate": "2026-10-27",
     "prices": [
@@ -5051,9 +5047,8 @@
     "ageMin": 16,
     "ageMax": 0,
     "ageText": "16 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-15",
     "lastDate": "2026-10-27",
     "prices": [
@@ -5085,9 +5080,8 @@
     "ageMin": 16,
     "ageMax": 0,
     "ageText": "16 yrs +",
-    "openings": "10 openings remaining",
-    "availability": "open",
-    "spaces": 10,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-15",
     "lastDate": "2026-10-27",
     "prices": [
@@ -5187,9 +5181,9 @@
     "ageMin": 55,
     "ageMax": 0,
     "ageText": "55 yrs +",
-    "openings": "8 openings remaining",
+    "openings": "6 openings remaining",
     "availability": "open",
-    "spaces": 8,
+    "spaces": 6,
     "firstDate": "2026-11-10",
     "lastDate": "2026-12-08",
     "prices": [
@@ -5221,9 +5215,9 @@
     "ageMin": 16,
     "ageMax": 0,
     "ageText": "16 yrs +",
-    "openings": "10 openings remaining",
+    "openings": "9 openings remaining",
     "availability": "open",
-    "spaces": 10,
+    "spaces": 9,
     "firstDate": "2026-11-04",
     "lastDate": "2026-12-09",
     "prices": [
@@ -5290,9 +5284,9 @@
     "ageMin": 16,
     "ageMax": 0,
     "ageText": "16 yrs +",
-    "openings": "25 openings remaining",
+    "openings": "24 openings remaining",
     "availability": "open",
-    "spaces": 25,
+    "spaces": 24,
     "firstDate": "2026-11-08",
     "lastDate": "2026-12-20",
     "prices": [
@@ -5392,9 +5386,8 @@
     "ageMin": 16,
     "ageMax": 0,
     "ageText": "16 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-08",
     "lastDate": "2026-10-27",
     "prices": [
@@ -5426,9 +5419,9 @@
     "ageMin": 16,
     "ageMax": 0,
     "ageText": "16 yrs +",
-    "openings": "11 openings remaining",
+    "openings": "9 openings remaining",
     "availability": "open",
-    "spaces": 11,
+    "spaces": 9,
     "firstDate": "2026-11-03",
     "lastDate": "2026-12-15",
     "prices": [
@@ -5460,9 +5453,9 @@
     "ageMin": 16,
     "ageMax": 0,
     "ageText": "16 yrs +",
-    "openings": "10 openings remaining",
+    "openings": "8 openings remaining",
     "availability": "open",
-    "spaces": 10,
+    "spaces": 8,
     "firstDate": "2026-11-04",
     "lastDate": "2026-12-16",
     "prices": [
@@ -5698,9 +5691,9 @@
     "ageMin": 13,
     "ageMax": 18,
     "ageText": "Age at least 13 yrs but less than 18 yrs",
-    "openings": "1 opening remaining",
-    "availability": "open",
-    "spaces": 1,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-11-05",
     "lastDate": "2026-12-10",
     "prices": [
@@ -5984,9 +5977,9 @@
     "ageMin": 16,
     "ageMax": 0,
     "ageText": "16 yrs +",
-    "openings": "17 openings remaining",
+    "openings": "16 openings remaining",
     "availability": "open",
-    "spaces": 17,
+    "spaces": 16,
     "firstDate": "2026-11-12",
     "lastDate": "2026-12-17",
     "prices": [
@@ -6018,9 +6011,9 @@
     "ageMin": 16,
     "ageMax": 0,
     "ageText": "16 yrs +",
-    "openings": "18 openings remaining",
+    "openings": "19 openings remaining",
     "availability": "open",
-    "spaces": 18,
+    "spaces": 19,
     "firstDate": "2026-11-05",
     "lastDate": "2026-12-17",
     "prices": [
@@ -6119,9 +6112,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "3 openings remaining",
+    "openings": "2 openings remaining",
     "availability": "open",
-    "spaces": 3,
+    "spaces": 2,
     "firstDate": "2026-11-02",
     "lastDate": "2026-12-14",
     "prices": [
@@ -6568,9 +6561,9 @@
     "ageMin": 55,
     "ageMax": 0,
     "ageText": "55 yrs +",
-    "openings": "3 openings remaining",
+    "openings": "2 openings remaining",
     "availability": "open",
-    "spaces": 3,
+    "spaces": 2,
     "firstDate": "2026-11-04",
     "lastDate": "2026-12-09",
     "prices": [
@@ -6738,9 +6731,9 @@
     "ageMin": 55,
     "ageMax": 0,
     "ageText": "55 yrs +",
-    "openings": "18 openings remaining",
+    "openings": "17 openings remaining",
     "availability": "open",
-    "spaces": 18,
+    "spaces": 17,
     "firstDate": "2026-11-06",
     "lastDate": "2026-12-18",
     "prices": [
@@ -6772,9 +6765,8 @@
     "ageMin": 55,
     "ageMax": 0,
     "ageText": "55 yrs +",
-    "openings": "9 openings remaining",
-    "availability": "open",
-    "spaces": 9,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-08",
     "lastDate": "2026-10-27",
     "prices": [
@@ -6806,9 +6798,9 @@
     "ageMin": 55,
     "ageMax": 0,
     "ageText": "55 yrs +",
-    "openings": "18 openings remaining",
+    "openings": "15 openings remaining",
     "availability": "open",
-    "spaces": 18,
+    "spaces": 15,
     "firstDate": "2026-11-03",
     "lastDate": "2026-12-15",
     "prices": [
@@ -7084,9 +7076,9 @@
     "ageMin": 50,
     "ageMax": 0,
     "ageText": "50 yrs +",
-    "openings": "10 openings remaining",
+    "openings": "9 openings remaining",
     "availability": "open",
-    "spaces": 10,
+    "spaces": 9,
     "firstDate": "2026-11-07",
     "lastDate": "2026-12-12",
     "prices": [
@@ -7152,9 +7144,9 @@
     "ageMin": 45,
     "ageMax": 0,
     "ageText": "45 yrs +",
-    "openings": "22 openings remaining",
+    "openings": "20 openings remaining",
     "availability": "open",
-    "spaces": 22,
+    "spaces": 20,
     "firstDate": "2026-11-04",
     "lastDate": "2026-12-09",
     "prices": [
@@ -7845,9 +7837,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "14 openings remaining",
+    "openings": "13 openings remaining",
     "availability": "open",
-    "spaces": 14,
+    "spaces": 13,
     "firstDate": "2026-10-13",
     "lastDate": "2026-11-24",
     "prices": [
@@ -8509,9 +8501,9 @@
     "ageMin": 1,
     "ageMax": 3,
     "ageText": "Age at least 1y 6m but less than 3y 11m 4w",
-    "openings": "9 openings remaining",
+    "openings": "8 openings remaining",
     "availability": "open",
-    "spaces": 9,
+    "spaces": 8,
     "firstDate": "2026-11-02",
     "lastDate": "2026-12-14",
     "prices": [
@@ -8541,9 +8533,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-10-27",
     "lastDate": "2026-10-27"
   },
@@ -8563,9 +8554,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "1 opening remaining",
-    "availability": "open",
-    "spaces": 1,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-11-03",
     "lastDate": "2026-11-03"
   },
@@ -8920,9 +8911,9 @@
     "ageMin": 55,
     "ageMax": 0,
     "ageText": "55 yrs +",
-    "openings": "5 openings remaining",
+    "openings": "3 openings remaining",
     "availability": "open",
-    "spaces": 5,
+    "spaces": 3,
     "firstDate": "2026-11-18",
     "lastDate": "2026-12-16",
     "prices": [
@@ -9414,9 +9405,8 @@
     "ageMin": 50,
     "ageMax": 0,
     "ageText": "50 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-10-27",
     "lastDate": "2026-10-27"
   },
@@ -10118,9 +10108,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "16 openings remaining",
-    "availability": "open",
-    "spaces": 16,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-15",
     "lastDate": "2026-10-27",
     "prices": [
@@ -11546,9 +11535,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "10 openings remaining",
-    "availability": "open",
-    "spaces": 10,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-15",
     "lastDate": "2026-10-27",
     "prices": [
@@ -11770,9 +11758,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-10-27",
     "lastDate": "2026-10-27"
   },
@@ -12188,11 +12175,11 @@
     "ageMin": 2,
     "ageMax": 5,
     "ageText": "Age at least 2y 6m but less than 5y 11m",
-    "openings": "6 openings remaining",
+    "openings": "4 openings remaining",
     "availability": "open",
-    "spaces": 6,
-    "firstDate": "2026-10-27",
-    "lastDate": "2026-12-01",
+    "spaces": 4,
+    "firstDate": "2026-11-03",
+    "lastDate": "2026-12-08",
     "prices": [
       {
         "price": "$90.00",
@@ -12255,9 +12242,8 @@
     "ageMin": 1,
     "ageMax": 2,
     "ageText": "Age at least 1y 4m but less than 2y 11m",
-    "openings": "6 openings remaining",
-    "availability": "open",
-    "spaces": 6,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-15",
     "lastDate": "2026-10-27",
     "prices": [
@@ -12862,9 +12848,9 @@
     "ageMin": 8,
     "ageMax": 14,
     "ageText": "Age at least 8 yrs but less than 14 yrs",
-    "openings": "18 openings remaining",
+    "openings": "17 openings remaining",
     "availability": "open",
-    "spaces": 18,
+    "spaces": 17,
     "firstDate": "2026-10-28",
     "lastDate": "2026-12-09",
     "prices": [
@@ -13032,9 +13018,9 @@
     "ageMin": 4,
     "ageMax": 7,
     "ageText": "Age at least 4 yrs but less than 7 yrs",
-    "openings": "4 openings remaining",
+    "openings": "3 openings remaining",
     "availability": "open",
-    "spaces": 4,
+    "spaces": 3,
     "firstDate": "2026-11-06",
     "lastDate": "2026-12-18",
     "prices": [
@@ -14260,9 +14246,8 @@
     "ageMin": 5,
     "ageMax": 0,
     "ageText": "5 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-08",
     "lastDate": "2026-10-27",
     "prices": [
@@ -14310,9 +14295,8 @@
     "ageMin": 5,
     "ageMax": 0,
     "ageText": "5 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-08",
     "lastDate": "2026-10-27",
     "prices": [
@@ -14360,9 +14344,8 @@
     "ageMin": 5,
     "ageMax": 0,
     "ageText": "5 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-08",
     "lastDate": "2026-10-27",
     "prices": [
@@ -14410,9 +14393,8 @@
     "ageMin": 5,
     "ageMax": 0,
     "ageText": "5 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-08",
     "lastDate": "2026-10-27",
     "prices": [
@@ -14460,9 +14442,8 @@
     "ageMin": 5,
     "ageMax": 0,
     "ageText": "5 yrs +",
-    "openings": "1 opening remaining",
-    "availability": "open",
-    "spaces": 1,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-08",
     "lastDate": "2026-10-27",
     "prices": [
@@ -14510,9 +14491,8 @@
     "ageMin": 5,
     "ageMax": 0,
     "ageText": "5 yrs +",
-    "openings": "1 opening remaining",
-    "availability": "open",
-    "spaces": 1,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-08",
     "lastDate": "2026-10-27",
     "prices": [
@@ -14560,9 +14540,8 @@
     "ageMin": 5,
     "ageMax": 0,
     "ageText": "5 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-08",
     "lastDate": "2026-10-27",
     "prices": [
@@ -14610,9 +14589,8 @@
     "ageMin": 5,
     "ageMax": 0,
     "ageText": "5 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-08",
     "lastDate": "2026-10-27",
     "prices": [
@@ -14660,9 +14638,8 @@
     "ageMin": 5,
     "ageMax": 0,
     "ageText": "5 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-08",
     "lastDate": "2026-10-27",
     "prices": [
@@ -15050,9 +15027,8 @@
     "ageMin": 4,
     "ageMax": 7,
     "ageText": "Age at least 4 yrs but less than 7y 11m 3w",
-    "openings": "5 openings remaining",
-    "availability": "open",
-    "spaces": 5,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-15",
     "lastDate": "2026-10-27",
     "prices": [
@@ -15134,40 +15110,6 @@
     ]
   },
   {
-    "id": 623477,
-    "title": "Junior Chefs",
-    "calendarId": 26,
-    "centerId": 55,
-    "facilityIds": [
-      662
-    ],
-    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/junior-chefs/623477",
-    "description": "<p>Get ready to stir, roll, chop, and bake! In this hands-on cooking class, junior chefs will explore a variety of sweet and savoury recipes, including delicious dishes inspired by cultures from around the world. We’ll practice essential kitchen skills like measuring ingredients, food safety, and basic kitchen rules each week. We’ll also learn how to work together as a team to create tasty masterpieces. Every class is packed with fun, learning, and delicious treats from cheesy creations to sweet desserts. Please bring a container to take home your culinary creations. </p><p><b>Note:</b><b>Recipes in this class may include meat, dairy, and eggs. Unfortunately, Junior Chefs cannot accommodate vegetarian or vegan diets. </b></p>",
-    "instructors": [
-      "Gigi Puen"
-    ],
-    "priceText": "$140.00",
-    "free": false,
-    "ageMin": 7,
-    "ageMax": 10,
-    "ageText": "Age at least 7 yrs but less than 10y 11m 3w",
-    "openings": "10 openings remaining",
-    "availability": "open",
-    "spaces": 10,
-    "firstDate": "2026-11-01",
-    "lastDate": "2026-11-29",
-    "prices": [
-      {
-        "price": "$140.00",
-        "description": "Standard charge"
-      },
-      {
-        "price": "50.00%",
-        "description": "Leisure Discount - PB - Non-taxable: for Customer"
-      }
-    ]
-  },
-  {
     "id": 623479,
     "title": "K-Pop",
     "calendarId": 20,
@@ -15185,9 +15127,8 @@
     "ageMin": 9,
     "ageMax": 14,
     "ageText": "Age at least 9 yrs but less than 14y 11m 3w",
-    "openings": "7 openings remaining",
-    "availability": "open",
-    "spaces": 7,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-15",
     "lastDate": "2026-10-27",
     "prices": [
@@ -15619,9 +15560,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "11 openings remaining",
-    "availability": "open",
-    "spaces": 11,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-15",
     "lastDate": "2026-10-27",
     "prices": [
@@ -18406,9 +18346,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "7 openings remaining",
+    "openings": "6 openings remaining",
     "availability": "open",
-    "spaces": 7,
+    "spaces": 6,
     "firstDate": "2026-09-17",
     "lastDate": "2026-11-26"
   },
@@ -18690,9 +18630,9 @@
     "ageMin": 18,
     "ageMax": 0,
     "ageText": "18 yrs +",
-    "openings": "11 openings remaining",
+    "openings": "10 openings remaining",
     "availability": "open",
-    "spaces": 11,
+    "spaces": 10,
     "firstDate": "2026-11-02",
     "lastDate": "2026-12-14",
     "prices": [
@@ -18860,9 +18800,8 @@
     "ageMin": 16,
     "ageMax": 0,
     "ageText": "16 yrs +",
-    "openings": "9 openings remaining",
-    "availability": "open",
-    "spaces": 9,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-08",
     "lastDate": "2026-10-27",
     "prices": [
@@ -20653,9 +20592,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "2 openings remaining",
-    "availability": "open",
-    "spaces": 2,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-11-08",
     "lastDate": "2026-12-13",
     "prices": [
@@ -20687,9 +20626,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "8 openings remaining",
-    "availability": "open",
-    "spaces": 8,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-15",
     "lastDate": "2026-10-27",
     "prices": [
@@ -20891,9 +20829,9 @@
     "ageMin": 2,
     "ageMax": 3,
     "ageText": "Age at least 2 yrs but less than 3y 11m 3w",
-    "openings": "7 openings remaining",
+    "openings": "6 openings remaining",
     "availability": "open",
-    "spaces": 7,
+    "spaces": 6,
     "firstDate": "2026-11-07",
     "lastDate": "2026-12-12",
     "prices": [
@@ -21056,9 +20994,9 @@
     "ageMin": 2,
     "ageMax": 3,
     "ageText": "Age at least 2 yrs but less than 3y 11m 3w",
-    "openings": "11 openings remaining",
+    "openings": "10 openings remaining",
     "availability": "open",
-    "spaces": 11,
+    "spaces": 10,
     "firstDate": "2026-11-01",
     "lastDate": "2026-12-13",
     "prices": [
@@ -21148,9 +21086,9 @@
     "ageMin": 4,
     "ageMax": 6,
     "ageText": "Age at least 4 yrs but less than 6y 11m 3w",
-    "openings": "5 openings remaining",
+    "openings": "2 openings remaining",
     "availability": "open",
-    "spaces": 5,
+    "spaces": 2,
     "firstDate": "2026-11-02",
     "lastDate": "2026-12-14",
     "prices": [
@@ -21216,9 +21154,9 @@
     "ageMin": 55,
     "ageMax": 0,
     "ageText": "55 yrs +",
-    "openings": "10 openings remaining",
+    "openings": "11 openings remaining",
     "availability": "open",
-    "spaces": 10,
+    "spaces": 11,
     "firstDate": "2026-09-10",
     "lastDate": "2026-12-17",
     "prices": [
@@ -21764,9 +21702,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "16 openings remaining",
+    "openings": "15 openings remaining",
     "availability": "open",
-    "spaces": 16,
+    "spaces": 15,
     "firstDate": "2026-10-29",
     "lastDate": "2026-12-17",
     "prices": [
@@ -22092,9 +22030,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "12 openings remaining",
+    "openings": "11 openings remaining",
     "availability": "open",
-    "spaces": 12,
+    "spaces": 11,
     "firstDate": "2026-09-08",
     "lastDate": "2026-12-22",
     "prices": [
@@ -22464,9 +22402,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "2 openings remaining",
-    "availability": "open",
-    "spaces": 2,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-15",
     "lastDate": "2026-10-27",
     "prices": [
@@ -22598,9 +22535,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "3 openings remaining",
+    "openings": "1 opening remaining",
     "availability": "open",
-    "spaces": 3,
+    "spaces": 1,
     "firstDate": "2026-10-13",
     "lastDate": "2026-12-01",
     "prices": [
@@ -22732,9 +22669,9 @@
     "ageMin": 8,
     "ageMax": 10,
     "ageText": "Age at least 8 yrs but less than 10y 11m",
-    "openings": "5 openings remaining",
+    "openings": "4 openings remaining",
     "availability": "open",
-    "spaces": 5,
+    "spaces": 4,
     "firstDate": "2026-11-02",
     "lastDate": "2026-12-07",
     "prices": [
@@ -22834,9 +22771,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "11 openings remaining",
+    "openings": "9 openings remaining",
     "availability": "open",
-    "spaces": 11,
+    "spaces": 9,
     "firstDate": "2026-12-03",
     "lastDate": "2026-12-17",
     "prices": [
@@ -23078,9 +23015,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "14 openings remaining",
+    "openings": "13 openings remaining",
     "availability": "open",
-    "spaces": 14,
+    "spaces": 13,
     "firstDate": "2026-11-03",
     "lastDate": "2026-12-15",
     "prices": [
@@ -23503,9 +23440,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-08",
     "lastDate": "2026-10-27",
     "prices": [
@@ -23567,9 +23503,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-08",
     "lastDate": "2026-10-27",
     "prices": [
@@ -25353,9 +25288,8 @@
     "ageMin": 18,
     "ageMax": 0,
     "ageText": "18 yrs +",
-    "openings": "1 opening remaining",
-    "availability": "open",
-    "spaces": 1,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-15",
     "lastDate": "2026-10-27",
     "prices": [
@@ -25387,9 +25321,9 @@
     "ageMin": 18,
     "ageMax": 0,
     "ageText": "18 yrs +",
-    "openings": "2 openings remaining",
+    "openings": "1 opening remaining",
     "availability": "open",
-    "spaces": 2,
+    "spaces": 1,
     "firstDate": "2026-11-03",
     "lastDate": "2026-12-15",
     "prices": [
@@ -25958,9 +25892,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "24 openings remaining",
-    "availability": "open",
-    "spaces": 24,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-10-30",
     "lastDate": "2026-10-30",
     "prices": [
@@ -27991,9 +27925,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "34 openings remaining",
+    "openings": "33 openings remaining",
     "availability": "open",
-    "spaces": 34,
+    "spaces": 33,
     "firstDate": "2026-09-11",
     "lastDate": "2026-12-18",
     "prices": [
@@ -28117,9 +28051,9 @@
     "ageMin": 65,
     "ageMax": 0,
     "ageText": "65 yrs +",
-    "openings": "10 openings remaining",
+    "openings": "9 openings remaining",
     "availability": "open",
-    "spaces": 10,
+    "spaces": 9,
     "firstDate": "2026-10-28",
     "lastDate": "2026-12-02",
     "prices": [
@@ -28353,9 +28287,9 @@
     "ageMin": 2,
     "ageMax": 4,
     "ageText": "Age at least 2 yrs but less than 4y 11m 3w",
-    "openings": "4 openings remaining",
+    "openings": "3 openings remaining",
     "availability": "open",
-    "spaces": 4,
+    "spaces": 3,
     "firstDate": "2026-11-01",
     "lastDate": "2026-12-13",
     "prices": [
@@ -28421,9 +28355,9 @@
     "ageMin": 4,
     "ageMax": 6,
     "ageText": "Age at least 4y 6m but less than 6y 11m 3w",
-    "openings": "5 openings remaining",
+    "openings": "4 openings remaining",
     "availability": "open",
-    "spaces": 5,
+    "spaces": 4,
     "firstDate": "2026-11-01",
     "lastDate": "2026-12-13",
     "prices": [
@@ -28489,9 +28423,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "16 openings remaining",
+    "openings": "14 openings remaining",
     "availability": "open",
-    "spaces": 16,
+    "spaces": 14,
     "firstDate": "2026-11-08",
     "lastDate": "2026-12-13",
     "prices": [
@@ -28659,9 +28593,9 @@
     "ageMin": 6,
     "ageMax": 9,
     "ageText": "Age at least 6 yrs but less than 9y 11m 3w",
-    "openings": "10 openings remaining",
+    "openings": "9 openings remaining",
     "availability": "open",
-    "spaces": 10,
+    "spaces": 9,
     "firstDate": "2026-11-01",
     "lastDate": "2026-12-13",
     "prices": [
@@ -28693,9 +28627,8 @@
     "ageMin": 18,
     "ageMax": 0,
     "ageText": "18 yrs +",
-    "openings": "10 openings remaining",
-    "availability": "open",
-    "spaces": 10,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-15",
     "lastDate": "2026-10-27",
     "prices": [
@@ -28761,9 +28694,9 @@
     "ageMin": 18,
     "ageMax": 0,
     "ageText": "18 yrs +",
-    "openings": "13 openings remaining",
+    "openings": "12 openings remaining",
     "availability": "open",
-    "spaces": 13,
+    "spaces": 12,
     "firstDate": "2026-11-03",
     "lastDate": "2026-12-22",
     "prices": [
@@ -28795,9 +28728,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "15 openings remaining",
+    "openings": "14 openings remaining",
     "availability": "open",
-    "spaces": 15,
+    "spaces": 14,
     "firstDate": "2026-11-12",
     "lastDate": "2026-11-12"
   },
@@ -30029,74 +29962,6 @@
     ]
   },
   {
-    "id": 625493,
-    "title": "Sportball Parent and Tot Indoor Soccer",
-    "calendarId": 11,
-    "centerId": 48,
-    "facilityIds": [
-      569
-    ],
-    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/sportball-parent-and-tot-indoor-soccer/625493",
-    "description": "<p>Toddlers and parents/caregivers focus on physical movements and social exploration, learn fundamental sport skills and participate in creative motor games, songs, stories, bubble time and more. Children are challenged according to their individual skill level and Coaches help grownups understand proven teaching techniques that can be applied outside of Sportball classes. Parent participation is required. </p>",
-    "instructors": [
-      "Sportball Vancouver"
-    ],
-    "priceText": "$105.00",
-    "free": false,
-    "ageMin": 2,
-    "ageMax": 3,
-    "ageText": "Age at least 2 yrs but less than 3y 11m 4w",
-    "openings": "12 openings remaining",
-    "availability": "open",
-    "spaces": 12,
-    "firstDate": "2026-11-03",
-    "lastDate": "2026-12-15",
-    "prices": [
-      {
-        "price": "$105.00",
-        "description": "Standard charge"
-      },
-      {
-        "price": "50.00%",
-        "description": "Leisure Access - CCA: for Customer"
-      }
-    ]
-  },
-  {
-    "id": 625497,
-    "title": "Sportball Indoor Soccer",
-    "calendarId": 11,
-    "centerId": 48,
-    "facilityIds": [
-      569
-    ],
-    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/sportball-indoor-soccer/625497",
-    "description": "<p>Kickstart your day! Sportball Soccer programs introduce fundamental concepts of gameplay and teach the basic skills required to bend it like Beckham in a supportive, non-competitive environment. Coaches zero in on skills like throw-ins, dribbling, trapping and passing in fun, exciting, skill-focused games.</p>",
-    "instructors": [
-      "Sportball Vancouver"
-    ],
-    "priceText": "$105.00",
-    "free": false,
-    "ageMin": 3,
-    "ageMax": 5,
-    "ageText": "Age at least 3y 6m but less than 5y 11m 4w",
-    "openings": "6 openings remaining",
-    "availability": "open",
-    "spaces": 6,
-    "firstDate": "2026-11-03",
-    "lastDate": "2026-12-15",
-    "prices": [
-      {
-        "price": "$105.00",
-        "description": "Standard charge"
-      },
-      {
-        "price": "50.00%",
-        "description": "Leisure Access - CCA: for Customer"
-      }
-    ]
-  },
-  {
     "id": 625499,
     "title": "Adult Hip Hop Fundamentals",
     "calendarId": 20,
@@ -30148,9 +30013,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "11 openings remaining",
+    "openings": "10 openings remaining",
     "availability": "open",
-    "spaces": 11,
+    "spaces": 10,
     "firstDate": "2026-11-05",
     "lastDate": "2026-11-05"
   },
@@ -30308,9 +30173,9 @@
     "ageMin": 50,
     "ageMax": 0,
     "ageText": "50 yrs +",
-    "openings": "3 openings remaining",
+    "openings": "2 openings remaining",
     "availability": "open",
-    "spaces": 3,
+    "spaces": 2,
     "firstDate": "2026-09-15",
     "lastDate": "2026-12-15",
     "prices": [
@@ -30657,9 +30522,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "23 openings remaining",
-    "availability": "open",
-    "spaces": 23,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-08",
     "lastDate": "2026-10-27",
     "prices": [
@@ -30739,9 +30603,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "25 openings remaining",
+    "openings": "23 openings remaining",
     "availability": "open",
-    "spaces": 25,
+    "spaces": 23,
     "firstDate": "2026-11-03",
     "lastDate": "2026-12-15",
     "prices": [
@@ -31041,9 +30905,9 @@
     "ageMin": 50,
     "ageMax": 0,
     "ageText": "50 yrs +",
-    "openings": "3 openings remaining",
+    "openings": "13 openings remaining",
     "availability": "open",
-    "spaces": 3,
+    "spaces": 13,
     "firstDate": "2026-11-05",
     "lastDate": "2026-11-05"
   },
@@ -31065,9 +30929,9 @@
     "ageMin": 50,
     "ageMax": 0,
     "ageText": "50 yrs +",
-    "openings": "5 openings remaining",
+    "openings": "15 openings remaining",
     "availability": "open",
-    "spaces": 5,
+    "spaces": 15,
     "firstDate": "2026-12-03",
     "lastDate": "2026-12-03"
   },
@@ -31863,9 +31727,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-08",
     "lastDate": "2026-10-27",
     "prices": [
@@ -31897,9 +31760,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "1 opening remaining",
-    "availability": "open",
-    "spaces": 1,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-08",
     "lastDate": "2026-10-27",
     "prices": [
@@ -31931,9 +31793,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-08",
     "lastDate": "2026-10-27",
     "prices": [
@@ -32168,9 +32029,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "10 openings remaining",
-    "availability": "open",
-    "spaces": 10,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-08",
     "lastDate": "2026-10-27",
     "prices": [
@@ -32443,9 +32303,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "9 openings remaining",
+    "openings": "8 openings remaining",
     "availability": "open",
-    "spaces": 9,
+    "spaces": 8,
     "firstDate": "2026-09-16",
     "lastDate": "2026-12-16",
     "prices": [
@@ -32811,9 +32671,9 @@
     "ageMin": 55,
     "ageMax": 0,
     "ageText": "55 yrs +",
-    "openings": "5 openings remaining",
+    "openings": "4 openings remaining",
     "availability": "open",
-    "spaces": 5,
+    "spaces": 4,
     "firstDate": "2026-10-28",
     "lastDate": "2026-12-09",
     "prices": [
@@ -32845,9 +32705,9 @@
     "ageMin": 25,
     "ageMax": 0,
     "ageText": "25 yrs +",
-    "openings": "4 openings remaining",
+    "openings": "3 openings remaining",
     "availability": "open",
-    "spaces": 4,
+    "spaces": 3,
     "firstDate": "2026-10-28",
     "lastDate": "2026-12-09",
     "prices": [
@@ -33118,9 +32978,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "2 openings remaining",
+    "openings": "3 openings remaining",
     "availability": "open",
-    "spaces": 2,
+    "spaces": 3,
     "firstDate": "2026-11-15",
     "lastDate": "2026-11-15",
     "prices": [
@@ -33424,9 +33284,9 @@
     "ageMin": 13,
     "ageMax": 0,
     "ageText": "13 yrs +",
-    "openings": "5 openings remaining",
+    "openings": "4 openings remaining",
     "availability": "open",
-    "spaces": 5,
+    "spaces": 4,
     "firstDate": "2026-10-19",
     "lastDate": "2026-11-16",
     "prices": [
@@ -33492,9 +33352,9 @@
     "ageMin": 13,
     "ageMax": 0,
     "ageText": "13 yrs +",
-    "openings": "5 openings remaining",
+    "openings": "4 openings remaining",
     "availability": "open",
-    "spaces": 5,
+    "spaces": 4,
     "firstDate": "2026-10-14",
     "lastDate": "2026-11-04",
     "prices": [
@@ -33629,9 +33489,8 @@
     "ageMin": 55,
     "ageMax": 0,
     "ageText": "55 yrs +",
-    "openings": "25 openings remaining",
-    "availability": "open",
-    "spaces": 25,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-10-27",
     "lastDate": "2026-10-27",
     "prices": [
@@ -33660,9 +33519,9 @@
     "ageMin": 55,
     "ageMax": 0,
     "ageText": "55 yrs +",
-    "openings": "28 openings remaining",
+    "openings": "27 openings remaining",
     "availability": "open",
-    "spaces": 28,
+    "spaces": 27,
     "firstDate": "2026-11-03",
     "lastDate": "2026-11-03",
     "prices": [
@@ -34287,9 +34146,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "22 openings remaining",
+    "openings": "19 openings remaining",
     "availability": "open",
-    "spaces": 22,
+    "spaces": 19,
     "firstDate": "2026-10-30",
     "lastDate": "2026-10-30",
     "prices": [
@@ -35458,9 +35317,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "12 openings remaining",
+    "openings": "13 openings remaining",
     "availability": "open",
-    "spaces": 12,
+    "spaces": 13,
     "firstDate": "2026-11-05",
     "lastDate": "2026-12-17",
     "prices": [
@@ -35929,9 +35788,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "6 openings remaining",
-    "availability": "open",
-    "spaces": 6,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-15",
     "lastDate": "2026-10-27",
     "prices": [
@@ -36427,9 +36285,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "9 openings remaining",
-    "availability": "open",
-    "spaces": 9,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-15",
     "lastDate": "2026-10-27",
     "prices": [
@@ -36563,9 +36420,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "10 openings remaining",
+    "openings": "9 openings remaining",
     "availability": "open",
-    "spaces": 10,
+    "spaces": 9,
     "firstDate": "2026-11-03",
     "lastDate": "2026-12-15",
     "prices": [
@@ -36597,9 +36454,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "10 openings remaining",
+    "openings": "9 openings remaining",
     "availability": "open",
-    "spaces": 10,
+    "spaces": 9,
     "firstDate": "2026-11-05",
     "lastDate": "2026-12-17",
     "prices": [
@@ -36699,9 +36556,8 @@
     "ageMin": 6,
     "ageMax": 0,
     "ageText": "6 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-15",
     "lastDate": "2026-10-27",
     "prices": [
@@ -38008,9 +37864,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "3 openings remaining",
-    "availability": "open",
-    "spaces": 3,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-08",
     "lastDate": "2026-10-27",
     "prices": [
@@ -38046,9 +37901,9 @@
     "ageMin": 65,
     "ageMax": 0,
     "ageText": "65 yrs +",
-    "openings": "3 openings remaining",
+    "openings": "2 openings remaining",
     "availability": "open",
-    "spaces": 3,
+    "spaces": 2,
     "firstDate": "2026-11-03",
     "lastDate": "2026-12-15",
     "prices": [
@@ -38122,9 +37977,9 @@
     "ageMin": 65,
     "ageMax": 0,
     "ageText": "65 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "1 opening remaining",
+    "availability": "open",
+    "spaces": 1,
     "firstDate": "2026-11-05",
     "lastDate": "2026-12-17",
     "prices": [
@@ -38304,9 +38159,9 @@
     "ageMin": 4,
     "ageMax": 0,
     "ageText": "4 yrs +",
-    "openings": "1 opening remaining",
-    "availability": "open",
-    "spaces": 1,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-09-13",
     "lastDate": "2026-12-13"
   },
@@ -39358,9 +39213,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "13 openings remaining",
+    "openings": "12 openings remaining",
     "availability": "open",
-    "spaces": 13,
+    "spaces": 12,
     "firstDate": "2026-11-05",
     "lastDate": "2026-12-17",
     "prices": [
@@ -39596,9 +39451,9 @@
     "ageMin": 3,
     "ageMax": 5,
     "ageText": "Age at least 3y 5m but less than 5y 11m 3w",
-    "openings": "1 opening remaining",
-    "availability": "open",
-    "spaces": 1,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-11-08",
     "lastDate": "2026-12-13",
     "prices": [
@@ -39906,9 +39761,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "9 openings remaining",
+    "openings": "8 openings remaining",
     "availability": "open",
-    "spaces": 9,
+    "spaces": 8,
     "firstDate": "2026-10-21",
     "lastDate": "2026-12-23",
     "prices": [
@@ -40390,9 +40245,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "1 opening remaining",
+    "availability": "open",
+    "spaces": 1,
     "firstDate": "2026-09-12",
     "lastDate": "2026-12-19",
     "prices": [
@@ -40666,9 +40521,8 @@
     "ageMin": 1,
     "ageMax": 1,
     "ageText": "Age at least 1y 3m but less than 1y 11m",
-    "openings": "4 openings remaining",
-    "availability": "open",
-    "spaces": 4,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-15",
     "lastDate": "2026-10-27"
   },
@@ -40690,9 +40544,8 @@
     "ageMin": 2,
     "ageMax": 3,
     "ageText": "Age at least 2 yrs but less than 3y 11m",
-    "openings": "3 openings remaining",
-    "availability": "open",
-    "spaces": 3,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-15",
     "lastDate": "2026-10-27"
   },
@@ -40714,9 +40567,8 @@
     "ageMin": 3,
     "ageMax": 5,
     "ageText": "Age at least 3y 6m but less than 5y 11m",
-    "openings": "2 openings remaining",
-    "availability": "open",
-    "spaces": 2,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-15",
     "lastDate": "2026-10-27"
   },
@@ -40738,9 +40590,9 @@
     "ageMin": 3,
     "ageMax": 5,
     "ageText": "Age at least 3y 6m but less than 5y 11m",
-    "openings": "6 openings remaining",
+    "openings": "4 openings remaining",
     "availability": "open",
-    "spaces": 6,
+    "spaces": 4,
     "firstDate": "2026-11-03",
     "lastDate": "2026-12-15"
   },
@@ -40844,9 +40696,9 @@
     "ageMin": 6,
     "ageMax": 15,
     "ageText": "Age at least 6 yrs but less than 15y 11m 3w",
-    "openings": "7 openings remaining",
+    "openings": "6 openings remaining",
     "availability": "open",
-    "spaces": 7,
+    "spaces": 6,
     "firstDate": "2026-09-13",
     "lastDate": "2026-12-06",
     "prices": [
@@ -41264,9 +41116,8 @@
     "ageMin": 55,
     "ageMax": 0,
     "ageText": "55 yrs +",
-    "openings": "5 openings remaining",
-    "availability": "open",
-    "spaces": 5,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-29",
     "lastDate": "2026-10-27",
     "prices": [
@@ -41298,9 +41149,9 @@
     "ageMin": 55,
     "ageMax": 0,
     "ageText": "55 yrs +",
-    "openings": "10 openings remaining",
+    "openings": "9 openings remaining",
     "availability": "open",
-    "spaces": 10,
+    "spaces": 9,
     "firstDate": "2026-11-10",
     "lastDate": "2026-12-15",
     "prices": [
@@ -42729,9 +42580,8 @@
     "ageMin": 2,
     "ageMax": 4,
     "ageText": "Age at least 2 yrs but less than 4y 11m",
-    "openings": "5 openings remaining",
-    "availability": "open",
-    "spaces": 5,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-15",
     "lastDate": "2026-10-27"
   },
@@ -42753,9 +42603,8 @@
     "ageMin": 3,
     "ageMax": 5,
     "ageText": "Age at least 3 yrs but less than 5y 11m",
-    "openings": "4 openings remaining",
-    "availability": "open",
-    "spaces": 4,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-15",
     "lastDate": "2026-10-27"
   },
@@ -44070,9 +43919,9 @@
     "ageMin": 3,
     "ageMax": 5,
     "ageText": "Age at least 3 yrs but less than 5y 11m 3w",
-    "openings": "1 opening remaining",
-    "availability": "open",
-    "spaces": 1,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-11-01",
     "lastDate": "2026-12-13",
     "prices": [
@@ -44172,9 +44021,9 @@
     "ageMin": 3,
     "ageMax": 5,
     "ageText": "Age at least 3 yrs but less than 5y 11m 3w",
-    "openings": "3 openings remaining",
+    "openings": "2 openings remaining",
     "availability": "open",
-    "spaces": 3,
+    "spaces": 2,
     "firstDate": "2026-11-01",
     "lastDate": "2026-12-13",
     "prices": [
@@ -44206,9 +44055,9 @@
     "ageMin": 4,
     "ageMax": 6,
     "ageText": "Age at least 4 yrs but less than 6y 11m 3w",
-    "openings": "3 openings remaining",
+    "openings": "2 openings remaining",
     "availability": "open",
-    "spaces": 3,
+    "spaces": 2,
     "firstDate": "2026-11-01",
     "lastDate": "2026-12-13",
     "prices": [
@@ -47326,9 +47175,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "8 openings remaining",
-    "availability": "open",
-    "spaces": 8,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-08",
     "lastDate": "2026-10-27",
     "prices": [
@@ -47492,9 +47340,8 @@
     "ageMin": 18,
     "ageMax": 0,
     "ageText": "18 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-08",
     "lastDate": "2026-10-27",
     "prices": [
@@ -47908,9 +47755,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "2 openings remaining",
-    "availability": "open",
-    "spaces": 2,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-11-02",
     "lastDate": "2026-11-02"
   },
@@ -47930,9 +47777,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "2 openings remaining",
-    "availability": "open",
-    "spaces": 2,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-11-02",
     "lastDate": "2026-11-02"
   },
@@ -47952,9 +47799,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "2 openings remaining",
-    "availability": "open",
-    "spaces": 2,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-11-05",
     "lastDate": "2026-11-05"
   },
@@ -47974,9 +47821,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "2 openings remaining",
+    "openings": "1 opening remaining",
     "availability": "open",
-    "spaces": 2,
+    "spaces": 1,
     "firstDate": "2026-11-05",
     "lastDate": "2026-11-05"
   },
@@ -47996,9 +47843,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "2 openings remaining",
-    "availability": "open",
-    "spaces": 2,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-11-06",
     "lastDate": "2026-11-06"
   },
@@ -48018,9 +47865,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "2 openings remaining",
-    "availability": "open",
-    "spaces": 2,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-11-06",
     "lastDate": "2026-11-06"
   },
@@ -48040,9 +47887,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "2 openings remaining",
-    "availability": "open",
-    "spaces": 2,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-11-06",
     "lastDate": "2026-11-06"
   },
@@ -48239,9 +48086,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "2 openings remaining",
-    "availability": "open",
-    "spaces": 2,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-10-27",
     "lastDate": "2026-10-27"
   },
@@ -48261,9 +48107,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "12 openings remaining",
+    "openings": "2 openings remaining",
     "availability": "open",
-    "spaces": 12,
+    "spaces": 2,
     "firstDate": "2026-11-03",
     "lastDate": "2026-11-03"
   },
@@ -50056,7 +49902,7 @@
     "availability": "open",
     "spaces": 11,
     "firstDate": "2026-09-22",
-    "lastDate": "2026-12-01",
+    "lastDate": "2026-12-08",
     "prices": [
       {
         "price": "$275.00",
@@ -50120,7 +49966,7 @@
     "availability": "full",
     "spaces": 0,
     "firstDate": "2026-09-22",
-    "lastDate": "2026-12-01",
+    "lastDate": "2026-12-08",
     "prices": [
       {
         "price": "$275.00",
@@ -51105,9 +50951,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "8 openings remaining",
-    "availability": "open",
-    "spaces": 8,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-08",
     "lastDate": "2026-10-27",
     "prices": [
@@ -51171,9 +51016,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "10 openings remaining",
+    "openings": "9 openings remaining",
     "availability": "open",
-    "spaces": 10,
+    "spaces": 9,
     "firstDate": "2026-11-03",
     "lastDate": "2026-12-15",
     "prices": [
@@ -51609,9 +51454,8 @@
     "ageMin": 4,
     "ageMax": 7,
     "ageText": "Age at least 4y 11m but less than 7y 11m",
-    "openings": "17 openings remaining",
-    "availability": "open",
-    "spaces": 17,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-10-04",
     "lastDate": "2026-10-27",
     "prices": [
@@ -52177,9 +52021,9 @@
     "ageMin": 18,
     "ageMax": 0,
     "ageText": "18 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "2 openings remaining",
+    "availability": "open",
+    "spaces": 2,
     "firstDate": "2026-11-02",
     "lastDate": "2026-12-14",
     "prices": [
@@ -52848,9 +52692,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "1 opening remaining",
-    "availability": "open",
-    "spaces": 1,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-10-06",
     "lastDate": "2026-10-27",
     "prices": [
@@ -52882,9 +52725,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "2 openings remaining",
+    "openings": "1 opening remaining",
     "availability": "open",
-    "spaces": 2,
+    "spaces": 1,
     "firstDate": "2026-11-03",
     "lastDate": "2026-11-24",
     "prices": [
@@ -52916,9 +52759,9 @@
     "ageMin": 5,
     "ageMax": 7,
     "ageText": "Age at least 5 yrs but less than 7y 11m",
-    "openings": "9 openings remaining",
+    "openings": "8 openings remaining",
     "availability": "open",
-    "spaces": 9,
+    "spaces": 8,
     "firstDate": "2026-11-01",
     "lastDate": "2026-12-13",
     "prices": [
@@ -53695,9 +53538,9 @@
     "ageMin": 16,
     "ageMax": 0,
     "ageText": "16 yrs +",
-    "openings": "26 openings remaining",
+    "openings": "25 openings remaining",
     "availability": "open",
-    "spaces": 26,
+    "spaces": 25,
     "firstDate": "2026-11-02",
     "lastDate": "2026-12-21",
     "prices": [
@@ -53729,9 +53572,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "34 openings remaining",
-    "availability": "open",
-    "spaces": 34,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-15",
     "lastDate": "2026-10-27",
     "prices": [
@@ -53809,9 +53651,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "42 openings remaining",
+    "openings": "40 openings remaining",
     "availability": "open",
-    "spaces": 42,
+    "spaces": 40,
     "firstDate": "2026-11-03",
     "lastDate": "2026-12-15",
     "prices": [
@@ -54049,9 +53891,9 @@
     "ageMin": 1,
     "ageMax": 4,
     "ageText": "Age at least 1 yr but less than 4y 11m",
-    "openings": "7 openings remaining",
+    "openings": "6 openings remaining",
     "availability": "open",
-    "spaces": 7,
+    "spaces": 6,
     "firstDate": "2026-11-10",
     "lastDate": "2026-12-15",
     "prices": [
@@ -54083,9 +53925,9 @@
     "ageMin": 0,
     "ageMax": 1,
     "ageText": "Age less than 1y 6m",
-    "openings": "6 openings remaining",
+    "openings": "5 openings remaining",
     "availability": "open",
-    "spaces": 6,
+    "spaces": 5,
     "firstDate": "2026-11-10",
     "lastDate": "2026-12-15",
     "prices": [
@@ -54117,9 +53959,9 @@
     "ageMin": 0,
     "ageMax": 1,
     "ageText": "Age less than 1y 6m",
-    "openings": "6 openings remaining",
+    "openings": "5 openings remaining",
     "availability": "open",
-    "spaces": 6,
+    "spaces": 5,
     "firstDate": "2026-11-10",
     "lastDate": "2026-12-15",
     "prices": [
@@ -54355,9 +54197,9 @@
     "ageMin": 9,
     "ageMax": 13,
     "ageText": "Age at least 9 yrs but less than 13y 11m",
-    "openings": "3 openings remaining",
+    "openings": "4 openings remaining",
     "availability": "open",
-    "spaces": 3,
+    "spaces": 4,
     "firstDate": "2026-09-14",
     "lastDate": "2026-12-14",
     "prices": [
@@ -54542,7 +54384,7 @@
     "instructors": [
       "Nevada Banks"
     ],
-    "priceText": "from $119.05",
+    "priceText": "from $102.04",
     "free": false,
     "ageMin": 19,
     "ageMax": 0,
@@ -54550,15 +54392,15 @@
     "openings": "15 openings remaining",
     "availability": "open",
     "spaces": 15,
-    "firstDate": "2026-11-06",
+    "firstDate": "2026-11-13",
     "lastDate": "2026-12-18",
     "prices": [
       {
-        "price": "$119.05",
+        "price": "$102.04",
         "description": "Senior, 65 and over"
       },
       {
-        "price": "$154.29",
+        "price": "$132.22",
         "description": "Adult Fee (19-64 yrs) for 19 up to 64 years old"
       }
     ]
@@ -54614,9 +54456,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "13 openings remaining",
+    "openings": "12 openings remaining",
     "availability": "open",
-    "spaces": 13,
+    "spaces": 12,
     "firstDate": "2026-11-02",
     "lastDate": "2026-12-14",
     "prices": [
@@ -54681,23 +54523,23 @@
     "instructors": [
       "Nevada Banks"
     ],
-    "priceText": "from $105.00",
+    "priceText": "from $90.00",
     "free": false,
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "14 openings remaining",
+    "openings": "13 openings remaining",
     "availability": "open",
-    "spaces": 14,
-    "firstDate": "2026-11-06",
+    "spaces": 13,
+    "firstDate": "2026-11-13",
     "lastDate": "2026-12-18",
     "prices": [
       {
-        "price": "$105.00",
+        "price": "$90.00",
         "description": "Senior, 65 and over"
       },
       {
-        "price": "$133.00",
+        "price": "$114.00",
         "description": "Adult Fee (19-64 yrs) for 19 up to 64 years old"
       }
     ]
@@ -54814,9 +54656,8 @@
     "ageMin": 55,
     "ageMax": 0,
     "ageText": "55 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-08",
     "lastDate": "2026-10-27",
     "prices": [
@@ -55116,74 +54957,6 @@
     ]
   },
   {
-    "id": 628972,
-    "title": "Mini Hip Hop Dancers (3-5 yrs)",
-    "calendarId": 56,
-    "centerId": 40,
-    "facilityIds": [
-      446
-    ],
-    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/mini-hip-hop-dancers-3-5-yrs/628972",
-    "description": "<p> This non-stop action-packed class introduces hip hop, basic break dancing and dance games that will have your young dancer moving to the beats. More info at kirbysnelldance.com.</p>",
-    "instructors": [
-      "Endorphin Rush Dance"
-    ],
-    "priceText": "$98.00",
-    "free": false,
-    "ageMin": 3,
-    "ageMax": 6,
-    "ageText": "Age at least 3 yrs but less than 6 yrs",
-    "openings": "8 openings remaining",
-    "availability": "open",
-    "spaces": 8,
-    "firstDate": "2026-11-02",
-    "lastDate": "2026-12-14",
-    "prices": [
-      {
-        "price": "$98.00",
-        "description": "Standard charge"
-      },
-      {
-        "price": "50.00%",
-        "description": "Leisure Access Discount: for Customer"
-      }
-    ]
-  },
-  {
-    "id": 628974,
-    "title": "Little Ballerinas (3-5 yrs)",
-    "calendarId": 56,
-    "centerId": 40,
-    "facilityIds": [
-      446
-    ],
-    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/little-ballerinas-3-5-yrs/628974",
-    "description": "<p> Young ballerinas explore the fun and beauty of ballet while learning the basic techniques. They will love playing with their creative expression in this fun class. Children must be able to participate without a parent in the room. More info at kirbysnelldance.com.</p>",
-    "instructors": [
-      "Endorphin Rush Dance"
-    ],
-    "priceText": "$98.00",
-    "free": false,
-    "ageMin": 3,
-    "ageMax": 6,
-    "ageText": "Age at least 3 yrs but less than 6 yrs",
-    "openings": "6 openings remaining",
-    "availability": "open",
-    "spaces": 6,
-    "firstDate": "2026-11-02",
-    "lastDate": "2026-12-14",
-    "prices": [
-      {
-        "price": "$98.00",
-        "description": "Standard charge"
-      },
-      {
-        "price": "50.00%",
-        "description": "Leisure Access Discount: for Customer"
-      }
-    ]
-  },
-  {
     "id": 628977,
     "title": "Hip Hop/Jazz Fusion (5-7 yrs)",
     "calendarId": 56,
@@ -55201,9 +54974,9 @@
     "ageMin": 5,
     "ageMax": 8,
     "ageText": "Age at least 5 yrs but less than 8 yrs",
-    "openings": "5 openings remaining",
+    "openings": "4 openings remaining",
     "availability": "open",
-    "spaces": 5,
+    "spaces": 4,
     "firstDate": "2026-11-02",
     "lastDate": "2026-12-14",
     "prices": [
@@ -55523,9 +55296,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "8 openings remaining",
+    "openings": "7 openings remaining",
     "availability": "open",
-    "spaces": 8,
+    "spaces": 7,
     "firstDate": "2026-09-15",
     "lastDate": "2026-12-15",
     "prices": [
@@ -55815,9 +55588,9 @@
     "ageMin": 13,
     "ageMax": 18,
     "ageText": "Age at least 13 yrs but less than 18y 11m 4w",
-    "openings": "9 openings remaining",
+    "openings": "8 openings remaining",
     "availability": "open",
-    "spaces": 9,
+    "spaces": 8,
     "firstDate": "2026-09-04",
     "lastDate": "2026-12-18"
   },
@@ -56079,9 +55852,8 @@
     "ageMin": 54,
     "ageMax": 99,
     "ageText": "Age at least 54y 11m but less than 99y 11m",
-    "openings": "13 openings remaining",
-    "availability": "open",
-    "spaces": 13,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-15",
     "lastDate": "2026-10-27",
     "prices": [
@@ -56114,9 +55886,9 @@
     "ageMin": 54,
     "ageMax": 99,
     "ageText": "Age at least 54y 11m but less than 99y 11m",
-    "openings": "18 openings remaining",
+    "openings": "16 openings remaining",
     "availability": "open",
-    "spaces": 18,
+    "spaces": 16,
     "firstDate": "2026-11-03",
     "lastDate": "2026-12-18",
     "prices": [
@@ -56551,9 +56323,9 @@
     "ageMin": 4,
     "ageMax": 7,
     "ageText": "Age at least 4 yrs but less than 7y 11m",
-    "openings": "5 openings remaining",
+    "openings": "3 openings remaining",
     "availability": "open",
-    "spaces": 5,
+    "spaces": 3,
     "firstDate": "2026-11-07",
     "lastDate": "2026-12-12",
     "prices": [
@@ -56783,9 +56555,8 @@
     "ageMin": 16,
     "ageMax": 0,
     "ageText": "16 yrs +",
-    "openings": "1 opening remaining",
-    "availability": "open",
-    "spaces": 1,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-15",
     "lastDate": "2026-10-27",
     "prices": [
@@ -56917,9 +56688,8 @@
     "ageMin": 5,
     "ageMax": 0,
     "ageText": "5 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-15",
     "lastDate": "2026-10-27",
     "prices": [
@@ -56951,9 +56721,8 @@
     "ageMin": 5,
     "ageMax": 0,
     "ageText": "5 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-15",
     "lastDate": "2026-10-27",
     "prices": [
@@ -56985,9 +56754,8 @@
     "ageMin": 5,
     "ageMax": 0,
     "ageText": "5 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-15",
     "lastDate": "2026-10-27",
     "prices": [
@@ -57019,9 +56787,8 @@
     "ageMin": 5,
     "ageMax": 0,
     "ageText": "5 yrs +",
-    "openings": "1 opening remaining",
-    "availability": "open",
-    "spaces": 1,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-15",
     "lastDate": "2026-10-27",
     "prices": [
@@ -57053,9 +56820,8 @@
     "ageMin": 5,
     "ageMax": 0,
     "ageText": "5 yrs +",
-    "openings": "1 opening remaining",
-    "availability": "open",
-    "spaces": 1,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-15",
     "lastDate": "2026-10-27",
     "prices": [
@@ -57087,9 +56853,8 @@
     "ageMin": 5,
     "ageMax": 0,
     "ageText": "5 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-15",
     "lastDate": "2026-10-27",
     "prices": [
@@ -57994,9 +57759,8 @@
     "ageMin": 6,
     "ageMax": 13,
     "ageText": "Age at least 6 yrs but less than 13y 11m",
-    "openings": "3 openings remaining",
-    "availability": "open",
-    "spaces": 3,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-10-02",
     "lastDate": "2026-10-27",
     "prices": [
@@ -58096,9 +57860,8 @@
     "ageMin": 14,
     "ageMax": 0,
     "ageText": "14 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-10-02",
     "lastDate": "2026-10-27",
     "prices": [
@@ -58897,9 +58660,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "10 openings remaining",
-    "availability": "open",
-    "spaces": 10,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-10-27",
     "lastDate": "2026-10-27"
   },
@@ -59073,9 +58835,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "21 openings remaining",
+    "openings": "19 openings remaining",
     "availability": "open",
-    "spaces": 21,
+    "spaces": 19,
     "firstDate": "2026-10-29",
     "lastDate": "2026-10-29"
   },
@@ -59311,7 +59073,7 @@
     "calendarId": 43,
     "centerId": 50,
     "facilityIds": [
-      595
+      590
     ],
     "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/pre-teen-art-club/630165",
     "description": "Foster your imagination and self-expression through art! Join other pre-teens after-school and use your creativity to engage in projects that you can take home to showcase to your friends and family.",
@@ -59735,9 +59497,9 @@
     "ageMin": 1,
     "ageMax": 3,
     "ageText": "Age at least 1y 10m 22w but less than 3y 11m",
-    "openings": "11 openings remaining",
+    "openings": "10 openings remaining",
     "availability": "open",
-    "spaces": 11,
+    "spaces": 10,
     "firstDate": "2026-12-01",
     "lastDate": "2026-12-15",
     "prices": [
@@ -60719,9 +60481,9 @@
     "ageMin": 55,
     "ageMax": 0,
     "ageText": "55 yrs +",
-    "openings": "5 openings remaining",
+    "openings": "4 openings remaining",
     "availability": "open",
-    "spaces": 5,
+    "spaces": 4,
     "firstDate": "2026-09-08",
     "lastDate": "2026-12-15",
     "prices": [
@@ -60991,9 +60753,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "5 openings remaining",
-    "availability": "open",
-    "spaces": 5,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-15",
     "lastDate": "2026-10-27",
     "prices": [
@@ -61228,43 +60989,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "9 openings remaining",
+    "openings": "7 openings remaining",
     "availability": "open",
-    "spaces": 9,
-    "firstDate": "2026-11-01",
-    "lastDate": "2026-12-20",
-    "prices": [
-      {
-        "price": "$200.00",
-        "description": "Standard charge"
-      },
-      {
-        "price": "50.00%",
-        "description": "Leisure Access Discount: for Customer"
-      }
-    ]
-  },
-  {
-    "id": 630548,
-    "title": "Art Inspiration with Oil Painting PM - Set 2",
-    "calendarId": 26,
-    "centerId": 6,
-    "facilityIds": [
-      44
-    ],
-    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/art-inspiration-with-oil-painting-pm---set-2/630548",
-    "description": "We invite you to oil painting workshops! You will learn different oil painting techniques and realize your artistic talents under the guidance of experienced oil painting instructor, Kira Shulgina. Produce your first masterpiece in a friendly and creative atmosphere whether you are looking to decorate your home or creating a gift for family and friends!",
-    "instructors": [
-      "Kira Shulgina"
-    ],
-    "priceText": "$200.00",
-    "free": false,
-    "ageMin": 19,
-    "ageMax": 0,
-    "ageText": "19 yrs +",
-    "openings": "9 openings remaining",
-    "availability": "open",
-    "spaces": 9,
+    "spaces": 7,
     "firstDate": "2026-11-01",
     "lastDate": "2026-12-20",
     "prices": [
@@ -61866,9 +61593,9 @@
     "ageMin": 16,
     "ageMax": 0,
     "ageText": "16 yrs +",
-    "openings": "18 openings remaining",
+    "openings": "17 openings remaining",
     "availability": "open",
-    "spaces": 18,
+    "spaces": 17,
     "firstDate": "2026-11-03",
     "lastDate": "2026-12-15",
     "prices": [
@@ -61934,9 +61661,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "4 openings remaining",
+    "openings": "3 openings remaining",
     "availability": "open",
-    "spaces": 4,
+    "spaces": 3,
     "firstDate": "2026-10-27",
     "lastDate": "2026-12-08",
     "prices": [
@@ -61968,9 +61695,8 @@
     "ageMin": 18,
     "ageMax": 0,
     "ageText": "18 yrs +",
-    "openings": "19 openings remaining",
-    "availability": "open",
-    "spaces": 19,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-08",
     "lastDate": "2026-10-27",
     "prices": [
@@ -62070,9 +61796,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "12 openings remaining",
-    "availability": "open",
-    "spaces": 12,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-08",
     "lastDate": "2026-10-27",
     "prices": [
@@ -62138,9 +61863,9 @@
     "ageMin": 54,
     "ageMax": 99,
     "ageText": "Age at least 54y 11m but less than 99y 11m",
-    "openings": "13 openings remaining",
+    "openings": "12 openings remaining",
     "availability": "open",
-    "spaces": 13,
+    "spaces": 12,
     "firstDate": "2026-10-28",
     "lastDate": "2026-12-09",
     "prices": [
@@ -63154,9 +62879,8 @@
     "ageMin": 8,
     "ageMax": 12,
     "ageText": "Age at least 8 yrs but less than 12y 11m 3w",
-    "openings": "1 opening remaining",
-    "availability": "open",
-    "spaces": 1,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-29",
     "lastDate": "2026-10-27",
     "prices": [
@@ -63188,9 +62912,9 @@
     "ageMin": 8,
     "ageMax": 12,
     "ageText": "Age at least 8 yrs but less than 12y 11m 3w",
-    "openings": "6 openings remaining",
+    "openings": "4 openings remaining",
     "availability": "open",
-    "spaces": 6,
+    "spaces": 4,
     "firstDate": "2026-11-17",
     "lastDate": "2026-12-15",
     "prices": [
@@ -63909,9 +63633,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-08",
     "lastDate": "2026-10-27",
     "prices": [
@@ -64305,9 +64028,9 @@
     "ageMin": 55,
     "ageMax": 99,
     "ageText": "Age at least 55 yrs but less than 99 yrs",
-    "openings": "1 opening remaining",
-    "availability": "open",
-    "spaces": 1,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-11-04",
     "lastDate": "2026-11-04"
   },
@@ -65099,9 +64822,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "6 openings remaining",
-    "availability": "open",
-    "spaces": 6,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-15",
     "lastDate": "2026-10-27",
     "prices": [
@@ -65235,9 +64957,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "11 openings remaining",
+    "openings": "10 openings remaining",
     "availability": "open",
-    "spaces": 11,
+    "spaces": 10,
     "firstDate": "2026-10-29",
     "lastDate": "2026-12-17",
     "prices": [
@@ -65678,9 +65400,8 @@
     "ageMin": 5,
     "ageMax": 8,
     "ageText": "Age at least 5 yrs but less than 8y 11m",
-    "openings": "14 openings remaining",
-    "availability": "open",
-    "spaces": 14,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-08",
     "lastDate": "2026-10-27",
     "prices": [
@@ -65712,9 +65433,9 @@
     "ageMin": 5,
     "ageMax": 8,
     "ageText": "Age at least 5 yrs but less than 8y 11m",
-    "openings": "18 openings remaining",
+    "openings": "17 openings remaining",
     "availability": "open",
-    "spaces": 18,
+    "spaces": 17,
     "firstDate": "2026-11-03",
     "lastDate": "2026-12-15",
     "prices": [
@@ -67155,9 +66876,8 @@
     "ageMin": 55,
     "ageMax": 0,
     "ageText": "55 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-08",
     "lastDate": "2026-10-27",
     "prices": [
@@ -67323,9 +67043,9 @@
     "ageMin": 3,
     "ageMax": 4,
     "ageText": "Age at least 3 yrs but less than 4y 11m",
-    "openings": "14 openings remaining",
+    "openings": "13 openings remaining",
     "availability": "open",
-    "spaces": 14,
+    "spaces": 13,
     "firstDate": "2026-11-06",
     "lastDate": "2026-12-18",
     "prices": [
@@ -67357,9 +67077,8 @@
     "ageMin": 3,
     "ageMax": 5,
     "ageText": "Age at least 3 yrs but less than 5y 5m",
-    "openings": "5 openings remaining",
-    "availability": "open",
-    "spaces": 5,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-08",
     "lastDate": "2026-10-27",
     "prices": [
@@ -67760,9 +67479,8 @@
     "ageMin": 50,
     "ageMax": 0,
     "ageText": "50 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-10-27",
     "lastDate": "2026-10-27"
   },
@@ -68166,9 +67884,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "13 openings remaining",
+    "openings": "12 openings remaining",
     "availability": "open",
-    "spaces": 13,
+    "spaces": 12,
     "firstDate": "2026-10-31",
     "lastDate": "2026-12-19",
     "prices": [
@@ -69465,9 +69183,9 @@
     "ageMin": 5,
     "ageMax": 10,
     "ageText": "Age at least 5 yrs but less than 10y 11m",
-    "openings": "9 openings remaining",
+    "openings": "8 openings remaining",
     "availability": "open",
-    "spaces": 9,
+    "spaces": 8,
     "firstDate": "2026-11-10",
     "lastDate": "2026-12-15",
     "prices": [
@@ -69601,9 +69319,9 @@
     "ageMin": 5,
     "ageMax": 0,
     "ageText": "5 yrs +",
-    "openings": "1 opening remaining",
-    "availability": "open",
-    "spaces": 1,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-11-02",
     "lastDate": "2026-12-14",
     "prices": [
@@ -70355,9 +70073,8 @@
     "ageMin": 40,
     "ageMax": 0,
     "ageText": "40 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-10-06",
     "lastDate": "2026-10-27",
     "prices": [
@@ -70463,9 +70180,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-10-06",
     "lastDate": "2026-10-27",
     "prices": [
@@ -71071,9 +70787,9 @@
     "ageMin": 65,
     "ageMax": 0,
     "ageText": "65 yrs +",
-    "openings": "1 opening remaining",
-    "availability": "open",
-    "spaces": 1,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-11-05",
     "lastDate": "2026-11-05",
     "prices": [
@@ -72446,9 +72162,9 @@
     "instructors": [],
     "priceText": "$7.93",
     "free": false,
-    "ageMin": 0,
-    "ageMax": 0,
-    "ageText": "All ages",
+    "ageMin": 19,
+    "ageMax": 99,
+    "ageText": "Age at least 19 yrs but less than 99 yrs",
     "openings": "100 openings remaining",
     "availability": "open",
     "spaces": 100,
@@ -72641,9 +72357,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "3 openings remaining",
-    "availability": "open",
-    "spaces": 3,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-08",
     "lastDate": "2026-10-27",
     "prices": [
@@ -73398,9 +73113,8 @@
     "ageMin": 5,
     "ageMax": 7,
     "ageText": "Age at least 5 yrs but less than 7y 11m 4w",
-    "openings": "5 openings remaining",
-    "availability": "open",
-    "spaces": 5,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-15",
     "lastDate": "2026-10-27"
   },
@@ -73422,9 +73136,9 @@
     "ageMin": 5,
     "ageMax": 7,
     "ageText": "Age at least 5 yrs but less than 7y 11m 4w",
-    "openings": "5 openings remaining",
+    "openings": "6 openings remaining",
     "availability": "open",
-    "spaces": 5,
+    "spaces": 6,
     "firstDate": "2026-11-03",
     "lastDate": "2026-12-15"
   },
@@ -73484,9 +73198,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "11 openings remaining",
+    "openings": "10 openings remaining",
     "availability": "open",
-    "spaces": 11,
+    "spaces": 10,
     "firstDate": "2026-10-29",
     "lastDate": "2026-12-03",
     "prices": [
@@ -73787,9 +73501,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "8 openings remaining",
-    "availability": "open",
-    "spaces": 8,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-15",
     "lastDate": "2026-10-27",
     "prices": [
@@ -73887,9 +73600,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "3 openings remaining",
+    "openings": "2 openings remaining",
     "availability": "open",
-    "spaces": 3,
+    "spaces": 2,
     "firstDate": "2026-10-07",
     "lastDate": "2026-12-09",
     "prices": [
@@ -74447,9 +74160,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-08",
     "lastDate": "2026-10-27",
     "prices": [
@@ -74557,9 +74269,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "7 openings remaining",
+    "openings": "6 openings remaining",
     "availability": "open",
-    "spaces": 7,
+    "spaces": 6,
     "firstDate": "2026-10-27",
     "lastDate": "2026-12-15",
     "prices": [
@@ -74591,9 +74303,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "9 openings remaining",
+    "openings": "8 openings remaining",
     "availability": "open",
-    "spaces": 9,
+    "spaces": 8,
     "firstDate": "2026-10-27",
     "lastDate": "2026-12-15",
     "prices": [
@@ -74767,9 +74479,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "3 openings remaining",
-    "availability": "open",
-    "spaces": 3,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-08",
     "lastDate": "2026-10-27",
     "prices": [
@@ -74835,9 +74546,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "3 openings remaining",
+    "openings": "2 openings remaining",
     "availability": "open",
-    "spaces": 3,
+    "spaces": 2,
     "firstDate": "2026-11-03",
     "lastDate": "2026-12-15",
     "prices": [
@@ -74869,9 +74580,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-08",
     "lastDate": "2026-10-27",
     "prices": [
@@ -74903,9 +74613,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "2 openings remaining",
-    "availability": "open",
-    "spaces": 2,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-08",
     "lastDate": "2026-10-27",
     "prices": [
@@ -76213,9 +75922,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "39 openings remaining",
+    "openings": "38 openings remaining",
     "availability": "open",
-    "spaces": 39,
+    "spaces": 38,
     "firstDate": "2026-11-30",
     "lastDate": "2026-12-14",
     "prices": [
@@ -76701,9 +76410,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "20 openings remaining",
+    "openings": "19 openings remaining",
     "availability": "open",
-    "spaces": 20,
+    "spaces": 19,
     "firstDate": "2026-11-04",
     "lastDate": "2026-12-16",
     "prices": [
@@ -76846,9 +76555,9 @@
     "ageMin": 0,
     "ageMax": 9,
     "ageText": "Age less than 9y 11m 4w",
-    "openings": "61 openings remaining",
+    "openings": "56 openings remaining",
     "availability": "open",
-    "spaces": 61,
+    "spaces": 56,
     "firstDate": "2026-10-31",
     "lastDate": "2026-10-31"
   },
@@ -76870,9 +76579,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "20 openings remaining",
-    "availability": "open",
-    "spaces": 20,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-10-06",
     "lastDate": "2026-10-27",
     "prices": [
@@ -78464,9 +78172,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "9 openings remaining",
+    "openings": "7 openings remaining",
     "availability": "open",
-    "spaces": 9,
+    "spaces": 7,
     "firstDate": "2026-11-04",
     "lastDate": "2026-11-25",
     "prices": [
@@ -78872,9 +78580,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "3 openings remaining",
+    "openings": "2 openings remaining",
     "availability": "open",
-    "spaces": 3,
+    "spaces": 2,
     "firstDate": "2026-09-01",
     "lastDate": "2026-12-22",
     "prices": [
@@ -78906,9 +78614,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "3 openings remaining",
+    "openings": "2 openings remaining",
     "availability": "open",
-    "spaces": 3,
+    "spaces": 2,
     "firstDate": "2026-09-03",
     "lastDate": "2026-12-17",
     "prices": [
@@ -79091,9 +78799,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-08",
     "lastDate": "2026-10-27",
     "prices": [
@@ -79461,9 +79168,9 @@
     "ageMin": 0,
     "ageMax": 0,
     "ageText": "All ages",
-    "openings": "16 openings remaining",
+    "openings": "12 openings remaining",
     "availability": "open",
-    "spaces": 16,
+    "spaces": 12,
     "firstDate": "2026-11-06",
     "lastDate": "2026-11-06",
     "prices": [
@@ -79496,9 +79203,9 @@
     "ageMin": 0,
     "ageMax": 0,
     "ageText": "All ages",
-    "openings": "6 openings remaining",
-    "availability": "open",
-    "spaces": 6,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-11-13",
     "lastDate": "2026-11-13",
     "prices": [
@@ -80137,9 +79844,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "27 openings remaining",
+    "openings": "25 openings remaining",
     "availability": "open",
-    "spaces": 27,
+    "spaces": 25,
     "firstDate": "2026-09-16",
     "lastDate": "2026-10-28",
     "prices": [
@@ -80327,9 +80034,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "23 openings remaining",
-    "availability": "open",
-    "spaces": 23,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-15",
     "lastDate": "2026-10-27",
     "prices": [
@@ -80403,9 +80109,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "35 openings remaining",
+    "openings": "34 openings remaining",
     "availability": "open",
-    "spaces": 35,
+    "spaces": 34,
     "firstDate": "2026-11-03",
     "lastDate": "2026-12-15",
     "prices": [
@@ -81069,9 +80775,9 @@
     "ageMin": 8,
     "ageMax": 13,
     "ageText": "Age at least 8 yrs but less than 13 yrs",
-    "openings": "6 openings remaining",
+    "openings": "5 openings remaining",
     "availability": "open",
-    "spaces": 6,
+    "spaces": 5,
     "firstDate": "2026-09-04",
     "lastDate": "2026-12-18",
     "prices": [
@@ -81339,9 +81045,9 @@
     "ageMin": 18,
     "ageMax": 0,
     "ageText": "18 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "1 opening remaining",
+    "availability": "open",
+    "spaces": 1,
     "firstDate": "2026-10-22",
     "lastDate": "2026-11-19",
     "prices": [
@@ -81373,9 +81079,9 @@
     "ageMin": 18,
     "ageMax": 0,
     "ageText": "18 yrs +",
-    "openings": "3 openings remaining",
+    "openings": "2 openings remaining",
     "availability": "open",
-    "spaces": 3,
+    "spaces": 2,
     "firstDate": "2026-11-26",
     "lastDate": "2026-12-24",
     "prices": [
@@ -82066,9 +81772,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "21 openings remaining",
-    "availability": "open",
-    "spaces": 21,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-15",
     "lastDate": "2026-10-27",
     "prices": [
@@ -82100,9 +81805,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "22 openings remaining",
+    "openings": "21 openings remaining",
     "availability": "open",
-    "spaces": 22,
+    "spaces": 21,
     "firstDate": "2026-11-03",
     "lastDate": "2026-12-15",
     "prices": [
@@ -82168,9 +81873,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "21 openings remaining",
+    "openings": "20 openings remaining",
     "availability": "open",
-    "spaces": 21,
+    "spaces": 20,
     "firstDate": "2026-11-05",
     "lastDate": "2026-12-17",
     "prices": [
@@ -83089,9 +82794,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "2 openings remaining",
+    "openings": "1 opening remaining",
     "availability": "open",
-    "spaces": 2,
+    "spaces": 1,
     "firstDate": "2026-11-02",
     "lastDate": "2026-12-07",
     "prices": [
@@ -83165,9 +82870,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "7 openings remaining",
+    "openings": "6 openings remaining",
     "availability": "open",
-    "spaces": 7,
+    "spaces": 6,
     "firstDate": "2026-11-04",
     "lastDate": "2026-12-16",
     "prices": [
@@ -83897,9 +83602,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "1 opening remaining",
-    "availability": "open",
-    "spaces": 1,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-11-22",
     "lastDate": "2026-11-22"
   },
@@ -83921,9 +83626,8 @@
     "ageMin": 1,
     "ageMax": 6,
     "ageText": "Age at least 1 yr but less than 6 yrs",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-10-27",
     "lastDate": "2026-10-27"
   },
@@ -84244,108 +83948,6 @@
     "lastDate": "2026-12-03"
   },
   {
-    "id": 633635,
-    "title": "VAFC Grasshoppers Soccer",
-    "calendarId": 11,
-    "centerId": 48,
-    "facilityIds": [
-      569
-    ],
-    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/vafc-grasshoppers-soccer/633635",
-    "description": "<p>VAFC Grasshoppers introduces children to soccer through playful games, movement, coordination, and basic ball skills. Sessions build confidence, listening skills, and comfort with sport in a fun, supportive environment. Parent/caregiver participation may be included. </p>",
-    "instructors": [
-      "Vancouver Athletic Football Club"
-    ],
-    "priceText": "$87.00",
-    "free": false,
-    "ageMin": 2,
-    "ageMax": 3,
-    "ageText": "Age at least 2 yrs but less than 3y 11m 4w",
-    "openings": "8 openings remaining",
-    "availability": "open",
-    "spaces": 8,
-    "firstDate": "2026-11-03",
-    "lastDate": "2026-12-15",
-    "prices": [
-      {
-        "price": "$87.00",
-        "description": "Standard charge"
-      },
-      {
-        "price": "50.00%",
-        "description": "Leisure Access - CCA: for Customer"
-      }
-    ]
-  },
-  {
-    "id": 633637,
-    "title": "Core and Corazon",
-    "calendarId": 16,
-    "centerId": 32,
-    "facilityIds": [
-      697
-    ],
-    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/core-and-corazon/633637",
-    "description": "Build strength, then feel your groove. This class opens with a core-focused conditioning workout, then ignites into the rhythms of Afro-Brazilian and Latin dance, moving from the inside out, straight from the heart. It's a joyful, full-body reset that leaves you energized and ready for whatever the day holds. Perfect whether you're easing back into movement or just looking for a reason to love your workout. Drop-in $20, space permitting. No session Nov 11.",
-    "instructors": [
-      "Claudia Bulaievsky"
-    ],
-    "priceText": "$113.33",
-    "free": false,
-    "ageMin": 19,
-    "ageMax": 0,
-    "ageText": "19 yrs +",
-    "openings": "14 openings remaining",
-    "availability": "open",
-    "spaces": 14,
-    "firstDate": "2026-10-28",
-    "lastDate": "2026-12-16",
-    "prices": [
-      {
-        "price": "$113.33",
-        "description": "Standard charge"
-      },
-      {
-        "price": "50.00%",
-        "description": "Leisure Access Taxable – CCA: for Customer"
-      }
-    ]
-  },
-  {
-    "id": 633638,
-    "title": "VAFC Grasshoppers Soccer",
-    "calendarId": 11,
-    "centerId": 48,
-    "facilityIds": [
-      569
-    ],
-    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/vafc-grasshoppers-soccer/633638",
-    "description": "<p>VAFC Grasshoppers introduces children to soccer through playful games, movement, coordination, and basic ball skills. Sessions build confidence, listening skills, and comfort with sport in a fun, supportive environment. Parent/caregiver participation may be included.</p>",
-    "instructors": [
-      "Vancouver Athletic Football Club"
-    ],
-    "priceText": "$87.00",
-    "free": false,
-    "ageMin": 2,
-    "ageMax": 3,
-    "ageText": "Age at least 2 yrs but less than 3y 11m 4w",
-    "openings": "8 openings remaining",
-    "availability": "open",
-    "spaces": 8,
-    "firstDate": "2026-11-03",
-    "lastDate": "2026-12-15",
-    "prices": [
-      {
-        "price": "$87.00",
-        "description": "Standard charge"
-      },
-      {
-        "price": "50.00%",
-        "description": "Leisure Access - CCA: for Customer"
-      }
-    ]
-  },
-  {
     "id": 633643,
     "title": "WCT - Bleached Tote Bags with MISKA",
     "calendarId": 26,
@@ -84363,9 +83965,8 @@
     "ageMin": 10,
     "ageMax": 100,
     "ageText": "Age at least 10y 10m but less than 100y 10m",
-    "openings": "7 openings remaining",
-    "availability": "open",
-    "spaces": 7,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-10-27",
     "lastDate": "2026-10-27",
     "prices": [
@@ -85344,9 +84945,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "20 openings remaining",
-    "availability": "open",
-    "spaces": 20,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-08",
     "lastDate": "2026-10-27"
   },
@@ -85575,9 +85175,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "1 opening remaining",
-    "availability": "open",
-    "spaces": 1,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-08",
     "lastDate": "2026-10-27",
     "prices": [
@@ -85609,9 +85208,8 @@
     "ageMin": 50,
     "ageMax": 0,
     "ageText": "50 yrs +",
-    "openings": "3 openings remaining",
-    "availability": "open",
-    "spaces": 3,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-08",
     "lastDate": "2026-10-27",
     "prices": [
@@ -85875,9 +85473,8 @@
     "ageMin": 9,
     "ageMax": 12,
     "ageText": "Age at least 9 yrs but less than 12y 11m",
-    "openings": "15 openings remaining",
-    "availability": "open",
-    "spaces": 15,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-08",
     "lastDate": "2026-10-27",
     "prices": [
@@ -86137,7 +85734,8 @@
     "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/britannia-boxing---high-performance---dec/634063",
     "description": "<p>This is a high performance boxing program run by coach Alex Martin. This program follows along with the coach for the duration of the program. This is a non-contact/non-sparing boxing program. </p><p>Boxing room is located beside Gym C.</p><p>Mon Wed Fri 7:00-9:00pm</p>",
     "instructors": [
-      "Jay Peterson"
+      "Jay Peterson",
+      "Alex Martin"
     ],
     "priceText": "$95.00",
     "free": false,
@@ -86171,7 +85769,8 @@
     "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/britannia-boxing---high-performance---nov/634064",
     "description": "<p>This is a high performance boxing program run by coach Alex Martin. This program follows along with the coach for the duration of the program. This is a non-contact/non-sparing boxing program.</p><p>Boxing room is located beside Gym C.</p><p>Mon Wed Fri 7:00-9:00pm</p><p><b>No class Nov 11</b></p>",
     "instructors": [
-      "Jay Peterson"
+      "Jay Peterson",
+      "Alex Martin"
     ],
     "priceText": "$95.00",
     "free": false,
@@ -86205,7 +85804,8 @@
     "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/britannia-boxing---high-performance---oct/634065",
     "description": "<p>This is a high performance boxing program run by coach Alex Martin. This program follows along with the coach for the duration of the program. This is a non-contact/non-sparing boxing program.</p><p>Boxing room is located beside Gym C.</p><p>Mon Wed Fri 7:00-9:00pm</p><p><b>No class Oct 12</b></p>",
     "instructors": [
-      "Jay Peterson"
+      "Jay Peterson",
+      "Alex Martin"
     ],
     "priceText": "$95.00",
     "free": false,
@@ -87192,9 +86792,8 @@
     "ageMin": 13,
     "ageMax": 0,
     "ageText": "13 yrs +",
-    "openings": "13 openings remaining",
-    "availability": "open",
-    "spaces": 13,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-10-27",
     "lastDate": "2026-10-27",
     "prices": [
@@ -87578,9 +87177,9 @@
     "ageMin": 13,
     "ageMax": 0,
     "ageText": "13 yrs +",
-    "openings": "14 openings remaining",
+    "openings": "5 openings remaining",
     "availability": "open",
-    "spaces": 14,
+    "spaces": 5,
     "firstDate": "2026-10-28",
     "lastDate": "2026-10-28",
     "prices": [
@@ -87868,9 +87467,9 @@
     "ageMin": 13,
     "ageMax": 0,
     "ageText": "13 yrs +",
-    "openings": "18 openings remaining",
+    "openings": "16 openings remaining",
     "availability": "open",
-    "spaces": 18,
+    "spaces": 16,
     "firstDate": "2026-10-30",
     "lastDate": "2026-10-30",
     "prices": [
@@ -88816,9 +88415,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "12 openings remaining",
-    "availability": "open",
-    "spaces": 12,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-15",
     "lastDate": "2026-10-27",
     "prices": [
@@ -88838,7 +88436,7 @@
     "calendarId": 20,
     "centerId": 44,
     "facilityIds": [
-      478
+      483
     ],
     "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/the-natural-way-to-draw/634437",
     "description": "<p>Bring your world to life using the tool you already have: your eyes. Skip the rulers, grids, and lengthy preparation to learn a remarkably effective way to translate what you see onto paper. This approach aligns how you naturally see with a relaxed, fluid way to draw, making it easy to capture your subjects with organic accuracy and fewer corrections. Students are required to bring their own supplies. A concise supply list will be emailed to participants.</p><p>This course is designed for anyone who has always wanted to draw without enduring long dry lectures and technical theory. With this practical approach, you will capture the essence of any subject quickly, bypassing the need for any perfection or tedious shading. </p><p>Broderick Wong is an artist and educator who demystifies drawing rules so they actually click. Known for capturing striking realism, his hands-on approach helps you bypass perfectionism and draw naturally from day one. <a href=\"http://www.broderickwongart.com\"></a><a href=\"https://broderickwongart.com/instructor-bio\">www.broderickwongart.com</a></p>",
@@ -88954,7 +88552,7 @@
     "calendarId": 20,
     "centerId": 44,
     "facilityIds": [
-      478
+      483
     ],
     "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/watercolour-made-simple/634444",
     "description": "<p>Experience a modern, simplified approach to watercolor painting. You’ll skip the heavy theory and exhausting three-hour sessions, jumping straight into hands-on painting. Using minimal supplies, traceable templates, and gradual, bite-sized lessons, this course makes watercolor simple, predictable, and incredibly fun. Best of all, you'll walk away with a painting you can be proud of, every single week. No class Nov 11.</p><p>This course is designed for anyone who has always wanted to try watercolors without the long lectures or overloading on theory. If you want a no-fluff approach that makes painting feel approachable, achievable and relaxing, while building your skills from day one, this is the workshop that makes it all click. </p><p>Tap into your creativity with a straightforward, light-heated approach to painting, alongside award-winning watercolor artist Broderick Wong. <a href=\"http://www.broderickwongart.com\"></a><a href=\"https://broderickwongart.com/instructor-bio\"></a><a href=\"https://broderickwongart.com/instructor-bio\">www.broderickwongart.com</a></p><p>Students are required to bring their own supplies. Each workshop is designed around a minimalist set up and very accessible materials. A concise supply list of 4 pigments, 3 brushes and watercolor paper will be emailed to the registrants.</p>",
@@ -89170,9 +88768,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "2 openings remaining",
+    "openings": "1 opening remaining",
     "availability": "open",
-    "spaces": 2,
+    "spaces": 1,
     "firstDate": "2026-10-14",
     "lastDate": "2026-12-16",
     "prices": [
@@ -89555,9 +89153,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "4 openings remaining",
-    "availability": "open",
-    "spaces": 4,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-10-06",
     "lastDate": "2026-10-27",
     "prices": [
@@ -89656,9 +89253,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-08",
     "lastDate": "2026-10-27",
     "prices": [
@@ -89791,9 +89387,9 @@
     "ageMin": 13,
     "ageMax": 18,
     "ageText": "Age at least 13 yrs but less than 18y 11m 3w",
-    "openings": "3 openings remaining",
+    "openings": "2 openings remaining",
     "availability": "open",
-    "spaces": 3,
+    "spaces": 2,
     "firstDate": "2026-11-01",
     "lastDate": "2026-12-06",
     "prices": [
@@ -90326,74 +89922,6 @@
     ]
   },
   {
-    "id": 634892,
-    "title": "Seniors Yoga for Flexibility and Strength",
-    "calendarId": 6,
-    "centerId": 46,
-    "facilityIds": [
-      522
-    ],
-    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/seniors-yoga-for-flexibility-and-strength/634892",
-    "description": "<p>The class is designed specifically for seniors seeking improved mobility, balance, and muscle tone. Our gentle yoga routines focus on enhancing flexibility and building strength at a comfortable pace. Perfect for all fitness levels, this class promotes relaxation while supporting your health and vitality. $9+tax/drop-in if space.</p><p>Please note participants are recommended to bring their own yoga mats and other equipment.</p>",
-    "instructors": [
-      "Bill Mercer"
-    ],
-    "priceText": "$45.00",
-    "free": false,
-    "ageMin": 55,
-    "ageMax": 0,
-    "ageText": "55 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
-    "firstDate": "2026-11-02",
-    "lastDate": "2026-12-07",
-    "prices": [
-      {
-        "price": "$45.00",
-        "description": "Standard charge"
-      },
-      {
-        "price": "50.00%",
-        "description": "Leisure Access - CCA: for Customer"
-      }
-    ]
-  },
-  {
-    "id": 634895,
-    "title": "Seniors Yoga for Flexibility and Strength",
-    "calendarId": 6,
-    "centerId": 46,
-    "facilityIds": [
-      522
-    ],
-    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/seniors-yoga-for-flexibility-and-strength/634895",
-    "description": "<p>The class is designed specifically for seniors seeking improved mobility, balance, and muscle tone. Our gentle yoga routines focus on enhancing flexibility and building strength at a comfortable pace. Perfect for all fitness levels, this class promotes relaxation while supporting your health and vitality. $9+tax/drop-in if space.</p><p>Please note participants are recommended to bring their own yoga mats and other equipment.</p>",
-    "instructors": [
-      "Bill Mercer"
-    ],
-    "priceText": "$45.00",
-    "free": false,
-    "ageMin": 55,
-    "ageMax": 0,
-    "ageText": "55 yrs +",
-    "openings": "3 openings remaining",
-    "availability": "open",
-    "spaces": 3,
-    "firstDate": "2026-11-05",
-    "lastDate": "2026-12-10",
-    "prices": [
-      {
-        "price": "$45.00",
-        "description": "Standard charge"
-      },
-      {
-        "price": "50.00%",
-        "description": "Leisure Access - CCA: for Customer"
-      }
-    ]
-  },
-  {
     "id": 634896,
     "title": "Inclusive Yoga & Sound Bath",
     "calendarId": 6,
@@ -90547,9 +90075,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "6 openings remaining",
+    "openings": "5 openings remaining",
     "availability": "open",
-    "spaces": 6,
+    "spaces": 5,
     "firstDate": "2026-11-09",
     "lastDate": "2026-12-14",
     "prices": [
@@ -91335,40 +90863,6 @@
     ]
   },
   {
-    "id": 635021,
-    "title": "VAFC Grasshoppers Soccer",
-    "calendarId": 11,
-    "centerId": 48,
-    "facilityIds": [
-      569
-    ],
-    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/vafc-grasshoppers-soccer/635021",
-    "description": "<p>VAFC Grasshoppers introduces children to soccer through playful games, movement, coordination, and basic ball skills. Sessions build confidence, listening skills, and comfort with sport in a fun, supportive environment. Parent/caregiver participation may be included. </p>",
-    "instructors": [
-      "Vancouver Athletic Football Club"
-    ],
-    "priceText": "$87.00",
-    "free": false,
-    "ageMin": 2,
-    "ageMax": 3,
-    "ageText": "Age at least 2 yrs but less than 3y 11m 4w",
-    "openings": "5 openings remaining",
-    "availability": "open",
-    "spaces": 5,
-    "firstDate": "2026-11-05",
-    "lastDate": "2026-12-17",
-    "prices": [
-      {
-        "price": "$87.00",
-        "description": "Standard charge"
-      },
-      {
-        "price": "50.00%",
-        "description": "Leisure Access - CCA: for Customer"
-      }
-    ]
-  },
-  {
     "id": 635022,
     "title": "Holiday Wreath Workshop",
     "calendarId": 26,
@@ -91756,9 +91250,8 @@
     "ageMin": 19,
     "ageMax": 99,
     "ageText": "Age at least 19 yrs but less than 99 yrs",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-10-27",
     "lastDate": "2026-10-27"
   },
@@ -91948,9 +91441,8 @@
     "ageMin": 19,
     "ageMax": 99,
     "ageText": "Age at least 19 yrs but less than 99 yrs",
-    "openings": "1 opening remaining",
-    "availability": "open",
-    "spaces": 1,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-10-27",
     "lastDate": "2026-10-27"
   },
@@ -92140,9 +91632,8 @@
     "ageMin": 19,
     "ageMax": 99,
     "ageText": "Age at least 19 yrs but less than 99 yrs",
-    "openings": "8 openings remaining",
-    "availability": "open",
-    "spaces": 8,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-10-27",
     "lastDate": "2026-10-27"
   },
@@ -92376,9 +91867,9 @@
     "ageMin": 19,
     "ageMax": 99,
     "ageText": "Age at least 19 yrs but less than 99 yrs",
-    "openings": "2 openings remaining",
+    "openings": "1 opening remaining",
     "availability": "open",
-    "spaces": 2,
+    "spaces": 1,
     "firstDate": "2026-10-28",
     "lastDate": "2026-10-28",
     "prices": [
@@ -93052,9 +92543,9 @@
     "ageMin": 19,
     "ageMax": 99,
     "ageText": "Age at least 19 yrs but less than 99 yrs",
-    "openings": "18 openings remaining",
+    "openings": "7 openings remaining",
     "availability": "open",
-    "spaces": 18,
+    "spaces": 7,
     "firstDate": "2026-10-30",
     "lastDate": "2026-10-30"
   },
@@ -93354,9 +92845,9 @@
     "ageMin": 19,
     "ageMax": 99,
     "ageText": "Age at least 19 yrs but less than 99 yrs",
-    "openings": "20 openings remaining",
+    "openings": "18 openings remaining",
     "availability": "open",
-    "spaces": 20,
+    "spaces": 18,
     "firstDate": "2026-10-29",
     "lastDate": "2026-10-29",
     "prices": [
@@ -95194,9 +94685,9 @@
     "ageMin": 40,
     "ageMax": 0,
     "ageText": "40 yrs +",
-    "openings": "2 openings remaining",
-    "availability": "open",
-    "spaces": 2,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-11-04",
     "lastDate": "2026-11-04"
   },
@@ -95362,9 +94853,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "11 openings remaining",
+    "openings": "5 openings remaining",
     "availability": "open",
-    "spaces": 11,
+    "spaces": 5,
     "firstDate": "2026-10-28",
     "lastDate": "2026-10-28",
     "prices": [
@@ -95922,9 +95413,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "1 opening remaining",
+    "openings": "2 openings remaining",
     "availability": "open",
-    "spaces": 1,
+    "spaces": 2,
     "firstDate": "2026-10-29",
     "lastDate": "2026-10-29",
     "prices": [
@@ -96594,9 +96085,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "22 openings remaining",
+    "openings": "16 openings remaining",
     "availability": "open",
-    "spaces": 22,
+    "spaces": 16,
     "firstDate": "2026-10-30",
     "lastDate": "2026-10-30",
     "prices": [
@@ -98395,9 +97886,9 @@
     "ageMin": 16,
     "ageMax": 0,
     "ageText": "16 yrs +",
-    "openings": "25 openings remaining",
+    "openings": "24 openings remaining",
     "availability": "open",
-    "spaces": 25,
+    "spaces": 24,
     "firstDate": "2026-11-05",
     "lastDate": "2026-12-10",
     "prices": [
@@ -98463,9 +97954,9 @@
     "ageMin": 19,
     "ageMax": 99,
     "ageText": "Age at least 19 yrs but less than 99 yrs",
-    "openings": "17 openings remaining",
+    "openings": "11 openings remaining",
     "availability": "open",
-    "spaces": 17,
+    "spaces": 11,
     "firstDate": "2026-10-28",
     "lastDate": "2026-10-28",
     "prices": [
@@ -98831,9 +98322,9 @@
     "ageMin": 19,
     "ageMax": 99,
     "ageText": "Age at least 19 yrs but less than 99 yrs",
-    "openings": "20 openings remaining",
+    "openings": "19 openings remaining",
     "availability": "open",
-    "spaces": 20,
+    "spaces": 19,
     "firstDate": "2026-10-28",
     "lastDate": "2026-10-28",
     "prices": [
@@ -99015,9 +98506,9 @@
     "ageMin": 19,
     "ageMax": 99,
     "ageText": "Age at least 19 yrs but less than 99 yrs",
-    "openings": "18 openings remaining",
+    "openings": "16 openings remaining",
     "availability": "open",
-    "spaces": 18,
+    "spaces": 16,
     "firstDate": "2026-10-29",
     "lastDate": "2026-10-29",
     "prices": [
@@ -99383,9 +98874,9 @@
     "ageMin": 19,
     "ageMax": 99,
     "ageText": "Age at least 19 yrs but less than 99 yrs",
-    "openings": "22 openings remaining",
+    "openings": "7 openings remaining",
     "availability": "open",
-    "spaces": 22,
+    "spaces": 7,
     "firstDate": "2026-10-30",
     "lastDate": "2026-10-30",
     "prices": [
@@ -99818,9 +99309,9 @@
     "ageMin": 6,
     "ageMax": 12,
     "ageText": "Age at least 6 yrs but less than 12y 11m 4w",
-    "openings": "17 openings remaining",
+    "openings": "16 openings remaining",
     "availability": "open",
-    "spaces": 17,
+    "spaces": 16,
     "firstDate": "2026-11-01",
     "lastDate": "2026-12-13",
     "prices": [
@@ -101470,9 +100961,9 @@
     "ageMin": 19,
     "ageMax": 99,
     "ageText": "Age at least 19 yrs but less than 99 yrs",
-    "openings": "15 openings remaining",
+    "openings": "8 openings remaining",
     "availability": "open",
-    "spaces": 15,
+    "spaces": 8,
     "firstDate": "2026-10-31",
     "lastDate": "2026-10-31",
     "prices": [
@@ -101792,9 +101283,9 @@
     "ageMin": 19,
     "ageMax": 99,
     "ageText": "Age at least 19 yrs but less than 99 yrs",
-    "openings": "16 openings remaining",
+    "openings": "14 openings remaining",
     "availability": "open",
-    "spaces": 16,
+    "spaces": 14,
     "firstDate": "2026-10-31",
     "lastDate": "2026-10-31"
   },
@@ -102985,9 +102476,9 @@
     "ageMin": 13,
     "ageMax": 0,
     "ageText": "13 yrs +",
-    "openings": "7 openings remaining",
+    "openings": "3 openings remaining",
     "availability": "open",
-    "spaces": 7,
+    "spaces": 3,
     "firstDate": "2026-10-28",
     "lastDate": "2026-10-28",
     "prices": [
@@ -103251,9 +102742,9 @@
     "ageMin": 13,
     "ageMax": 0,
     "ageText": "13 yrs +",
-    "openings": "18 openings remaining",
+    "openings": "16 openings remaining",
     "availability": "open",
-    "spaces": 18,
+    "spaces": 16,
     "firstDate": "2026-10-28",
     "lastDate": "2026-10-28",
     "prices": [
@@ -103517,9 +103008,9 @@
     "ageMin": 13,
     "ageMax": 0,
     "ageText": "13 yrs +",
-    "openings": "14 openings remaining",
+    "openings": "12 openings remaining",
     "availability": "open",
-    "spaces": 14,
+    "spaces": 12,
     "firstDate": "2026-10-29",
     "lastDate": "2026-10-29",
     "prices": [
@@ -104364,9 +103855,8 @@
     "ageMin": 13,
     "ageMax": 0,
     "ageText": "13 yrs +",
-    "openings": "10 openings remaining",
-    "availability": "open",
-    "spaces": 10,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-10-27",
     "lastDate": "2026-10-27",
     "prices": [
@@ -104620,9 +104110,9 @@
     "ageMin": 13,
     "ageMax": 0,
     "ageText": "13 yrs +",
-    "openings": "11 openings remaining",
+    "openings": "3 openings remaining",
     "availability": "open",
-    "spaces": 11,
+    "spaces": 3,
     "firstDate": "2026-10-28",
     "lastDate": "2026-10-28",
     "prices": [
@@ -104924,9 +104414,9 @@
     "ageMin": 13,
     "ageMax": 0,
     "ageText": "13 yrs +",
-    "openings": "14 openings remaining",
+    "openings": "12 openings remaining",
     "availability": "open",
-    "spaces": 14,
+    "spaces": 12,
     "firstDate": "2026-10-28",
     "lastDate": "2026-10-28",
     "prices": [
@@ -104967,44 +104457,6 @@
     "spaces": 15,
     "firstDate": "2026-11-04",
     "lastDate": "2026-11-04",
-    "prices": [
-      {
-        "price": "$7.93",
-        "description": "Standard charge"
-      },
-      {
-        "price": "50.00%",
-        "description": "Leisure Access Taxable - PB: for Customer"
-      },
-      {
-        "price": "100.00%",
-        "description": "Indoor Cycling Usage Pass: for Customer"
-      }
-    ]
-  },
-  {
-    "id": 636650,
-    "title": "Cycle Fit",
-    "calendarId": 8,
-    "centerId": 32,
-    "facilityIds": [
-      10
-    ],
-    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/cycle-fit/636650",
-    "description": "Cycle Fit is 60 minutes of indoor riding, with a longer warm-up and cool down.",
-    "instructors": [
-      "Audrey Howatson"
-    ],
-    "priceText": "$7.93",
-    "free": false,
-    "ageMin": 13,
-    "ageMax": 0,
-    "ageText": "13 yrs +",
-    "openings": "15 openings remaining",
-    "availability": "open",
-    "spaces": 15,
-    "firstDate": "2026-11-11",
-    "lastDate": "2026-11-11",
     "prices": [
       {
         "price": "$7.93",
@@ -105228,9 +104680,9 @@
     "ageMin": 13,
     "ageMax": 0,
     "ageText": "13 yrs +",
-    "openings": "15 openings remaining",
+    "openings": "14 openings remaining",
     "availability": "open",
-    "spaces": 15,
+    "spaces": 14,
     "firstDate": "2026-10-30",
     "lastDate": "2026-10-30",
     "prices": [
@@ -107817,9 +107269,8 @@
     "ageMin": 19,
     "ageMax": 99,
     "ageText": "Age at least 19 yrs but less than 99 yrs",
-    "openings": "8 openings remaining",
-    "availability": "open",
-    "spaces": 8,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-10-27",
     "lastDate": "2026-10-27",
     "prices": [
@@ -108382,9 +107833,8 @@
     "ageMin": 8,
     "ageMax": 99,
     "ageText": "Age at least 8 yrs but less than 99 yrs",
-    "openings": "14 openings remaining",
-    "availability": "open",
-    "spaces": 14,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-10-27",
     "lastDate": "2026-10-27",
     "prices": [
@@ -108846,9 +108296,9 @@
     "ageMin": 8,
     "ageMax": 99,
     "ageText": "Age at least 8 yrs but less than 99 yrs",
-    "openings": "9 openings remaining",
+    "openings": "2 openings remaining",
     "availability": "open",
-    "spaces": 9,
+    "spaces": 2,
     "firstDate": "2026-10-28",
     "lastDate": "2026-10-28",
     "prices": [
@@ -110121,9 +109571,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "3 openings remaining",
+    "openings": "2 openings remaining",
     "availability": "open",
-    "spaces": 3,
+    "spaces": 2,
     "firstDate": "2026-12-16",
     "lastDate": "2026-12-16"
   },
@@ -110291,9 +109741,9 @@
     "ageMin": 16,
     "ageMax": 0,
     "ageText": "16 yrs +",
-    "openings": "14 openings remaining",
+    "openings": "13 openings remaining",
     "availability": "open",
-    "spaces": 14,
+    "spaces": 13,
     "firstDate": "2026-11-02",
     "lastDate": "2026-12-14",
     "prices": [
@@ -111155,9 +110605,9 @@
     "ageMin": 19,
     "ageMax": 99,
     "ageText": "Age at least 19 yrs but less than 99 yrs",
-    "openings": "11 openings remaining",
+    "openings": "10 openings remaining",
     "availability": "open",
-    "spaces": 11,
+    "spaces": 10,
     "firstDate": "2026-10-29",
     "lastDate": "2026-10-29",
     "prices": [
@@ -111523,9 +110973,9 @@
     "ageMin": 19,
     "ageMax": 99,
     "ageText": "Age at least 19 yrs but less than 99 yrs",
-    "openings": "3 openings remaining",
-    "availability": "open",
-    "spaces": 3,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-10-29",
     "lastDate": "2026-10-29"
   },
@@ -111845,9 +111295,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "9 openings remaining",
+    "openings": "8 openings remaining",
     "availability": "open",
-    "spaces": 9,
+    "spaces": 8,
     "firstDate": "2026-10-28",
     "lastDate": "2026-10-28"
   },
@@ -113072,9 +112522,9 @@
     "ageMin": 8,
     "ageMax": 99,
     "ageText": "Age at least 8 yrs but less than 99 yrs",
-    "openings": "22 openings remaining",
+    "openings": "17 openings remaining",
     "availability": "open",
-    "spaces": 22,
+    "spaces": 17,
     "firstDate": "2026-10-30",
     "lastDate": "2026-10-30",
     "prices": [
@@ -113536,9 +112986,9 @@
     "ageMin": 19,
     "ageMax": 99,
     "ageText": "Age at least 19 yrs but less than 99 yrs",
-    "openings": "20 openings remaining",
-    "availability": "open",
-    "spaces": 20,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-10-30",
     "lastDate": "2026-10-30"
   },
@@ -113728,9 +113178,9 @@
     "ageMin": 8,
     "ageMax": 99,
     "ageText": "Age at least 8 yrs but less than 99 yrs",
-    "openings": "20 openings remaining",
+    "openings": "19 openings remaining",
     "availability": "open",
-    "spaces": 20,
+    "spaces": 19,
     "firstDate": "2026-10-30",
     "lastDate": "2026-10-30"
   },
@@ -113920,9 +113370,9 @@
     "ageMin": 8,
     "ageMax": 99,
     "ageText": "Age at least 8 yrs but less than 99 yrs",
-    "openings": "20 openings remaining",
+    "openings": "18 openings remaining",
     "availability": "open",
-    "spaces": 20,
+    "spaces": 18,
     "firstDate": "2026-10-30",
     "lastDate": "2026-10-30"
   },
@@ -114136,9 +113586,9 @@
     "ageMin": 19,
     "ageMax": 99,
     "ageText": "Age at least 19 yrs but less than 99 yrs",
-    "openings": "2 openings remaining",
-    "availability": "open",
-    "spaces": 2,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-11-04",
     "lastDate": "2026-11-04"
   },
@@ -114304,9 +113754,9 @@
     "ageMin": 19,
     "ageMax": 99,
     "ageText": "Age at least 19 yrs but less than 99 yrs",
-    "openings": "1 opening remaining",
-    "availability": "open",
-    "spaces": 1,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-10-29",
     "lastDate": "2026-10-29"
   },
@@ -114735,40 +114185,6 @@
       {
         "price": "50.00%",
         "description": "Leisure Access - CCA: for Customer"
-      }
-    ]
-  },
-  {
-    "id": 642281,
-    "title": "Baby & Me Pilates",
-    "calendarId": 56,
-    "centerId": 57,
-    "facilityIds": [
-      492
-    ],
-    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/baby-me-pilates/642281",
-    "description": "<p>Pilates is a wonderful way to tone the body, rebuild abdominal strength, prevent shoulder tightness, and boost stamina through safe and effective exercises, with modifications offered for every body. The class is designed to flow organically, allowing time for bonding and soothing your baby whenever they need you. No class Nov 5.</p>",
-    "instructors": [
-      "Claudia Bulaievsky"
-    ],
-    "priceText": "$52.50",
-    "free": false,
-    "ageMin": 19,
-    "ageMax": 0,
-    "ageText": "19 yrs +",
-    "openings": "12 openings remaining",
-    "availability": "open",
-    "spaces": 12,
-    "firstDate": "2026-10-29",
-    "lastDate": "2026-11-19",
-    "prices": [
-      {
-        "price": "$52.50",
-        "description": "Standard charge"
-      },
-      {
-        "price": "50.00%",
-        "description": "Leisure Access Taxable – CCA: for Customer"
       }
     ]
   },
@@ -115216,9 +114632,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "4 openings remaining",
-    "availability": "open",
-    "spaces": 4,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-10-27",
     "lastDate": "2026-10-27",
     "prices": [
@@ -115282,9 +114697,8 @@
     "ageMin": 13,
     "ageMax": 0,
     "ageText": "13 yrs +",
-    "openings": "14 openings remaining",
-    "availability": "open",
-    "spaces": 14,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-10-27",
     "lastDate": "2026-10-27",
     "prices": [
@@ -115720,9 +115134,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "3 openings remaining",
-    "availability": "open",
-    "spaces": 3,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-10-27",
     "lastDate": "2026-10-27"
   },
@@ -115894,9 +115307,8 @@
     "ageMin": 13,
     "ageMax": 0,
     "ageText": "13 yrs +",
-    "openings": "13 openings remaining",
-    "availability": "open",
-    "spaces": 13,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-10-27",
     "lastDate": "2026-10-27"
   },
@@ -115925,30 +115337,6 @@
     "lastDate": "2026-10-28"
   },
   {
-    "id": 647686,
-    "title": "Aquafit - Shallow Moderate",
-    "calendarId": 55,
-    "centerId": 10,
-    "facilityIds": [
-      16
-    ],
-    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/aquafit---shallow-moderate/647686",
-    "description": "<p>Shallow aquafit </p><p>This 50-minute Aquafit class is imbedded in a 90-minute Swim Session. Aquafit is a moderately paced and energizing class that utilizes water resistance for a variety of exercise combinations with warm up, cardio, strength, stretch and cool down components, designed for participants who want to increase their fitness and muscular endurance.<br />Hot Tub access is limited and is first come first serve. Recommended maximum of 10 minutes. Saunas and steam rooms are not available at all locations.<br />Please call the facility for more details.<br /></p>",
-    "instructors": [
-      "Non Instructional"
-    ],
-    "priceText": "",
-    "free": false,
-    "ageMin": 13,
-    "ageMax": 0,
-    "ageText": "13 yrs +",
-    "openings": "18 openings remaining",
-    "availability": "open",
-    "spaces": 18,
-    "firstDate": "2026-10-29",
-    "lastDate": "2026-10-29"
-  },
-  {
     "id": 647688,
     "title": "Aquafit - Shallow Moderate",
     "calendarId": 55,
@@ -115966,9 +115354,9 @@
     "ageMin": 55,
     "ageMax": 0,
     "ageText": "55 yrs +",
-    "openings": "19 openings remaining",
+    "openings": "17 openings remaining",
     "availability": "open",
-    "spaces": 19,
+    "spaces": 17,
     "firstDate": "2026-10-30",
     "lastDate": "2026-10-30"
   },
@@ -116256,9 +115644,8 @@
     "ageMin": 13,
     "ageMax": 0,
     "ageText": "13 yrs +",
-    "openings": "22 openings remaining",
-    "availability": "open",
-    "spaces": 22,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-10-27",
     "lastDate": "2026-10-27"
   },
@@ -116439,9 +115826,9 @@
     "ageMin": 16,
     "ageMax": 0,
     "ageText": "16 yrs +",
-    "openings": "15 openings remaining",
+    "openings": "13 openings remaining",
     "availability": "open",
-    "spaces": 15,
+    "spaces": 13,
     "firstDate": "2026-10-29",
     "lastDate": "2026-10-29",
     "prices": [
@@ -116452,6 +115839,384 @@
       {
         "price": "50.00%",
         "description": "Leisure Access No Tax- CCA: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 651336,
+    "title": "Pickleball Court Rental (Sat)",
+    "calendarId": 15,
+    "centerId": 41,
+    "facilityIds": [
+      608
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/pickleball-court-rental-sat/651336",
+    "description": "Reserve your own pickleball court for your family and friends. There are two courts available to play for 55 minute timeslots. Each registration is a booking for one court. Courts are on a first-come-first-serve basis<br />Bookings are open 1 week prior on Wednesdays at 9:00am. No refunds allowed. Teaching during court rentals is prohibited.",
+    "instructors": [],
+    "priceText": "$14.29",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 0,
+    "ageText": "19 yrs +",
+    "openings": "2 openings remaining",
+    "availability": "open",
+    "spaces": 2,
+    "firstDate": "2026-11-07",
+    "lastDate": "2026-11-07"
+  },
+  {
+    "id": 651337,
+    "title": "Pickleball Court Rental (Sat)",
+    "calendarId": 15,
+    "centerId": 41,
+    "facilityIds": [
+      608
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/pickleball-court-rental-sat/651337",
+    "description": "Reserve your own pickleball court for your family and friends. There are two courts available to play for 55 minute timeslots. Each registration is a booking for one court. Courts are on a first-come-first-serve basis<br />Bookings are open 1 week prior on Wednesdays at 9:00am. No refunds allowed. Teaching during court rentals is prohibited.",
+    "instructors": [],
+    "priceText": "$14.29",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 0,
+    "ageText": "19 yrs +",
+    "openings": "2 openings remaining",
+    "availability": "open",
+    "spaces": 2,
+    "firstDate": "2026-11-14",
+    "lastDate": "2026-11-14"
+  },
+  {
+    "id": 651338,
+    "title": "Pickleball Court Rental (Sat)",
+    "calendarId": 15,
+    "centerId": 41,
+    "facilityIds": [
+      608
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/pickleball-court-rental-sat/651338",
+    "description": "Reserve your own pickleball court for your family and friends. There are two courts available to play for 55 minute timeslots. Each registration is a booking for one court. Courts are on a first-come-first-serve basis<br />Bookings are open 1 week prior on Wednesdays at 9:00am. No refunds allowed. Teaching during court rentals is prohibited.",
+    "instructors": [],
+    "priceText": "$14.29",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 0,
+    "ageText": "19 yrs +",
+    "openings": "2 openings remaining",
+    "availability": "open",
+    "spaces": 2,
+    "firstDate": "2026-11-21",
+    "lastDate": "2026-11-21"
+  },
+  {
+    "id": 651339,
+    "title": "Pickleball Court Rental (Sat)",
+    "calendarId": 15,
+    "centerId": 41,
+    "facilityIds": [
+      608
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/pickleball-court-rental-sat/651339",
+    "description": "Reserve your own pickleball court for your family and friends. There are two courts available to play for 55 minute timeslots. Each registration is a booking for one court. Courts are on a first-come-first-serve basis<br />Bookings are open 1 week prior on Wednesdays at 9:00am. No refunds allowed. Teaching during court rentals is prohibited.",
+    "instructors": [],
+    "priceText": "$14.29",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 0,
+    "ageText": "19 yrs +",
+    "openings": "2 openings remaining",
+    "availability": "open",
+    "spaces": 2,
+    "firstDate": "2026-11-28",
+    "lastDate": "2026-11-28"
+  },
+  {
+    "id": 651430,
+    "title": "Seniors Games Day",
+    "calendarId": 47,
+    "centerId": 33,
+    "facilityIds": [
+      270
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/seniors-games-day/651430",
+    "description": "<p>Join us for Jeopardy and Bingo, led by youth leaders who are excited to bring the community together for an afternoon of laughter, friendly competition, and connection. Admission is free. Register today!</p>",
+    "instructors": [
+      "Youth Leader"
+    ],
+    "priceText": "Free",
+    "free": true,
+    "ageMin": 55,
+    "ageMax": 0,
+    "ageText": "55 yrs +",
+    "openings": "50 openings remaining",
+    "availability": "open",
+    "spaces": 50,
+    "firstDate": "2026-12-06",
+    "lastDate": "2026-12-06"
+  },
+  {
+    "id": 651443,
+    "title": "Cycle Fit",
+    "calendarId": 8,
+    "centerId": 32,
+    "facilityIds": [
+      10
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/cycle-fit/651443",
+    "description": "Cycle Fit is 60 minutes of indoor riding, with a longer warm-up and cool down.",
+    "instructors": [
+      "Leonie Knaus"
+    ],
+    "priceText": "$7.93",
+    "free": false,
+    "ageMin": 13,
+    "ageMax": 0,
+    "ageText": "13 yrs +",
+    "openings": "15 openings remaining",
+    "availability": "open",
+    "spaces": 15,
+    "firstDate": "2026-11-03",
+    "lastDate": "2026-11-03",
+    "prices": [
+      {
+        "price": "$7.93",
+        "description": "Standard charge"
+      },
+      {
+        "price": "50.00%",
+        "description": "Leisure Access Taxable - PB: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Indoor Cycling Usage Pass: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 651444,
+    "title": "Cycle Fit",
+    "calendarId": 8,
+    "centerId": 32,
+    "facilityIds": [
+      10
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/cycle-fit/651444",
+    "description": "Cycle Fit is 60 minutes of indoor riding, with a longer warm-up and cool down.",
+    "instructors": [
+      "Leonie Knaus"
+    ],
+    "priceText": "$7.93",
+    "free": false,
+    "ageMin": 13,
+    "ageMax": 0,
+    "ageText": "13 yrs +",
+    "openings": "15 openings remaining",
+    "availability": "open",
+    "spaces": 15,
+    "firstDate": "2026-11-10",
+    "lastDate": "2026-11-10",
+    "prices": [
+      {
+        "price": "$7.93",
+        "description": "Standard charge"
+      },
+      {
+        "price": "50.00%",
+        "description": "Leisure Access Taxable - PB: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Indoor Cycling Usage Pass: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 651445,
+    "title": "Cycle Fit",
+    "calendarId": 8,
+    "centerId": 32,
+    "facilityIds": [
+      10
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/cycle-fit/651445",
+    "description": "Cycle Fit is 60 minutes of indoor riding, with a longer warm-up and cool down.",
+    "instructors": [
+      "Leonie Knaus"
+    ],
+    "priceText": "$7.93",
+    "free": false,
+    "ageMin": 13,
+    "ageMax": 0,
+    "ageText": "13 yrs +",
+    "openings": "15 openings remaining",
+    "availability": "open",
+    "spaces": 15,
+    "firstDate": "2026-11-17",
+    "lastDate": "2026-11-17",
+    "prices": [
+      {
+        "price": "$7.93",
+        "description": "Standard charge"
+      },
+      {
+        "price": "50.00%",
+        "description": "Leisure Access Taxable - PB: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Indoor Cycling Usage Pass: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 651446,
+    "title": "Cycle Fit",
+    "calendarId": 8,
+    "centerId": 32,
+    "facilityIds": [
+      10
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/cycle-fit/651446",
+    "description": "Cycle Fit is 60 minutes of indoor riding, with a longer warm-up and cool down.",
+    "instructors": [
+      "Leonie Knaus"
+    ],
+    "priceText": "$7.93",
+    "free": false,
+    "ageMin": 13,
+    "ageMax": 0,
+    "ageText": "13 yrs +",
+    "openings": "15 openings remaining",
+    "availability": "open",
+    "spaces": 15,
+    "firstDate": "2026-11-24",
+    "lastDate": "2026-11-24",
+    "prices": [
+      {
+        "price": "$7.93",
+        "description": "Standard charge"
+      },
+      {
+        "price": "50.00%",
+        "description": "Leisure Access Taxable - PB: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Indoor Cycling Usage Pass: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 651447,
+    "title": "Cycle Fit",
+    "calendarId": 8,
+    "centerId": 32,
+    "facilityIds": [
+      10
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/cycle-fit/651447",
+    "description": "Cycle Fit is 60 minutes of indoor riding, with a longer warm-up and cool down.",
+    "instructors": [
+      "Leonie Knaus"
+    ],
+    "priceText": "$7.93",
+    "free": false,
+    "ageMin": 13,
+    "ageMax": 0,
+    "ageText": "13 yrs +",
+    "openings": "15 openings remaining",
+    "availability": "open",
+    "spaces": 15,
+    "firstDate": "2026-12-01",
+    "lastDate": "2026-12-01",
+    "prices": [
+      {
+        "price": "$7.93",
+        "description": "Standard charge"
+      },
+      {
+        "price": "50.00%",
+        "description": "Leisure Access Taxable - PB: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Indoor Cycling Usage Pass: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 651448,
+    "title": "Cycle Fit",
+    "calendarId": 8,
+    "centerId": 32,
+    "facilityIds": [
+      10
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/cycle-fit/651448",
+    "description": "Cycle Fit is 60 minutes of indoor riding, with a longer warm-up and cool down.",
+    "instructors": [
+      "Leonie Knaus"
+    ],
+    "priceText": "$7.93",
+    "free": false,
+    "ageMin": 13,
+    "ageMax": 0,
+    "ageText": "13 yrs +",
+    "openings": "15 openings remaining",
+    "availability": "open",
+    "spaces": 15,
+    "firstDate": "2026-12-08",
+    "lastDate": "2026-12-08",
+    "prices": [
+      {
+        "price": "$7.93",
+        "description": "Standard charge"
+      },
+      {
+        "price": "50.00%",
+        "description": "Leisure Access Taxable - PB: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Indoor Cycling Usage Pass: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 651449,
+    "title": "Cycle Fit",
+    "calendarId": 8,
+    "centerId": 32,
+    "facilityIds": [
+      10
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/cycle-fit/651449",
+    "description": "Cycle Fit is 60 minutes of indoor riding, with a longer warm-up and cool down.",
+    "instructors": [
+      "Leonie Knaus"
+    ],
+    "priceText": "$7.93",
+    "free": false,
+    "ageMin": 13,
+    "ageMax": 0,
+    "ageText": "13 yrs +",
+    "openings": "15 openings remaining",
+    "availability": "open",
+    "spaces": 15,
+    "firstDate": "2026-12-15",
+    "lastDate": "2026-12-15",
+    "prices": [
+      {
+        "price": "$7.93",
+        "description": "Standard charge"
+      },
+      {
+        "price": "50.00%",
+        "description": "Leisure Access Taxable - PB: for Customer"
+      },
+      {
+        "price": "100.00%",
+        "description": "Indoor Cycling Usage Pass: for Customer"
       }
     ]
   }
