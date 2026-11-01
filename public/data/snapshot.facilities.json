@@ -65,14 +65,14 @@
     "centerId": 39
   },
   {
-    "id": 43,
-    "name": "Activity Room",
-    "centerId": 6
-  },
-  {
     "id": 431,
     "name": "Activity Room",
     "centerId": 51
+  },
+  {
+    "id": 43,
+    "name": "Activity Room",
+    "centerId": 6
   },
   {
     "id": 492,
@@ -140,14 +140,14 @@
     "centerId": 44
   },
   {
-    "id": 501,
-    "name": "Auditorium",
-    "centerId": 54
-  },
-  {
     "id": 264,
     "name": "Auditorium",
     "centerId": 33
+  },
+  {
+    "id": 501,
+    "name": "Auditorium",
+    "centerId": 54
   },
   {
     "id": 32,
@@ -188,11 +188,6 @@
     "id": 648,
     "name": "Board Room",
     "centerId": 55
-  },
-  {
-    "id": 694,
-    "name": "Board Room",
-    "centerId": 32
   },
   {
     "id": 2787,
@@ -243,11 +238,6 @@
     "id": 553,
     "name": "Chinook Room",
     "centerId": 43
-  },
-  {
-    "id": 503,
-    "name": "Club Room",
-    "centerId": 54
   },
   {
     "id": 484,
@@ -405,6 +395,11 @@
     "centerId": 42
   },
   {
+    "id": 435,
+    "name": "Games Room",
+    "centerId": 51
+  },
+  {
     "id": 411,
     "name": "Games Room",
     "centerId": 42
@@ -450,11 +445,6 @@
     "centerId": 51
   },
   {
-    "id": 499,
-    "name": "Gymnasium",
-    "centerId": 54
-  },
-  {
     "id": 730,
     "name": "Gymnasium",
     "centerId": 49
@@ -473,6 +463,11 @@
     "id": 447,
     "name": "Gymnasium",
     "centerId": 40
+  },
+  {
+    "id": 499,
+    "name": "Gymnasium",
+    "centerId": 54
   },
   {
     "id": 308,
@@ -820,11 +815,6 @@
     "centerId": 50
   },
   {
-    "id": 591,
-    "name": "Multi-purpose Room 111",
-    "centerId": 50
-  },
-  {
     "id": 592,
     "name": "Multi-purpose Room 112",
     "centerId": 50
@@ -850,14 +840,14 @@
     "centerId": 6
   },
   {
-    "id": 453,
-    "name": "Multipurpose Room",
-    "centerId": 40
-  },
-  {
     "id": 660,
     "name": "Multipurpose Room",
     "centerId": 55
+  },
+  {
+    "id": 453,
+    "name": "Multipurpose Room",
+    "centerId": 40
   },
   {
     "id": 127,
@@ -868,6 +858,11 @@
     "id": 289,
     "name": "Multipurpose Room 2",
     "centerId": 53
+  },
+  {
+    "id": 310,
+    "name": "Multipurpose Room 201 - Music",
+    "centerId": 35
   },
   {
     "id": 312,
@@ -1160,11 +1155,6 @@
     "centerId": 40
   },
   {
-    "id": 500,
-    "name": "Social Room",
-    "centerId": 54
-  },
-  {
     "id": 576,
     "name": "Stage",
     "centerId": 48
@@ -1208,11 +1198,6 @@
     "id": 3358,
     "name": "Upper Lobby",
     "centerId": 57
-  },
-  {
-    "id": 502,
-    "name": "Upper Lounge",
-    "centerId": 54
   },
   {
     "id": 9,
