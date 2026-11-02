@@ -145,11 +145,6 @@
     "centerId": 33
   },
   {
-    "id": 501,
-    "name": "Auditorium",
-    "centerId": 54
-  },
-  {
     "id": 32,
     "name": "Barclay Room",
     "centerId": 7
@@ -463,11 +458,6 @@
     "id": 447,
     "name": "Gymnasium",
     "centerId": 40
-  },
-  {
-    "id": 499,
-    "name": "Gymnasium",
-    "centerId": 54
   },
   {
     "id": 308,
