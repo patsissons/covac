@@ -185,6 +185,11 @@
     "centerId": 55
   },
   {
+    "id": 542,
+    "name": "Board Room",
+    "centerId": 43
+  },
+  {
     "id": 2787,
     "name": "Boxing Room",
     "centerId": 38
@@ -430,6 +435,11 @@
     "centerId": 32
   },
   {
+    "id": 447,
+    "name": "Gymnasium",
+    "centerId": 40
+  },
+  {
     "id": 659,
     "name": "Gymnasium",
     "centerId": 55
@@ -453,11 +463,6 @@
     "id": 569,
     "name": "Gymnasium",
     "centerId": 48
-  },
-  {
-    "id": 447,
-    "name": "Gymnasium",
-    "centerId": 40
   },
   {
     "id": 308,
