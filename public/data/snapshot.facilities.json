@@ -955,11 +955,6 @@
     "centerId": 35
   },
   {
-    "id": 320,
-    "name": "Preschool 2",
-    "centerId": 35
-  },
-  {
     "id": 359,
     "name": "Preteen Centre",
     "centerId": 38
@@ -1213,11 +1208,6 @@
     "id": 457,
     "name": "Youth Lounge",
     "centerId": 40
-  },
-  {
-    "id": 494,
-    "name": "Youth Room",
-    "centerId": 57
   },
   {
     "id": 731,
