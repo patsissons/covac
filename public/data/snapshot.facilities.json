@@ -165,11 +165,6 @@
     "centerId": 42
   },
   {
-    "id": 478,
-    "name": "Board Room",
-    "centerId": 44
-  },
-  {
     "id": 311,
     "name": "Board Room",
     "centerId": 35
@@ -188,6 +183,11 @@
     "id": 542,
     "name": "Board Room",
     "centerId": 43
+  },
+  {
+    "id": 478,
+    "name": "Board Room",
+    "centerId": 44
   },
   {
     "id": 2787,
@@ -675,6 +675,11 @@
     "centerId": 58
   },
   {
+    "id": 677,
+    "name": "Kitchen - Multipurpose Room",
+    "centerId": 58
+  },
+  {
     "id": 593,
     "name": "Kitchen 114",
     "centerId": 50
@@ -938,11 +943,6 @@
     "id": 420,
     "name": "Pottery Studio",
     "centerId": 42
-  },
-  {
-    "id": 579,
-    "name": "Pottery Studio 115",
-    "centerId": 50
   },
   {
     "id": 421,
