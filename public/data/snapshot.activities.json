@@ -521,8 +521,8 @@
     "ageMin": 16,
     "ageMax": 80,
     "ageText": "Age at least 16 yrs but less than 80 yrs",
-    "openings": "Closed",
-    "availability": "closed",
+    "openings": "Cancelled",
+    "availability": "cancelled",
     "firstDate": "2026-11-18",
     "lastDate": "2026-12-16",
     "prices": [
@@ -1098,9 +1098,9 @@
     "ageMin": 5,
     "ageMax": 10,
     "ageText": "Age at least 5y 9m but less than 10 yrs",
-    "openings": "1 opening remaining",
-    "availability": "open",
-    "spaces": 1,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-09-13",
     "lastDate": "2026-12-13",
     "prices": [
@@ -2500,9 +2500,9 @@
     "ageMin": 54,
     "ageMax": 100,
     "ageText": "Age at least 54 yrs but less than 100 yrs",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "3 openings remaining",
+    "availability": "open",
+    "spaces": 3,
     "firstDate": "2026-11-04",
     "lastDate": "2026-12-16",
     "prices": [
@@ -3313,9 +3313,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "1 opening remaining",
-    "availability": "open",
-    "spaces": 1,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-11-18",
     "lastDate": "2026-11-18",
     "prices": [
@@ -4398,8 +4398,7 @@
     "calendarId": 43,
     "centerId": 58,
     "facilityIds": [
-      671,
-      3216
+      671
     ],
     "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/drop-in-youth-volleyball/621467",
     "description": "Drop in Volleyball for youth 13-18! <br />No registration required, drop-in only. <br />",
@@ -5695,9 +5694,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "19 openings remaining",
+    "openings": "16 openings remaining",
     "availability": "open",
-    "spaces": 19,
+    "spaces": 16,
     "firstDate": "2026-11-17",
     "lastDate": "2026-12-17",
     "prices": [
@@ -5991,9 +5990,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-11-17",
     "lastDate": "2026-11-17"
   },
@@ -6377,9 +6375,9 @@
     "ageMin": 0,
     "ageMax": 4,
     "ageText": "Age at least 6m but less than 4y 11m",
-    "openings": "5 openings remaining",
+    "openings": "4 openings remaining",
     "availability": "open",
-    "spaces": 5,
+    "spaces": 4,
     "firstDate": "2026-11-04",
     "lastDate": "2026-12-16",
     "prices": [
@@ -8462,9 +8460,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-11-17",
     "lastDate": "2026-11-17"
   },
@@ -9301,7 +9298,7 @@
       730
     ],
     "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/zumba-with-alesya/623366",
-    "description": "Zumba class combines Latin and International music with a fun and effective workout system. Have fun while you get fit and lose weight with high energy dance moves. Anyone can join the Party! No session Oct 12.",
+    "description": "Zumba class combines Latin and International music with a fun and effective workout system. Have fun while you get fit and lose weight with high energy dance moves. Anyone can join the Party! No session Oct 12, Nov 30.",
     "instructors": [
       "Alesya Bogaevskaya"
     ],
@@ -11254,9 +11251,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "22 openings remaining",
+    "openings": "7 openings remaining",
     "availability": "open",
-    "spaces": 22,
+    "spaces": 7,
     "firstDate": "2026-11-20",
     "lastDate": "2026-11-20",
     "prices": [
@@ -11926,9 +11923,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "4 openings remaining",
-    "availability": "open",
-    "spaces": 4,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-11-17",
     "lastDate": "2026-11-17",
     "prices": [
@@ -12832,9 +12828,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "11 openings remaining",
+    "openings": "10 openings remaining",
     "availability": "open",
-    "spaces": 11,
+    "spaces": 10,
     "firstDate": "2026-09-14",
     "lastDate": "2026-12-21",
     "prices": [
@@ -15228,9 +15224,9 @@
     "ageMin": 3,
     "ageMax": 5,
     "ageText": "Age at least 3 yrs but less than 5y 11m 4w",
-    "openings": "4 openings remaining",
+    "openings": "3 openings remaining",
     "availability": "open",
-    "spaces": 4,
+    "spaces": 3,
     "firstDate": "2026-12-21",
     "lastDate": "2026-12-24",
     "prices": [
@@ -16721,9 +16717,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "13 openings remaining",
+    "openings": "12 openings remaining",
     "availability": "open",
-    "spaces": 13,
+    "spaces": 12,
     "firstDate": "2026-11-03",
     "lastDate": "2026-12-15",
     "prices": [
@@ -17096,9 +17092,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "11 openings remaining",
+    "openings": "10 openings remaining",
     "availability": "open",
-    "spaces": 11,
+    "spaces": 10,
     "firstDate": "2026-11-29",
     "lastDate": "2026-11-29"
   },
@@ -19639,9 +19635,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "1 opening remaining",
-    "availability": "open",
-    "spaces": 1,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-09-08",
     "lastDate": "2026-12-15",
     "prices": [
@@ -21239,9 +21235,9 @@
     "ageMin": 2,
     "ageMax": 4,
     "ageText": "Age at least 2 yrs but less than 4y 11m 4w",
-    "openings": "24 openings remaining",
+    "openings": "22 openings remaining",
     "availability": "open",
-    "spaces": 24,
+    "spaces": 22,
     "firstDate": "2026-12-01",
     "lastDate": "2026-12-19",
     "prices": [
@@ -23898,9 +23894,9 @@
     "ageMin": 25,
     "ageMax": 0,
     "ageText": "25 yrs +",
-    "openings": "12 openings remaining",
+    "openings": "11 openings remaining",
     "availability": "open",
-    "spaces": 12,
+    "spaces": 11,
     "firstDate": "2026-11-20",
     "lastDate": "2026-12-18",
     "prices": [
@@ -24601,9 +24597,9 @@
     "ageMin": 13,
     "ageMax": 0,
     "ageText": "13 yrs +",
-    "openings": "10 openings remaining",
+    "openings": "8 openings remaining",
     "availability": "open",
-    "spaces": 10,
+    "spaces": 8,
     "firstDate": "2026-11-18",
     "lastDate": "2026-12-16",
     "prices": [
@@ -24704,9 +24700,8 @@
     "ageMin": 55,
     "ageMax": 0,
     "ageText": "55 yrs +",
-    "openings": "21 openings remaining",
-    "availability": "open",
-    "spaces": 21,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-11-17",
     "lastDate": "2026-11-17",
     "prices": [
@@ -24735,9 +24730,9 @@
     "ageMin": 55,
     "ageMax": 0,
     "ageText": "55 yrs +",
-    "openings": "27 openings remaining",
+    "openings": "26 openings remaining",
     "availability": "open",
-    "spaces": 27,
+    "spaces": 26,
     "firstDate": "2026-11-24",
     "lastDate": "2026-11-24",
     "prices": [
@@ -25491,9 +25486,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "20 openings remaining",
+    "openings": "18 openings remaining",
     "availability": "open",
-    "spaces": 20,
+    "spaces": 18,
     "firstDate": "2026-11-18",
     "lastDate": "2026-12-16",
     "prices": [
@@ -27635,9 +27630,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "25 openings remaining",
+    "openings": "21 openings remaining",
     "availability": "open",
-    "spaces": 25,
+    "spaces": 21,
     "firstDate": "2026-11-23",
     "lastDate": "2026-12-21",
     "prices": [
@@ -27715,9 +27710,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "23 openings remaining",
+    "openings": "17 openings remaining",
     "availability": "open",
-    "spaces": 23,
+    "spaces": 17,
     "firstDate": "2026-11-18",
     "lastDate": "2026-12-16",
     "prices": [
@@ -30015,9 +30010,9 @@
     "ageMin": 3,
     "ageMax": 5,
     "ageText": "Age at least 3y 6m but less than 5y 11m",
-    "openings": "1 opening remaining",
-    "availability": "open",
-    "spaces": 1,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-11-03",
     "lastDate": "2026-12-15"
   },
@@ -31730,9 +31725,9 @@
     "ageMin": 18,
     "ageMax": 0,
     "ageText": "18 yrs +",
-    "openings": "12 openings remaining",
+    "openings": "11 openings remaining",
     "availability": "open",
-    "spaces": 12,
+    "spaces": 11,
     "firstDate": "2026-11-18",
     "lastDate": "2026-12-16",
     "prices": [
@@ -31844,7 +31839,7 @@
     "calendarId": 6,
     "centerId": 33,
     "facilityIds": [
-      270
+      271
     ],
     "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/gentle-yoga/627240",
     "description": "Gentle Yoga for Beginners is designed for those new to yoga or looking to revisit the basics. We will focus on foundational poses, proper alignment, and mindful breathing techniques. Each session will be accessible to everyone, with modifications provided to ensure all participants feel comfortable and supported. Whether you're looking to improve flexibility, reduce stress, or simply try something new, this class is a welcoming space for all. Bring a mat. For more info visit www.intoyoga.ca.<br />Drop-in $20 (space permitting)",
@@ -34890,7 +34885,7 @@
       608
     ],
     "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/pickleball-with-guidance-tue/627625",
-    "description": "<p>Pickleball is a sport in which two to four players use solid paddles to hit a perforated polymer ball, similar to a wiffle ball, over a net. The sport shares features of other racquet sports, the dimensions and layout of a badminton court, and a net and rules similar to tennis, with a few modifications. Ideal for varying fitness levels. A volunteer instructor will be present for free lessons with guidance and advice.</p><p> $5.00 Drop-in (12 spots available per week).</p>",
+    "description": "<p>Pickleball is a sport in which two to four players use solid paddles to hit a perforated polymer ball, similar to a wiffle ball, over a net. The sport shares features of other racquet sports, the dimensions and layout of a badminton court, and a net and rules similar to tennis, with a few modifications. Ideal for varying fitness levels. A volunteer instructor will be present for free lessons with guidance and advice.</p><p> $5.00 Drop-in (12 spots available per week).</p><p>No Session Nov 24. </p>",
     "instructors": [],
     "priceText": "Free",
     "free": true,
@@ -34912,7 +34907,7 @@
       608
     ],
     "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/pickleball-with-guidance-thu/627626",
-    "description": "<p>Pickleball is a sport in which two to four players use solid paddles to hit a perforated polymer ball, similar to a wiffle ball, over a net. The sport shares features of other racquet sports, the dimensions and layout of a badminton court, and a net and rules similar to tennis, with a few modifications. Ideal for varying fitness levels. A volunteer instructor will be present for free lessons with guidance and advice.</p><p>Drop-in spots will be available 10 mins before the program start time.</p><p> $5.00 Drop-in only (12 spots available per week).</p>",
+    "description": "<p>Pickleball is a sport in which two to four players use solid paddles to hit a perforated polymer ball, similar to a wiffle ball, over a net. The sport shares features of other racquet sports, the dimensions and layout of a badminton court, and a net and rules similar to tennis, with a few modifications. Ideal for varying fitness levels. A volunteer instructor will be present for free lessons with guidance and advice.</p><p>Drop-in spots will be available 10 mins before the program start time.</p><p> $5.00 Drop-in only (12 spots available per week).</p><p>Nov 19 and 26. </p>",
     "instructors": [],
     "priceText": "Free",
     "free": true,
@@ -34941,9 +34936,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-11-17",
     "lastDate": "2026-11-17"
   },
@@ -34963,9 +34957,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "12 openings remaining",
-    "availability": "open",
-    "spaces": 12,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-11-24",
     "lastDate": "2026-11-24"
   },
@@ -35072,9 +35066,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "2 openings remaining",
-    "availability": "open",
-    "spaces": 2,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-11-23",
     "lastDate": "2026-11-23"
   },
@@ -35181,9 +35175,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "2 openings remaining",
-    "availability": "open",
-    "spaces": 2,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-11-23",
     "lastDate": "2026-11-23"
   },
@@ -35259,19 +35253,20 @@
     "calendarId": 15,
     "centerId": 41,
     "facilityIds": [
-      607
+      607,
+      608
     ],
     "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/pickleball-court-rental-thu/627671",
-    "description": "Reserve your own pickleball court for your family and friends. There are two courts available to play for 55 minute timeslots. Each registration is a booking for one court. Courts are on a first-come-first-serve basis.<br />Bookings are open 1 week prior on Wednesdays at 9:00am. No refunds allowed. Teaching during court rentals is prohibited.",
+    "description": "Reserve your own pickleball court for your family and friends. There are four courts available to play for 55 minute timeslots. Each registration is a booking for one court. Courts are on a first-come-first-serve basis.<br />Bookings are open 1 week prior on Wednesdays at 9:00am. No refunds allowed. Teaching during court rentals is prohibited.",
     "instructors": [],
     "priceText": "$14.29",
     "free": false,
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "1 opening remaining",
+    "availability": "open",
+    "spaces": 1,
     "firstDate": "2026-11-19",
     "lastDate": "2026-11-19"
   },
@@ -35281,19 +35276,20 @@
     "calendarId": 15,
     "centerId": 41,
     "facilityIds": [
-      607
+      607,
+      608
     ],
     "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/pickleball-court-rental-thu/627672",
-    "description": "Reserve your own pickleball court for your family and friends. There are two courts available to play for 55 minute timeslots. Each registration is a booking for one court. Courts are on a first-come-first-serve basis.<br />Bookings are open 1 week prior on Wednesdays at 9:00am. No refunds allowed. Teaching during court rentals is prohibited.",
+    "description": "Reserve your own pickleball court for your family and friends. There are four courts available to play for 55 minute timeslots. Each registration is a booking for one court. Courts are on a first-come-first-serve basis.<br />Bookings are open 1 week prior on Wednesdays at 9:00am. No refunds allowed. Teaching during court rentals is prohibited.",
     "instructors": [],
     "priceText": "$14.29",
     "free": false,
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "2 openings remaining",
+    "openings": "3 openings remaining",
     "availability": "open",
-    "spaces": 2,
+    "spaces": 3,
     "firstDate": "2026-11-26",
     "lastDate": "2026-11-26"
   },
@@ -35369,7 +35365,8 @@
     "calendarId": 15,
     "centerId": 41,
     "facilityIds": [
-      607
+      607,
+      608
     ],
     "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/pickleball-court-rental-thu/627676",
     "description": "Reserve your own pickleball court for your family and friends. There are two courts available to play for 55 minute timeslots. Each registration is a booking for one court. Courts are on a first-come-first-serve basis.<br />Bookings are open 1 week prior on Wednesdays at 9:00am. No refunds allowed. Teaching during court rentals is prohibited.",
@@ -35391,19 +35388,20 @@
     "calendarId": 15,
     "centerId": 41,
     "facilityIds": [
-      607
+      607,
+      608
     ],
     "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/pickleball-court-rental-thu/627677",
-    "description": "Reserve your own pickleball court for your family and friends. There are two courts available to play for 55 minute timeslots. Each registration is a booking for one court. Courts are on a first-come-first-serve basis.<br />Bookings are open 1 week prior on Wednesdays at 9:00am. No refunds allowed. Teaching during court rentals is prohibited.",
+    "description": "Reserve your own pickleball court for your family and friends. There are four courts available to play for 55 minute timeslots. Each registration is a booking for one court. Courts are on a first-come-first-serve basis.<br />Bookings are open 1 week prior on Wednesdays at 9:00am. No refunds allowed. Teaching during court rentals is prohibited.",
     "instructors": [],
     "priceText": "$14.29",
     "free": false,
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "2 openings remaining",
-    "availability": "open",
-    "spaces": 2,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-11-26",
     "lastDate": "2026-11-26"
   },
@@ -35511,9 +35509,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "2 openings remaining",
-    "availability": "open",
-    "spaces": 2,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-11-27",
     "lastDate": "2026-11-27"
   },
@@ -35621,9 +35619,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "2 openings remaining",
-    "availability": "open",
-    "spaces": 2,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-11-27",
     "lastDate": "2026-11-27"
   },
@@ -35731,9 +35729,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "2 openings remaining",
-    "availability": "open",
-    "spaces": 2,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-11-27",
     "lastDate": "2026-11-27"
   },
@@ -35936,9 +35934,9 @@
     "ageMin": 18,
     "ageMax": 0,
     "ageText": "18 yrs +",
-    "openings": "11 openings remaining",
+    "openings": "10 openings remaining",
     "availability": "open",
-    "spaces": 11,
+    "spaces": 10,
     "firstDate": "2026-11-18",
     "lastDate": "2026-12-23",
     "prices": [
@@ -37433,9 +37431,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "20 openings remaining",
-    "availability": "open",
-    "spaces": 20,
+    "openings": "Cancelled",
+    "availability": "cancelled",
     "firstDate": "2026-11-18",
     "lastDate": "2026-12-16",
     "prices": [
@@ -38124,40 +38121,6 @@
     ]
   },
   {
-    "id": 628106,
-    "title": "Blended Emergency First Aid with CPR/AED Level C",
-    "calendarId": 43,
-    "centerId": 35,
-    "facilityIds": [
-      318
-    ],
-    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/blended-emergency-first-aid-with-cpr-aed-level-c/628106",
-    "description": "The Canadian Red Cross Blended Emergency First Aid with CPR/AED Level C course combines flexible online learning with hands-on, in-person training. This option allows participants to complete a portion of the course online at their own pace while reducing the in-person training time, without compromising certification. Participants complete an online learning component through the Canadian Red Cross prior to attending a 4-hour, instructor-led in-person session focused on practical skills and real-life emergency scenarios. Both blended and full in-class formats result in the same Canadian Red Cross Emergency First Aid with CPR/AED Level C certification, recognized by WorkSafeBC. Course content includes responding to medical emergencies, adult, child, and infant CPR, AED use, choking response techniques, severe bleeding and shock management, common injuries (burns, fractures, head and spinal injuries), and building confidence to act in emergency situations. The online component must be completed before attending the in-person session; proof of online completion is required on the day of training; the Canadian Red Cross will not issue a certificate if the online component is incomplete; participant name and email are required at least one week in advance to allow access to the Red Cross online learning. All courses are taught by certified Canadian Red Cross instructors who are also full-time first responders (firefighters and/or paramedics), bringing real-world experience into the classroom. Leisure Access subsidy does not apply to one-day course/workshop programs. Parents/Guardians enrolling more than one of their children will need to provide a separate email for each child as Red Cross requires separate emails for certification purposes. Work groups in this course will be formed age appropriately.",
-    "instructors": [
-      "First Aid Pro"
-    ],
-    "priceText": "$94.99",
-    "free": false,
-    "ageMin": 13,
-    "ageMax": 0,
-    "ageText": "13 yrs +",
-    "openings": "12 openings remaining",
-    "availability": "open",
-    "spaces": 12,
-    "firstDate": "2026-11-22",
-    "lastDate": "2026-11-22",
-    "prices": [
-      {
-        "price": "$94.99",
-        "description": "Activity Fee - Youth for 13 up to 99 years old"
-      },
-      {
-        "price": "$94.99",
-        "description": "Activity Fee - Child for 11 up to 12 years old"
-      }
-    ]
-  },
-  {
     "id": 628107,
     "title": "Blended Emergency First Aid with CPR/AED Level C",
     "calendarId": 43,
@@ -38275,9 +38238,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "2 openings remaining",
+    "openings": "1 opening remaining",
     "availability": "open",
-    "spaces": 2,
+    "spaces": 1,
     "firstDate": "2026-09-08",
     "lastDate": "2026-12-22",
     "prices": [
@@ -40507,9 +40470,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "13 openings remaining",
+    "openings": "12 openings remaining",
     "availability": "open",
-    "spaces": 13,
+    "spaces": 12,
     "firstDate": "2026-11-13",
     "lastDate": "2026-12-18",
     "prices": [
@@ -41145,7 +41108,7 @@
     "availability": "full",
     "spaces": 0,
     "firstDate": "2026-09-08",
-    "lastDate": "2026-11-24",
+    "lastDate": "2026-12-01",
     "prices": [
       {
         "price": "$72.38",
@@ -43605,9 +43568,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "9 openings remaining",
-    "availability": "open",
-    "spaces": 9,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-11-17",
     "lastDate": "2026-11-17"
   },
@@ -43715,9 +43677,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "22 openings remaining",
+    "openings": "19 openings remaining",
     "availability": "open",
-    "spaces": 22,
+    "spaces": 19,
     "firstDate": "2026-11-19",
     "lastDate": "2026-11-19"
   },
@@ -43949,9 +43911,9 @@
     "ageMin": 0,
     "ageMax": 5,
     "ageText": "Age less than 5y 11m",
-    "openings": "33 openings remaining",
+    "openings": "32 openings remaining",
     "availability": "open",
-    "spaces": 33,
+    "spaces": 32,
     "firstDate": "2026-09-09",
     "lastDate": "2026-12-16"
   },
@@ -44792,9 +44754,9 @@
     "ageMin": 55,
     "ageMax": 0,
     "ageText": "55 yrs +",
-    "openings": "3 openings remaining",
+    "openings": "2 openings remaining",
     "availability": "open",
-    "spaces": 3,
+    "spaces": 2,
     "firstDate": "2026-09-08",
     "lastDate": "2026-12-15",
     "prices": [
@@ -45235,9 +45197,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "9 openings remaining",
+    "openings": "10 openings remaining",
     "availability": "open",
-    "spaces": 9,
+    "spaces": 10,
     "firstDate": "2026-09-09",
     "lastDate": "2026-12-16",
     "prices": [
@@ -45535,9 +45497,9 @@
     "ageMin": 16,
     "ageMax": 0,
     "ageText": "16 yrs +",
-    "openings": "12 openings remaining",
+    "openings": "11 openings remaining",
     "availability": "open",
-    "spaces": 12,
+    "spaces": 11,
     "firstDate": "2026-11-03",
     "lastDate": "2026-12-15",
     "prices": [
@@ -45637,9 +45599,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "16 openings remaining",
+    "openings": "15 openings remaining",
     "availability": "open",
-    "spaces": 16,
+    "spaces": 15,
     "firstDate": "2026-11-03",
     "lastDate": "2026-12-15",
     "prices": [
@@ -45796,9 +45758,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "14 openings remaining",
+    "openings": "13 openings remaining",
     "availability": "open",
-    "spaces": 14,
+    "spaces": 13,
     "firstDate": "2026-11-04",
     "lastDate": "2026-12-16",
     "prices": [
@@ -47191,9 +47153,9 @@
     "ageMin": 55,
     "ageMax": 99,
     "ageText": "Age at least 55 yrs but less than 99 yrs",
-    "openings": "1 opening remaining",
-    "availability": "open",
-    "spaces": 1,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-11-25",
     "lastDate": "2026-11-25"
   },
@@ -47965,40 +47927,6 @@
     "prices": [
       {
         "price": "$198.00",
-        "description": "Standard charge"
-      },
-      {
-        "price": "50.00%",
-        "description": "Leisure Access Discount: for Customer"
-      }
-    ]
-  },
-  {
-    "id": 631041,
-    "title": "African Djembé Workshop",
-    "calendarId": 20,
-    "centerId": 42,
-    "facilityIds": [
-      423
-    ],
-    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/african-djemb-workshop/631041",
-    "description": "Ever wanted to play the drum but didn’t know where to start?Join this fun, hands-on workshop and dive into the roots of rhythm and the power of group drumming. Discover how a djembé is made, learn basic techniques, and feel the groove as you explore different rhythms and variations. Sofie, who has studied traditional West African rhythms for many years, will guide you through an inspiring and joy-filled drumming experience! Drums will be provided and are included in the price.",
-    "instructors": [
-      "Sofie Heye"
-    ],
-    "priceText": "$90.00",
-    "free": false,
-    "ageMin": 6,
-    "ageMax": 12,
-    "ageText": "Age at least 6 yrs but less than 12y 11m",
-    "openings": "12 openings remaining",
-    "availability": "open",
-    "spaces": 12,
-    "firstDate": "2026-11-18",
-    "lastDate": "2026-12-09",
-    "prices": [
-      {
-        "price": "$90.00",
         "description": "Standard charge"
       },
       {
@@ -49726,9 +49654,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "11 openings remaining",
+    "openings": "10 openings remaining",
     "availability": "open",
-    "spaces": 11,
+    "spaces": 10,
     "firstDate": "2026-09-08",
     "lastDate": "2026-12-15",
     "prices": [
@@ -49867,9 +49795,8 @@
     "ageMin": 50,
     "ageMax": 0,
     "ageText": "50 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-11-17",
     "lastDate": "2026-11-17"
   },
@@ -50203,9 +50130,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "1 opening remaining",
-    "availability": "open",
-    "spaces": 1,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-09-06",
     "lastDate": "2026-12-13",
     "prices": [
@@ -54985,9 +54912,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "18 openings remaining",
+    "openings": "17 openings remaining",
     "availability": "open",
-    "spaces": 18,
+    "spaces": 17,
     "firstDate": "2026-11-21",
     "lastDate": "2026-11-21",
     "prices": [
@@ -55125,9 +55052,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "7 openings remaining",
+    "openings": "8 openings remaining",
     "availability": "open",
-    "spaces": 7,
+    "spaces": 8,
     "firstDate": "2026-11-03",
     "lastDate": "2026-12-15",
     "prices": [
@@ -55607,7 +55534,7 @@
     "calendarId": 6,
     "centerId": 50,
     "facilityIds": [
-      603
+      600
     ],
     "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/yoga-in-mandarin/632211",
     "description": "A gentle and dynamic practice including breathwork, mindful movement, awareness and connection. Overall, you will boost your energy, uplift your mood, and increase flexibility and strength in both body and mind. Drop-in is $15, if space permits. No Session Oct 23, Nov 20th",
@@ -57283,9 +57210,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "4 openings remaining",
+    "openings": "3 openings remaining",
     "availability": "open",
-    "spaces": 4,
+    "spaces": 3,
     "firstDate": "2026-09-08",
     "lastDate": "2026-12-08",
     "prices": [
@@ -58785,9 +58712,9 @@
     "ageMin": 45,
     "ageMax": 0,
     "ageText": "45 yrs +",
-    "openings": "9 openings remaining",
+    "openings": "8 openings remaining",
     "availability": "open",
-    "spaces": 9,
+    "spaces": 8,
     "firstDate": "2026-11-04",
     "lastDate": "2026-11-25",
     "prices": [
@@ -59279,9 +59206,9 @@
     "ageMin": 6,
     "ageMax": 15,
     "ageText": "Age at least 6 yrs but less than 15y 11m",
-    "openings": "9 openings remaining",
+    "openings": "8 openings remaining",
     "availability": "open",
-    "spaces": 9,
+    "spaces": 8,
     "firstDate": "2026-12-21",
     "lastDate": "2026-12-24"
   },
@@ -59620,9 +59547,9 @@
     "ageMin": 13,
     "ageMax": 18,
     "ageText": "Age at least 13 yrs but less than 18y 11m",
-    "openings": "1 opening remaining",
-    "availability": "open",
-    "spaces": 1,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-09-18",
     "lastDate": "2026-12-11",
     "prices": [
@@ -61776,9 +61703,9 @@
     "ageMin": 7,
     "ageMax": 12,
     "ageText": "Age at least 7 yrs but less than 12y 11m 3w",
-    "openings": "10 openings remaining",
+    "openings": "9 openings remaining",
     "availability": "open",
-    "spaces": 10,
+    "spaces": 9,
     "firstDate": "2026-11-20",
     "lastDate": "2026-11-20",
     "prices": [
@@ -62936,9 +62863,8 @@
     "ageMin": 15,
     "ageMax": 99,
     "ageText": "Age at least 15 yrs but less than 99 yrs",
-    "openings": "14 openings remaining",
-    "availability": "open",
-    "spaces": 14,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-12-29",
     "lastDate": "2026-12-29",
     "prices": [
@@ -62966,9 +62892,9 @@
     "ageMin": 15,
     "ageMax": 100,
     "ageText": "Age at least 15y 10m but less than 100y 10m",
-    "openings": "6 openings remaining",
+    "openings": "5 openings remaining",
     "availability": "open",
-    "spaces": 6,
+    "spaces": 5,
     "firstDate": "2026-11-25",
     "lastDate": "2026-11-25",
     "prices": [
@@ -63416,40 +63342,6 @@
       {
         "price": "50.00%",
         "description": "Leisure Access Discount: for Customer"
-      }
-    ]
-  },
-  {
-    "id": 634023,
-    "title": "Latin Dance Fusion",
-    "calendarId": 6,
-    "centerId": 57,
-    "facilityIds": [
-      492
-    ],
-    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/latin-dance-fusion/634023",
-    "description": "<p>Join a high-energy, welcoming Latin dance class where you'll build technique, boost fitness, and make lasting connections - no experience or partner required!</p>",
-    "instructors": [
-      "Roland Michtchenko"
-    ],
-    "priceText": "$56.00",
-    "free": false,
-    "ageMin": 15,
-    "ageMax": 0,
-    "ageText": "15 yrs +",
-    "openings": "20 openings remaining",
-    "availability": "open",
-    "spaces": 20,
-    "firstDate": "2026-11-07",
-    "lastDate": "2026-11-28",
-    "prices": [
-      {
-        "price": "$56.00",
-        "description": "Standard charge"
-      },
-      {
-        "price": "50.00%",
-        "description": "Leisure Access Taxable - CCA: for Customer"
       }
     ]
   },
@@ -65107,9 +64999,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "1 opening remaining",
-    "availability": "open",
-    "spaces": 1,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-10-15",
     "lastDate": "2026-12-17",
     "prices": [
@@ -65683,9 +65575,9 @@
     "ageMin": 5,
     "ageMax": 10,
     "ageText": "Age at least 5 yrs but less than 10y 11m 3w",
-    "openings": "1 opening remaining",
+    "openings": "2 openings remaining",
     "availability": "open",
-    "spaces": 1,
+    "spaces": 2,
     "firstDate": "2026-12-21",
     "lastDate": "2026-12-23",
     "prices": [
@@ -65717,9 +65609,9 @@
     "ageMin": 5,
     "ageMax": 10,
     "ageText": "Age at least 5 yrs but less than 10y 11m 3w",
-    "openings": "1 opening remaining",
-    "availability": "open",
-    "spaces": 1,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-12-21",
     "lastDate": "2026-12-23",
     "prices": [
@@ -67644,9 +67536,8 @@
     "ageMin": 19,
     "ageMax": 99,
     "ageText": "Age at least 19 yrs but less than 99 yrs",
-    "openings": "4 openings remaining",
-    "availability": "open",
-    "spaces": 4,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-11-17",
     "lastDate": "2026-11-17"
   },
@@ -67764,9 +67655,8 @@
     "ageMin": 19,
     "ageMax": 99,
     "ageText": "Age at least 19 yrs but less than 99 yrs",
-    "openings": "1 opening remaining",
-    "availability": "open",
-    "spaces": 1,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-11-17",
     "lastDate": "2026-11-17"
   },
@@ -67884,9 +67774,8 @@
     "ageMin": 19,
     "ageMax": 99,
     "ageText": "Age at least 19 yrs but less than 99 yrs",
-    "openings": "10 openings remaining",
-    "availability": "open",
-    "spaces": 10,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-11-17",
     "lastDate": "2026-11-17"
   },
@@ -68004,9 +67893,9 @@
     "ageMin": 19,
     "ageMax": 99,
     "ageText": "Age at least 19 yrs but less than 99 yrs",
-    "openings": "10 openings remaining",
+    "openings": "7 openings remaining",
     "availability": "open",
-    "spaces": 10,
+    "spaces": 7,
     "firstDate": "2026-11-18",
     "lastDate": "2026-11-18",
     "prices": [
@@ -68542,9 +68431,9 @@
     "ageMin": 19,
     "ageMax": 99,
     "ageText": "Age at least 19 yrs but less than 99 yrs",
-    "openings": "8 openings remaining",
-    "availability": "open",
-    "spaces": 8,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-11-20",
     "lastDate": "2026-11-20"
   },
@@ -68772,9 +68661,9 @@
     "ageMin": 19,
     "ageMax": 99,
     "ageText": "Age at least 19 yrs but less than 99 yrs",
-    "openings": "17 openings remaining",
+    "openings": "16 openings remaining",
     "availability": "open",
-    "spaces": 17,
+    "spaces": 16,
     "firstDate": "2026-11-19",
     "lastDate": "2026-11-19",
     "prices": [
@@ -69002,9 +68891,9 @@
     "ageMin": 8,
     "ageMax": 99,
     "ageText": "Age at least 8 yrs but less than 99 yrs",
-    "openings": "19 openings remaining",
+    "openings": "18 openings remaining",
     "availability": "open",
-    "spaces": 19,
+    "spaces": 18,
     "firstDate": "2026-11-19",
     "lastDate": "2026-11-19",
     "prices": [
@@ -70200,9 +70089,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "10 openings remaining",
+    "openings": "11 openings remaining",
     "availability": "open",
-    "spaces": 10,
+    "spaces": 11,
     "firstDate": "2026-11-18",
     "lastDate": "2026-11-18",
     "prices": [
@@ -71152,9 +71041,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "15 openings remaining",
+    "openings": "12 openings remaining",
     "availability": "open",
-    "spaces": 15,
+    "spaces": 12,
     "firstDate": "2026-11-20",
     "lastDate": "2026-11-20",
     "prices": [
@@ -72357,9 +72246,9 @@
     "ageMin": 19,
     "ageMax": 99,
     "ageText": "Age at least 19 yrs but less than 99 yrs",
-    "openings": "19 openings remaining",
+    "openings": "15 openings remaining",
     "availability": "open",
-    "spaces": 19,
+    "spaces": 15,
     "firstDate": "2026-11-18",
     "lastDate": "2026-11-18",
     "prices": [
@@ -72863,9 +72752,9 @@
     "ageMin": 19,
     "ageMax": 99,
     "ageText": "Age at least 19 yrs but less than 99 yrs",
-    "openings": "18 openings remaining",
+    "openings": "17 openings remaining",
     "availability": "open",
-    "spaces": 18,
+    "spaces": 17,
     "firstDate": "2026-11-20",
     "lastDate": "2026-11-20",
     "prices": [
@@ -74262,9 +74151,9 @@
     "ageMin": 19,
     "ageMax": 99,
     "ageText": "Age at least 19 yrs but less than 99 yrs",
-    "openings": "15 openings remaining",
+    "openings": "7 openings remaining",
     "availability": "open",
-    "spaces": 15,
+    "spaces": 7,
     "firstDate": "2026-11-21",
     "lastDate": "2026-11-21",
     "prices": [
@@ -74446,9 +74335,9 @@
     "ageMin": 19,
     "ageMax": 99,
     "ageText": "Age at least 19 yrs but less than 99 yrs",
-    "openings": "16 openings remaining",
-    "availability": "open",
-    "spaces": 16,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-11-21",
     "lastDate": "2026-11-21"
   },
@@ -75994,9 +75883,9 @@
     "ageMin": 13,
     "ageMax": 0,
     "ageText": "13 yrs +",
-    "openings": "6 openings remaining",
+    "openings": "1 opening remaining",
     "availability": "open",
-    "spaces": 6,
+    "spaces": 1,
     "firstDate": "2026-11-18",
     "lastDate": "2026-11-18",
     "prices": [
@@ -76184,9 +76073,9 @@
     "ageMin": 13,
     "ageMax": 0,
     "ageText": "13 yrs +",
-    "openings": "10 openings remaining",
+    "openings": "8 openings remaining",
     "availability": "open",
-    "spaces": 10,
+    "spaces": 8,
     "firstDate": "2026-11-18",
     "lastDate": "2026-11-18",
     "prices": [
@@ -76374,9 +76263,9 @@
     "ageMin": 13,
     "ageMax": 0,
     "ageText": "13 yrs +",
-    "openings": "15 openings remaining",
+    "openings": "14 openings remaining",
     "availability": "open",
-    "spaces": 15,
+    "spaces": 14,
     "firstDate": "2026-11-20",
     "lastDate": "2026-11-20",
     "prices": [
@@ -76588,9 +76477,9 @@
     "ageMin": 55,
     "ageMax": 0,
     "ageText": "55 yrs +",
-    "openings": "3 openings remaining",
+    "openings": "2 openings remaining",
     "availability": "open",
-    "spaces": 3,
+    "spaces": 2,
     "firstDate": "2026-12-19",
     "lastDate": "2026-12-19"
   },
@@ -77022,9 +76911,9 @@
     "ageMin": 12,
     "ageMax": 18,
     "ageText": "Age at least 12 yrs but less than 18y 11m 4w",
-    "openings": "40 openings remaining",
+    "openings": "48 openings remaining",
     "availability": "open",
-    "spaces": 40,
+    "spaces": 48,
     "firstDate": "2026-11-21",
     "lastDate": "2026-11-21"
   },
@@ -77046,9 +76935,9 @@
     "ageMin": 12,
     "ageMax": 18,
     "ageText": "Age at least 12 yrs but less than 18y 11m 4w",
-    "openings": "40 openings remaining",
+    "openings": "48 openings remaining",
     "availability": "open",
-    "spaces": 40,
+    "spaces": 48,
     "firstDate": "2026-11-28",
     "lastDate": "2026-11-28"
   },
@@ -77070,9 +76959,9 @@
     "ageMin": 12,
     "ageMax": 18,
     "ageText": "Age at least 12 yrs but less than 18y 11m 4w",
-    "openings": "40 openings remaining",
+    "openings": "48 openings remaining",
     "availability": "open",
-    "spaces": 40,
+    "spaces": 48,
     "firstDate": "2026-12-05",
     "lastDate": "2026-12-05"
   },
@@ -77094,9 +76983,9 @@
     "ageMin": 12,
     "ageMax": 18,
     "ageText": "Age at least 12 yrs but less than 18y 11m 4w",
-    "openings": "40 openings remaining",
+    "openings": "48 openings remaining",
     "availability": "open",
-    "spaces": 40,
+    "spaces": 48,
     "firstDate": "2026-12-12",
     "lastDate": "2026-12-12"
   },
@@ -77118,9 +77007,9 @@
     "ageMin": 12,
     "ageMax": 18,
     "ageText": "Age at least 12 yrs but less than 18y 11m 4w",
-    "openings": "40 openings remaining",
+    "openings": "48 openings remaining",
     "availability": "open",
-    "spaces": 40,
+    "spaces": 48,
     "firstDate": "2026-12-19",
     "lastDate": "2026-12-19"
   },
@@ -78064,9 +77953,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "10 openings remaining",
+    "openings": "9 openings remaining",
     "availability": "open",
-    "spaces": 10,
+    "spaces": 9,
     "firstDate": "2026-09-08",
     "lastDate": "2026-12-15",
     "prices": [
@@ -78098,9 +77987,8 @@
     "ageMin": 19,
     "ageMax": 99,
     "ageText": "Age at least 19 yrs but less than 99 yrs",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-11-17",
     "lastDate": "2026-11-17",
     "prices": [
@@ -78462,9 +78350,8 @@
     "ageMin": 8,
     "ageMax": 99,
     "ageText": "Age at least 8 yrs but less than 99 yrs",
-    "openings": "8 openings remaining",
-    "availability": "open",
-    "spaces": 8,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-11-17",
     "lastDate": "2026-11-17",
     "prices": [
@@ -78752,9 +78639,9 @@
     "ageMin": 8,
     "ageMax": 99,
     "ageText": "Age at least 8 yrs but less than 99 yrs",
-    "openings": "7 openings remaining",
+    "openings": "2 openings remaining",
     "availability": "open",
-    "spaces": 7,
+    "spaces": 2,
     "firstDate": "2026-11-18",
     "lastDate": "2026-11-18",
     "prices": [
@@ -79940,9 +79827,9 @@
     "ageMin": 13,
     "ageMax": 0,
     "ageText": "13 yrs +",
-    "openings": "25 openings remaining",
+    "openings": "23 openings remaining",
     "availability": "open",
-    "spaces": 25,
+    "spaces": 23,
     "firstDate": "2026-11-19",
     "lastDate": "2026-11-19",
     "prices": [
@@ -80562,9 +80449,9 @@
     "ageMin": 19,
     "ageMax": 99,
     "ageText": "Age at least 19 yrs but less than 99 yrs",
-    "openings": "6 openings remaining",
+    "openings": "4 openings remaining",
     "availability": "open",
-    "spaces": 6,
+    "spaces": 4,
     "firstDate": "2026-11-19",
     "lastDate": "2026-11-19",
     "prices": [
@@ -81364,9 +81251,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "7 openings remaining",
+    "openings": "5 openings remaining",
     "availability": "open",
-    "spaces": 7,
+    "spaces": 5,
     "firstDate": "2026-11-18",
     "lastDate": "2026-11-18"
   },
@@ -82520,9 +82407,8 @@
     "ageMin": 55,
     "ageMax": 0,
     "ageText": "55 yrs +",
-    "openings": "1 opening remaining",
-    "availability": "open",
-    "spaces": 1,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-11-17",
     "lastDate": "2026-11-17"
   },
@@ -82566,9 +82452,9 @@
     "ageMin": 8,
     "ageMax": 99,
     "ageText": "Age at least 8 yrs but less than 99 yrs",
-    "openings": "11 openings remaining",
+    "openings": "7 openings remaining",
     "availability": "open",
-    "spaces": 11,
+    "spaces": 7,
     "firstDate": "2026-11-20",
     "lastDate": "2026-11-20",
     "prices": [
@@ -83240,9 +83126,9 @@
     "ageMin": 19,
     "ageMax": 99,
     "ageText": "Age at least 19 yrs but less than 99 yrs",
-    "openings": "2 openings remaining",
-    "availability": "open",
-    "spaces": 2,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-11-25",
     "lastDate": "2026-11-25"
   },
@@ -83559,6 +83445,72 @@
     "lastDate": "2026-12-18"
   },
   {
+    "id": 641553,
+    "title": "Pickleball - Mixed Levels Play",
+    "calendarId": 15,
+    "centerId": 39,
+    "facilityIds": [
+      636
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/pickleball---mixed-levels-play/641553",
+    "description": "This game is played by 2 or 4 people on a badminton-sized court. No experience necessary, all skill levels and abilities welcome. This is a registered one day session, no drop ins.<br />Registration opens at 12:00pm 3 days in advance of the program dateRegistration is available online, and by phone. We encourage those with access to technology to register online.Registration closes online 15 minutes before program start time. In person and phone in registration will be accepted until the program is full.Registered spaces are non-transferableRefund requests will be accepted until 15 minute before program start time.",
+    "instructors": [],
+    "priceText": "$6.19",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 0,
+    "ageText": "19 yrs +",
+    "openings": "16 openings remaining",
+    "availability": "open",
+    "spaces": 16,
+    "firstDate": "2027-01-03",
+    "lastDate": "2027-01-03"
+  },
+  {
+    "id": 641566,
+    "title": "Badminton",
+    "calendarId": 15,
+    "centerId": 39,
+    "facilityIds": [
+      634
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/badminton/641566",
+    "description": "3 courts available. Please bring your own racquet and shuttles. Register to guarantee a spot. <br />Registration opens at 12:00pm 3 days in advance of the program dateRegistration is available online, and by phone. We encourage those with access to technology to register online.Registration closes online 15 minutes before program start time. In person and phone in registration will be accepted until the program is full.Registered spaces are non-transferableRefund requests will be accepted until 15 minute before program start time.",
+    "instructors": [],
+    "priceText": "$6.19",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 0,
+    "ageText": "19 yrs +",
+    "openings": "28 openings remaining",
+    "availability": "open",
+    "spaces": 28,
+    "firstDate": "2027-01-03",
+    "lastDate": "2027-01-03"
+  },
+  {
+    "id": 641579,
+    "title": "Badminton",
+    "calendarId": 15,
+    "centerId": 39,
+    "facilityIds": [
+      634
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/badminton/641579",
+    "description": "6 courts available. Please bring your own racquet and shuttles. Register to guarantee a spot. Players are expected to rotate during the session.<br />Registration opens at 12:00pm 3 days in advance of the program dateRegistration is available online, and by phone. We encourage those with access to technology to register online.Registration closes online 15 minutes before program start time. In person and phone in registration will be accepted until the program is full.Registered spaces are non-transferableRefund requests will be accepted until 15 minute before program start time.",
+    "instructors": [],
+    "priceText": "$6.19",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 0,
+    "ageText": "19 yrs +",
+    "openings": "28 openings remaining",
+    "availability": "open",
+    "spaces": 28,
+    "firstDate": "2027-01-04",
+    "lastDate": "2027-01-04"
+  },
+  {
     "id": 642010,
     "title": "Drop-in Basketball (13-18 yrs)",
     "calendarId": 43,
@@ -83824,6 +83776,72 @@
         "description": "Leisure Access - CCA: for Customer"
       }
     ]
+  },
+  {
+    "id": 642106,
+    "title": "Basketball - Full Court",
+    "calendarId": 10,
+    "centerId": 39,
+    "facilityIds": [
+      634
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/basketball---full-court/642106",
+    "description": "Playing on our pro-ball size court is a challenge...are you up to it? Fast moving quality play is expected and your stamina, skills and sportsmanship will make it a great night. With a max. of three teams of 6 you will have time to play and catch your breath. To allow for equal play for all participants we have a 2 games on; 1 game off rule. <br />NOTE NEW REGISTRATION PROCESS<br />Registration opens at 12:00pm 3 days in advance of the program dateRegistration is available online, and by phone. We encourage those with access to technology to register online.Registration closes online 15 minutes before program start time. In person and phone in registration will be accepted until the program is full.Registered spaces are non-transferableRefund requests will be accepted until 15 minute before program start time.",
+    "instructors": [],
+    "priceText": "$6.19",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 0,
+    "ageText": "19 yrs +",
+    "openings": "18 openings remaining",
+    "availability": "open",
+    "spaces": 18,
+    "firstDate": "2027-01-05",
+    "lastDate": "2027-01-05"
+  },
+  {
+    "id": 642122,
+    "title": "Volleyball - Intermediate",
+    "calendarId": 15,
+    "centerId": 39,
+    "facilityIds": [
+      634
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/volleyball---intermediate/642122",
+    "description": "Players must be able to maintain strong rallies, serves and understand positioning and team play. This is not an instructional program and there is friendly, recreational competition where players are expected to maintain consistent rallies. <br>Registration opens at 12:00pm 3 days in advance of the program dateRegistration is available online, and by phone. We encourage those with access to technology to register online.Registration closes online 15 minutes before program start time. In person and phone in registration will be accepted until the program is full.Registered spaces are non-transferableRefund requests will be accepted until 15 minute before program start time.",
+    "instructors": [],
+    "priceText": "$6.19",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 0,
+    "ageText": "19 yrs +",
+    "openings": "28 openings remaining",
+    "availability": "open",
+    "spaces": 28,
+    "firstDate": "2027-01-06",
+    "lastDate": "2027-01-06"
+  },
+  {
+    "id": 642150,
+    "title": "Basketball - Half Court",
+    "calendarId": 10,
+    "centerId": 39,
+    "facilityIds": [
+      634
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/basketball---half-court/642150",
+    "description": "Basketball is bigger than ever at the Hillcrest gymnasium. Maximum 24 spots for play.<br />Registration opens at 12:00pm 3 days in advance of the program dateRegistration is available online, and by phone. We encourage those with access to technology to register online.Registration closes online 15 minutes before program start time. In person and phone in registration will be accepted until the program is full.Registered spaces are non-transferableRefund requests will be accepted until 15 minute before program start time.",
+    "instructors": [],
+    "priceText": "$6.19",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 0,
+    "ageText": "19 yrs +",
+    "openings": "24 openings remaining",
+    "availability": "open",
+    "spaces": 24,
+    "firstDate": "2027-01-07",
+    "lastDate": "2027-01-07"
   },
   {
     "id": 642282,
@@ -84234,6 +84252,50 @@
     "spaces": 28,
     "firstDate": "2026-12-12",
     "lastDate": "2026-12-12"
+  },
+  {
+    "id": 642730,
+    "title": "Pickleball - Seniors Mixed Level Play",
+    "calendarId": 15,
+    "centerId": 39,
+    "facilityIds": [
+      636
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/pickleball---seniors-mixed-level-play/642730",
+    "description": "This game is played by 2 or 4 people on a badminton-sized court. No experience necessary, players of various levels play each week. Participants try to match abilities when possible. Please bring your own paddle and ball. 3 courts available. <br />Registration opens at 12:00pm 3 days in advance of the program dateRegistration is available online, and by phone. We encourage those with access to technology to register online.Registration closes online 15 minutes before program start time. In person and phone in registration will be accepted until the program is full.Registered spaces are non-transferableRefund requests will be accepted until 15 minute before program start time.",
+    "instructors": [],
+    "priceText": "$4.05",
+    "free": false,
+    "ageMin": 50,
+    "ageMax": 0,
+    "ageText": "50 yrs +",
+    "openings": "16 openings remaining",
+    "availability": "open",
+    "spaces": 16,
+    "firstDate": "2027-01-04",
+    "lastDate": "2027-01-04"
+  },
+  {
+    "id": 642741,
+    "title": "Pickleball - Seniors Mixed Level Play",
+    "calendarId": 15,
+    "centerId": 39,
+    "facilityIds": [
+      636
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/pickleball---seniors-mixed-level-play/642741",
+    "description": "This game is played by 2 or 4 people on a badminton-sized court. No experience necessary, players of various levels play each week. Participants try to match abilities when possible. Please bring your own paddle and ball. 3 courts available. <br />Registration opens at 12:00pm 3 days in advance of the program dateRegistration is available online, and by phone. We encourage those with access to technology to register online.Registration closes online 15 minutes before program start time. In person and phone in registration will be accepted until the program is full.Registered spaces are non-transferableRefund requests will be accepted until 15 minute before program start time.",
+    "instructors": [],
+    "priceText": "$4.05",
+    "free": false,
+    "ageMin": 50,
+    "ageMax": 0,
+    "ageText": "50 yrs +",
+    "openings": "16 openings remaining",
+    "availability": "open",
+    "spaces": 16,
+    "firstDate": "2027-01-05",
+    "lastDate": "2027-01-05"
   },
   {
     "id": 642826,
@@ -88640,9 +88702,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "2 openings remaining",
-    "availability": "open",
-    "spaces": 2,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-11-28",
     "lastDate": "2026-11-28"
   },
@@ -88726,9 +88788,8 @@
     "ageMin": 13,
     "ageMax": 0,
     "ageText": "13 yrs +",
-    "openings": "15 openings remaining",
-    "availability": "open",
-    "spaces": 15,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-11-17",
     "lastDate": "2026-11-17",
     "prices": [
@@ -89359,9 +89420,8 @@
     "ageMin": 13,
     "ageMax": 0,
     "ageText": "13 yrs +",
-    "openings": "22 openings remaining",
-    "availability": "open",
-    "spaces": 22,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-11-17",
     "lastDate": "2026-11-17"
   },
@@ -89384,9 +89444,9 @@
     "ageMin": 13,
     "ageMax": 0,
     "ageText": "13 yrs +",
-    "openings": "21 openings remaining",
+    "openings": "20 openings remaining",
     "availability": "open",
-    "spaces": 21,
+    "spaces": 20,
     "firstDate": "2026-11-18",
     "lastDate": "2026-11-18"
   },
@@ -89794,9 +89854,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "4 openings remaining",
+    "openings": "2 openings remaining",
     "availability": "open",
-    "spaces": 4,
+    "spaces": 2,
     "firstDate": "2026-11-27",
     "lastDate": "2026-11-27",
     "prices": [
@@ -89830,9 +89890,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "4 openings remaining",
+    "openings": "3 openings remaining",
     "availability": "open",
-    "spaces": 4,
+    "spaces": 3,
     "firstDate": "2026-12-04",
     "lastDate": "2026-12-04",
     "prices": [
@@ -89866,9 +89926,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "3 openings remaining",
+    "openings": "2 openings remaining",
     "availability": "open",
-    "spaces": 3,
+    "spaces": 2,
     "firstDate": "2026-12-11",
     "lastDate": "2026-12-11",
     "prices": [
@@ -89902,9 +89962,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "1 opening remaining",
-    "availability": "open",
-    "spaces": 1,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-12-18",
     "lastDate": "2026-12-18",
     "prices": [
@@ -90272,9 +90332,8 @@
     "ageMin": 13,
     "ageMax": 0,
     "ageText": "13 yrs +",
-    "openings": "14 openings remaining",
-    "availability": "open",
-    "spaces": 14,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-11-17",
     "lastDate": "2026-11-17"
   },
@@ -90296,9 +90355,9 @@
     "ageMin": 13,
     "ageMax": 0,
     "ageText": "13 yrs +",
-    "openings": "14 openings remaining",
+    "openings": "13 openings remaining",
     "availability": "open",
-    "spaces": 14,
+    "spaces": 13,
     "firstDate": "2026-11-18",
     "lastDate": "2026-11-18"
   },
@@ -90320,9 +90379,9 @@
     "ageMin": 55,
     "ageMax": 0,
     "ageText": "55 yrs +",
-    "openings": "18 openings remaining",
+    "openings": "15 openings remaining",
     "availability": "open",
-    "spaces": 18,
+    "spaces": 15,
     "firstDate": "2026-11-20",
     "lastDate": "2026-11-20"
   },
@@ -90543,5 +90602,139 @@
         "description": "Leisure Access Discount: for Customer"
       }
     ]
+  },
+  {
+    "id": 653488,
+    "title": "Pickleball Recreational Play",
+    "calendarId": 15,
+    "centerId": 35,
+    "facilityIds": [
+      307
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/pickleball-recreational-play/653488",
+    "description": "<p>Space Permitting - Drop-in $5</p><p>Pickleball combines elements of badminton, tennis and table tennis. It is a fun and easy to learn sport that will have you coming back for more. Participants must bring their own paddles and balls. Please note that this program is non-instructional. <b>Registration opens at 9:00am, 3 days prior to program date.</b></p><p><i>Just a reminder that registered patrons MUST arrive no later than 15 minutes after the activity start time and sign-in at the front desk, or their spot will be forfeited to a drop-in player.</i></p><p><b>Sport Drop-In Policy</b></p><p>Drop-in patrons can place their names on the waitlist up to 15 minutes prior to the activity start time, in person ONLY and MUST not play until they have paid.</p>",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "$4.50",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 0,
+    "ageText": "19 yrs +",
+    "openings": "12 openings remaining",
+    "availability": "open",
+    "spaces": 12,
+    "firstDate": "2027-01-04",
+    "lastDate": "2027-01-04",
+    "prices": [
+      {
+        "price": "$4.50",
+        "description": "Standard charge"
+      },
+      {
+        "price": "50.00%",
+        "description": "Leisure Access - CCA: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 653499,
+    "title": "Pickleball Recreational Play",
+    "calendarId": 15,
+    "centerId": 35,
+    "facilityIds": [
+      307
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/pickleball-recreational-play/653499",
+    "description": "<p>Space Permitting - Drop-in $5</p><p>Pickleball combines elements of badminton, tennis and table tennis. It is a fun and easy to learn sport that will have you coming back for more. Participants must bring their own paddles and balls. Please note that this program is non-instructional. <b>Registration opens at 9:00am, 3 days prior to program date.</b></p><p><i>Just a reminder that registered patrons MUST arrive no later than 15 minutes after the activity start time and sign-in at the front desk, or their spot will be forfeited to a drop-in player.</i></p><p><b>Sport Drop-In Policy</b></p><p>Drop-in patrons can place their names on the waitlist up to 15 minutes prior to the activity start time, in person ONLY and MUST not play until they have paid.</p>",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "$4.50",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 0,
+    "ageText": "19 yrs +",
+    "openings": "12 openings remaining",
+    "availability": "open",
+    "spaces": 12,
+    "firstDate": "2027-01-08",
+    "lastDate": "2027-01-08",
+    "prices": [
+      {
+        "price": "$4.50",
+        "description": "Standard charge"
+      },
+      {
+        "price": "50.00%",
+        "description": "Leisure Access - CCA: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 653511,
+    "title": "Pickleball Court Rental (Tue)",
+    "calendarId": 15,
+    "centerId": 41,
+    "facilityIds": [
+      608
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/pickleball-court-rental-tue/653511",
+    "description": "Reserve your own pickleball court for your family and friends. There are two courts available to play for 85 minute timeslots. Each registration is a booking for one court. Courts are on a first-come-first-serve basis. <br />Bookings are open 1 week prior on Wednesdays at 9:00am. No refunds allowed. Teaching during court rentals is prohibited.",
+    "instructors": [],
+    "priceText": "$22.38",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 0,
+    "ageText": "19 yrs +",
+    "openings": "1 opening remaining",
+    "availability": "open",
+    "spaces": 1,
+    "firstDate": "2026-11-24",
+    "lastDate": "2026-11-24"
+  },
+  {
+    "id": 653555,
+    "title": "Public Skate",
+    "calendarId": 3,
+    "centerId": 22,
+    "facilityIds": [
+      121
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/public-skate/653555",
+    "description": "Open skate for all ages<br />Children under 8 years MUST be supervised on the ice by an individual 16 years old or over<br />For detailed admission fees, rental fees and discount information, please visit: <a href=\"http://vancouver.ca/parks-recreation-culture/rink-fees-and-passes.aspx\">http://vancouver.ca/parks-recreation-culture/rink-fees-and-passes.aspx</a><br /><i>*Monthly Flexipass and 10-Visit passes are accepted for this program</i>.<br>",
+    "instructors": [],
+    "priceText": "",
+    "free": false,
+    "ageMin": 0,
+    "ageMax": 0,
+    "ageText": "All ages",
+    "openings": "100 openings remaining",
+    "availability": "open",
+    "spaces": 100,
+    "firstDate": "2027-01-09",
+    "lastDate": "2027-03-20"
+  },
+  {
+    "id": 653556,
+    "title": "Public Skate",
+    "calendarId": 3,
+    "centerId": 22,
+    "facilityIds": [
+      121
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/public-skate/653556",
+    "description": "Open skate for all ages<br />Children under 8 years MUST be supervised on the ice by an individual 16 years old or over<br />For detailed admission fees, rental fees and discount information, please visit: <a href=\"http://vancouver.ca/parks-recreation-culture/rink-fees-and-passes.aspx\">http://vancouver.ca/parks-recreation-culture/rink-fees-and-passes.aspx</a><br /><i>*Monthly Flexipass and 10-Visit passes are accepted for this program</i>.<br>",
+    "instructors": [],
+    "priceText": "",
+    "free": false,
+    "ageMin": 0,
+    "ageMax": 0,
+    "ageText": "All ages",
+    "openings": "100 openings remaining",
+    "availability": "open",
+    "spaces": 100,
+    "firstDate": "2027-01-09",
+    "lastDate": "2027-03-20"
   }
 ]
