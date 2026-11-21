@@ -280,6 +280,11 @@
     "centerId": 35
   },
   {
+    "id": 406,
+    "name": "Dance Studio",
+    "centerId": 42
+  },
+  {
     "id": 29,
     "name": "Dance Studio",
     "centerId": 7
@@ -288,11 +293,6 @@
     "id": 653,
     "name": "Dance Studio",
     "centerId": 55
-  },
-  {
-    "id": 406,
-    "name": "Dance Studio",
-    "centerId": 42
   },
   {
     "id": 446,
