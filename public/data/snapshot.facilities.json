@@ -180,6 +180,11 @@
     "centerId": 55
   },
   {
+    "id": 694,
+    "name": "Board Room",
+    "centerId": 32
+  },
+  {
     "id": 478,
     "name": "Board Room",
     "centerId": 44
@@ -650,14 +655,14 @@
     "centerId": 35
   },
   {
-    "id": 546,
-    "name": "Kitchen",
-    "centerId": 43
-  },
-  {
     "id": 701,
     "name": "Kitchen",
     "centerId": 32
+  },
+  {
+    "id": 546,
+    "name": "Kitchen",
+    "centerId": 43
   },
   {
     "id": 526,
@@ -925,11 +930,6 @@
     "centerId": 35
   },
   {
-    "id": 661,
-    "name": "Pottery Studio",
-    "centerId": 55
-  },
-  {
     "id": 157,
     "name": "Pottery Studio",
     "centerId": 7
@@ -947,6 +947,11 @@
   {
     "id": 318,
     "name": "Preschool 1",
+    "centerId": 35
+  },
+  {
+    "id": 320,
+    "name": "Preschool 2",
     "centerId": 35
   },
   {
@@ -1168,11 +1173,6 @@
     "id": 552,
     "name": "Tyee Hall",
     "centerId": 43
-  },
-  {
-    "id": 577,
-    "name": "Unicorn Room",
-    "centerId": 48
   },
   {
     "id": 3358,
