@@ -895,6 +895,11 @@
     "centerId": 49
   },
   {
+    "id": 574,
+    "name": "Oak Room",
+    "centerId": 48
+  },
+  {
     "id": 274,
     "name": "Off Site",
     "centerId": 33
@@ -1173,6 +1178,11 @@
     "id": 552,
     "name": "Tyee Hall",
     "centerId": 43
+  },
+  {
+    "id": 577,
+    "name": "Unicorn Room",
+    "centerId": 48
   },
   {
     "id": 3358,
