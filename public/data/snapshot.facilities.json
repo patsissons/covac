@@ -395,6 +395,11 @@
     "centerId": 42
   },
   {
+    "id": 473,
+    "name": "Games Room",
+    "centerId": 44
+  },
+  {
     "id": 435,
     "name": "Games Room",
     "centerId": 51
@@ -910,9 +915,19 @@
     "centerId": 6
   },
   {
+    "id": 150,
+    "name": "Off Site - King George Field",
+    "centerId": 7
+  },
+  {
     "id": 151,
     "name": "Off Site - King George Gymnasium",
     "centerId": 7
+  },
+  {
+    "id": 3892,
+    "name": "Off Site - Seaside Elementary",
+    "centerId": 6
   },
   {
     "id": 566,
@@ -933,6 +948,11 @@
     "id": 2928,
     "name": "Pool Multipurpose Room - Centre Use",
     "centerId": 35
+  },
+  {
+    "id": 661,
+    "name": "Pottery Studio",
+    "centerId": 55
   },
   {
     "id": 157,
