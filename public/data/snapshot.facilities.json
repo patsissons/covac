@@ -820,6 +820,11 @@
     "centerId": 50
   },
   {
+    "id": 591,
+    "name": "Multi-purpose Room 111",
+    "centerId": 50
+  },
+  {
     "id": 592,
     "name": "Multi-purpose Room 112",
     "centerId": 50
@@ -963,6 +968,11 @@
     "id": 420,
     "name": "Pottery Studio",
     "centerId": 42
+  },
+  {
+    "id": 579,
+    "name": "Pottery Studio 115",
+    "centerId": 50
   },
   {
     "id": 421,
@@ -1132,6 +1142,16 @@
   {
     "id": 3296,
     "name": "Seniors Hall 151",
+    "centerId": 35
+  },
+  {
+    "id": 3303,
+    "name": "Seniors Hall 153",
+    "centerId": 35
+  },
+  {
+    "id": 3304,
+    "name": "Seniors Kitchen",
     "centerId": 35
   },
   {
