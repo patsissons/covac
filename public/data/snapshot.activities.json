@@ -675,9 +675,9 @@
     "ageMin": 40,
     "ageMax": 99,
     "ageText": "Age at least 40 yrs but less than 99 yrs",
-    "openings": "2 openings remaining",
+    "openings": "1 opening remaining",
     "availability": "open",
-    "spaces": 2,
+    "spaces": 1,
     "firstDate": "2026-09-06",
     "lastDate": "2026-12-13",
     "prices": [
@@ -1687,9 +1687,8 @@
     "ageMin": 18,
     "ageMax": 100,
     "ageText": "Age at least 18 yrs but less than 100 yrs",
-    "openings": "11 openings remaining",
-    "availability": "open",
-    "spaces": 11,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-10",
     "lastDate": "2026-11-26",
     "prices": [
@@ -6385,9 +6384,9 @@
     "ageMin": 17,
     "ageMax": 0,
     "ageText": "17 yrs +",
-    "openings": "49 openings remaining",
+    "openings": "46 openings remaining",
     "availability": "open",
-    "spaces": 49,
+    "spaces": 46,
     "firstDate": "2026-12-01",
     "lastDate": "2026-12-29",
     "prices": [
@@ -8293,9 +8292,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-11-26",
     "lastDate": "2026-11-26"
   },
@@ -8719,9 +8717,9 @@
     "ageMin": 4,
     "ageMax": 7,
     "ageText": "Age at least 4 yrs but less than 7 yrs",
-    "openings": "3 openings remaining",
+    "openings": "2 openings remaining",
     "availability": "open",
-    "spaces": 3,
+    "spaces": 2,
     "firstDate": "2026-11-06",
     "lastDate": "2026-12-18",
     "prices": [
@@ -9875,9 +9873,9 @@
     "ageMin": 45,
     "ageMax": 0,
     "ageText": "45 yrs +",
-    "openings": "21 openings remaining",
+    "openings": "20 openings remaining",
     "availability": "open",
-    "spaces": 21,
+    "spaces": 20,
     "firstDate": "2026-09-04",
     "lastDate": "2026-12-18",
     "prices": [
@@ -10487,9 +10485,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "8 openings remaining",
-    "availability": "open",
-    "spaces": 8,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-10-15",
     "lastDate": "2026-11-26",
     "prices": [
@@ -10776,9 +10773,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "2 openings remaining",
+    "openings": "1 opening remaining",
     "availability": "open",
-    "spaces": 2,
+    "spaces": 1,
     "firstDate": "2026-11-27",
     "lastDate": "2026-11-27",
     "prices": [
@@ -10935,9 +10932,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "22 openings remaining",
-    "availability": "open",
-    "spaces": 22,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-11-30",
     "lastDate": "2026-11-30",
     "prices": [
@@ -11031,9 +11028,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "4 openings remaining",
-    "availability": "open",
-    "spaces": 4,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-11-26",
     "lastDate": "2026-11-26",
     "prices": [
@@ -11190,9 +11186,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "42 openings remaining",
+    "openings": "3 openings remaining",
     "availability": "open",
-    "spaces": 42,
+    "spaces": 3,
     "firstDate": "2026-11-30",
     "lastDate": "2026-11-30",
     "prices": [
@@ -11288,9 +11284,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "1 opening remaining",
+    "availability": "open",
+    "spaces": 1,
     "firstDate": "2026-11-04",
     "lastDate": "2026-12-09",
     "prices": [
@@ -11769,9 +11765,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "11 openings remaining",
+    "openings": "6 openings remaining",
     "availability": "open",
-    "spaces": 11,
+    "spaces": 6,
     "firstDate": "2026-11-29",
     "lastDate": "2026-11-29",
     "prices": [
@@ -11967,9 +11963,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "6 openings remaining",
-    "availability": "open",
-    "spaces": 6,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-17",
     "lastDate": "2026-11-26"
   },
@@ -14561,9 +14556,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-11-26",
     "lastDate": "2026-11-26",
     "prices": [
@@ -17565,9 +17559,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "24 openings remaining",
-    "availability": "open",
-    "spaces": 24,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-11-30",
     "lastDate": "2026-11-30",
     "prices": [
@@ -20231,9 +20225,9 @@
     "ageMin": 8,
     "ageMax": 17,
     "ageText": "Age at least 8 yrs but less than 17 yrs",
-    "openings": "25 openings remaining",
+    "openings": "24 openings remaining",
     "availability": "open",
-    "spaces": 25,
+    "spaces": 24,
     "firstDate": "2026-12-01",
     "lastDate": "2026-12-19",
     "prices": [
@@ -21216,11 +21210,11 @@
     "ageMin": 13,
     "ageMax": 18,
     "ageText": "Age at least 13 yrs but less than 18y 11m",
-    "openings": "8 openings remaining",
-    "availability": "open",
-    "spaces": 8,
-    "firstDate": "2026-12-18",
-    "lastDate": "2026-12-18"
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
+    "firstDate": "2026-12-04",
+    "lastDate": "2026-12-04"
   },
   {
     "id": 625586,
@@ -21990,9 +21984,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "2 openings remaining",
-    "availability": "open",
-    "spaces": 2,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-12-02",
     "lastDate": "2026-12-16",
     "prices": [
@@ -22024,9 +22018,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "6 openings remaining",
+    "openings": "7 openings remaining",
     "availability": "open",
-    "spaces": 6,
+    "spaces": 7,
     "firstDate": "2026-12-02",
     "lastDate": "2026-12-16",
     "prices": [
@@ -23433,9 +23427,9 @@
     "ageMin": 55,
     "ageMax": 0,
     "ageText": "55 yrs +",
-    "openings": "27 openings remaining",
+    "openings": "26 openings remaining",
     "availability": "open",
-    "spaces": 27,
+    "spaces": 26,
     "firstDate": "2026-12-01",
     "lastDate": "2026-12-01",
     "prices": [
@@ -24913,48 +24907,6 @@
     ]
   },
   {
-    "id": 626377,
-    "title": "Colour From the Kitchen: Napkins Dyed with Food Scraps",
-    "calendarId": 26,
-    "centerId": 51,
-    "facilityIds": [
-      442
-    ],
-    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/colour-from-the-kitchen-napkins-dyed-with-food-scraps/626377",
-    "description": "In this workshop, we will transform kitchen scraps — carrot tops, onion skins, or avocado pits — into a set of four dyed cotton napkins. Participants will work with 2 natural colours and learn the basics of natural dyeing, turning what would otherwise be discarded into something beautiful. A fun, sustainable activity for all levels. All materials included.",
-    "instructors": [
-      "Fernanda Mascarenhas"
-    ],
-    "priceText": "$65.00",
-    "free": false,
-    "ageMin": 15,
-    "ageMax": 0,
-    "ageText": "15 yrs +",
-    "openings": "12 openings remaining",
-    "availability": "open",
-    "spaces": 12,
-    "firstDate": "2026-11-29",
-    "lastDate": "2026-11-29",
-    "prices": [
-      {
-        "price": "$65.00",
-        "description": "Standard charge"
-      },
-      {
-        "price": "50.00%",
-        "description": "Leisure Access - PB: for Customer"
-      },
-      {
-        "price": "25.00%",
-        "description": "PB Strathcona Recreation 75 Discount - Taxable: for Customer"
-      },
-      {
-        "price": "25.00%",
-        "description": "PB Strathcona Recreation 25 Discount - Taxable: for Customer"
-      }
-    ]
-  },
-  {
     "id": 626389,
     "title": "Wellness Program",
     "calendarId": 47,
@@ -25870,7 +25822,7 @@
     "availability": "open",
     "spaces": 13,
     "firstDate": "2026-09-15",
-    "lastDate": "2026-12-15",
+    "lastDate": "2026-12-22",
     "prices": [
       {
         "price": "$196.00",
@@ -29856,9 +29808,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "2 openings remaining",
+    "openings": "1 opening remaining",
     "availability": "open",
-    "spaces": 2,
+    "spaces": 1,
     "firstDate": "2026-11-29",
     "lastDate": "2026-11-29"
   },
@@ -29965,9 +29917,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "28 openings remaining",
+    "openings": "18 openings remaining",
     "availability": "open",
-    "spaces": 28,
+    "spaces": 18,
     "firstDate": "2026-11-30",
     "lastDate": "2026-11-30"
   },
@@ -33575,9 +33527,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-11-26",
     "lastDate": "2026-11-26"
   },
@@ -33597,9 +33548,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "1 opening remaining",
-    "availability": "open",
-    "spaces": 1,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-12-03",
     "lastDate": "2026-12-03"
   },
@@ -33664,9 +33615,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-11-26",
     "lastDate": "2026-11-26"
   },
@@ -35270,9 +35220,9 @@
     "ageMin": 13,
     "ageMax": 0,
     "ageText": "13 yrs +",
-    "openings": "45 openings remaining",
+    "openings": "44 openings remaining",
     "availability": "open",
-    "spaces": 45,
+    "spaces": 44,
     "firstDate": "2026-11-29",
     "lastDate": "2026-11-29",
     "prices": [
@@ -36305,9 +36255,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "3 openings remaining",
+    "openings": "2 openings remaining",
     "availability": "open",
-    "spaces": 3,
+    "spaces": 2,
     "firstDate": "2026-09-12",
     "lastDate": "2026-12-19",
     "prices": [
@@ -37834,9 +37784,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "35 openings remaining",
+    "openings": "36 openings remaining",
     "availability": "open",
-    "spaces": 35,
+    "spaces": 36,
     "firstDate": "2026-11-03",
     "lastDate": "2026-12-15",
     "prices": [
@@ -40023,9 +39973,9 @@
     "ageMin": 6,
     "ageMax": 12,
     "ageText": "Age at least 6 yrs but less than 12y 11m",
-    "openings": "10 openings remaining",
+    "openings": "9 openings remaining",
     "availability": "open",
-    "spaces": 10,
+    "spaces": 9,
     "firstDate": "2026-12-29",
     "lastDate": "2026-12-31",
     "prices": [
@@ -40323,9 +40273,9 @@
     "ageMin": 2,
     "ageMax": 3,
     "ageText": "Age at least 2 yrs but less than 3y 11m",
-    "openings": "7 openings remaining",
+    "openings": "6 openings remaining",
     "availability": "open",
-    "spaces": 7,
+    "spaces": 6,
     "firstDate": "2026-12-02",
     "lastDate": "2026-12-16",
     "prices": [
@@ -41424,9 +41374,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "13 openings remaining",
-    "availability": "open",
-    "spaces": 13,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-11-26",
     "lastDate": "2026-11-26"
   },
@@ -41870,40 +41819,6 @@
     "prices": [
       {
         "price": "$70.00",
-        "description": "Standard charge"
-      },
-      {
-        "price": "50.00%",
-        "description": "Leisure Access Discount: for Customer"
-      }
-    ]
-  },
-  {
-    "id": 630324,
-    "title": "Art is Fun Christmas",
-    "calendarId": 1,
-    "centerId": 42,
-    "facilityIds": [
-      403
-    ],
-    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/art-is-fun-christmas/630324",
-    "description": "Dashing through the snow and creating special holiday gift crafts! Each session, children will make two fun and festive art projects using a variety of materials and techniques. From clay modelling, painting, collage, abstract art, mixed media, crafting, and more, children will enjoy a creative and exciting holiday experience. Projects can be used as beautiful home decorations or thoughtful handmade gifts for someone special. A fun-filled program full of imagination, creativity, and holiday cheer!This is an independent class for toilet-trained children who are comfortable participating without a parent/caregiver. $28 Drop-in if space available",
-    "instructors": [
-      "Sun Rey Han"
-    ],
-    "priceText": "$75.00",
-    "free": false,
-    "ageMin": 3,
-    "ageMax": 5,
-    "ageText": "Age at least 3 yrs but less than 5y 11m",
-    "openings": "7 openings remaining",
-    "availability": "open",
-    "spaces": 7,
-    "firstDate": "2026-12-01",
-    "lastDate": "2026-12-15",
-    "prices": [
-      {
-        "price": "$75.00",
         "description": "Standard charge"
       },
       {
@@ -44149,9 +44064,9 @@
     "ageMin": 55,
     "ageMax": 99,
     "ageText": "Age at least 55 yrs but less than 99 yrs",
-    "openings": "1 opening remaining",
-    "availability": "open",
-    "spaces": 1,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-12-04",
     "lastDate": "2026-12-04"
   },
@@ -45503,9 +45418,8 @@
     "ageMin": 5,
     "ageMax": 13,
     "ageText": "Age at least 5 yrs but less than 13y 11m",
-    "openings": "6 openings remaining",
-    "availability": "open",
-    "spaces": 6,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-10",
     "lastDate": "2026-11-26",
     "prices": [
@@ -47283,9 +47197,9 @@
     "ageMin": 50,
     "ageMax": 0,
     "ageText": "50 yrs +",
-    "openings": "16 openings remaining",
-    "availability": "open",
-    "spaces": 16,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-11-30",
     "lastDate": "2026-11-30"
   },
@@ -47438,9 +47352,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "11 openings remaining",
+    "openings": "10 openings remaining",
     "availability": "open",
-    "spaces": 11,
+    "spaces": 10,
     "firstDate": "2026-11-06",
     "lastDate": "2026-12-18",
     "prices": [
@@ -49258,9 +49172,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-11-05",
     "lastDate": "2026-11-26",
     "prices": [
@@ -49496,9 +49409,8 @@
     "ageMin": 65,
     "ageMax": 0,
     "ageText": "65 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-11-26",
     "lastDate": "2026-11-26",
     "prices": [
@@ -49530,9 +49442,8 @@
     "ageMin": 65,
     "ageMax": 0,
     "ageText": "65 yrs +",
-    "openings": "1 opening remaining",
-    "availability": "open",
-    "spaces": 1,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-11-26",
     "lastDate": "2026-11-26",
     "prices": [
@@ -49564,9 +49475,8 @@
     "ageMin": 65,
     "ageMax": 0,
     "ageText": "65 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-11-26",
     "lastDate": "2026-11-26",
     "prices": [
@@ -49598,9 +49508,8 @@
     "ageMin": 65,
     "ageMax": 0,
     "ageText": "65 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-11-26",
     "lastDate": "2026-11-26",
     "prices": [
@@ -49632,9 +49541,8 @@
     "ageMin": 65,
     "ageMax": 0,
     "ageText": "65 yrs +",
-    "openings": "1 opening remaining",
-    "availability": "open",
-    "spaces": 1,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-11-26",
     "lastDate": "2026-11-26",
     "prices": [
@@ -49666,9 +49574,8 @@
     "ageMin": 65,
     "ageMax": 0,
     "ageText": "65 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-11-26",
     "lastDate": "2026-11-26",
     "prices": [
@@ -49700,9 +49607,8 @@
     "ageMin": 65,
     "ageMax": 0,
     "ageText": "65 yrs +",
-    "openings": "1 opening remaining",
-    "availability": "open",
-    "spaces": 1,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-11-26",
     "lastDate": "2026-11-26",
     "prices": [
@@ -49734,9 +49640,8 @@
     "ageMin": 65,
     "ageMax": 0,
     "ageText": "65 yrs +",
-    "openings": "1 opening remaining",
-    "availability": "open",
-    "spaces": 1,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-11-26",
     "lastDate": "2026-11-26",
     "prices": [
@@ -49870,9 +49775,9 @@
     "ageMin": 65,
     "ageMax": 0,
     "ageText": "65 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "1 opening remaining",
+    "availability": "open",
+    "spaces": 1,
     "firstDate": "2026-12-10",
     "lastDate": "2026-12-10",
     "prices": [
@@ -51356,9 +51261,9 @@
     "ageMin": 3,
     "ageMax": 5,
     "ageText": "Age at least 3 yrs but less than 5y 11m",
-    "openings": "2 openings remaining",
-    "availability": "open",
-    "spaces": 2,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-12-21",
     "lastDate": "2026-12-24"
   },
@@ -51692,9 +51597,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "26 openings remaining",
+    "openings": "25 openings remaining",
     "availability": "open",
-    "spaces": 26,
+    "spaces": 25,
     "firstDate": "2026-10-28",
     "lastDate": "2026-12-16",
     "prices": [
@@ -51902,9 +51807,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "11 openings remaining",
-    "availability": "open",
-    "spaces": 11,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-10-15",
     "lastDate": "2026-11-26",
     "prices": [
@@ -51974,9 +51878,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "3 openings remaining",
+    "openings": "2 openings remaining",
     "availability": "open",
-    "spaces": 3,
+    "spaces": 2,
     "firstDate": "2026-11-26",
     "lastDate": "2026-12-17",
     "prices": [
@@ -52050,9 +51954,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "15 openings remaining",
+    "openings": "14 openings remaining",
     "availability": "open",
-    "spaces": 15,
+    "spaces": 14,
     "firstDate": "2026-12-12",
     "lastDate": "2026-12-12",
     "prices": [
@@ -53449,9 +53353,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "38 openings remaining",
+    "openings": "37 openings remaining",
     "availability": "open",
-    "spaces": 38,
+    "spaces": 37,
     "firstDate": "2026-12-02",
     "lastDate": "2026-12-16",
     "prices": [
@@ -53838,9 +53742,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "20 openings remaining",
-    "availability": "open",
-    "spaces": 20,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-11-05",
     "lastDate": "2026-11-26",
     "prices": [
@@ -54054,9 +53957,9 @@
     "ageMin": 12,
     "ageMax": 18,
     "ageText": "Age at least 12 yrs but less than 18 yrs",
-    "openings": "1 opening remaining",
-    "availability": "open",
-    "spaces": 1,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-09-08",
     "lastDate": "2026-12-15",
     "prices": [
@@ -54861,9 +54764,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-10-22",
     "lastDate": "2026-11-26",
     "prices": [
@@ -55097,9 +54999,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "9 openings remaining",
+    "openings": "8 openings remaining",
     "availability": "open",
-    "spaces": 9,
+    "spaces": 8,
     "firstDate": "2026-12-02",
     "lastDate": "2026-12-16",
     "prices": [
@@ -55840,9 +55742,9 @@
     "ageMin": 0,
     "ageMax": 0,
     "ageText": "All ages",
-    "openings": "7 openings remaining",
+    "openings": "5 openings remaining",
     "availability": "open",
-    "spaces": 7,
+    "spaces": 5,
     "firstDate": "2026-12-11",
     "lastDate": "2026-12-11",
     "prices": [
@@ -56070,9 +55972,9 @@
     "ageMin": 45,
     "ageMax": 0,
     "ageText": "45 yrs +",
-    "openings": "11 openings remaining",
+    "openings": "10 openings remaining",
     "availability": "open",
-    "spaces": 11,
+    "spaces": 10,
     "firstDate": "2026-12-02",
     "lastDate": "2026-12-23",
     "prices": [
@@ -56887,41 +56789,6 @@
     "spaces": 15,
     "firstDate": "2026-09-10",
     "lastDate": "2026-12-17"
-  },
-  {
-    "id": 632894,
-    "title": "Preteen Brunch Club",
-    "calendarId": 43,
-    "centerId": 43,
-    "facilityIds": [
-      546,
-      544
-    ],
-    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/preteen-brunch-club/632894",
-    "description": "Come spend your Saturdays learning life skills in a fun setting with friends! This program invites participants to practice their meal preparation, cooking and cleaning skills while making breakfast together. <b>No session on </b><b>October 17.</b>",
-    "instructors": [
-      "Youth Leader"
-    ],
-    "priceText": "$124.00",
-    "free": false,
-    "ageMin": 10,
-    "ageMax": 13,
-    "ageText": "Age at least 10 yrs but less than 13y 11m 3w",
-    "openings": "5 openings remaining",
-    "availability": "open",
-    "spaces": 5,
-    "firstDate": "2026-10-03",
-    "lastDate": "2026-11-28",
-    "prices": [
-      {
-        "price": "$124.00",
-        "description": "Standard charge"
-      },
-      {
-        "price": "50.00%",
-        "description": "Leisure Access - CCA: for Customer"
-      }
-    ]
   },
   {
     "id": 632896,
@@ -58137,7 +58004,7 @@
     "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/adult-sewing-studio/633324",
     "description": "Discover the joy of sewing in a welcoming, hands-on learning environment! This beginner-friendly course is perfect for anyone who wants to learn to sew or refresh their skills. You'll learn sewing machine operation, fabric selection, measuring, cutting, garment construction, and professional week. Participants are encouraged to bring their sewing machine, if available, to become comfortable using it a home. Don't have a sewing machine? No problem - a machine will be provided for you during class. The project and supply list will be discussed at the first class.",
     "instructors": [
-      "Dorretha English"
+      "Dorretha English Designs Inc."
     ],
     "priceText": "$165.00",
     "free": false,
@@ -58178,9 +58045,9 @@
     "ageMin": 16,
     "ageMax": 0,
     "ageText": "16 yrs +",
-    "openings": "1 opening remaining",
+    "openings": "2 openings remaining",
     "availability": "open",
-    "spaces": 1,
+    "spaces": 2,
     "firstDate": "2026-11-05",
     "lastDate": "2026-12-17",
     "prices": [
@@ -59651,7 +59518,7 @@
     "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/indoor-soccer/633795",
     "description": "An introduction to the game of soccer, and individual skill development, for both new and experienced players ages 4 to 12 years. All sessions are run by an experienced professional coach, Mohsen Hatamian, with an emphasis on fun, fitness, ball mastery skills, and teamwork. No session Oct 13.",
     "instructors": [
-      "Mohsen* Hatamian"
+      "Mohsen Hatamian"
     ],
     "priceText": "$169.00",
     "free": false,
@@ -59685,7 +59552,7 @@
     "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/indoor-soccer/633796",
     "description": "An introduction to the game of soccer, and individual skill development, for both new and experienced players ages 4 to 12 years. All sessions are run by an experienced professional coach, Mohsen Hatamian, with an emphasis on fun, fitness, ball mastery skills, and teamwork. No session Oct 13.",
     "instructors": [
-      "Mohsen* Hatamian"
+      "Mohsen Hatamian"
     ],
     "priceText": "$195.00",
     "free": false,
@@ -59719,7 +59586,7 @@
     "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/indoor-soccer/633797",
     "description": "An introduction to the game of soccer, and individual skill development, for both new and experienced players ages 4 to 12 years. All sessions are run by an experienced professional coach, Mohsen Hatamian, with an emphasis on fun, fitness, ball mastery skills, and teamwork. No session Oct 13.",
     "instructors": [
-      "Mohsen* Hatamian"
+      "Mohsen Hatamian"
     ],
     "priceText": "$195.00",
     "free": false,
@@ -59753,7 +59620,7 @@
     "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/indoor-soccer/633798",
     "description": "An introduction to the game of soccer, and individual skill development, for both new and experienced players ages 4 to 12 years. All sessions are run by an experienced professional coach, Mohsen Hatamian, with an emphasis on fun, fitness, ball mastery skills, and teamwork. No session Oct 3, 10, 17, 31.",
     "instructors": [
-      "Mohsen* Hatamian"
+      "Mohsen Hatamian"
     ],
     "priceText": "$130.00",
     "free": false,
@@ -59787,7 +59654,7 @@
     "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/indoor-soccer/633799",
     "description": "An introduction to the game of soccer, and individual skill development, for both new and experienced players ages 4 to 12 years. All sessions are run by an experienced professional coach, Mohsen Hatamian, with an emphasis on fun, fitness, ball mastery skills, and teamwork. No session Oct 3, 10, 17, 31",
     "instructors": [
-      "Mohsen* Hatamian"
+      "Mohsen Hatamian"
     ],
     "priceText": "$150.00",
     "free": false,
@@ -59821,7 +59688,7 @@
     "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/indoor-soccer/633800",
     "description": "An introduction to the game of soccer, and individual skill development, for both new and experienced players ages 4 to 12 years. All sessions are run by an experienced professional coach, Mohsen Hatamian, with an emphasis on fun, fitness, ball mastery skills, and teamwork. No session Oct 3, 10, 17, 31",
     "instructors": [
-      "Mohsen* Hatamian"
+      "Mohsen Hatamian"
     ],
     "priceText": "$150.00",
     "free": false,
@@ -61224,9 +61091,9 @@
     "ageMin": 13,
     "ageMax": 0,
     "ageText": "13 yrs +",
-    "openings": "15 openings remaining",
+    "openings": "8 openings remaining",
     "availability": "open",
-    "spaces": 15,
+    "spaces": 8,
     "firstDate": "2026-11-27",
     "lastDate": "2026-11-27",
     "prices": [
@@ -61496,9 +61363,9 @@
     "ageMin": 13,
     "ageMax": 0,
     "ageText": "13 yrs +",
-    "openings": "18 openings remaining",
+    "openings": "17 openings remaining",
     "availability": "open",
-    "spaces": 18,
+    "spaces": 17,
     "firstDate": "2026-11-30",
     "lastDate": "2026-11-30",
     "prices": [
@@ -61794,9 +61661,9 @@
     "ageMin": 11,
     "ageMax": 14,
     "ageText": "Age at least 11 yrs but less than 14y 11m 4w",
-    "openings": "2 openings remaining",
+    "openings": "1 opening remaining",
     "availability": "open",
-    "spaces": 2,
+    "spaces": 1,
     "firstDate": "2026-11-06",
     "lastDate": "2026-12-18",
     "prices": [
@@ -62094,9 +61961,9 @@
     "ageMin": 40,
     "ageMax": 0,
     "ageText": "40 yrs +",
-    "openings": "16 openings remaining",
+    "openings": "15 openings remaining",
     "availability": "open",
-    "spaces": 16,
+    "spaces": 15,
     "firstDate": "2026-12-04",
     "lastDate": "2026-12-11",
     "prices": [
@@ -63902,9 +63769,9 @@
     "ageMin": 19,
     "ageMax": 99,
     "ageText": "Age at least 19 yrs but less than 99 yrs",
-    "openings": "22 openings remaining",
+    "openings": "21 openings remaining",
     "availability": "open",
-    "spaces": 22,
+    "spaces": 21,
     "firstDate": "2026-11-30",
     "lastDate": "2026-11-30",
     "prices": [
@@ -64033,7 +63900,7 @@
     "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/holiday-wreath-workshop/635022",
     "description": "Participants create a festive holiday wreath using seasonal greenery, ribbon, ornaments, and decorative embellishments. This workshops encourages creativity while producing a beautiful handmade decoration suitable for home decor or gifting.",
     "instructors": [
-      "Dorretha English"
+      "Dorretha English Designs Inc."
     ],
     "priceText": "$85.00",
     "free": false,
@@ -64067,7 +63934,7 @@
     "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/holiday-gift-bag-workshop/635023",
     "description": "Children learn beginner sewing skills while creating reusable fabric gift bags, drawstring gift sacks, and matching gift tags. The workshop introduces measuring, sewing machine safety, fabric handling, simple construction techniques.",
     "instructors": [
-      "Dorretha English"
+      "Dorretha English Designs Inc."
     ],
     "priceText": "$45.00",
     "free": false,
@@ -64101,7 +63968,7 @@
     "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/sew-a-holiday-stocking-workshop/635024",
     "description": "Participants sew a fully lined holiday stocking and personalize it with applique, decorative trims, embroidery, or embellishments. Suitable for beginners through experienced sewists.",
     "instructors": [
-      "Dorretha English"
+      "Dorretha English Designs Inc."
     ],
     "priceText": "$75.00",
     "free": false,
@@ -65277,9 +65144,8 @@
     "ageMin": 19,
     "ageMax": 99,
     "ageText": "Age at least 19 yrs but less than 99 yrs",
-    "openings": "12 openings remaining",
-    "availability": "open",
-    "spaces": 12,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-11-26",
     "lastDate": "2026-11-26",
     "prices": [
@@ -65461,9 +65327,8 @@
     "ageMin": 8,
     "ageMax": 99,
     "ageText": "Age at least 8 yrs but less than 99 yrs",
-    "openings": "16 openings remaining",
-    "availability": "open",
-    "spaces": 16,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-11-26",
     "lastDate": "2026-11-26",
     "prices": [
@@ -65914,9 +65779,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "20 openings remaining",
-    "availability": "open",
-    "spaces": 20,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-11-30",
     "lastDate": "2026-11-30",
     "prices": [
@@ -66698,9 +66563,9 @@
     "ageMin": 6,
     "ageMax": 12,
     "ageText": "Age at least 6 yrs but less than 12y 11m 3w",
-    "openings": "3 openings remaining",
+    "openings": "2 openings remaining",
     "availability": "open",
-    "spaces": 3,
+    "spaces": 2,
     "firstDate": "2026-12-21",
     "lastDate": "2026-12-24",
     "prices": [
@@ -66936,9 +66801,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-11-26",
     "lastDate": "2026-11-26",
     "prices": [
@@ -67198,9 +67062,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-11-26",
     "lastDate": "2026-11-26"
   },
@@ -67294,9 +67157,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "8 openings remaining",
+    "openings": "1 opening remaining",
     "availability": "open",
-    "spaces": 8,
+    "spaces": 1,
     "firstDate": "2026-11-27",
     "lastDate": "2026-11-27",
     "prices": [
@@ -67669,9 +67532,9 @@
     "ageMin": 40,
     "ageMax": 99,
     "ageText": "Age at least 40 yrs but less than 99 yrs",
-    "openings": "20 openings remaining",
+    "openings": "12 openings remaining",
     "availability": "open",
-    "spaces": 20,
+    "spaces": 12,
     "firstDate": "2026-11-30",
     "lastDate": "2026-11-30",
     "prices": [
@@ -67947,9 +67810,9 @@
     "ageMin": 19,
     "ageMax": 99,
     "ageText": "Age at least 19 yrs but less than 99 yrs",
-    "openings": "20 openings remaining",
+    "openings": "19 openings remaining",
     "availability": "open",
-    "spaces": 20,
+    "spaces": 19,
     "firstDate": "2026-11-30",
     "lastDate": "2026-11-30",
     "prices": [
@@ -68703,9 +68566,8 @@
     "ageMin": 19,
     "ageMax": 99,
     "ageText": "Age at least 19 yrs but less than 99 yrs",
-    "openings": "9 openings remaining",
-    "availability": "open",
-    "spaces": 9,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-11-26",
     "lastDate": "2026-11-26",
     "prices": [
@@ -68887,9 +68749,9 @@
     "ageMin": 19,
     "ageMax": 99,
     "ageText": "Age at least 19 yrs but less than 99 yrs",
-    "openings": "18 openings remaining",
+    "openings": "6 openings remaining",
     "availability": "open",
-    "spaces": 18,
+    "spaces": 6,
     "firstDate": "2026-11-27",
     "lastDate": "2026-11-27",
     "prices": [
@@ -69365,9 +69227,8 @@
     "ageMin": 13,
     "ageMax": 0,
     "ageText": "13 yrs +",
-    "openings": "9 openings remaining",
-    "availability": "open",
-    "spaces": 9,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-11-26",
     "lastDate": "2026-11-26",
     "prices": [
@@ -70504,9 +70365,9 @@
     "ageMin": 19,
     "ageMax": 99,
     "ageText": "Age at least 19 yrs but less than 99 yrs",
-    "openings": "15 openings remaining",
+    "openings": "11 openings remaining",
     "availability": "open",
-    "spaces": 15,
+    "spaces": 11,
     "firstDate": "2026-11-30",
     "lastDate": "2026-11-30",
     "prices": [
@@ -70686,9 +70547,9 @@
     "ageMin": 13,
     "ageMax": 0,
     "ageText": "13 yrs +",
-    "openings": "9 openings remaining",
+    "openings": "8 openings remaining",
     "availability": "open",
-    "spaces": 9,
+    "spaces": 8,
     "firstDate": "2026-11-28",
     "lastDate": "2026-11-28",
     "prices": [
@@ -71168,7 +71029,6 @@
     "calendarId": 43,
     "centerId": 43,
     "facilityIds": [
-      546,
       544
     ],
     "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/false-creek-youth-volunteers/636102",
@@ -71210,31 +71070,6 @@
     "spaces": 0,
     "firstDate": "2026-10-02",
     "lastDate": "2026-12-11"
-  },
-  {
-    "id": 636104,
-    "title": "Youth Volunteer: Craft Birthdays",
-    "calendarId": 43,
-    "centerId": 43,
-    "facilityIds": [
-      546,
-      544
-    ],
-    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/youth-volunteer-craft-birthdays/636104",
-    "description": "Come join this leadership team to give back to our False Creek neighborhood while connecting with new people and gaining skills such as notetaking, budgeting, public speaking, etc. Participants will have the opportunity to practice their skills through planning activities for other youth, implementing their own community projects, assisting with special events and taking part in workshops. This is a great way to achieve volunteer hours and/or work experience! Volunteers will be provided with an hour log and are responsible for tracking their own hours volunteered. *<b>NO SESSION MAY 16*</b><br />*Please note: participants who do not show up for the first two sessions without providing notice will be automatically removed from the program to make space for others*",
-    "instructors": [
-      "Youth Leader"
-    ],
-    "priceText": "Free",
-    "free": true,
-    "ageMin": 13,
-    "ageMax": 18,
-    "ageText": "Age at least 13 yrs but less than 18 yrs",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
-    "firstDate": "2026-09-12",
-    "lastDate": "2026-12-05"
   },
   {
     "id": 636107,
@@ -71372,9 +71207,9 @@
     "ageMin": 13,
     "ageMax": 0,
     "ageText": "13 yrs +",
-    "openings": "15 openings remaining",
+    "openings": "14 openings remaining",
     "availability": "open",
-    "spaces": 15,
+    "spaces": 14,
     "firstDate": "2026-11-30",
     "lastDate": "2026-11-30",
     "prices": [
@@ -71933,9 +71768,9 @@
     "ageMin": 13,
     "ageMax": 0,
     "ageText": "13 yrs +",
-    "openings": "11 openings remaining",
+    "openings": "1 opening remaining",
     "availability": "open",
-    "spaces": 11,
+    "spaces": 1,
     "firstDate": "2026-11-27",
     "lastDate": "2026-11-27",
     "prices": [
@@ -72157,9 +71992,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "5 openings remaining",
+    "openings": "4 openings remaining",
     "availability": "open",
-    "spaces": 5,
+    "spaces": 4,
     "firstDate": "2026-11-29",
     "lastDate": "2026-11-29"
   },
@@ -72376,9 +72211,9 @@
     "ageMin": 12,
     "ageMax": 18,
     "ageText": "Age at least 12 yrs but less than 18y 11m 4w",
-    "openings": "20 openings remaining",
+    "openings": "1 opening remaining",
     "availability": "open",
-    "spaces": 20,
+    "spaces": 1,
     "firstDate": "2026-11-28",
     "lastDate": "2026-11-28"
   },
@@ -72448,9 +72283,9 @@
     "ageMin": 12,
     "ageMax": 18,
     "ageText": "Age at least 12 yrs but less than 18y 11m 4w",
-    "openings": "48 openings remaining",
+    "openings": "38 openings remaining",
     "availability": "open",
-    "spaces": 48,
+    "spaces": 38,
     "firstDate": "2026-11-28",
     "lastDate": "2026-11-28"
   },
@@ -72544,9 +72379,9 @@
     "ageMin": 12,
     "ageMax": 18,
     "ageText": "Age at least 12 yrs but less than 18y 11m 4w",
-    "openings": "20 openings remaining",
+    "openings": "5 openings remaining",
     "availability": "open",
-    "spaces": 20,
+    "spaces": 5,
     "firstDate": "2026-11-27",
     "lastDate": "2026-11-27"
   },
@@ -72640,9 +72475,9 @@
     "ageMin": 12,
     "ageMax": 18,
     "ageText": "Age at least 12 yrs but less than 18y 11m 4w",
-    "openings": "19 openings remaining",
-    "availability": "open",
-    "spaces": 19,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-11-27",
     "lastDate": "2026-11-27"
   },
@@ -74773,9 +74608,9 @@
     "ageMin": 55,
     "ageMax": 0,
     "ageText": "55 yrs +",
-    "openings": "19 openings remaining",
+    "openings": "18 openings remaining",
     "availability": "open",
-    "spaces": 19,
+    "spaces": 18,
     "firstDate": "2026-12-07",
     "lastDate": "2026-12-07"
   },
@@ -76878,15 +76713,15 @@
   },
   {
     "id": 639501,
-    "title": "Badminton Court Rental (Mon)",
+    "title": "Holiday Badminton Court Rental (Mon)",
     "calendarId": 15,
     "centerId": 41,
     "facilityIds": [
       607,
       608
     ],
-    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/badminton-court-rental-mon/639501",
-    "description": "Reserve your own badminton court for your family and friends. There are four courts available to play for 85 minute timeslots. Each registration is a booking for one court. Courts are on a first-come-first-serve basis.<br />Bookings are open 1 week prior on Wednesdays at 9:00am. No refunds allowed. Teaching during court rentals is prohibited.",
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/holiday-badminton-court-rental-mon/639501",
+    "description": "Reserve your own badminton court for your family and friends. There are four courts available to play for 85 minute timeslots. Each registration is a booking for one court. Courts are on a first-come-first-serve basis.<br />No refunds allowed. Teaching during court rentals is prohibited.",
     "instructors": [],
     "priceText": "$22.38",
     "free": false,
@@ -76901,15 +76736,15 @@
   },
   {
     "id": 639502,
-    "title": "Badminton Court Rental (Tue)",
+    "title": "Holiday Badminton Court Rental (Tue)",
     "calendarId": 15,
     "centerId": 41,
     "facilityIds": [
       607,
       608
     ],
-    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/badminton-court-rental-tue/639502",
-    "description": "Reserve your own badminton court for your family and friends. There are four courts available to play for 85 minute timeslots. Each registration is a booking for one court. Courts are on a first-come-first-serve basis.<br />Bookings are open 1 week prior on Wednesdays at 9:00am. No refunds allowed. Teaching during court rentals is prohibited.",
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/holiday-badminton-court-rental-tue/639502",
+    "description": "Reserve your own badminton court for your family and friends. There are four courts available to play for 85 minute timeslots. Each registration is a booking for one court. Courts are on a first-come-first-serve basis.<br />No refunds allowed. Teaching during court rentals is prohibited.",
     "instructors": [],
     "priceText": "$22.38",
     "free": false,
@@ -76924,15 +76759,15 @@
   },
   {
     "id": 639503,
-    "title": "Badminton Court Rental (Wed)",
+    "title": "Holiday Badminton Court Rental (Wed)",
     "calendarId": 15,
     "centerId": 41,
     "facilityIds": [
       607,
       608
     ],
-    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/badminton-court-rental-wed/639503",
-    "description": "Reserve your own badminton court for your family and friends. There are four courts available to play for 85 minute timeslots. Each registration is a booking for one court. Courts are on a first-come-first-serve basis.<br />Bookings are open 1 week prior on Wednesdays at 9:00am. No refunds allowed. Teaching during court rentals is prohibited.",
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/holiday-badminton-court-rental-wed/639503",
+    "description": "Reserve your own badminton court for your family and friends. There are four courts available to play for 85 minute timeslots. Each registration is a booking for one court. Courts are on a first-come-first-serve basis.<br />No refunds allowed. Teaching during court rentals is prohibited.",
     "instructors": [],
     "priceText": "$22.38",
     "free": false,
@@ -76947,15 +76782,15 @@
   },
   {
     "id": 639504,
-    "title": "Badminton Court Rental (Thu)",
+    "title": "Holiday Pickleball",
     "calendarId": 15,
     "centerId": 41,
     "facilityIds": [
       607,
       608
     ],
-    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/badminton-court-rental-thu/639504",
-    "description": "Reserve your own badminton court for your family and friends. There are four courts available to play for 85 minute timeslots. Each registration is a booking for one court. Courts are on a first-come-first-serve basis.<br />Bookings are open 1 week prior on Wednesdays at 9:00am. No refunds allowed. Teaching during court rentals is prohibited.",
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/holiday-pickleball/639504",
+    "description": "Reserve your own badminton court for your family and friends. There are four courts available to play for 85 minute timeslots. Each registration is a booking for one court. Courts are on a first-come-first-serve basis.<br /> No refunds allowed. Teaching during court rentals is prohibited.",
     "instructors": [],
     "priceText": "$22.38",
     "free": false,
@@ -77581,9 +77416,8 @@
     "ageMin": 19,
     "ageMax": 99,
     "ageText": "Age at least 19 yrs but less than 99 yrs",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-11-26",
     "lastDate": "2026-11-26",
     "prices": [
@@ -77765,9 +77599,8 @@
     "ageMin": 19,
     "ageMax": 99,
     "ageText": "Age at least 19 yrs but less than 99 yrs",
-    "openings": "1 opening remaining",
-    "availability": "open",
-    "spaces": 1,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-11-26",
     "lastDate": "2026-11-26"
   },
@@ -77854,7 +77687,7 @@
     "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/adult-sewing-studio/639984",
     "description": "Discover the joy of sewing in a welcoming, hands-on learning environment! This beginner-friendly course is perfect for anyone who wants to learn to sew or refresh their skills. You'll learn sewing machine operation, fabric selection, measuring, cutting, garment construction, and professional week. Participants are encouraged to bring their sewing machine, if available, to become comfortable using it a home. Don't have a sewing machine? No problem - a machine will be provided for you during class. The project and supply list will be discussed at the first class.",
     "instructors": [
-      "Dorretha English"
+      "Dorretha English Designs Inc."
     ],
     "priceText": "$165.00",
     "free": false,
@@ -81292,9 +81125,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "6 openings remaining",
+    "openings": "4 openings remaining",
     "availability": "open",
-    "spaces": 6,
+    "spaces": 4,
     "firstDate": "2026-11-27",
     "lastDate": "2026-11-27"
   },
@@ -81379,9 +81212,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "9 openings remaining",
+    "openings": "7 openings remaining",
     "availability": "open",
-    "spaces": 9,
+    "spaces": 7,
     "firstDate": "2026-11-29",
     "lastDate": "2026-11-29"
   },
@@ -84247,7 +84080,7 @@
     "instructors": [
       "Monica Lee"
     ],
-    "priceText": "$200.00",
+    "priceText": "$180.00",
     "free": false,
     "ageMin": 5,
     "ageMax": 7,
@@ -84259,7 +84092,7 @@
     "lastDate": "2027-03-11",
     "prices": [
       {
-        "price": "$200.00",
+        "price": "$180.00",
         "description": "Standard charge"
       },
       {
@@ -84832,9 +84665,9 @@
     "ageMin": 8,
     "ageMax": 99,
     "ageText": "Age at least 8 yrs but less than 99 yrs",
-    "openings": "3 openings remaining",
-    "availability": "open",
-    "spaces": 3,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-11-27",
     "lastDate": "2026-11-27",
     "prices": [
@@ -85160,9 +84993,9 @@
     "ageMin": 8,
     "ageMax": 99,
     "ageText": "Age at least 8 yrs but less than 99 yrs",
-    "openings": "18 openings remaining",
+    "openings": "17 openings remaining",
     "availability": "open",
-    "spaces": 18,
+    "spaces": 17,
     "firstDate": "2026-11-27",
     "lastDate": "2026-11-27"
   },
@@ -85941,9 +85774,8 @@
     "ageMin": 19,
     "ageMax": 99,
     "ageText": "Age at least 19 yrs but less than 99 yrs",
-    "openings": "2 openings remaining",
-    "availability": "open",
-    "spaces": 2,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-11-26",
     "lastDate": "2026-11-26"
   },
@@ -86061,9 +85893,9 @@
     "ageMin": 19,
     "ageMax": 99,
     "ageText": "Age at least 19 yrs but less than 99 yrs",
-    "openings": "2 openings remaining",
-    "availability": "open",
-    "spaces": 2,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-12-04",
     "lastDate": "2026-12-04"
   },
@@ -93964,9 +93796,9 @@
     "ageMin": 13,
     "ageMax": 0,
     "ageText": "13 yrs +",
-    "openings": "3 openings remaining",
+    "openings": "1 opening remaining",
     "availability": "open",
-    "spaces": 3,
+    "spaces": 1,
     "firstDate": "2026-11-28",
     "lastDate": "2026-11-28"
   },
@@ -100799,7 +100631,7 @@
     "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/adult-sewing-studio/643646",
     "description": "Discover the joy of sewing in a welcoming, hands-on learning environment! This beginner-friendly course is perfect for anyone who wants to learn to sew or refresh their skills. You'll learn sewing machine operation, fabric selection, measuring, cutting, garment construction, and professional week. Participants are encouraged to bring their sewing machine, if available, to become comfortable using it a home. Don't have a sewing machine? No problem - a machine will be provided for you during class. The project and supply list will be discussed at the first class.",
     "instructors": [
-      "Dorretha English"
+      "Dorretha English Designs Inc."
     ],
     "priceText": "$165.00",
     "free": false,
@@ -102446,7 +102278,7 @@
     "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/machine-sewing---beginner-8-12yrs/643863",
     "description": "Learn the basics of machine sewing in a small class designed for beginners. Children will safely practice using a sewing machine, explore simple stitches, and complete a creative take-home project. Perfect for building confidence and hands-on skills. Supplies will be discussed at the first class.",
     "instructors": [
-      "Dorretha English"
+      "Dorretha English Designs Inc."
     ],
     "priceText": "$180.00",
     "free": false,
@@ -102528,7 +102360,7 @@
     "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/adult-sewing-studio/643866",
     "description": "Discover the joy of sewing in a welcoming, hands-on learning environment! This beginner-friendly course is perfect for anyone who wants to learn to sew or refresh their skills. You'll learn sewing machine operation, fabric selection, measuring, cutting, garment construction, and professional week. Participants are encouraged to bring their sewing machine, if available, to become comfortable using it a home. Don't have a sewing machine? No problem - a machine will be provided for you during class. The project and supply list will be discussed at the first class.",
     "instructors": [
-      "Dorretha English"
+      "Dorretha English Designs Inc."
     ],
     "priceText": "$220.95",
     "free": false,
@@ -102664,7 +102496,7 @@
     "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/adult-sewing-studio/643960",
     "description": "Discover the joy of sewing in a welcoming, hands-on learning environment! This beginner-friendly course is perfect for anyone who wants to learn to sew or refresh their skills. You'll learn sewing machine operation, fabric selection, measuring, cutting, garment construction, and professional week. Participants are encouraged to bring their sewing machine, if available, to become comfortable using it a home. Don't have a sewing machine? No problem - a machine will be provided for you during class. The project and supply list will be discussed at the first class.",
     "instructors": [
-      "Dorretha English"
+      "Dorretha English Designs Inc."
     ],
     "priceText": "$220.95",
     "free": false,
@@ -113445,6 +113277,40 @@
     ]
   },
   {
+    "id": 646692,
+    "title": "Adapted Fitness",
+    "calendarId": 16,
+    "centerId": 33,
+    "facilityIds": [
+      264
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/adapted-fitness/646692",
+    "description": "<p>A gentle exercise class for older adults with mobility or strength limitations, including those using walking aids. Focus on strength, posture, flexibility, and balance with chair-based or standing exercises. Drop-in: Adults $12.50/Seniors $9.50, space permitting.</p>",
+    "instructors": [
+      "Zohreh Omrani Taleghani"
+    ],
+    "priceText": "from $48.09",
+    "free": false,
+    "ageMin": 55,
+    "ageMax": 0,
+    "ageText": "55 yrs +",
+    "openings": "15 openings remaining",
+    "availability": "open",
+    "spaces": 15,
+    "firstDate": "2027-01-05",
+    "lastDate": "2027-02-09",
+    "prices": [
+      {
+        "price": "$72.38",
+        "description": "Adult Fee (19-64 yrs) for 19 up to 64 years old"
+      },
+      {
+        "price": "$48.09",
+        "description": "Senior Rate (65yrs+) for 65 up to 120 years old"
+      }
+    ]
+  },
+  {
     "id": 646694,
     "title": "Adapted Fitness",
     "calendarId": 16,
@@ -121001,7 +120867,7 @@
     "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/adult-sewing-studio/649341",
     "description": "Discover the joy of sewing in a welcoming, hands-on learning environment! This beginner-friendly course is perfect for anyone who wants to learn to sew or refresh their skills. You'll learn sewing machine operation, fabric selection, measuring, cutting, garment construction, and professional week. Participants are encouraged to bring their sewing machine, if available, to become comfortable using it a home. Don't have a sewing machine? No problem - a machine will be provided for you during class. The project and supply list will be discussed at the first class.",
     "instructors": [
-      "Dorretha English"
+      "Dorretha English Designs Inc."
     ],
     "priceText": "$220.95",
     "free": false,
@@ -121035,7 +120901,7 @@
     "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/adult-sewing-studio/649344",
     "description": "Discover the joy of sewing in a welcoming, hands-on learning environment! This beginner-friendly course is perfect for anyone who wants to learn to sew or refresh their skills. You'll learn sewing machine operation, fabric selection, measuring, cutting, garment construction, and professional week. Participants are encouraged to bring their sewing machine, if available, to become comfortable using it a home. Don't have a sewing machine? No problem - a machine will be provided for you during class. The project and supply list will be discussed at the first class.",
     "instructors": [
-      "Dorretha English"
+      "Dorretha English Designs Inc."
     ],
     "priceText": "$220.95",
     "free": false,
@@ -121069,7 +120935,7 @@
     "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/machine-sewing---beginner-8-12yrs/649346",
     "description": "Learn the basics of machine sewing in a small class designed for beginners. Children will safely practice using a sewing machine, explore simple stitches, and complete a creative take-home project. Perfect for building confidence and hands-on skills. Supplies will be discussed at the first class.",
     "instructors": [
-      "Dorretha English"
+      "Dorretha English Designs Inc."
     ],
     "priceText": "$180.00",
     "free": false,
@@ -128392,9 +128258,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "10 openings remaining",
-    "availability": "open",
-    "spaces": 10,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-11-26",
     "lastDate": "2026-11-26",
     "prices": [
@@ -128724,9 +128589,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "3 openings remaining",
+    "openings": "1 opening remaining",
     "availability": "open",
-    "spaces": 3,
+    "spaces": 1,
     "firstDate": "2026-12-16",
     "lastDate": "2026-12-16"
   },
@@ -129381,9 +129246,9 @@
     "ageMin": 13,
     "ageMax": 0,
     "ageText": "13 yrs +",
-    "openings": "30 openings remaining",
+    "openings": "29 openings remaining",
     "availability": "open",
-    "spaces": 30,
+    "spaces": 29,
     "firstDate": "2026-11-30",
     "lastDate": "2026-11-30"
   },
@@ -134103,5 +133968,139 @@
     "spaces": 18,
     "firstDate": "2026-12-22",
     "lastDate": "2026-12-22"
+  },
+  {
+    "id": 654528,
+    "title": "Pickleball - Beginner Play - Set One",
+    "calendarId": 15,
+    "centerId": 44,
+    "facilityIds": [
+      470
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/pickleball---beginner-play---set-one/654528",
+    "description": "Get active on the court with Pickleball. This sport combines elements of badminton, tennis and table tennis. It is a fun and easy to learn sport which will have you coming back for more! No guaranteed drop-ins. Drop-in is $4, space permitting.<br />PLEASE NOTE: Spots will be held for registered participants for the first 10 minutes; after this time, spots will be sold to drop-in players. In the event that you are unable to attend any particular session your registered spot is non-transferable.",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "$21.00",
+    "free": false,
+    "ageMin": 60,
+    "ageMax": 0,
+    "ageText": "60 yrs +",
+    "openings": "23 openings remaining",
+    "availability": "open",
+    "spaces": 23,
+    "firstDate": "2027-01-04",
+    "lastDate": "2027-02-08",
+    "prices": [
+      {
+        "price": "$21.00",
+        "description": "Standard charge"
+      },
+      {
+        "price": "50.00%",
+        "description": "Leisure Access – CCA: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 654530,
+    "title": "Pickleball - Intermediate Play - Set One",
+    "calendarId": 15,
+    "centerId": 44,
+    "facilityIds": [
+      470
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/pickleball---intermediate-play---set-one/654530",
+    "description": "Get active on the court with Pickleball. This sport combines elements of badminton, tennis and table tennis. It is a fun and easy to learn sport which will have you coming back for more! Maximum of 24 players. Please, check the Sunday and Monday option for Beginner Play. Drop-in is $4, space permitting. <br>PLEASE NOTE: Spots will be held for registered participants for the first 10 minutes; after this time, spots will be sold to drop-in players. In the event that you are unable to attend any particular session your registered spot is non-transferable.<br />",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "$21.00",
+    "free": false,
+    "ageMin": 60,
+    "ageMax": 0,
+    "ageText": "60 yrs +",
+    "openings": "24 openings remaining",
+    "availability": "open",
+    "spaces": 24,
+    "firstDate": "2027-01-04",
+    "lastDate": "2027-02-08",
+    "prices": [
+      {
+        "price": "$21.00",
+        "description": "Standard charge"
+      },
+      {
+        "price": "50.00%",
+        "description": "Leisure Access – CCA: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 654549,
+    "title": "Pickleball 19+",
+    "calendarId": 15,
+    "centerId": 58,
+    "facilityIds": [
+      671
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/pickleball-19/654549",
+    "description": "Get active playing this exciting and popular sport. Pickleball is an easy to learn game played on a badminton court with a lowered net, a whiffle ball and large hand held paddles. It is great for all skills and ability levels. Drop-in $4.29 + tax (space permitting). <br /><b>Drop-In Procedures</b>: First priority is for those who are registered. Registered participants have up to 5 minutes after the program start time to show up and check-in at the front desk. All no-show spots will be sold at that time to drop-ins. At 9:30am the day of the program, you may call 604.713.1818 ext.1 to put your name and ONE other person’s name on the drop-in list. If there are any open spots, 5 minutes after the program start time, staff will announce the names from the drop-in waitlist.",
+    "instructors": [],
+    "priceText": "$3.57",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 0,
+    "ageText": "19 yrs +",
+    "openings": "10 openings remaining",
+    "availability": "open",
+    "spaces": 10,
+    "firstDate": "2026-12-14",
+    "lastDate": "2026-12-14",
+    "prices": [
+      {
+        "price": "$3.57",
+        "description": "Standard charge"
+      },
+      {
+        "price": "50.00%",
+        "description": "Leisure Access Discount: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 654630,
+    "title": "Kids Act!! (7-12yrs)",
+    "calendarId": 22,
+    "centerId": 7,
+    "facilityIds": [
+      25
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/kids-act-7-12yrs/654630",
+    "description": "<p>Great introduction to the art of theatre! Kids learn the basics of Acting and Public Speaking. Lots of individual attention while nurturing group co-operation skills. Class culminates in a performance for family and friends. This class is taught by a national leader in theatre for young people.</p>",
+    "instructors": [
+      "Leslee Silverman"
+    ],
+    "priceText": "$100.00",
+    "free": false,
+    "ageMin": 7,
+    "ageMax": 12,
+    "ageText": "Age at least 7 yrs but less than 12y 11m",
+    "openings": "10 openings remaining",
+    "availability": "open",
+    "spaces": 10,
+    "firstDate": "2027-01-05",
+    "lastDate": "2027-03-09",
+    "prices": [
+      {
+        "price": "$100.00",
+        "description": "Standard charge"
+      },
+      {
+        "price": "50.00%",
+        "description": "Leisure Access Discount: for Customer"
+      }
+    ]
   }
 ]
