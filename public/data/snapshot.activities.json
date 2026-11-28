@@ -6018,9 +6018,9 @@
     "ageMin": 13,
     "ageMax": 18,
     "ageText": "Age at least 13 yrs but less than 18y 11m",
-    "openings": "47 openings remaining",
+    "openings": "38 openings remaining",
     "availability": "open",
-    "spaces": 47,
+    "spaces": 38,
     "firstDate": "2026-12-18",
     "lastDate": "2026-12-18"
   },
@@ -6042,9 +6042,9 @@
     "ageMin": 13,
     "ageMax": 18,
     "ageText": "Age at least 13 yrs but less than 18y 11m",
-    "openings": "8 openings remaining",
+    "openings": "6 openings remaining",
     "availability": "open",
-    "spaces": 8,
+    "spaces": 6,
     "firstDate": "2026-09-11",
     "lastDate": "2026-12-11"
   },
@@ -7031,9 +7031,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "8 openings remaining",
-    "availability": "open",
-    "spaces": 8,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-11",
     "lastDate": "2026-11-27",
     "prices": [
@@ -10773,9 +10772,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "1 opening remaining",
-    "availability": "open",
-    "spaces": 1,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-11-27",
     "lastDate": "2026-11-27",
     "prices": [
@@ -11186,9 +11184,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "3 openings remaining",
-    "availability": "open",
-    "spaces": 3,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-11-30",
     "lastDate": "2026-11-30",
     "prices": [
@@ -11443,9 +11441,9 @@
     "ageMin": 55,
     "ageMax": 0,
     "ageText": "55 yrs +",
-    "openings": "4 openings remaining",
+    "openings": "1 opening remaining",
     "availability": "open",
-    "spaces": 4,
+    "spaces": 1,
     "firstDate": "2026-11-28",
     "lastDate": "2026-11-28",
     "prices": [
@@ -11765,9 +11763,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "6 openings remaining",
+    "openings": "4 openings remaining",
     "availability": "open",
-    "spaces": 6,
+    "spaces": 4,
     "firstDate": "2026-11-29",
     "lastDate": "2026-11-29",
     "prices": [
@@ -11987,9 +11985,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "7 openings remaining",
+    "openings": "6 openings remaining",
     "availability": "open",
-    "spaces": 7,
+    "spaces": 6,
     "firstDate": "2026-12-03",
     "lastDate": "2026-12-03",
     "prices": [
@@ -16045,9 +16043,9 @@
     "ageMin": 5,
     "ageMax": 8,
     "ageText": "Age at least 5 yrs but less than 8y 11m 3w",
-    "openings": "13 openings remaining",
+    "openings": "12 openings remaining",
     "availability": "open",
-    "spaces": 13,
+    "spaces": 12,
     "firstDate": "2026-12-21",
     "lastDate": "2026-12-24",
     "prices": [
@@ -16434,9 +16432,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "6 openings remaining",
+    "openings": "4 openings remaining",
     "availability": "open",
-    "spaces": 6,
+    "spaces": 4,
     "firstDate": "2026-11-28",
     "lastDate": "2026-12-19",
     "prices": [
@@ -17695,9 +17693,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-11-27",
     "lastDate": "2026-11-27",
     "prices": [
@@ -23124,9 +23121,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "7 openings remaining",
+    "openings": "6 openings remaining",
     "availability": "open",
-    "spaces": 7,
+    "spaces": 6,
     "firstDate": "2026-12-10",
     "lastDate": "2026-12-10",
     "prices": [
@@ -23556,9 +23553,9 @@
     "ageMin": 15,
     "ageMax": 0,
     "ageText": "15 yrs +",
-    "openings": "7 openings remaining",
+    "openings": "8 openings remaining",
     "availability": "open",
-    "spaces": 7,
+    "spaces": 8,
     "firstDate": "2026-11-21",
     "lastDate": "2026-12-19",
     "prices": [
@@ -23624,9 +23621,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "14 openings remaining",
-    "availability": "open",
-    "spaces": 14,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-11-06",
     "lastDate": "2026-11-27",
     "prices": [
@@ -24304,9 +24300,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "7 openings remaining",
-    "availability": "open",
-    "spaces": 7,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-04",
     "lastDate": "2026-11-27",
     "prices": [
@@ -25048,9 +25043,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "9 openings remaining",
+    "openings": "8 openings remaining",
     "availability": "open",
-    "spaces": 9,
+    "spaces": 8,
     "firstDate": "2026-11-03",
     "lastDate": "2026-12-15",
     "prices": [
@@ -25090,9 +25085,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "7 openings remaining",
+    "openings": "6 openings remaining",
     "availability": "open",
-    "spaces": 7,
+    "spaces": 6,
     "firstDate": "2026-11-07",
     "lastDate": "2026-12-19",
     "prices": [
@@ -25216,9 +25211,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "7 openings remaining",
-    "availability": "open",
-    "spaces": 7,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-11",
     "lastDate": "2026-11-27",
     "prices": [
@@ -27044,9 +27038,8 @@
     "ageMin": 9,
     "ageMax": 12,
     "ageText": "Age at least 9 yrs but less than 12y 11m",
-    "openings": "4 openings remaining",
-    "availability": "open",
-    "spaces": 4,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-25",
     "lastDate": "2026-11-27",
     "prices": [
@@ -27111,9 +27104,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "12 openings remaining",
-    "availability": "open",
-    "spaces": 12,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-25",
     "lastDate": "2026-11-27",
     "prices": [
@@ -27611,9 +27603,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "5 openings remaining",
-    "availability": "open",
-    "spaces": 5,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-11",
     "lastDate": "2026-11-27",
     "prices": [
@@ -27645,9 +27636,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "2 openings remaining",
-    "availability": "open",
-    "spaces": 2,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-11",
     "lastDate": "2026-11-27",
     "prices": [
@@ -29808,9 +29798,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "1 opening remaining",
-    "availability": "open",
-    "spaces": 1,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-11-29",
     "lastDate": "2026-11-29"
   },
@@ -29917,9 +29907,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "18 openings remaining",
+    "openings": "15 openings remaining",
     "availability": "open",
-    "spaces": 18,
+    "spaces": 15,
     "firstDate": "2026-11-30",
     "lastDate": "2026-11-30"
   },
@@ -32009,9 +31999,8 @@
     "ageMin": 5,
     "ageMax": 21,
     "ageText": "Age at least 5 yrs but less than 21y 11m 3w",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-18",
     "lastDate": "2026-11-27",
     "prices": [
@@ -32043,9 +32032,8 @@
     "ageMin": 5,
     "ageMax": 21,
     "ageText": "Age at least 5 yrs but less than 21y 11m 3w",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-18",
     "lastDate": "2026-11-27",
     "prices": [
@@ -32077,9 +32065,8 @@
     "ageMin": 5,
     "ageMax": 21,
     "ageText": "Age at least 5 yrs but less than 21y 11m 3w",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-18",
     "lastDate": "2026-11-27",
     "prices": [
@@ -32111,9 +32098,8 @@
     "ageMin": 5,
     "ageMax": 21,
     "ageText": "Age at least 5 yrs but less than 21y 11m 3w",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-18",
     "lastDate": "2026-11-27",
     "prices": [
@@ -32145,9 +32131,8 @@
     "ageMin": 5,
     "ageMax": 21,
     "ageText": "Age at least 5 yrs but less than 21y 11m 3w",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-18",
     "lastDate": "2026-11-27",
     "prices": [
@@ -32179,9 +32164,8 @@
     "ageMin": 5,
     "ageMax": 21,
     "ageText": "Age at least 5 yrs but less than 21y 11m 3w",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-18",
     "lastDate": "2026-11-27",
     "prices": [
@@ -32213,9 +32197,8 @@
     "ageMin": 5,
     "ageMax": 21,
     "ageText": "Age at least 5 yrs but less than 21y 11m 3w",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-18",
     "lastDate": "2026-11-27",
     "prices": [
@@ -32247,9 +32230,8 @@
     "ageMin": 5,
     "ageMax": 21,
     "ageText": "Age at least 5 yrs but less than 21y 11m 3w",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-18",
     "lastDate": "2026-11-27",
     "prices": [
@@ -32281,9 +32263,8 @@
     "ageMin": 5,
     "ageMax": 21,
     "ageText": "Age at least 5 yrs but less than 21y 11m 3w",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-18",
     "lastDate": "2026-11-27",
     "prices": [
@@ -33702,9 +33683,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-11-27",
     "lastDate": "2026-11-27"
   },
@@ -33790,9 +33770,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-11-27",
     "lastDate": "2026-11-27"
   },
@@ -33878,9 +33857,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-11-27",
     "lastDate": "2026-11-27"
   },
@@ -33967,9 +33945,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "3 openings remaining",
-    "availability": "open",
-    "spaces": 3,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-11-27",
     "lastDate": "2026-11-27"
   },
@@ -35220,9 +35197,9 @@
     "ageMin": 13,
     "ageMax": 0,
     "ageText": "13 yrs +",
-    "openings": "44 openings remaining",
+    "openings": "43 openings remaining",
     "availability": "open",
-    "spaces": 44,
+    "spaces": 43,
     "firstDate": "2026-11-29",
     "lastDate": "2026-11-29",
     "prices": [
@@ -36125,9 +36102,9 @@
     "ageMin": 13,
     "ageMax": 0,
     "ageText": "13 yrs +",
-    "openings": "11 openings remaining",
+    "openings": "10 openings remaining",
     "availability": "open",
-    "spaces": 11,
+    "spaces": 10,
     "firstDate": "2026-12-20",
     "lastDate": "2026-12-20",
     "prices": [
@@ -36255,9 +36232,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "2 openings remaining",
+    "openings": "1 opening remaining",
     "availability": "open",
-    "spaces": 2,
+    "spaces": 1,
     "firstDate": "2026-09-12",
     "lastDate": "2026-12-19",
     "prices": [
@@ -38387,9 +38364,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "13 openings remaining",
+    "openings": "9 openings remaining",
     "availability": "open",
-    "spaces": 13,
+    "spaces": 9,
     "firstDate": "2026-11-02",
     "lastDate": "2026-12-14",
     "prices": [
@@ -38421,9 +38398,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "12 openings remaining",
+    "openings": "11 openings remaining",
     "availability": "open",
-    "spaces": 12,
+    "spaces": 11,
     "firstDate": "2026-11-13",
     "lastDate": "2026-12-18",
     "prices": [
@@ -39684,9 +39661,8 @@
     "ageMin": 55,
     "ageMax": 0,
     "ageText": "55 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-11",
     "lastDate": "2026-11-27"
   },
@@ -39708,9 +39684,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "5 openings remaining",
-    "availability": "open",
-    "spaces": 5,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-10-23",
     "lastDate": "2026-11-27",
     "prices": [
@@ -40239,9 +40214,8 @@
     "ageMin": 4,
     "ageMax": 6,
     "ageText": "Age at least 4 yrs but less than 6y 11m",
-    "openings": "7 openings remaining",
-    "availability": "open",
-    "spaces": 7,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-11-02",
     "lastDate": "2026-11-27",
     "prices": [
@@ -40589,9 +40563,8 @@
     "ageMin": 6,
     "ageMax": 13,
     "ageText": "Age at least 6 yrs but less than 13y 11m",
-    "openings": "3 openings remaining",
-    "availability": "open",
-    "spaces": 3,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-11-03",
     "lastDate": "2026-11-27",
     "prices": [
@@ -40623,9 +40596,9 @@
     "ageMin": 6,
     "ageMax": 13,
     "ageText": "Age at least 6 yrs but less than 13y 11m",
-    "openings": "8 openings remaining",
+    "openings": "7 openings remaining",
     "availability": "open",
-    "spaces": 8,
+    "spaces": 7,
     "firstDate": "2026-12-01",
     "lastDate": "2026-12-18",
     "prices": [
@@ -40662,9 +40635,8 @@
     "ageMin": 6,
     "ageMax": 18,
     "ageText": "Age at least 6 yrs but less than 18y 11m 4w",
-    "openings": "2 openings remaining",
-    "availability": "open",
-    "spaces": 2,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-18",
     "lastDate": "2026-11-27"
   },
@@ -40686,9 +40658,8 @@
     "ageMin": 14,
     "ageMax": 0,
     "ageText": "14 yrs +",
-    "openings": "3 openings remaining",
-    "availability": "open",
-    "spaces": 3,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-11-03",
     "lastDate": "2026-11-27",
     "prices": [
@@ -41537,9 +41508,8 @@
     "ageMin": 7,
     "ageMax": 12,
     "ageText": "Age at least 7 yrs but less than 12y 11m 4w",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-09-25",
     "lastDate": "2026-11-27"
   },
@@ -41913,9 +41883,8 @@
     "ageMin": 4,
     "ageMax": 6,
     "ageText": "Age at least 4 yrs but less than 6y 11m",
-    "openings": "1 opening remaining",
-    "availability": "open",
-    "spaces": 1,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-11-02",
     "lastDate": "2026-11-27",
     "prices": [
@@ -41947,9 +41916,8 @@
     "ageMin": 7,
     "ageMax": 9,
     "ageText": "Age at least 7 yrs but less than 9y 11m",
-    "openings": "5 openings remaining",
-    "availability": "open",
-    "spaces": 5,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-11-02",
     "lastDate": "2026-11-27",
     "prices": [
@@ -42015,9 +41983,8 @@
     "ageMin": 10,
     "ageMax": 18,
     "ageText": "Age at least 10 yrs but less than 18y 11m",
-    "openings": "8 openings remaining",
-    "availability": "open",
-    "spaces": 8,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-11-02",
     "lastDate": "2026-11-27",
     "prices": [
@@ -42083,9 +42050,8 @@
     "ageMin": 10,
     "ageMax": 18,
     "ageText": "Age at least 10 yrs but less than 18y 11m",
-    "openings": "23 openings remaining",
-    "availability": "open",
-    "spaces": 23,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-11-02",
     "lastDate": "2026-11-27",
     "prices": [
@@ -43506,9 +43472,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "9 openings remaining",
+    "openings": "8 openings remaining",
     "availability": "open",
-    "spaces": 9,
+    "spaces": 8,
     "firstDate": "2026-11-30",
     "lastDate": "2026-11-30",
     "prices": [
@@ -44040,9 +44006,8 @@
     "ageMin": 55,
     "ageMax": 99,
     "ageText": "Age at least 55 yrs but less than 99 yrs",
-    "openings": "1 opening remaining",
-    "availability": "open",
-    "spaces": 1,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-11-27",
     "lastDate": "2026-11-27"
   },
@@ -49962,37 +49927,6 @@
     ]
   },
   {
-    "id": 631705,
-    "title": "Teen Games Lounge Birthday Party (10+ yrs)",
-    "calendarId": 43,
-    "centerId": 50,
-    "facilityIds": [
-      580
-    ],
-    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/teen-games-lounge-birthday-party-10-yrs/631705",
-    "description": "Host your teen's birthday party in our youth Games Lounge! Package includes exclusive use of Dunbar Games Lounge from 1:00-3:00pm and access to kitchen. Games Lounge includes a pool table, foosball, a ping pong table, darts board, video game consoles, space to lounge and eat, board games and stereo system along with a youth volunteer to help setup gaming equipment. Max 15 youth. One week cancellation notice is required for refund ($10 cancellation fee will be charged). To book a party contact (604) 222-6060.",
-    "instructors": [
-      "Non Instructional",
-      "Wendy Gong"
-    ],
-    "priceText": "$100.00",
-    "free": false,
-    "ageMin": 10,
-    "ageMax": 18,
-    "ageText": "Age at least 10 yrs but less than 18y 11m 5w",
-    "openings": "1 opening remaining",
-    "availability": "open",
-    "spaces": 1,
-    "firstDate": "2026-12-19",
-    "lastDate": "2026-12-19",
-    "prices": [
-      {
-        "price": "$100.00",
-        "description": "Teen Birthday Party: for Customer"
-      }
-    ]
-  },
-  {
     "id": 631750,
     "title": "Group Fitness - TBC & Stretch",
     "calendarId": 56,
@@ -52519,9 +52453,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "1 opening remaining",
-    "availability": "open",
-    "spaces": 1,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-11-06",
     "lastDate": "2026-11-27",
     "prices": [
@@ -52675,9 +52608,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-11-27",
     "lastDate": "2026-11-27"
   },
@@ -53817,9 +53749,8 @@
     "ageMin": 40,
     "ageMax": 0,
     "ageText": "40 yrs +",
-    "openings": "12 openings remaining",
-    "availability": "open",
-    "spaces": 12,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-11-06",
     "lastDate": "2026-11-27",
     "prices": [
@@ -55672,9 +55603,8 @@
     "ageMin": 0,
     "ageMax": 0,
     "ageText": "All ages",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-11-27",
     "lastDate": "2026-11-27",
     "prices": [
@@ -56983,9 +56913,9 @@
     "ageMin": 18,
     "ageMax": 0,
     "ageText": "18 yrs +",
-    "openings": "6 openings remaining",
+    "openings": "5 openings remaining",
     "availability": "open",
-    "spaces": 6,
+    "spaces": 5,
     "firstDate": "2026-12-04",
     "lastDate": "2026-12-04",
     "prices": [
@@ -58011,9 +57941,9 @@
     "ageMin": 16,
     "ageMax": 99,
     "ageText": "Age at least 16 yrs but less than 99y 11m 4w",
-    "openings": "1 opening remaining",
-    "availability": "open",
-    "spaces": 1,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-11-02",
     "lastDate": "2026-12-07",
     "prices": [
@@ -60358,9 +60288,9 @@
     "ageMin": 7,
     "ageMax": 13,
     "ageText": "Age at least 7 yrs but less than 13 yrs",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "2 openings remaining",
+    "availability": "open",
+    "spaces": 2,
     "firstDate": "2026-11-18",
     "lastDate": "2026-12-16",
     "prices": [
@@ -60788,9 +60718,9 @@
     "ageMin": 13,
     "ageMax": 0,
     "ageText": "13 yrs +",
-    "openings": "18 openings remaining",
+    "openings": "17 openings remaining",
     "availability": "open",
-    "spaces": 18,
+    "spaces": 17,
     "firstDate": "2026-12-01",
     "lastDate": "2026-12-01",
     "prices": [
@@ -61091,9 +61021,8 @@
     "ageMin": 13,
     "ageMax": 0,
     "ageText": "13 yrs +",
-    "openings": "8 openings remaining",
-    "availability": "open",
-    "spaces": 8,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-11-27",
     "lastDate": "2026-11-27",
     "prices": [
@@ -62339,9 +62268,9 @@
     "ageMin": 5,
     "ageMax": 10,
     "ageText": "Age at least 5 yrs but less than 10y 11m 3w",
-    "openings": "12 openings remaining",
+    "openings": "11 openings remaining",
     "availability": "open",
-    "spaces": 12,
+    "spaces": 11,
     "firstDate": "2026-12-29",
     "lastDate": "2026-12-31",
     "prices": [
@@ -62611,9 +62540,9 @@
     "ageMin": 5,
     "ageMax": 8,
     "ageText": "Age at least 5 yrs but less than 8y 11m 3w",
-    "openings": "6 openings remaining",
+    "openings": "5 openings remaining",
     "availability": "open",
-    "spaces": 6,
+    "spaces": 5,
     "firstDate": "2026-12-29",
     "lastDate": "2026-12-31",
     "prices": [
@@ -63769,9 +63698,9 @@
     "ageMin": 19,
     "ageMax": 99,
     "ageText": "Age at least 19 yrs but less than 99 yrs",
-    "openings": "21 openings remaining",
+    "openings": "17 openings remaining",
     "availability": "open",
-    "spaces": 21,
+    "spaces": 17,
     "firstDate": "2026-11-30",
     "lastDate": "2026-11-30",
     "prices": [
@@ -64208,9 +64137,9 @@
     "ageMin": 19,
     "ageMax": 99,
     "ageText": "Age at least 19 yrs but less than 99 yrs",
-    "openings": "20 openings remaining",
+    "openings": "10 openings remaining",
     "availability": "open",
-    "spaces": 20,
+    "spaces": 10,
     "firstDate": "2026-12-01",
     "lastDate": "2026-12-01"
   },
@@ -64938,9 +64867,8 @@
     "ageMin": 19,
     "ageMax": 99,
     "ageText": "Age at least 19 yrs but less than 99 yrs",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-11-27",
     "lastDate": "2026-11-27"
   },
@@ -67157,9 +67085,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "1 opening remaining",
-    "availability": "open",
-    "spaces": 1,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-11-27",
     "lastDate": "2026-11-27",
     "prices": [
@@ -67532,9 +67459,9 @@
     "ageMin": 40,
     "ageMax": 99,
     "ageText": "Age at least 40 yrs but less than 99 yrs",
-    "openings": "12 openings remaining",
+    "openings": "7 openings remaining",
     "availability": "open",
-    "spaces": 12,
+    "spaces": 7,
     "firstDate": "2026-11-30",
     "lastDate": "2026-11-30",
     "prices": [
@@ -67810,9 +67737,9 @@
     "ageMin": 19,
     "ageMax": 99,
     "ageText": "Age at least 19 yrs but less than 99 yrs",
-    "openings": "19 openings remaining",
+    "openings": "18 openings remaining",
     "availability": "open",
-    "spaces": 19,
+    "spaces": 18,
     "firstDate": "2026-11-30",
     "lastDate": "2026-11-30",
     "prices": [
@@ -68749,9 +68676,8 @@
     "ageMin": 19,
     "ageMax": 99,
     "ageText": "Age at least 19 yrs but less than 99 yrs",
-    "openings": "6 openings remaining",
-    "availability": "open",
-    "spaces": 6,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-11-27",
     "lastDate": "2026-11-27",
     "prices": [
@@ -68933,9 +68859,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "11 openings remaining",
+    "openings": "10 openings remaining",
     "availability": "open",
-    "spaces": 11,
+    "spaces": 10,
     "firstDate": "2026-11-01",
     "lastDate": "2026-12-13",
     "prices": [
@@ -69038,9 +68964,9 @@
     "ageMin": 13,
     "ageMax": 0,
     "ageText": "13 yrs +",
-    "openings": "12 openings remaining",
+    "openings": "11 openings remaining",
     "availability": "open",
-    "spaces": 12,
+    "spaces": 11,
     "firstDate": "2026-11-30",
     "lastDate": "2026-11-30",
     "prices": [
@@ -69340,9 +69266,9 @@
     "ageMin": 13,
     "ageMax": 0,
     "ageText": "13 yrs +",
-    "openings": "11 openings remaining",
+    "openings": "5 openings remaining",
     "availability": "open",
-    "spaces": 11,
+    "spaces": 5,
     "firstDate": "2026-11-28",
     "lastDate": "2026-11-28",
     "prices": [
@@ -70365,9 +70291,9 @@
     "ageMin": 19,
     "ageMax": 99,
     "ageText": "Age at least 19 yrs but less than 99 yrs",
-    "openings": "11 openings remaining",
+    "openings": "9 openings remaining",
     "availability": "open",
-    "spaces": 11,
+    "spaces": 9,
     "firstDate": "2026-11-30",
     "lastDate": "2026-11-30",
     "prices": [
@@ -70547,9 +70473,9 @@
     "ageMin": 13,
     "ageMax": 0,
     "ageText": "13 yrs +",
-    "openings": "8 openings remaining",
+    "openings": "5 openings remaining",
     "availability": "open",
-    "spaces": 8,
+    "spaces": 5,
     "firstDate": "2026-11-28",
     "lastDate": "2026-11-28",
     "prices": [
@@ -71207,9 +71133,9 @@
     "ageMin": 13,
     "ageMax": 0,
     "ageText": "13 yrs +",
-    "openings": "14 openings remaining",
+    "openings": "9 openings remaining",
     "availability": "open",
-    "spaces": 14,
+    "spaces": 9,
     "firstDate": "2026-11-30",
     "lastDate": "2026-11-30",
     "prices": [
@@ -71768,9 +71694,8 @@
     "ageMin": 13,
     "ageMax": 0,
     "ageText": "13 yrs +",
-    "openings": "1 opening remaining",
-    "availability": "open",
-    "spaces": 1,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-11-27",
     "lastDate": "2026-11-27",
     "prices": [
@@ -72211,9 +72136,9 @@
     "ageMin": 12,
     "ageMax": 18,
     "ageText": "Age at least 12 yrs but less than 18y 11m 4w",
-    "openings": "1 opening remaining",
-    "availability": "open",
-    "spaces": 1,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-11-28",
     "lastDate": "2026-11-28"
   },
@@ -72283,9 +72208,9 @@
     "ageMin": 12,
     "ageMax": 18,
     "ageText": "Age at least 12 yrs but less than 18y 11m 4w",
-    "openings": "38 openings remaining",
+    "openings": "3 openings remaining",
     "availability": "open",
-    "spaces": 38,
+    "spaces": 3,
     "firstDate": "2026-11-28",
     "lastDate": "2026-11-28"
   },
@@ -72379,9 +72304,8 @@
     "ageMin": 12,
     "ageMax": 18,
     "ageText": "Age at least 12 yrs but less than 18y 11m 4w",
-    "openings": "5 openings remaining",
-    "availability": "open",
-    "spaces": 5,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-11-27",
     "lastDate": "2026-11-27"
   },
@@ -72475,9 +72399,8 @@
     "ageMin": 12,
     "ageMax": 18,
     "ageText": "Age at least 12 yrs but less than 18y 11m 4w",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-11-27",
     "lastDate": "2026-11-27"
   },
@@ -72812,9 +72735,9 @@
     "ageMin": 19,
     "ageMax": 99,
     "ageText": "Age at least 19 yrs but less than 99 yrs",
-    "openings": "2 openings remaining",
-    "availability": "open",
-    "spaces": 2,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-12-02",
     "lastDate": "2026-12-02"
   },
@@ -72994,9 +72917,8 @@
     "ageMin": 19,
     "ageMax": 99,
     "ageText": "Age at least 19 yrs but less than 99 yrs",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-11-27",
     "lastDate": "2026-11-27"
   },
@@ -73258,9 +73180,9 @@
     "ageMin": 19,
     "ageMax": 99,
     "ageText": "Age at least 19 yrs but less than 99 yrs",
-    "openings": "22 openings remaining",
+    "openings": "19 openings remaining",
     "availability": "open",
-    "spaces": 22,
+    "spaces": 19,
     "firstDate": "2026-12-01",
     "lastDate": "2026-12-01",
     "prices": [
@@ -74608,9 +74530,9 @@
     "ageMin": 55,
     "ageMax": 0,
     "ageText": "55 yrs +",
-    "openings": "18 openings remaining",
+    "openings": "16 openings remaining",
     "availability": "open",
-    "spaces": 18,
+    "spaces": 16,
     "firstDate": "2026-12-07",
     "lastDate": "2026-12-07"
   },
@@ -76728,9 +76650,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "4 openings remaining",
+    "openings": "3 openings remaining",
     "availability": "open",
-    "spaces": 4,
+    "spaces": 3,
     "firstDate": "2026-12-21",
     "lastDate": "2026-12-21"
   },
@@ -76751,9 +76673,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "4 openings remaining",
-    "availability": "open",
-    "spaces": 4,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-12-22",
     "lastDate": "2026-12-22"
   },
@@ -76797,9 +76719,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "4 openings remaining",
+    "openings": "2 openings remaining",
     "availability": "open",
-    "spaces": 4,
+    "spaces": 2,
     "firstDate": "2026-12-24",
     "lastDate": "2026-12-24"
   },
@@ -77750,9 +77672,9 @@
     "ageMin": 55,
     "ageMax": 0,
     "ageText": "55 yrs +",
-    "openings": "19 openings remaining",
+    "openings": "3 openings remaining",
     "availability": "open",
-    "spaces": 19,
+    "spaces": 3,
     "firstDate": "2027-01-06",
     "lastDate": "2027-02-24",
     "prices": [
@@ -77784,9 +77706,9 @@
     "ageMin": 55,
     "ageMax": 0,
     "ageText": "55 yrs +",
-    "openings": "19 openings remaining",
+    "openings": "5 openings remaining",
     "availability": "open",
-    "spaces": 19,
+    "spaces": 5,
     "firstDate": "2027-01-08",
     "lastDate": "2027-02-26",
     "prices": [
@@ -77818,9 +77740,9 @@
     "ageMin": 55,
     "ageMax": 0,
     "ageText": "55 yrs +",
-    "openings": "20 openings remaining",
+    "openings": "11 openings remaining",
     "availability": "open",
-    "spaces": 20,
+    "spaces": 11,
     "firstDate": "2027-01-04",
     "lastDate": "2027-02-22",
     "prices": [
@@ -77920,9 +77842,9 @@
     "ageMin": 16,
     "ageMax": 0,
     "ageText": "16 yrs +",
-    "openings": "30 openings remaining",
+    "openings": "10 openings remaining",
     "availability": "open",
-    "spaces": 30,
+    "spaces": 10,
     "firstDate": "2027-01-12",
     "lastDate": "2027-02-23",
     "prices": [
@@ -78877,9 +78799,9 @@
     "ageMin": 55,
     "ageMax": 0,
     "ageText": "55 yrs +",
-    "openings": "20 openings remaining",
+    "openings": "18 openings remaining",
     "availability": "open",
-    "spaces": 20,
+    "spaces": 18,
     "firstDate": "2027-01-05",
     "lastDate": "2027-02-23",
     "prices": [
@@ -78911,9 +78833,9 @@
     "ageMin": 16,
     "ageMax": 0,
     "ageText": "16 yrs +",
-    "openings": "16 openings remaining",
-    "availability": "open",
-    "spaces": 16,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2027-01-12",
     "lastDate": "2027-04-20",
     "prices": [
@@ -78945,9 +78867,9 @@
     "ageMin": 16,
     "ageMax": 0,
     "ageText": "16 yrs +",
-    "openings": "16 openings remaining",
+    "openings": "3 openings remaining",
     "availability": "open",
-    "spaces": 16,
+    "spaces": 3,
     "firstDate": "2027-01-14",
     "lastDate": "2027-04-15",
     "prices": [
@@ -78979,9 +78901,9 @@
     "ageMin": 16,
     "ageMax": 0,
     "ageText": "16 yrs +",
-    "openings": "16 openings remaining",
+    "openings": "15 openings remaining",
     "availability": "open",
-    "spaces": 16,
+    "spaces": 15,
     "firstDate": "2027-01-14",
     "lastDate": "2027-03-04",
     "prices": [
@@ -79081,9 +79003,9 @@
     "ageMin": 16,
     "ageMax": 0,
     "ageText": "16 yrs +",
-    "openings": "16 openings remaining",
+    "openings": "13 openings remaining",
     "availability": "open",
-    "spaces": 16,
+    "spaces": 13,
     "firstDate": "2027-01-11",
     "lastDate": "2027-02-22",
     "prices": [
@@ -79245,9 +79167,9 @@
     "ageMin": 16,
     "ageMax": 0,
     "ageText": "16 yrs +",
-    "openings": "18 openings remaining",
+    "openings": "16 openings remaining",
     "availability": "open",
-    "spaces": 18,
+    "spaces": 16,
     "firstDate": "2027-01-05",
     "lastDate": "2027-02-23",
     "prices": [
@@ -79360,6 +79282,46 @@
       {
         "price": "50.00%",
         "description": "Leisure Access - CCA: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 640215,
+    "title": "Strathcona Night Hoops Basketball - Winter 2027",
+    "calendarId": 5,
+    "centerId": 51,
+    "facilityIds": [
+      3341,
+      3342
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/strathcona-night-hoops-basketball---winter-2027/640215",
+    "description": "<p>Night Hoops is a free basketball program that uses sport to build community, confidence, and connection for youth across the city. Open to players of all skill levels, Night Hoops offers weekly practices led by caring mentors at local community centres.</p><p>Whether you're signing up solo or with a group of friends, Night Hoops is a place to play, grow, and be part of something bigger. Join us this season!</p><p>Registration and a completed waiver are required for this program. </p>",
+    "instructors": [
+      "Night Hoops",
+      "Shervin Hajami"
+    ],
+    "priceText": "",
+    "free": false,
+    "ageMin": 13,
+    "ageMax": 18,
+    "ageText": "Age at least 13 yrs but less than 18y 11m 3w",
+    "openings": "20 openings remaining",
+    "availability": "open",
+    "spaces": 20,
+    "firstDate": "2027-01-15",
+    "lastDate": "2027-03-12",
+    "prices": [
+      {
+        "price": "50.00%",
+        "description": "Leisure Access – PB: for Customer"
+      },
+      {
+        "price": "25.00%",
+        "description": "PB Strathcona Recreation 75 Discount - No Tax: for Customer"
+      },
+      {
+        "price": "25.00%",
+        "description": "PB Strathcona Recreation 25 Discount - No Tax: for Customer"
       }
     ]
   },
@@ -81125,9 +81087,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "4 openings remaining",
-    "availability": "open",
-    "spaces": 4,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-11-27",
     "lastDate": "2026-11-27"
   },
@@ -81212,9 +81173,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "7 openings remaining",
+    "openings": "5 openings remaining",
     "availability": "open",
-    "spaces": 7,
+    "spaces": 5,
     "firstDate": "2026-11-29",
     "lastDate": "2026-11-29"
   },
@@ -81285,6 +81246,887 @@
     "spaces": 25,
     "firstDate": "2027-01-14",
     "lastDate": "2027-01-14"
+  },
+  {
+    "id": 640468,
+    "title": "Adult Tennis Lessons",
+    "calendarId": 10,
+    "centerId": 51,
+    "facilityIds": [
+      3342
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/adult-tennis-lessons/640468",
+    "description": "Now that you have the basic skills from our spring and summer programs. What's next? This program is a continuation of your progress &amp; your journey into the tennis experience. Each class explores different tactical concepts, various spins, positioning options, and match preparedness which improves your game. This program is ideal for all adults who have taken our tennis programs before. Drill sessions program with tips.",
+    "instructors": [
+      "Wilson Tan"
+    ],
+    "priceText": "$187.50",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 0,
+    "ageText": "19 yrs +",
+    "openings": "6 openings remaining",
+    "availability": "open",
+    "spaces": 6,
+    "firstDate": "2027-01-10",
+    "lastDate": "2027-02-07",
+    "prices": [
+      {
+        "price": "$187.50",
+        "description": "Standard charge"
+      },
+      {
+        "price": "50.00%",
+        "description": "Leisure Access - PB: for Customer"
+      },
+      {
+        "price": "25.00%",
+        "description": "PB Strathcona Recreation 75 Discount - Taxable: for Customer"
+      },
+      {
+        "price": "25.00%",
+        "description": "PB Strathcona Recreation 25 Discount - Taxable: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 640478,
+    "title": "Axe Capoeira for Children",
+    "calendarId": 14,
+    "centerId": 51,
+    "facilityIds": [
+      443
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/axe-capoeira-for-children/640478",
+    "description": "Capoeira is the perfect martial art for children and youth, combining dance, music, language, history, philosophy, fitness and acrobatics with martial arts in one class. Anyone can join! Classes cover all aspects of Capoeira: martial arts, dance, music, acrobatics, culture, language and more. Focus on developing rhythm, reflexes, balance, coordination and increasing strength and flexibility. No class on Feb 12.",
+    "instructors": [
+      "Kaj Rosberg",
+      "Matthew Wing"
+    ],
+    "priceText": "$160.00",
+    "free": false,
+    "ageMin": 6,
+    "ageMax": 8,
+    "ageText": "Age at least 6 yrs but less than 8y 11m",
+    "openings": "15 openings remaining",
+    "availability": "open",
+    "spaces": 15,
+    "firstDate": "2027-01-13",
+    "lastDate": "2027-03-10",
+    "prices": [
+      {
+        "price": "$160.00",
+        "description": "Standard charge"
+      },
+      {
+        "price": "50.00%",
+        "description": "Leisure Access - PB: for Customer"
+      },
+      {
+        "price": "25.00%",
+        "description": "PB Strathcona Recreation 75 Discount - Taxable: for Customer"
+      },
+      {
+        "price": "25.00%",
+        "description": "PB Strathcona Recreation 25 Discount - Taxable: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 640481,
+    "title": "Axe Capoeira for Children",
+    "calendarId": 14,
+    "centerId": 51,
+    "facilityIds": [
+      443
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/axe-capoeira-for-children/640481",
+    "description": "Capoeira is the perfect martial art for children and youth, combining dance, music, language, history, philosophy, fitness and acrobatics with martial arts in one class. Anyone can join! Classes cover all aspects of Capoeira: martial arts, dance, music, acrobatics, culture, language and more. Focus on developing rhythm, reflexes, balance, coordination and increasing strength and flexibility. <br />",
+    "instructors": [
+      "Kaj Rosberg",
+      "Matthew Wing"
+    ],
+    "priceText": "$208.00",
+    "free": false,
+    "ageMin": 9,
+    "ageMax": 13,
+    "ageText": "Age at least 9 yrs but less than 13y 11m",
+    "openings": "15 openings remaining",
+    "availability": "open",
+    "spaces": 15,
+    "firstDate": "2027-01-13",
+    "lastDate": "2027-03-10",
+    "prices": [
+      {
+        "price": "$208.00",
+        "description": "Standard charge"
+      },
+      {
+        "price": "50.00%",
+        "description": "Leisure Access - PB: for Customer"
+      },
+      {
+        "price": "25.00%",
+        "description": "PB Strathcona Recreation 75 Discount - Taxable: for Customer"
+      },
+      {
+        "price": "25.00%",
+        "description": "PB Strathcona Recreation 25 Discount - Taxable: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 640485,
+    "title": "Basketball - Recreation",
+    "calendarId": 10,
+    "centerId": 51,
+    "facilityIds": [
+      436
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/basketball---recreation/640485",
+    "description": "Recreational co-ed basketball with limited spaces. Registered participants must check in at the front desk in person no later than 5 minutes after start time to guarantee their spot, or spots will be sold to those on waitlist. Waitlist opens 30 minutes prior to time of play. Drop-in $5.25, space permitting. <br />",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "$48.75",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 0,
+    "ageText": "19 yrs +",
+    "openings": "12 openings remaining",
+    "availability": "open",
+    "spaces": 12,
+    "firstDate": "2027-01-05",
+    "lastDate": "2027-03-30",
+    "prices": [
+      {
+        "price": "$48.75",
+        "description": "Standard charge"
+      },
+      {
+        "price": "50.00%",
+        "description": "Leisure Access - PB: for Customer"
+      },
+      {
+        "price": "25.00%",
+        "description": "PB Strathcona Recreation 75 Discount - Taxable: for Customer"
+      },
+      {
+        "price": "25.00%",
+        "description": "PB Strathcona Recreation 25 Discount - Taxable: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 640486,
+    "title": "Basketball - Recreation",
+    "calendarId": 10,
+    "centerId": 51,
+    "facilityIds": [
+      436
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/basketball---recreation/640486",
+    "description": "Recreational co-ed basketball with limited spaces. Drop-in only for $5.25, space permitting. Can sign up 30 minutes in person before start time to secure a spot.<br />",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "$5.25",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 0,
+    "ageText": "19 yrs +",
+    "openings": "12 openings remaining",
+    "availability": "open",
+    "spaces": 12,
+    "firstDate": "2027-01-03",
+    "lastDate": "2027-03-28",
+    "prices": [
+      {
+        "price": "$5.25",
+        "description": "Standard charge"
+      },
+      {
+        "price": "50.00%",
+        "description": "Leisure Access - PB: for Customer"
+      },
+      {
+        "price": "25.00%",
+        "description": "PB Strathcona Recreation 75 Discount - Taxable: for Customer"
+      },
+      {
+        "price": "25.00%",
+        "description": "PB Strathcona Recreation 25 Discount - Taxable: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 640497,
+    "title": "Chair Yoga",
+    "calendarId": 6,
+    "centerId": 51,
+    "facilityIds": [
+      431
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/chair-yoga/640497",
+    "description": "Chair yoga stems from Hatha yoga which provides the same benefits for the mind and body as you would when practicing on a mat. We will use breathing techniques to help us get into our postures and a great way to start yoga when you are a beginner or have an injury. Chair yoga isn’t just for the elderly, it’s a practice for those with limited flexibility and mobility issues. Poses are modified with the use of the chair to help with our balance throughout our practice. <br />This class will help improve our flexibility, strength and increase range of motions for our joints, which is especially important as we age. Other benefits one will see with consistent practice is enhanced awareness and focus, greater muscle tone, increased confidence, reduced levels of stress and less physical pain. Like all yoga, we will move our spine in all directions including: forward fold, side stretch, twist, backbend and invert. If you are new, have limited mobility, a chronic illness or you’ve sustained an injury, chair yoga is a slower practice and can help you stay active for a healthy spine. No class Feb 13. <br />Come join me and be curious and stay active! Drop-in $8.57, if space permits. <br />",
+    "instructors": [
+      "Linh Jiang"
+    ],
+    "priceText": "$64.00",
+    "free": false,
+    "ageMin": 50,
+    "ageMax": 0,
+    "ageText": "50 yrs +",
+    "openings": "12 openings remaining",
+    "availability": "open",
+    "spaces": 12,
+    "firstDate": "2027-01-16",
+    "lastDate": "2027-03-13",
+    "prices": [
+      {
+        "price": "$64.00",
+        "description": "Standard charge"
+      },
+      {
+        "price": "50.00%",
+        "description": "Leisure Access - PB: for Customer"
+      },
+      {
+        "price": "25.00%",
+        "description": "PB Strathcona Recreation 75 Discount - Taxable: for Customer"
+      },
+      {
+        "price": "25.00%",
+        "description": "PB Strathcona Recreation 25 Discount - Taxable: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 640519,
+    "title": "Hatha Yoga",
+    "calendarId": 6,
+    "centerId": 51,
+    "facilityIds": [
+      443
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/hatha-yoga/640519",
+    "description": "This is an all levels vinyasa flow yoga class where we will laugh, play, and move our wonderful bodies! We will work on meditation, breathing, and play around with some fun yoga postures and sequences. Our bodies will get a chance to build core strength, improve balance and get a cardio boost. Never tried yoga before? No need to worry as we will guide you step by step with helpful cueing and encouragement. This class can be as relaxing or challenging as you would like to make it. We will provide optional modifications and progressions to allow the class to meet you where you are at each week. Let's have some fun! Please bring your own yoga mat to class. Please bring any other equipment such as blocks or blankets to better support your body during our yoga practice. Drop-in $11.43, space permitting. No class Feb 11.",
+    "instructors": [
+      "Linh Jiang"
+    ],
+    "priceText": "$85.50",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 0,
+    "ageText": "19 yrs +",
+    "openings": "15 openings remaining",
+    "availability": "open",
+    "spaces": 15,
+    "firstDate": "2027-01-07",
+    "lastDate": "2027-03-11",
+    "prices": [
+      {
+        "price": "$85.50",
+        "description": "Standard charge"
+      },
+      {
+        "price": "50.00%",
+        "description": "Leisure Access - PB: for Customer"
+      },
+      {
+        "price": "25.00%",
+        "description": "PB Strathcona Recreation 75 Discount - Taxable: for Customer"
+      },
+      {
+        "price": "25.00%",
+        "description": "PB Strathcona Recreation 25 Discount - Taxable: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 640521,
+    "title": "Indoor Curling",
+    "calendarId": 14,
+    "centerId": 51,
+    "facilityIds": [
+      443
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/indoor-curling/640521",
+    "description": "<p>Come and socialize with other seniors in the seniors room and learn how to play curling! No class Feb 15.</p>",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "Free",
+    "free": true,
+    "ageMin": 50,
+    "ageMax": 0,
+    "ageText": "50 yrs +",
+    "openings": "20 openings remaining",
+    "availability": "open",
+    "spaces": 20,
+    "firstDate": "2027-01-11",
+    "lastDate": "2027-03-29"
+  },
+  {
+    "id": 640526,
+    "title": "Kung Fu: Choy Lee Fut (Children & Youth)",
+    "calendarId": 14,
+    "centerId": 51,
+    "facilityIds": [
+      431
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/kung-fu-choy-lee-fut-children-youth/640526",
+    "description": "Enjoy fitness and endurance with practical self defense techniques focusing on artistic forms of the Choy Lee Fut Style. Workouts start with stretching and flexibility, then speed training practice and forms. This class will be combined with the Adult class. Children can drop-in for $5.",
+    "instructors": [
+      "Amy Pon",
+      "Amanda Torres",
+      "Matthew Wing"
+    ],
+    "priceText": "$5.00",
+    "free": false,
+    "ageMin": 8,
+    "ageMax": 18,
+    "ageText": "Age at least 8 yrs but less than 18y 11m",
+    "openings": "10 openings remaining",
+    "availability": "open",
+    "spaces": 10,
+    "firstDate": "2027-01-06",
+    "lastDate": "2027-03-31",
+    "prices": [
+      {
+        "price": "$5.00",
+        "description": "Activity Fee - Drop In for 14 or more years old"
+      }
+    ]
+  },
+  {
+    "id": 640530,
+    "title": "Kung Fu: Choy Lee Fut (Jan)",
+    "calendarId": 14,
+    "centerId": 51,
+    "facilityIds": [
+      431
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/kung-fu-choy-lee-fut-jan/640530",
+    "description": "Enjoy fitness and endurance with practical self defense techniques focusing on artistic forms of the Choy Lee Fut Style. Workouts start with stretching and flexibility, then speed training practice and forms. Children can join at a reduced rate. All levels and new participants welcome! Drop in $6.67, if space permits. <br />",
+    "instructors": [
+      "Amy Pon",
+      "Matthew Wing"
+    ],
+    "priceText": "from $35.00",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 0,
+    "ageText": "19 yrs +",
+    "openings": "20 openings remaining",
+    "availability": "open",
+    "spaces": 20,
+    "firstDate": "2027-01-06",
+    "lastDate": "2027-01-27",
+    "prices": [
+      {
+        "price": "$49.00",
+        "description": "Activity Fee for 14 or more years old"
+      },
+      {
+        "price": "$35.00",
+        "description": "Activity Fee - Children 5-12 for 5 up to 12 years old"
+      },
+      {
+        "price": "50.00%",
+        "description": "Leisure Access - PB: for Customer"
+      },
+      {
+        "price": "25.00%",
+        "description": "PB Strathcona Recreation 75 Discount - Taxable: for Customer"
+      },
+      {
+        "price": "25.00%",
+        "description": "PB Strathcona Recreation 25 Discount - Taxable: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 640537,
+    "title": "Mah Jong",
+    "calendarId": 14,
+    "centerId": 51,
+    "facilityIds": [
+      431
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/mah-jong/640537",
+    "description": "Come and learn how to play Mah-Jong with others! We have volunteer instructors who will be able to teach you how to play or help facilitate a game. No experience required. No class Feb 15.",
+    "instructors": [
+      "Johnny Cheng"
+    ],
+    "priceText": "Free",
+    "free": true,
+    "ageMin": 50,
+    "ageMax": 0,
+    "ageText": "50 yrs +",
+    "openings": "20 openings remaining",
+    "availability": "open",
+    "spaces": 20,
+    "firstDate": "2027-01-11",
+    "lastDate": "2027-03-22"
+  },
+  {
+    "id": 640538,
+    "title": "Mah Jong - Sunday Drop-in",
+    "calendarId": 14,
+    "centerId": 51,
+    "facilityIds": [
+      431
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/mah-jong---sunday-drop-in/640538",
+    "description": "Come with your friends or on your own to meet new people and play Mah Jong together! Table &amp; pieces are included. Experience is required as this will be non instructional. 4 tables will be available on a first come first served basis.",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "Free",
+    "free": true,
+    "ageMin": 45,
+    "ageMax": 0,
+    "ageText": "45 yrs +",
+    "openings": "12 openings remaining",
+    "availability": "open",
+    "spaces": 12,
+    "firstDate": "2027-01-10",
+    "lastDate": "2027-03-28"
+  },
+  {
+    "id": 640544,
+    "title": "Mobi Stretch and Strength (MON)",
+    "calendarId": 6,
+    "centerId": 51,
+    "facilityIds": [
+      431
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/mobi-stretch-and-strength-mon/640544",
+    "description": "Do you feel stiff, tight and locked up? You’ve tried fixing it but you don’t have the time, the space or the energy to make it stick? <br />Come restart with Scovia and move with more confidence. Together lets restore your mobility, unlock your strength and gain flexibility you thought was lost. Drop-in $17, space permitting.<br>",
+    "instructors": [
+      "Scovia Maeko"
+    ],
+    "priceText": "$75.00",
+    "free": false,
+    "ageMin": 40,
+    "ageMax": 0,
+    "ageText": "40 yrs +",
+    "openings": "12 openings remaining",
+    "availability": "open",
+    "spaces": 12,
+    "firstDate": "2027-01-11",
+    "lastDate": "2027-02-08",
+    "prices": [
+      {
+        "price": "$75.00",
+        "description": "Standard charge"
+      },
+      {
+        "price": "50.00%",
+        "description": "Leisure Access - PB: for Customer"
+      },
+      {
+        "price": "25.00%",
+        "description": "PB Strathcona Recreation 75 Discount - Taxable: for Customer"
+      },
+      {
+        "price": "25.00%",
+        "description": "PB Strathcona Recreation 25 Discount - Taxable: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 640545,
+    "title": "Mobi Stretch and Strength (WED)",
+    "calendarId": 6,
+    "centerId": 51,
+    "facilityIds": [
+      443
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/mobi-stretch-and-strength-wed/640545",
+    "description": "Do you feel stiff, tight and locked up? You’ve tried fixing it but you don’t have the time, the space or the energy to make it stick? <br />Come restart with Scovia and move with more confidence. Together lets restore your mobility, unlock your strength and gain flexibility you thought was lost.<br />",
+    "instructors": [
+      "Scovia Maeko"
+    ],
+    "priceText": "$90.00",
+    "free": false,
+    "ageMin": 40,
+    "ageMax": 0,
+    "ageText": "40 yrs +",
+    "openings": "12 openings remaining",
+    "availability": "open",
+    "spaces": 12,
+    "firstDate": "2027-01-13",
+    "lastDate": "2027-02-17",
+    "prices": [
+      {
+        "price": "$90.00",
+        "description": "Standard charge"
+      },
+      {
+        "price": "50.00%",
+        "description": "Leisure Access - PB: for Customer"
+      },
+      {
+        "price": "25.00%",
+        "description": "PB Strathcona Recreation 75 Discount - Taxable: for Customer"
+      },
+      {
+        "price": "25.00%",
+        "description": "PB Strathcona Recreation 25 Discount - Taxable: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 640590,
+    "title": "Pickleball Court Rental",
+    "calendarId": 10,
+    "centerId": 51,
+    "facilityIds": [
+      436
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/pickleball-court-rental/640590",
+    "description": "Pickleball is a combination of Ping-Pong, tennis, and badminton. This mini-tennis game is played by 2 or 4 people on a badminton-sized court using wood paddle racquets and a plastic, poly baseball with holes. Reserve the court to play singles or doubles for your group. An individual can not reserve more than 1 court per time period. There is no refund given for cancellations with less than 7 days notice. Players must supply their own racquets and pickleballs. No private lessons or teaching permitted. Maximum of 6 players.",
+    "instructors": [],
+    "priceText": "$20.95",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 0,
+    "ageText": "19 yrs +",
+    "openings": "4 openings remaining",
+    "availability": "open",
+    "spaces": 4,
+    "firstDate": "2027-01-06",
+    "lastDate": "2027-01-06"
+  },
+  {
+    "id": 640591,
+    "title": "Pickleball Court Rental",
+    "calendarId": 10,
+    "centerId": 51,
+    "facilityIds": [
+      436
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/pickleball-court-rental/640591",
+    "description": "Pickleball is a combination of Ping-Pong, tennis, and badminton. This mini-tennis game is played by 2 or 4 people on a badminton-sized court using wood paddle racquets and a plastic, poly baseball with holes. Reserve the court to play singles or doubles for your group. An individual can not reserve more than 1 court per time period. There is no refund given for cancellations with less than 7 days notice. Players must supply their own racquets and pickleballs. No private lessons or teaching permitted. Maximum of 6 players.",
+    "instructors": [],
+    "priceText": "$20.95",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 0,
+    "ageText": "19 yrs +",
+    "openings": "4 openings remaining",
+    "availability": "open",
+    "spaces": 4,
+    "firstDate": "2027-01-13",
+    "lastDate": "2027-01-13"
+  },
+  {
+    "id": 640602,
+    "title": "Pickleball Court Rental",
+    "calendarId": 10,
+    "centerId": 51,
+    "facilityIds": [
+      436
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/pickleball-court-rental/640602",
+    "description": "Pickleball is a combination of Ping-Pong, tennis, and badminton. This mini-tennis game is played by 2 or 4 people on a badminton-sized court using wood paddle racquets and a plastic, poly baseball with holes. Reserve the court to play singles or doubles for your group. An individual can not reserve more than 1 court per time period. There is no refund given for cancellations with less than 7 days notice. Players must supply their own racquets and pickleballs. No private lessons or teaching permitted. Maximum of 6 players.",
+    "instructors": [],
+    "priceText": "$14.29",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 0,
+    "ageText": "19 yrs +",
+    "openings": "4 openings remaining",
+    "availability": "open",
+    "spaces": 4,
+    "firstDate": "2027-01-02",
+    "lastDate": "2027-01-02"
+  },
+  {
+    "id": 640603,
+    "title": "Pickleball Court Rental",
+    "calendarId": 10,
+    "centerId": 51,
+    "facilityIds": [
+      436
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/pickleball-court-rental/640603",
+    "description": "Pickleball is a combination of Ping-Pong, tennis, and badminton. This mini-tennis game is played by 2 or 4 people on a badminton-sized court using wood paddle racquets and a plastic, poly baseball with holes. Reserve the court to play singles or doubles for your group. An individual can not reserve more than 1 court per time period. There is no refund given for cancellations with less than 7 days notice. Players must supply their own racquets and pickleballs. No private lessons or teaching permitted. Maximum of 6 players.",
+    "instructors": [],
+    "priceText": "$14.29",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 0,
+    "ageText": "19 yrs +",
+    "openings": "4 openings remaining",
+    "availability": "open",
+    "spaces": 4,
+    "firstDate": "2027-01-09",
+    "lastDate": "2027-01-09"
+  },
+  {
+    "id": 640604,
+    "title": "Pickleball Court Rental",
+    "calendarId": 10,
+    "centerId": 51,
+    "facilityIds": [
+      436
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/pickleball-court-rental/640604",
+    "description": "Pickleball is a combination of Ping-Pong, tennis, and badminton. This mini-tennis game is played by 2 or 4 people on a badminton-sized court using wood paddle racquets and a plastic, poly baseball with holes. Reserve the court to play singles or doubles for your group. An individual can not reserve more than 1 court per time period. There is no refund given for cancellations with less than 7 days notice. Players must supply their own racquets and pickleballs. No private lessons or teaching permitted. Maximum of 6 players.",
+    "instructors": [],
+    "priceText": "$14.29",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 0,
+    "ageText": "19 yrs +",
+    "openings": "4 openings remaining",
+    "availability": "open",
+    "spaces": 4,
+    "firstDate": "2027-01-16",
+    "lastDate": "2027-01-16"
+  },
+  {
+    "id": 640617,
+    "title": "Playtime for Tots!",
+    "calendarId": 1,
+    "centerId": 51,
+    "facilityIds": [
+      442
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/playtime-for-tots/640617",
+    "description": "Come and join our tot playtime with your family. We have lots of toys and books available for your young one to enjoy! This is a great way to meet your neighbors and make new friends! Drop-in program only; spaces are limited. Drop-in $1.50. No class Feb 15, Mar 26, May 24 due to stat holidays. No class Feb 12, Apr 19 &amp; May 21 due to Pro-D Day.",
+    "instructors": [
+      "TBA Instructor"
+    ],
+    "priceText": "$1.50",
+    "free": false,
+    "ageMin": 0,
+    "ageMax": 3,
+    "ageText": "Age at least 6m but less than 3 yrs",
+    "openings": "15 openings remaining",
+    "availability": "open",
+    "spaces": 15,
+    "firstDate": "2027-01-11",
+    "lastDate": "2027-03-12"
+  },
+  {
+    "id": 640621,
+    "title": "Qigong",
+    "calendarId": 6,
+    "centerId": 51,
+    "facilityIds": [
+      431
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/qigong/640621",
+    "description": "Medical Qigong is an ancient branch of Traditional Chinese Medicine focused on health preservation and longevity. Through the posture, breath, and mental focus—students learn to purge toxins, tonify organs and regulate life force energy - Qi. By integrating physical movement with creative visualization, these exercises empower you to restore balance to your physical, emotional, and spiritual well-being. No class Feb 4.",
+    "instructors": [
+      "Stacey Der"
+    ],
+    "priceText": "$50.00",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 0,
+    "ageText": "19 yrs +",
+    "openings": "12 openings remaining",
+    "availability": "open",
+    "spaces": 12,
+    "firstDate": "2027-01-14",
+    "lastDate": "2027-02-18",
+    "prices": [
+      {
+        "price": "$50.00",
+        "description": "Standard charge"
+      },
+      {
+        "price": "50.00%",
+        "description": "Leisure Access - PB: for Customer"
+      },
+      {
+        "price": "25.00%",
+        "description": "PB Strathcona Recreation 75 Discount - Taxable: for Customer"
+      },
+      {
+        "price": "25.00%",
+        "description": "PB Strathcona Recreation 25 Discount - Taxable: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 640629,
+    "title": "Seniors Tai Chi",
+    "calendarId": 14,
+    "centerId": 51,
+    "facilityIds": [
+      443
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/seniors-tai-chi/640629",
+    "description": "<p>Join us for some easy and relaxing exercise. Our volunteer instructor will assist you to learn the different forms of Tai Chi movement. It helps to develop great mobility and balance. No experience necessary! No class Feb 15 &amp; Mar 26, 29 due to stat holidays. No class Feb 17 due to luncheons.</p>",
+    "instructors": [
+      "May Iok Mei Fung"
+    ],
+    "priceText": "Free",
+    "free": true,
+    "ageMin": 50,
+    "ageMax": 0,
+    "ageText": "50 yrs +",
+    "openings": "25 openings remaining",
+    "availability": "open",
+    "spaces": 25,
+    "firstDate": "2027-01-05",
+    "lastDate": "2027-03-31"
+  },
+  {
+    "id": 640651,
+    "title": "Adult Tennis Lessons",
+    "calendarId": 10,
+    "centerId": 51,
+    "facilityIds": [
+      436
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/adult-tennis-lessons/640651",
+    "description": "Learn the basics of how to rally. Develop skills important to tennis through games in an open skills environment. You will learn about basic skills and competencies to play tennis. Suitable for first-timers as well as intermediate players looking to continue progressing though previous lessons. No class Jan 30.",
+    "instructors": [
+      "Wilson Tan"
+    ],
+    "priceText": "$125.00",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 99,
+    "ageText": "Age at least 19 yrs but less than 99y 11m",
+    "openings": "6 openings remaining",
+    "availability": "open",
+    "spaces": 6,
+    "firstDate": "2027-01-09",
+    "lastDate": "2027-02-06",
+    "prices": [
+      {
+        "price": "$125.00",
+        "description": "Standard charge"
+      },
+      {
+        "price": "50.00%",
+        "description": "Leisure Access - PB: for Customer"
+      },
+      {
+        "price": "25.00%",
+        "description": "PB Strathcona Recreation 75 Discount - Taxable: for Customer"
+      },
+      {
+        "price": "25.00%",
+        "description": "PB Strathcona Recreation 25 Discount - Taxable: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 640665,
+    "title": "Wu's Tai Chi",
+    "calendarId": 14,
+    "centerId": 51,
+    "facilityIds": [
+      443
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/wu-s-tai-chi/640665",
+    "description": "<p>A gentle art of health and well being for people of all ages and health conditions. The Tai Chi exercise helps to develop strength and balance. No experience necessary! </p>",
+    "instructors": [
+      "David Ho"
+    ],
+    "priceText": "Free",
+    "free": true,
+    "ageMin": 50,
+    "ageMax": 0,
+    "ageText": "50 yrs +",
+    "openings": "20 openings remaining",
+    "availability": "open",
+    "spaces": 20,
+    "firstDate": "2027-01-05",
+    "lastDate": "2027-03-30"
+  },
+  {
+    "id": 640670,
+    "title": "Zumba",
+    "calendarId": 10,
+    "centerId": 51,
+    "facilityIds": [
+      443
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/zumba/640670",
+    "description": "This class fuses hypnotic Latin rhythms and easy to follow moves to create a dynamic workout system that will blow you away. Zumba utilizes the principles of fitness interval training and resistance training to maximize caloric output, fat burning and total body toning. It uses a variety of styles in its routines, including Cumbia, Soca, Merengue, Salsa, African, Reggaeton, Flamenco, Disco, and Bellydance. Zumba is a 'feel-happy' workout that is great for both the body and the mind. Drop-in $11.00, if space permits.",
+    "instructors": [
+      "Edie Chang"
+    ],
+    "priceText": "$47.50",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 0,
+    "ageText": "19 yrs +",
+    "openings": "15 openings remaining",
+    "availability": "open",
+    "spaces": 15,
+    "firstDate": "2027-01-12",
+    "lastDate": "2027-02-09",
+    "prices": [
+      {
+        "price": "$47.50",
+        "description": "Standard charge"
+      },
+      {
+        "price": "50.00%",
+        "description": "Leisure Access - PB: for Customer"
+      },
+      {
+        "price": "25.00%",
+        "description": "PB Strathcona Recreation 75 Discount - Taxable: for Customer"
+      },
+      {
+        "price": "25.00%",
+        "description": "PB Strathcona Recreation 25 Discount - Taxable: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 640671,
+    "title": "Zumba",
+    "calendarId": 10,
+    "centerId": 51,
+    "facilityIds": [
+      443
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/zumba/640671",
+    "description": "This class fuses hypnotic Latin rhythms and easy to follow moves to create a dynamic workout system that will blow you away. Zumba utilizes the principles of fitness interval training and resistance training to maximize caloric output, fat burning and total body toning. It uses a variety of styles in its routines, including Cumbia, Soca, Merengue, Salsa, African, Reggaeton, Flamenco, Disco, and Bellydance. Zumba is a 'feel-happy' workout that is great for both the body and the mind. Drop in $11, if space permits. No session on Oct 10.<br />",
+    "instructors": [
+      "Edie Chang"
+    ],
+    "priceText": "$47.50",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 0,
+    "ageText": "19 yrs +",
+    "openings": "15 openings remaining",
+    "availability": "open",
+    "spaces": 15,
+    "firstDate": "2027-01-09",
+    "lastDate": "2027-02-06",
+    "prices": [
+      {
+        "price": "$47.50",
+        "description": "Standard charge"
+      },
+      {
+        "price": "50.00%",
+        "description": "Leisure Access - PB: for Customer"
+      },
+      {
+        "price": "25.00%",
+        "description": "PB Strathcona Recreation 75 Discount - Taxable: for Customer"
+      },
+      {
+        "price": "25.00%",
+        "description": "PB Strathcona Recreation 25 Discount - Taxable: for Customer"
+      }
+    ]
   },
   {
     "id": 640720,
@@ -82202,9 +83044,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "9 openings remaining",
-    "availability": "open",
-    "spaces": 9,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2027-01-04",
     "lastDate": "2027-03-22",
     "prices": [
@@ -82236,9 +83078,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "12 openings remaining",
+    "openings": "9 openings remaining",
     "availability": "open",
-    "spaces": 12,
+    "spaces": 9,
     "firstDate": "2027-01-13",
     "lastDate": "2027-02-17",
     "prices": [
@@ -82346,6 +83188,40 @@
     "prices": [
       {
         "price": "$200.00",
+        "description": "Standard charge"
+      },
+      {
+        "price": "50.00%",
+        "description": "Leisure Access Discount: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 640970,
+    "title": "Musical Minds",
+    "calendarId": 1,
+    "centerId": 6,
+    "facilityIds": [
+      41
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/musical-minds/640970",
+    "description": "MUSICAL MINDS: Music, Movement &amp; World Discovery! Take a musical journey around the world! Through singing, dancing, drumming, improvisation, and instrument exploration, children discover diverse musical styles and cultures in this unique, hands-on program. Each term, we explore three musical genres or countries of origin through music, movement, and play. It's a fun, creative, no-homework approach to music education and cultural discovery! All instruments and materials provided. Just bring your imagination! “Teacher Monica has the best energy and makes such a wonderful connection with every single child in the class. Can't recommend enough!!” Learn more: www.jumpintomusic.ca.<br />Drop-in $22, space permitting (if full, two drop-ins available first-come, first-served basis).",
+    "instructors": [
+      "Monica Lee"
+    ],
+    "priceText": "$180.00",
+    "free": false,
+    "ageMin": 5,
+    "ageMax": 7,
+    "ageText": "Age at least 5 yrs but less than 7y 11m",
+    "openings": "10 openings remaining",
+    "availability": "open",
+    "spaces": 10,
+    "firstDate": "2027-01-12",
+    "lastDate": "2027-03-09",
+    "prices": [
+      {
+        "price": "$180.00",
         "description": "Standard charge"
       },
       {
@@ -83114,9 +83990,9 @@
     "ageMin": 55,
     "ageMax": 0,
     "ageText": "55 yrs +",
-    "openings": "25 openings remaining",
+    "openings": "24 openings remaining",
     "availability": "open",
-    "spaces": 25,
+    "spaces": 24,
     "firstDate": "2027-01-04",
     "lastDate": "2027-02-22",
     "prices": [
@@ -83329,6 +84205,31 @@
         "description": "Leisure Access - CCA: for Customer"
       }
     ]
+  },
+  {
+    "id": 641088,
+    "title": "Wellness Program",
+    "calendarId": 47,
+    "centerId": 51,
+    "facilityIds": [
+      431
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/wellness-program/641088",
+    "description": "<p>This program provides information to help you be healthy and safe. Learn more about nutrition, exercise, flu shot, fall prevention, home safety and more! You can also have a chance to try out the modified osteofit exercise. </p>",
+    "instructors": [
+      "Anne Yue",
+      "Britannia 55+ Team"
+    ],
+    "priceText": "Free",
+    "free": true,
+    "ageMin": 50,
+    "ageMax": 0,
+    "ageText": "50 yrs +",
+    "openings": "25 openings remaining",
+    "availability": "open",
+    "spaces": 25,
+    "firstDate": "2027-01-12",
+    "lastDate": "2027-03-30"
   },
   {
     "id": 641090,
@@ -84665,9 +85566,8 @@
     "ageMin": 8,
     "ageMax": 99,
     "ageText": "Age at least 8 yrs but less than 99 yrs",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-11-27",
     "lastDate": "2026-11-27",
     "prices": [
@@ -84897,9 +85797,8 @@
     "ageMin": 19,
     "ageMax": 99,
     "ageText": "Age at least 19 yrs but less than 99 yrs",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-11-27",
     "lastDate": "2026-11-27"
   },
@@ -84993,9 +85892,8 @@
     "ageMin": 8,
     "ageMax": 99,
     "ageText": "Age at least 8 yrs but less than 99 yrs",
-    "openings": "17 openings remaining",
-    "availability": "open",
-    "spaces": 17,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-11-27",
     "lastDate": "2026-11-27"
   },
@@ -85089,9 +85987,8 @@
     "ageMin": 8,
     "ageMax": 99,
     "ageText": "Age at least 8 yrs but less than 99 yrs",
-    "openings": "20 openings remaining",
-    "availability": "open",
-    "spaces": 20,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-11-27",
     "lastDate": "2026-11-27"
   },
@@ -85869,9 +86766,8 @@
     "ageMin": 19,
     "ageMax": 99,
     "ageText": "Age at least 19 yrs but less than 99 yrs",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-11-27",
     "lastDate": "2026-11-27"
   },
@@ -87335,9 +88231,9 @@
     "ageMin": 1,
     "ageMax": 3,
     "ageText": "Age at least 1y 8m but less than 3y 11m 4w",
-    "openings": "12 openings remaining",
+    "openings": "10 openings remaining",
     "availability": "open",
-    "spaces": 12,
+    "spaces": 10,
     "firstDate": "2027-01-09",
     "lastDate": "2027-02-06",
     "prices": [
@@ -87369,9 +88265,9 @@
     "ageMin": 3,
     "ageMax": 5,
     "ageText": "Age at least 3 yrs but less than 5y 11m 4w",
-    "openings": "8 openings remaining",
+    "openings": "5 openings remaining",
     "availability": "open",
-    "spaces": 8,
+    "spaces": 5,
     "firstDate": "2027-01-09",
     "lastDate": "2027-02-06",
     "prices": [
@@ -87403,9 +88299,9 @@
     "ageMin": 3,
     "ageMax": 5,
     "ageText": "Age at least 3 yrs but less than 5y 11m 4w",
-    "openings": "8 openings remaining",
+    "openings": "2 openings remaining",
     "availability": "open",
-    "spaces": 8,
+    "spaces": 2,
     "firstDate": "2027-01-10",
     "lastDate": "2027-03-14",
     "prices": [
@@ -87437,9 +88333,9 @@
     "ageMin": 4,
     "ageMax": 6,
     "ageText": "Age at least 4 yrs but less than 6y 11m 4w",
-    "openings": "8 openings remaining",
+    "openings": "5 openings remaining",
     "availability": "open",
-    "spaces": 8,
+    "spaces": 5,
     "firstDate": "2027-01-10",
     "lastDate": "2027-03-14",
     "prices": [
@@ -87505,9 +88401,9 @@
     "ageMin": 4,
     "ageMax": 6,
     "ageText": "Age at least 4 yrs but less than 6y 11m 4w",
-    "openings": "8 openings remaining",
+    "openings": "3 openings remaining",
     "availability": "open",
-    "spaces": 8,
+    "spaces": 3,
     "firstDate": "2027-01-10",
     "lastDate": "2027-03-14",
     "prices": [
@@ -87539,9 +88435,9 @@
     "ageMin": 2,
     "ageMax": 4,
     "ageText": "Age at least 2 yrs but less than 4y 11m 4w",
-    "openings": "12 openings remaining",
+    "openings": "10 openings remaining",
     "availability": "open",
-    "spaces": 12,
+    "spaces": 10,
     "firstDate": "2027-01-14",
     "lastDate": "2027-03-11",
     "prices": [
@@ -87573,9 +88469,9 @@
     "ageMin": 3,
     "ageMax": 5,
     "ageText": "Age at least 3 yrs but less than 5y 11m 4w",
-    "openings": "8 openings remaining",
+    "openings": "4 openings remaining",
     "availability": "open",
-    "spaces": 8,
+    "spaces": 4,
     "firstDate": "2027-01-14",
     "lastDate": "2027-03-11",
     "prices": [
@@ -93796,9 +94692,9 @@
     "ageMin": 13,
     "ageMax": 0,
     "ageText": "13 yrs +",
-    "openings": "1 opening remaining",
-    "availability": "open",
-    "spaces": 1,
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
     "firstDate": "2026-11-28",
     "lastDate": "2026-11-28"
   },
@@ -95467,9 +96363,9 @@
     "ageMin": 5,
     "ageMax": 10,
     "ageText": "Age at least 5 yrs but less than 10y 11m 4w",
-    "openings": "12 openings remaining",
+    "openings": "11 openings remaining",
     "availability": "open",
-    "spaces": 12,
+    "spaces": 11,
     "firstDate": "2027-01-10",
     "lastDate": "2027-03-07",
     "prices": [
@@ -96025,9 +96921,9 @@
     "ageMin": 6,
     "ageMax": 12,
     "ageText": "Age at least 6 yrs but less than 12y 11m 4w",
-    "openings": "20 openings remaining",
+    "openings": "17 openings remaining",
     "availability": "open",
-    "spaces": 20,
+    "spaces": 17,
     "firstDate": "2027-01-10",
     "lastDate": "2027-03-07",
     "prices": [
@@ -98782,9 +99678,9 @@
     "ageMin": 55,
     "ageMax": 0,
     "ageText": "55 yrs +",
-    "openings": "12 openings remaining",
+    "openings": "10 openings remaining",
     "availability": "open",
-    "spaces": 12,
+    "spaces": 10,
     "firstDate": "2027-01-15",
     "lastDate": "2027-04-09",
     "prices": [
@@ -100468,9 +101364,9 @@
     "ageMin": 6,
     "ageMax": 12,
     "ageText": "Age at least 6 yrs but less than 12y 11m 4w",
-    "openings": "20 openings remaining",
+    "openings": "17 openings remaining",
     "availability": "open",
-    "spaces": 20,
+    "spaces": 17,
     "firstDate": "2027-01-13",
     "lastDate": "2027-03-10",
     "prices": [
@@ -101756,7 +102652,7 @@
         "description": "Senior, 65 and over"
       },
       {
-        "price": "$109.05",
+        "price": "$108.58",
         "description": "Adult Rate (19-64yrs) for 19 up to 64 years old"
       }
     ]
@@ -102367,9 +103263,9 @@
     "ageMin": 16,
     "ageMax": 0,
     "ageText": "16 yrs +",
-    "openings": "10 openings remaining",
+    "openings": "9 openings remaining",
     "availability": "open",
-    "spaces": 10,
+    "spaces": 9,
     "firstDate": "2027-01-12",
     "lastDate": "2027-02-16",
     "prices": [
@@ -109696,6 +110592,102 @@
     ]
   },
   {
+    "id": 645858,
+    "title": "Seniors Badminton (Mon)",
+    "calendarId": 15,
+    "centerId": 41,
+    "facilityIds": [
+      606
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/seniors-badminton-mon/645858",
+    "description": "Stay active, have fun, and connect with others through friendly games of badminton! This recreational program is designed for older adults who enjoy casual, non-competitive play. Whether you’re a seasoned player or just looking to stay moving, join us for light-hearted rallies and great company. All skill levels are welcome. Priority given to adults over 50 years. Drop-in $3.50. <br />4 courts with 6 drop in spots available. <br />No Session Feb 15 &amp; Mar 15<br />",
+    "instructors": [],
+    "priceText": "$28.60",
+    "free": false,
+    "ageMin": 18,
+    "ageMax": 0,
+    "ageText": "18 yrs +",
+    "openings": "20 openings remaining",
+    "availability": "open",
+    "spaces": 20,
+    "firstDate": "2027-01-04",
+    "lastDate": "2027-03-22",
+    "prices": [
+      {
+        "price": "$28.60",
+        "description": "Standard charge"
+      },
+      {
+        "price": "50.00%",
+        "description": "Leisure Access - CCA: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 645870,
+    "title": "Seniors Badminton (Thu)",
+    "calendarId": 15,
+    "centerId": 41,
+    "facilityIds": [
+      606
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/seniors-badminton-thu/645870",
+    "description": "Stay active, have fun, and connect with others through friendly games of badminton! This recreational program is designed for older adults who enjoy casual, non-competitive play. Whether you’re a seasoned player or just looking to stay moving, join us for light-hearted rallies and great company. All skill levels are welcome. Priority given to adults over 50 years. Drop-in $3.50. <br />4 courts with 6 drop in spots available. <br />No Session Mar 18",
+    "instructors": [],
+    "priceText": "$31.46",
+    "free": false,
+    "ageMin": 18,
+    "ageMax": 0,
+    "ageText": "18 yrs +",
+    "openings": "20 openings remaining",
+    "availability": "open",
+    "spaces": 20,
+    "firstDate": "2027-01-07",
+    "lastDate": "2027-03-25",
+    "prices": [
+      {
+        "price": "$31.46",
+        "description": "Standard charge"
+      },
+      {
+        "price": "50.00%",
+        "description": "Leisure Access - CCA: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 645887,
+    "title": "Seniors Badminton (Fri)",
+    "calendarId": 15,
+    "centerId": 41,
+    "facilityIds": [
+      608
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/seniors-badminton-fri/645887",
+    "description": "Stay active, have fun, and connect with others through friendly games of badminton! This recreational program is designed for older adults who enjoy casual, non-competitive play. Whether you’re a seasoned player or just looking to stay moving, join us for light-hearted rallies and great company. All skill levels are welcome. Priority given to adults over 50 years. Drop-in $3.50. <br>Drop in spots will be sold 10 mins after the program start time if registered participants do not check in. <br>",
+    "instructors": [],
+    "priceText": "$28.60",
+    "free": false,
+    "ageMin": 18,
+    "ageMax": 0,
+    "ageText": "18 yrs +",
+    "openings": "12 openings remaining",
+    "availability": "open",
+    "spaces": 12,
+    "firstDate": "2027-01-08",
+    "lastDate": "2027-03-12",
+    "prices": [
+      {
+        "price": "$28.60",
+        "description": "Standard charge"
+      },
+      {
+        "price": "50.00%",
+        "description": "Leisure Access - CCA: for Customer"
+      }
+    ]
+  },
+  {
     "id": 645890,
     "title": "Junior Achievement BC",
     "calendarId": 43,
@@ -110259,6 +111251,29 @@
         "description": "Leisure Access Discount: for Customer"
       }
     ]
+  },
+  {
+    "id": 646067,
+    "title": "KBL Co-Ed Basketball League - Prospective Player",
+    "calendarId": 10,
+    "centerId": 41,
+    "facilityIds": [
+      606
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/kbl-co-ed-basketball-league---prospective-player/646067",
+    "description": "<p>Thank you for registering as a prospective player. The league coordinator will refer your contact info to any team that is looking for a player The team will contact you directly if the player may be a potential match for the team in terms of position and level of play. Teams may arrange a tryout.</p><p>KBL is a self refereed coed basketball league that plays on Sundays between 1 pm and 5 pm at Sunset, 1 pm - 9 pm at Kitsilano and Kerrisdale community centres. There are three divisions. There are 3 men and 2 women on the court at all times. For further information about the league, please check the website at: kerrisdalebasketballleague.ca</p><br />No session Feb 14, Mar 28 &amp; May 23",
+    "instructors": [
+      "Biraj Bora"
+    ],
+    "priceText": "Check details for fees",
+    "free": true,
+    "ageMin": 19,
+    "ageMax": 0,
+    "ageText": "19 yrs +",
+    "openings": "Unlimited openings",
+    "availability": "open",
+    "firstDate": "2027-01-10",
+    "lastDate": "2027-06-06"
   },
   {
     "id": 646074,
@@ -110912,6 +111927,40 @@
     ]
   },
   {
+    "id": 646200,
+    "title": "Pickleball - All Levels (Mon)",
+    "calendarId": 15,
+    "centerId": 41,
+    "facilityIds": [
+      608
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/pickleball---all-levels-mon/646200",
+    "description": "Pickleball is a sport in which two to four players use solid paddles to hit a perforated polymer ball, similar to a wiffle ball, over a net. The sport shares features of other racquet sports, the dimensions and layout of a badminton court, and a net and rules similar to tennis, with a few modifications. Ideal for varying fitness levels &amp; skill levels.<br />No session Feb 15 &amp; Mar 15<br /><p>Important registration &amp; drop-in details:</p><ul><li>Registered participants must sign in, in-person within 10 minutes of the start time.</li><li>Registered spots are non-transferable.</li><li>Guaranteed drop-ins and waitlist opens 10 minutes before the start time (10:50am)</li><li>Any additional spots will be sold 10 minutes after the program start time (11:10am) if registered participants do not check in</li><li>Drop-in fee: $5:00 (3 spots available)</li></ul>",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "$47.60",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 0,
+    "ageText": "19 yrs +",
+    "openings": "9 openings remaining",
+    "availability": "open",
+    "spaces": 9,
+    "firstDate": "2027-01-04",
+    "lastDate": "2027-03-22",
+    "prices": [
+      {
+        "price": "$47.60",
+        "description": "Standard charge"
+      },
+      {
+        "price": "50.00%",
+        "description": "Leisure Access - CCA: for Customer"
+      }
+    ]
+  },
+  {
     "id": 646261,
     "title": "Qigong",
     "calendarId": 16,
@@ -111167,6 +112216,41 @@
       {
         "price": "50.00%",
         "description": "Leisure Access Discount: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 646314,
+    "title": "Senior Ballroom Dance- Registered & Drop-In (Thu)",
+    "calendarId": 47,
+    "centerId": 41,
+    "facilityIds": [
+      607,
+      608
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/senior-ballroom-dance--registered-drop-in-thu/646314",
+    "description": "Spend the afternoon ballroom dancing in a social setting. The program is non-instructional and no partner is needed. Dancers are welcome to participate with friends or meet new ones in the program. The program will run in the gymnasium. Drop-in $5.00.",
+    "instructors": [
+      "Agnes (Wai Chun) Lee",
+      "Ronnie Yin Hui"
+    ],
+    "priceText": "$48.00",
+    "free": false,
+    "ageMin": 55,
+    "ageMax": 0,
+    "ageText": "55 yrs +",
+    "openings": "Unlimited openings",
+    "availability": "open",
+    "firstDate": "2027-01-07",
+    "lastDate": "2027-03-25",
+    "prices": [
+      {
+        "price": "$48.00",
+        "description": "Standard charge"
+      },
+      {
+        "price": "50.00%",
+        "description": "Leisure Access - CCA: for Customer"
       }
     ]
   },
@@ -111597,6 +112681,39 @@
     ]
   },
   {
+    "id": 646372,
+    "title": "Seniors Badminton (Tues)",
+    "calendarId": 15,
+    "centerId": 41,
+    "facilityIds": [
+      607,
+      608
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/seniors-badminton-tues/646372",
+    "description": "Stay active, have fun, and connect with others through friendly games of badminton! This recreational program is designed for older adults who enjoy casual, non-competitive play. Whether you’re a seasoned player or just looking to stay moving, join us for light-hearted rallies and great company. All skill levels are welcome. Priority given to adults over 50 years. Drop-in $3.50.<br />2 courts with 3 drop in spots available.<br />No Session Mar 16",
+    "instructors": [],
+    "priceText": "$34.32",
+    "free": false,
+    "ageMin": 18,
+    "ageMax": 0,
+    "ageText": "18 yrs +",
+    "openings": "20 openings remaining",
+    "availability": "open",
+    "spaces": 20,
+    "firstDate": "2027-01-05",
+    "lastDate": "2027-03-30",
+    "prices": [
+      {
+        "price": "$34.32",
+        "description": "Standard charge"
+      },
+      {
+        "price": "50.00%",
+        "description": "Leisure Access - CCA: for Customer"
+      }
+    ]
+  },
+  {
     "id": 646387,
     "title": "Tai Chi Yang Style 1 & 2",
     "calendarId": 14,
@@ -111627,6 +112744,415 @@
       {
         "price": "50.00%",
         "description": "Leisure Access - PB - Taxable: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 646389,
+    "title": "Pickleball - Int/Adv (Wed)",
+    "calendarId": 15,
+    "centerId": 41,
+    "facilityIds": [
+      606
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/pickleball---int-adv-wed/646389",
+    "description": "Pickleball is a sport in which two to four players use solid paddles to hit a perforated polymer ball, similar to a wiffle ball, over a net. The sport shares features of other racquet sports, the dimensions and layout of a badminton court, and a net and rules similar to tennis, with a few modifications. Ideal for varying fitness levels. Program is for intermediate and advanced level players.<br />No Session Mar 17<br /><p>Important registration &amp; drop-in details:</p><ul><li>Registered participants must sign in, in-person within 10 minutes of the start time.</li><li>Registered spots are non-transferable.</li><li>Guaranteed drop-ins and waitlist opens 10 minutes before the start time (11:35am)</li><li>Any additional spots will be sold 10 minutes after the program start time (11:55am) if registered participants do not check in</li></ul><br>",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "$52.36",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 0,
+    "ageText": "19 yrs +",
+    "openings": "20 openings remaining",
+    "availability": "open",
+    "spaces": 20,
+    "firstDate": "2027-01-13",
+    "lastDate": "2027-03-31",
+    "prices": [
+      {
+        "price": "$52.36",
+        "description": "Standard charge"
+      },
+      {
+        "price": "50.00%",
+        "description": "Leisure Access - CCA: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 646391,
+    "title": "Tai Chi with Wang Heng - 24 Form",
+    "calendarId": 16,
+    "centerId": 41,
+    "facilityIds": [
+      609
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/tai-chi-with-wang-heng---24-form/646391",
+    "description": "Long term Tai Chi practice can help improve mood and emotional states, enhance body shape and reduce fat. The results of many scientific studies show that Health Qi Gong can improve the functions of the cardiovascular, respiratory and digestive systems, enhance balancing ability, better the flexibility and force of muscles, improve mood, and lessen anxiety and stress. Drop-in $10.00.",
+    "instructors": [
+      "Wang Heng"
+    ],
+    "priceText": "$90.00",
+    "free": false,
+    "ageMin": 16,
+    "ageMax": 0,
+    "ageText": "16 yrs +",
+    "openings": "19 openings remaining",
+    "availability": "open",
+    "spaces": 19,
+    "firstDate": "2027-01-07",
+    "lastDate": "2027-03-11",
+    "prices": [
+      {
+        "price": "$90.00",
+        "description": "Standard charge"
+      },
+      {
+        "price": "50.00%",
+        "description": "Leisure Access - CCA: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 646392,
+    "title": "Pickleball - All Levels (Fri)",
+    "calendarId": 15,
+    "centerId": 41,
+    "facilityIds": [
+      607
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/pickleball---all-levels-fri/646392",
+    "description": "Pickleball is a sport in which two to four players use solid paddles to hit a perforated polymer ball, similar to a wiffle ball, over a net. The sport shares features of other racquet sports, the dimensions and layout of a badminton court, and a net and rules similar to tennis, with a few modifications. Ideal for varying fitness levels &amp; skill levels.<br /><p>Important registration &amp; drop-in details:</p><ul><li>Registered participants must sign in, in-person within 10 minutes of the start time.</li><li>Registered spots are non-transferable.</li><li>Guaranteed drop-ins and waitlist opens 10 minutes before the start time (11:50am)</li><li>Any additional spots will be sold 10 minutes after the program start time (12:10pm) if registered participants do not check in</li><li>Drop-in fee: $5:00 (3 spots available)</li></ul>",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "$42.84",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 0,
+    "ageText": "19 yrs +",
+    "openings": "9 openings remaining",
+    "availability": "open",
+    "spaces": 9,
+    "firstDate": "2027-01-15",
+    "lastDate": "2027-03-12",
+    "prices": [
+      {
+        "price": "$42.84",
+        "description": "Standard charge"
+      },
+      {
+        "price": "50.00%",
+        "description": "Leisure Access - CCA: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 646396,
+    "title": "Indoor Soccer 18+ yrs (Mon)",
+    "calendarId": 11,
+    "centerId": 41,
+    "facilityIds": [
+      606
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/indoor-soccer-18-yrs-mon/646396",
+    "description": "Bring the energy and your best footwork to our indoor soccer program! Played in a gym setting, this fast-paced game is perfect for players who already know the basics and are ready for quick passes, sharp turns, and great goals. Enjoy the action, build connections, and stay active all season long. <br />No Session Feb 15<br /><p>Important registration &amp; drop-in details:</p><ul><li>Registered participants must sign in, in-person within 10 minutes of the start time.</li><li>Registered spots are non-transferable.</li><li>The drop-in waitlist opens 10 minutes before the start time (5:55pm)</li><li>Any additional spots will be sold 10 minutes after the program start time (6:15pm) if registered participants do not check in</li><li>Drop-in fee: $7.00</li></ul><br />",
+    "instructors": [
+      "Rob Howatson"
+    ],
+    "priceText": "$57.10",
+    "free": false,
+    "ageMin": 18,
+    "ageMax": 0,
+    "ageText": "18 yrs +",
+    "openings": "14 openings remaining",
+    "availability": "open",
+    "spaces": 14,
+    "firstDate": "2027-01-11",
+    "lastDate": "2027-03-22",
+    "prices": [
+      {
+        "price": "$57.10",
+        "description": "Standard charge"
+      },
+      {
+        "price": "50.00%",
+        "description": "Leisure Access - CCA: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 646397,
+    "title": "Badminton 18+ yrs (Mon)",
+    "calendarId": 15,
+    "centerId": 41,
+    "facilityIds": [
+      606
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/badminton-18-yrs-mon/646397",
+    "description": "Looking for a fun way to stay active and connect with others? Join our badminton program for relaxed, self-paced rallies and some friendly competition. A volunteer facilitator will be on hand to help organize matches and keep things running smoothly, so you can focus on enjoying the game. This program is for players who know the basics, just bring your racket and your skills! <br />No Session Feb 15<br /><p>Important registration &amp; drop-in details:</p><ul><li>Registered participants must sign in, in-person within 10 minutes of the start time.</li><li>Registered spots are non-transferable.</li><li>The drop-in waitlist opens 10 minutes before the start time (7:40pm)</li><li>Any additional spots will be sold 10 minutes after the program start time (8:00pm) if registered participants do not check in</li><li>Drop-in fee: $7.00</li></ul><br />",
+    "instructors": [
+      "Leila Howatson"
+    ],
+    "priceText": "$57.10",
+    "free": false,
+    "ageMin": 18,
+    "ageMax": 0,
+    "ageText": "18 yrs +",
+    "openings": "23 openings remaining",
+    "availability": "open",
+    "spaces": 23,
+    "firstDate": "2027-01-11",
+    "lastDate": "2027-03-22",
+    "prices": [
+      {
+        "price": "$57.10",
+        "description": "Standard charge"
+      },
+      {
+        "price": "50.00%",
+        "description": "Leisure Access - CCA: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 646398,
+    "title": "Tai Chi with Wang Heng - Sword 32 Form",
+    "calendarId": 16,
+    "centerId": 41,
+    "facilityIds": [
+      609
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/tai-chi-with-wang-heng---sword-32-form/646398",
+    "description": "Tai Chi Sword is a form of Tai Chi quan in which the sword is considered an extension of the body. The integration helps to direct body energy through the sword and produce movements that are smooth and graceful. Instructor can provide wushu swords to train with. Drop-in $11.",
+    "instructors": [
+      "Wang Heng"
+    ],
+    "priceText": "$90.00",
+    "free": false,
+    "ageMin": 16,
+    "ageMax": 0,
+    "ageText": "16 yrs +",
+    "openings": "15 openings remaining",
+    "availability": "open",
+    "spaces": 15,
+    "firstDate": "2027-01-07",
+    "lastDate": "2027-03-11",
+    "prices": [
+      {
+        "price": "$90.00",
+        "description": "Standard charge"
+      },
+      {
+        "price": "50.00%",
+        "description": "Leisure Access - CCA: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 646399,
+    "title": "Basketball 18+ yrs",
+    "calendarId": 10,
+    "centerId": 41,
+    "facilityIds": [
+      606
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/basketball-18-yrs/646399",
+    "description": "Get your heart pumping and your game on with our adult basketball program! Designed for players who already know how to dribble, shoot, and defend, this is your chance to play full-court games, meet fellow basketball lovers, and enjoy some competitive fun. <br />No Session Mar 2<br><p>Important registration &amp; drop-in details:</p><ul><li>Registered participants must sign in, in-person within 10 minutes of the start time.</li><li>Registered spots are non-transferable.</li><li>The drop-in waitlist opens 10 minutes before the start time (7:40pm)</li><li>Any additional spots will be sold 10 minutes after the program start time (8:00pm) if registered participants do not check in</li><li>Drop-in fee: $7.00</li></ul><br />",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "$62.81",
+    "free": false,
+    "ageMin": 18,
+    "ageMax": 0,
+    "ageText": "18 yrs +",
+    "openings": "20 openings remaining",
+    "availability": "open",
+    "spaces": 20,
+    "firstDate": "2027-01-12",
+    "lastDate": "2027-03-30",
+    "prices": [
+      {
+        "price": "$62.81",
+        "description": "Standard charge"
+      },
+      {
+        "price": "50.00%",
+        "description": "Leisure Access - CCA: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 646401,
+    "title": "Volleyball 18+ yrs",
+    "calendarId": 11,
+    "centerId": 41,
+    "facilityIds": [
+      606
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/volleyball-18-yrs/646401",
+    "description": "<p>Join us for some high-energy volleyball action! Whether you’re looking to stay active, meet new people, or just enjoy some friendly competition, our program is the perfect place to bump, set, and spike your way to a great time. This program is designed for players who already know the basics, so bring your skills and get ready to play! </p><p>Each session is capped at 28 participants, consisting of 24 registered participants and 4 guaranteed drop-in spots. When at full capacity, one substitute rotation will be implemented per court. </p><p>Important registration &amp; drop-in details:</p><ul><li>Registered participants must sign in at the front desk, in-person within 10 minutes of the start time.</li><li>Registered spots are non-transferable.</li><li>The drop-in waitlist opens 10 minutes before the start time (6:05pm)</li><li>Any additional spots will be sold 10 minutes after the program start time (6:25pm) if registered participants do not check in</li><li>Drop-in fee: $7.00</li></ul>",
+    "instructors": [
+      "Non Instructional"
+    ],
+    "priceText": "$68.52",
+    "free": false,
+    "ageMin": 18,
+    "ageMax": 0,
+    "ageText": "18 yrs +",
+    "openings": "24 openings remaining",
+    "availability": "open",
+    "spaces": 24,
+    "firstDate": "2027-01-13",
+    "lastDate": "2027-03-31",
+    "prices": [
+      {
+        "price": "$68.52",
+        "description": "Standard charge"
+      },
+      {
+        "price": "50.00%",
+        "description": "Leisure Access - CCA: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 646403,
+    "title": "Badminton 18+ yrs (Wed)",
+    "calendarId": 15,
+    "centerId": 41,
+    "facilityIds": [
+      606
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/badminton-18-yrs-wed/646403",
+    "description": "Looking for a fun way to stay active and connect with others? Join our badminton program for relaxed, self-paced rallies and some friendly competition. A volunteer facilitator will be on hand to help organize matches and keep things running smoothly, so you can focus on enjoying the game. This program is for players who know the basics, just bring your racket and your skills! <br /><p>Important registration &amp; drop-in details:</p><ul><li>Registered participants must sign in at the front desk, in-person within 10 minutes of the start time.</li><li>Registered spots are non-transferable.</li><li>The drop-in waitlist opens 10 minutes before the start time (6:05pm)</li><li>Any additional spots will be sold 10 minutes after the program start time (6:25pm) if registered participants do not check in</li><li>Drop-in fee: $7.00</li></ul><br />",
+    "instructors": [
+      "Leila Howatson"
+    ],
+    "priceText": "$68.52",
+    "free": false,
+    "ageMin": 18,
+    "ageMax": 0,
+    "ageText": "18 yrs +",
+    "openings": "23 openings remaining",
+    "availability": "open",
+    "spaces": 23,
+    "firstDate": "2027-01-13",
+    "lastDate": "2027-03-31",
+    "prices": [
+      {
+        "price": "$68.52",
+        "description": "Standard charge"
+      },
+      {
+        "price": "50.00%",
+        "description": "Leisure Access - CCA: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 646405,
+    "title": "Modern Line Dance with Lucy - Intermediate Plus",
+    "calendarId": 20,
+    "centerId": 41,
+    "facilityIds": [
+      3819
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/modern-line-dance-with-lucy---intermediate-plus/646405",
+    "description": "Facilitated in English, this lively and energetic program is a unique form of exercise and dance that incorporates easy-to-follow ballroom dance movements and steps like Cha Cha, Waltz, Samba, Jive, Tango, etc. with beautiful contemporary music. Dance is good exercise to improve posture, flexibility, and balance, and it's a great way to learn and practice various dances with new friends in a friendly and social atmosphere. No partner required. Lucy has more than 15 years of teaching line dancing experience. Drop-in $7.50.<br />",
+    "instructors": [
+      "Lucy Chiu"
+    ],
+    "priceText": "$70.00",
+    "free": false,
+    "ageMin": 16,
+    "ageMax": 0,
+    "ageText": "16 yrs +",
+    "openings": "30 openings remaining",
+    "availability": "open",
+    "spaces": 30,
+    "firstDate": "2027-01-10",
+    "lastDate": "2027-03-21",
+    "prices": [
+      {
+        "price": "$70.00",
+        "description": "Activity Fee for 16 or more years old"
+      },
+      {
+        "price": "50.00%",
+        "description": "Leisure Access - CCA: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 646406,
+    "title": "Indoor Soccer 18+ yrs (Thurs)",
+    "calendarId": 11,
+    "centerId": 41,
+    "facilityIds": [
+      606
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/indoor-soccer-18-yrs-thurs/646406",
+    "description": "Bring the energy and your best footwork to our indoor soccer program! Played in a gym setting, this fast-paced game is perfect for players who already know the basics and are ready for quick passes, sharp turns, and great goals. Enjoy the action, build connections, and stay active all season long. <br /><p>Important registration &amp; drop-in details:</p><ul><li>Registered participants must sign in, in-person within 10 minutes of the start time.</li><li>Registered spots are non-transferable.</li><li>The drop-in waitlist opens 10 minutes before the start time (5:55pm)</li><li>Any additional spots will be sold 10 minutes after the program start time (6:15pm) if registered participants do not check in</li><li>Drop-in fee: $7.00</li></ul>",
+    "instructors": [
+      "Rob Howatson"
+    ],
+    "priceText": "$62.81",
+    "free": false,
+    "ageMin": 18,
+    "ageMax": 0,
+    "ageText": "18 yrs +",
+    "openings": "14 openings remaining",
+    "availability": "open",
+    "spaces": 14,
+    "firstDate": "2027-01-14",
+    "lastDate": "2027-03-25",
+    "prices": [
+      {
+        "price": "$62.81",
+        "description": "Standard charge"
+      },
+      {
+        "price": "50.00%",
+        "description": "Leisure Access - CCA: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 646407,
+    "title": "Ball Hockey Advanced",
+    "calendarId": 46,
+    "centerId": 41,
+    "facilityIds": [
+      606
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/ball-hockey-advanced/646407",
+    "description": "Ready to take your ball hockey skills to the next level? Our advanced program is perfect for experienced players looking for fast-paced, competitive games. Bring your A-game and get ready to face some serious competition! To keep gameplay smooth, please bring both a black and a white shirt as you may switch teams throughout the session. <br /><p>Important registration &amp; drop-in details:</p><ul><li>Registered participants must sign in, in-person within 10 minutes of the start time.</li><li>Registered spots are non-transferable.</li><li>The drop-in waitlist opens 10 minutes before the start time (7:40pm)</li><li>Any additional spots will be sold 10 minutes after the program start time (8:00pm) if registered participants do not check in</li><li>Drop-in fee: $7.00 </li></ul><br />Please bring both a black and white shirt to help clearly identify teams as you may be on both teams. <br />",
+    "instructors": [
+      "Thai Quan",
+      "Jas Sandhu"
+    ],
+    "priceText": "$62.81",
+    "free": false,
+    "ageMin": 18,
+    "ageMax": 0,
+    "ageText": "18 yrs +",
+    "openings": "15 openings remaining",
+    "availability": "open",
+    "spaces": 15,
+    "firstDate": "2027-01-14",
+    "lastDate": "2027-03-25",
+    "prices": [
+      {
+        "price": "$62.81",
+        "description": "Standard charge"
+      },
+      {
+        "price": "50.00%",
+        "description": "Leisure Access - CCA: for Customer"
       }
     ]
   },
@@ -111725,6 +113251,40 @@
       {
         "price": "$129.00",
         "description": "Standard charge"
+      },
+      {
+        "price": "50.00%",
+        "description": "Leisure Access - CCA: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 646423,
+    "title": "Modern Line Dance with Lucy - Improver/Intermediate",
+    "calendarId": 20,
+    "centerId": 41,
+    "facilityIds": [
+      3863
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/modern-line-dance-with-lucy---improver-intermediate/646423",
+    "description": "Facilitated in English, this lively and energetic program is a unique form of exercise and dance that incorporates easy-to-follow ballroom dance movements and steps like Cha Cha, Waltz, Samba, Jive, Tango, etc. with beautiful contemporary music. Dance is good exercise to improve posture, flexibility, and balance, and it's a great way to learn and practice various dances with new friends in a friendly and social atmosphere. No partner required. Lucy has more than 15 years of teaching line dancing experience. Drop-in $6.50.<br />No Session Feb 15. <br>",
+    "instructors": [
+      "Lucy Chiu"
+    ],
+    "priceText": "$66.00",
+    "free": false,
+    "ageMin": 16,
+    "ageMax": 0,
+    "ageText": "16 yrs +",
+    "openings": "30 openings remaining",
+    "availability": "open",
+    "spaces": 30,
+    "firstDate": "2027-01-04",
+    "lastDate": "2027-03-22",
+    "prices": [
+      {
+        "price": "$66.00",
+        "description": "Activity Fee for 16 or more years old"
       },
       {
         "price": "50.00%",
@@ -112423,6 +113983,211 @@
     "spaces": 1,
     "firstDate": "2027-01-10",
     "lastDate": "2027-03-21"
+  },
+  {
+    "id": 646459,
+    "title": "Zumba/Zumba Toning Fusion",
+    "calendarId": 56,
+    "centerId": 41,
+    "facilityIds": [
+      3819
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/zumba-zumba-toning-fusion/646459",
+    "description": "<b>Zumba</b> is a one-hour basic fitness program that involves dancing to music. With Zumba you can burn calories, improve your metabolism and train your whole body. With the bright Latin music, you can feel the excitement and joy of dancing. <b>Zumba Toning</b> is perfect for those who want to party and put extra emphasis on toning and sculpting to target zones, including arms, core and lower body with light weight on your hands. Drop-in $11+tax.<br />",
+    "instructors": [
+      "Kayo Echizenya"
+    ],
+    "priceText": "$123.50",
+    "free": false,
+    "ageMin": 16,
+    "ageMax": 0,
+    "ageText": "16 yrs +",
+    "openings": "18 openings remaining",
+    "availability": "open",
+    "spaces": 18,
+    "firstDate": "2027-01-05",
+    "lastDate": "2027-03-30",
+    "prices": [
+      {
+        "price": "$123.50",
+        "description": "Standard charge"
+      },
+      {
+        "price": "50.00%",
+        "description": "Leisure Access - CCA: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 646466,
+    "title": "Modern Line Dance with Lucy - Beginner",
+    "calendarId": 20,
+    "centerId": 41,
+    "facilityIds": [
+      609
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/modern-line-dance-with-lucy---beginner/646466",
+    "description": "This class is a good opportunity for people who have little or no Line dancing experience, they will learn most of the basic steps and movements to enjoy the dances. Facilitated in English. It is a good form of exercise to improve posture, flexibility, and balance, and it's a great way to meet new friends and improve your health. No partner required. Lucy has more than 20 years of teaching line dancing experience.<b></b> Drop-in $6.50 if space permits.<br>",
+    "instructors": [
+      "Lucy Chiu"
+    ],
+    "priceText": "$78.00",
+    "free": false,
+    "ageMin": 16,
+    "ageMax": 0,
+    "ageText": "16 yrs +",
+    "openings": "20 openings remaining",
+    "availability": "open",
+    "spaces": 20,
+    "firstDate": "2027-01-06",
+    "lastDate": "2027-03-31",
+    "prices": [
+      {
+        "price": "$78.00",
+        "description": "Activity Fee for 16 or more years old"
+      },
+      {
+        "price": "50.00%",
+        "description": "Leisure Access - CCA: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 646468,
+    "title": "Group Singing",
+    "calendarId": 20,
+    "centerId": 41,
+    "facilityIds": [
+      3824
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/group-singing/646468",
+    "description": "This class is facilitated in Mandarin and Cantonese. Learn how to open your voice and sing. Join this group and sing some songs, socialize and have some fun. Singing instructor, Louis Lu, will guide you on singing and tuning. Drop-in $9.52+tax<br>",
+    "instructors": [
+      "Run Xiang Lu"
+    ],
+    "priceText": "$48.54",
+    "free": false,
+    "ageMin": 16,
+    "ageMax": 0,
+    "ageText": "16 yrs +",
+    "openings": "30 openings remaining",
+    "availability": "open",
+    "spaces": 30,
+    "firstDate": "2027-01-07",
+    "lastDate": "2027-02-11",
+    "prices": [
+      {
+        "price": "$48.54",
+        "description": "Standard charge"
+      },
+      {
+        "price": "50.00%",
+        "description": "Leisure Access - CCA: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 646470,
+    "title": "Zumba",
+    "calendarId": 56,
+    "centerId": 41,
+    "facilityIds": [
+      3819
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/zumba/646470",
+    "description": "This fitness class fuses Latin and International rhythms with easy-to-follow moves to create a dynamic workout system that will blow you away. ZUMBA® utilizes the principles of fitness interval training and resistance training to maximize caloric output, fat burning and total body toning. It uses a variety of styles in its routines, including Cumbia, Soca, Merengue, Salsa, Samba, Reggaeton, Flamenco and more. Zumba® is a 'feel happy' workout that is great for both the body and the mind. Instructors will rotate bi-weekly. Drop-in $11+tax.. <br />",
+    "instructors": [
+      "Kayo Echizenya",
+      "Jenny Andrea Ayala"
+    ],
+    "priceText": "$114.00",
+    "free": false,
+    "ageMin": 16,
+    "ageMax": 0,
+    "ageText": "16 yrs +",
+    "openings": "18 openings remaining",
+    "availability": "open",
+    "spaces": 18,
+    "firstDate": "2027-01-07",
+    "lastDate": "2027-03-25",
+    "prices": [
+      {
+        "price": "$114.00",
+        "description": "Standard charge"
+      },
+      {
+        "price": "50.00%",
+        "description": "Leisure Access - CCA: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 646472,
+    "title": "Tai Chi with Amy - Yang Style 49 Forms & Health Qi Gong",
+    "calendarId": 47,
+    "centerId": 41,
+    "facilityIds": [
+      3819
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/tai-chi-with-amy---yang-style-49-forms-health-qi-gong/646472",
+    "description": "The 49-posture Yang Style Tai Chi boxing (no contact) maintains whole boxing posture of the traditional routine. Compact structure, consecutive action, fashion, and characteristic still exist, mainly to meet the requirement of competition and performance. This Tai Chi style is suitable for every age group and is appreciated by Tai Chi lovers around the world.<br />Qi gong improves health. People in different ages can evenly advance their physical functions by achieving the balance of Yin and Yang, the improvement of meridional system, and strengthening of tendons and bones.<br />This class is instructed by Master Amy Zhu, who was a disciple of Grand Master Yang Jun (5th Yang Family Tai Chi Chuan lineage holder). She is a National Tai Chi champion and certified Tai Chi instructor.<br />The class is instructed by Master Amy Zhu, who was a disciple of Grand Master Yang Jun (5th Yang Family Tai Chi Chuan lineage holder). She is also a national Tai Chi champion and certified Tai Chi instructor.<br />Drop-in $16+tax. <br>",
+    "instructors": [
+      "Amy Li Hua Zhu"
+    ],
+    "priceText": "$162.80",
+    "free": false,
+    "ageMin": 16,
+    "ageMax": 0,
+    "ageText": "16 yrs +",
+    "openings": "25 openings remaining",
+    "availability": "open",
+    "spaces": 25,
+    "firstDate": "2027-01-08",
+    "lastDate": "2027-03-26",
+    "prices": [
+      {
+        "price": "$162.80",
+        "description": "Standard charge"
+      },
+      {
+        "price": "50.00%",
+        "description": "Leisure Access - CCA: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 646474,
+    "title": "Tai Chi with Amy - Yang Style 42 Sword and Traditional Sword",
+    "calendarId": 47,
+    "centerId": 41,
+    "facilityIds": [
+      3819
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/tai-chi-with-amy---yang-style-42-sword-and-traditional-sword/646474",
+    "description": "No matter your age, Tai Chi Sword is a wonderful and fun way to improve your health and well-being. This class is instructed by Amy Zhu, a disciple of Grand Master Yang Jun, and is a national gold medal Tai Chi champion and certified Tai Chi instructor. <br />Drop-in $16+tax.<br>",
+    "instructors": [
+      "Amy Li Hua Zhu"
+    ],
+    "priceText": "$154.88",
+    "free": false,
+    "ageMin": 16,
+    "ageMax": 0,
+    "ageText": "16 yrs +",
+    "openings": "25 openings remaining",
+    "availability": "open",
+    "spaces": 25,
+    "firstDate": "2027-01-08",
+    "lastDate": "2027-03-26",
+    "prices": [
+      {
+        "price": "$154.88",
+        "description": "Standard charge"
+      },
+      {
+        "price": "50.00%",
+        "description": "Leisure Access - CCA: for Customer"
+      }
+    ]
   },
   {
     "id": 646493,
@@ -113936,6 +115701,41 @@
     "lastDate": "2027-03-27"
   },
   {
+    "id": 647022,
+    "title": "Modern Line Dance with Lucy - Beginner/Improver",
+    "calendarId": 20,
+    "centerId": 41,
+    "facilityIds": [
+      3820,
+      3821
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/modern-line-dance-with-lucy---beginner-improver/647022",
+    "description": "Facilitated in English, this lively and energetic program is a unique form of exercise and dance that incorporates easy-to-follow ballroom dance movements and steps like Cha Cha, Waltz, Samba, Jive, Tango, etc. with beautiful contemporary music. Dance is good exercise to improve posture, flexibility, and balance, and it's a great way to learn and practice various dances with new friends in a friendly and social atmosphere. No partner required. Lucy has more than 15 years of teaching line dancing experience. <br />Drop-in $6.50.<br />",
+    "instructors": [
+      "Lucy Chiu"
+    ],
+    "priceText": "$78.00",
+    "free": false,
+    "ageMin": 16,
+    "ageMax": 0,
+    "ageText": "16 yrs +",
+    "openings": "50 openings remaining",
+    "availability": "open",
+    "spaces": 50,
+    "firstDate": "2027-01-05",
+    "lastDate": "2027-03-30",
+    "prices": [
+      {
+        "price": "$78.00",
+        "description": "Activity Fee for 16 or more years old"
+      },
+      {
+        "price": "50.00%",
+        "description": "Leisure Access - CCA: for Customer"
+      }
+    ]
+  },
+  {
     "id": 647038,
     "title": "Seniors Coffee & Tea Social",
     "calendarId": 47,
@@ -113968,6 +115768,30 @@
     ]
   },
   {
+    "id": 647042,
+    "title": "Senior Social Dance Drop-In (Wed)",
+    "calendarId": 47,
+    "centerId": 41,
+    "facilityIds": [
+      3820,
+      3821
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/senior-social-dance-drop-in-wed/647042",
+    "description": "Come dance with your friends or meet new ones and dance together. No partner required. Non-instructional dance. This is a drop-in only program in our Seniors Centre Grand Hall.",
+    "instructors": [
+      "Agnes (Wai Chun) Lee"
+    ],
+    "priceText": "$2.86",
+    "free": false,
+    "ageMin": 55,
+    "ageMax": 0,
+    "ageText": "55 yrs +",
+    "openings": "Unlimited openings",
+    "availability": "open",
+    "firstDate": "2027-01-06",
+    "lastDate": "2027-03-31"
+  },
+  {
     "id": 647053,
     "title": "Zumba Toning - Free Trial",
     "calendarId": 16,
@@ -113985,11 +115809,290 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
+    "openings": "Closed",
+    "availability": "closed",
+    "firstDate": "2026-11-27",
+    "lastDate": "2026-11-27"
+  },
+  {
+    "id": 647055,
+    "title": "Mahjong Social Drop-In",
+    "calendarId": 47,
+    "centerId": 41,
+    "facilityIds": [
+      3820
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/mahjong-social-drop-in/647055",
+    "description": "Join us for a fun game of mahjong! Everyone is welcome, whether you’re new or experienced. It’s a great way to meet people and enjoy some friendly play.There will be only 12 spots available. No registration, drop-in only. Drop-in $3.00.",
+    "instructors": [
+      "Agnes (Wai Chun) Lee"
+    ],
+    "priceText": "$2.86",
+    "free": false,
+    "ageMin": 50,
+    "ageMax": 0,
+    "ageText": "50 yrs +",
     "openings": "12 openings remaining",
     "availability": "open",
     "spaces": 12,
-    "firstDate": "2026-11-27",
-    "lastDate": "2026-11-27"
+    "firstDate": "2027-01-08",
+    "lastDate": "2027-03-26"
+  },
+  {
+    "id": 647083,
+    "title": "Senior Social Dance - Drop-In (Sat)",
+    "calendarId": 47,
+    "centerId": 41,
+    "facilityIds": [
+      3820,
+      3821
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/senior-social-dance---drop-in-sat/647083",
+    "description": "Come dance with your friends or meet new ones and dance together. No partner required. Non-instructional dance. This is a drop-in only program in our Seniors Centre Grand Hall. <br />No Session Feb 13.",
+    "instructors": [
+      "Agnes (Wai Chun) Lee",
+      "Ronnie Yin Hui"
+    ],
+    "priceText": "$2.86",
+    "free": false,
+    "ageMin": 55,
+    "ageMax": 0,
+    "ageText": "55 yrs +",
+    "openings": "Unlimited openings",
+    "availability": "open",
+    "firstDate": "2027-01-09",
+    "lastDate": "2027-03-27"
+  },
+  {
+    "id": 647100,
+    "title": "Modern Line Dance with Lucy - Beginner/Improver",
+    "calendarId": 20,
+    "centerId": 41,
+    "facilityIds": [
+      3820,
+      3821
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/modern-line-dance-with-lucy---beginner-improver/647100",
+    "description": "<p>Facilitated in English, this lively and energetic program is a unique form of exercise and dance that incorporates easy-to-follow ballroom dance movements and steps like Cha Cha, Waltz, Samba, Jive, Tango, etc. with beautiful contemporary music. Dance is good exercise to improve posture, flexibility, and balance, and it's a great way to learn and practice various dances with new friends in a friendly and social atmosphere. No partner required. Lucy has more than 15 years of teaching line dancing experience.</p>Drop-in $6.50",
+    "instructors": [
+      "Lucy Chiu"
+    ],
+    "priceText": "$66.00",
+    "free": false,
+    "ageMin": 16,
+    "ageMax": 0,
+    "ageText": "16 yrs +",
+    "openings": "30 openings remaining",
+    "availability": "open",
+    "spaces": 30,
+    "firstDate": "2027-01-09",
+    "lastDate": "2027-03-27",
+    "prices": [
+      {
+        "price": "$66.00",
+        "description": "Activity Fee for 16 or more years old"
+      },
+      {
+        "price": "50.00%",
+        "description": "Leisure Access - CCA: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 647170,
+    "title": "Karaoke Drop-In (Mon)",
+    "calendarId": 47,
+    "centerId": 41,
+    "facilityIds": [
+      3823
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/karaoke-drop-in-mon/647170",
+    "description": "Come with your friends or meet new ones and sing some songs together. Please bring your own music. All languages are welcomed. No registration available. Drop-in only. Drop-in $3.00.<br>",
+    "instructors": [
+      "Karaoke Volunteers",
+      "Ivy Leung",
+      "JANICE LAM",
+      "Lily Le Hoa Luong",
+      "Tim Lam"
+    ],
+    "priceText": "$2.86",
+    "free": false,
+    "ageMin": 50,
+    "ageMax": 0,
+    "ageText": "50 yrs +",
+    "openings": "15 openings remaining",
+    "availability": "open",
+    "spaces": 15,
+    "firstDate": "2027-01-04",
+    "lastDate": "2027-03-22"
+  },
+  {
+    "id": 647175,
+    "title": "Karaoke Drop-In (Tue)",
+    "calendarId": 47,
+    "centerId": 41,
+    "facilityIds": [
+      3823
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/karaoke-drop-in-tue/647175",
+    "description": "Come with your friends or meet new ones and sing some songs together. Please bring your own music. All languages are welcomed. No registration available. Drop-in only. Drop-in $3.00.<br>",
+    "instructors": [
+      "Karaoke Volunteers",
+      "Ivy Leung",
+      "JANICE LAM",
+      "Lily Le Hoa Luong",
+      "Tim Lam"
+    ],
+    "priceText": "$2.86",
+    "free": false,
+    "ageMin": 50,
+    "ageMax": 0,
+    "ageText": "50 yrs +",
+    "openings": "15 openings remaining",
+    "availability": "open",
+    "spaces": 15,
+    "firstDate": "2027-01-05",
+    "lastDate": "2027-03-30"
+  },
+  {
+    "id": 647177,
+    "title": "Bridge",
+    "calendarId": 47,
+    "centerId": 41,
+    "facilityIds": [
+      3823
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/bridge/647177",
+    "description": "Come join our friendly, non-competitive group of Bridge players for our Wednesday afternoon rubber bridge.<br />We play from 12:30 pm to approximately 3:00 pm.<br />No partners required. Drop-ins are welcome. Always looking for new players. There is no teaching. All players must know how to play bridge.<br />",
+    "instructors": [],
+    "priceText": "Free",
+    "free": true,
+    "ageMin": 16,
+    "ageMax": 0,
+    "ageText": "16 yrs +",
+    "openings": "30 openings remaining",
+    "availability": "open",
+    "spaces": 30,
+    "firstDate": "2027-01-06",
+    "lastDate": "2027-03-31"
+  },
+  {
+    "id": 647182,
+    "title": "Seniors Chess Drop-In",
+    "calendarId": 47,
+    "centerId": 41,
+    "facilityIds": [
+      3823
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/seniors-chess-drop-in/647182",
+    "description": "Challenge your mind and connect with others over a game of chess. This drop-in, non-instructional program is open to everyone, whether you're a beginner or an experienced player. Bring your friends and make new ones!<br />Program will run every 1st, 3rd, and 4th Thursdays of the month.",
+    "instructors": [],
+    "priceText": "Free",
+    "free": true,
+    "ageMin": 16,
+    "ageMax": 0,
+    "ageText": "16 yrs +",
+    "openings": "30 openings remaining",
+    "availability": "open",
+    "spaces": 30,
+    "firstDate": "2027-01-07",
+    "lastDate": "2027-03-25"
+  },
+  {
+    "id": 647186,
+    "title": "Karaoke Drop-In (Fri)",
+    "calendarId": 47,
+    "centerId": 41,
+    "facilityIds": [
+      3823
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/karaoke-drop-in-fri/647186",
+    "description": "Come with your friends or meet new ones and sing some songs together. Please bring your own music. All languages are welcomed. No registration available. Drop-in only.<p>Drop-in $3</p>",
+    "instructors": [
+      "Karaoke Volunteers",
+      "Ivy Leung",
+      "JANICE LAM",
+      "Lily Le Hoa Luong",
+      "Tim Lam"
+    ],
+    "priceText": "$2.86",
+    "free": false,
+    "ageMin": 50,
+    "ageMax": 0,
+    "ageText": "50 yrs +",
+    "openings": "15 openings remaining",
+    "availability": "open",
+    "spaces": 15,
+    "firstDate": "2027-01-08",
+    "lastDate": "2027-03-26"
+  },
+  {
+    "id": 647199,
+    "title": "Fitness with Sprina - 12 Method Daoyin Health Preservation",
+    "calendarId": 16,
+    "centerId": 41,
+    "facilityIds": [
+      3824
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/fitness-with-sprina---12-method-daoyin-health-preservation/647199",
+    "description": "The Twelve-Method Daoyin Health Preservation Exercise is a traditional wellness practice that integrates breathing, coordinated movements, and mental focus. Through gentle stretching, acupoint stimulation, and regulated breathing, it helps promote the flow of meridians, harmonize the circulation of qi and blood, and strengthen the internal organs. With regular practice, it can improve suboptimal health conditions, alleviate symptoms of chronic illnesses, and enhance overall physical and mental well-being and balance.",
+    "instructors": [
+      "Sprina Fu"
+    ],
+    "priceText": "$130.00",
+    "free": false,
+    "ageMin": 16,
+    "ageMax": 0,
+    "ageText": "16 yrs +",
+    "openings": "12 openings remaining",
+    "availability": "open",
+    "spaces": 12,
+    "firstDate": "2027-01-06",
+    "lastDate": "2027-03-31",
+    "prices": [
+      {
+        "price": "$130.00",
+        "description": "Standard charge"
+      },
+      {
+        "price": "50.00%",
+        "description": "Leisure Access - CCA: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 647202,
+    "title": "Fitness with Sprina - Tai Chi Stick",
+    "calendarId": 16,
+    "centerId": 41,
+    "facilityIds": [
+      3824
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/fitness-with-sprina---tai-chi-stick/647202",
+    "description": "In practice with a stick, we twist, turn, bend, and stretch around the waist as a centre and move our spine accordingly. The stick helps stretch muscles and strengthen bones, massage acupoints, clear meridian channels, and activate internal organs. Moving the stick and massaging our abdomen during exercise can further stimulate internal organs, thus strengthening the stick's body-building effects.<br />Drop-in $12+tax.<br>",
+    "instructors": [
+      "Sprina Fu"
+    ],
+    "priceText": "$130.00",
+    "free": false,
+    "ageMin": 16,
+    "ageMax": 0,
+    "ageText": "16 yrs +",
+    "openings": "10 openings remaining",
+    "availability": "open",
+    "spaces": 10,
+    "firstDate": "2027-01-06",
+    "lastDate": "2027-03-31",
+    "prices": [
+      {
+        "price": "$130.00",
+        "description": "Standard charge"
+      },
+      {
+        "price": "50.00%",
+        "description": "Leisure Access - CCA: for Customer"
+      }
+    ]
   },
   {
     "id": 647203,
@@ -114094,6 +116197,40 @@
     ]
   },
   {
+    "id": 647236,
+    "title": "Zumba® + Lift",
+    "calendarId": 56,
+    "centerId": 41,
+    "facilityIds": [
+      3824
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/zumba-lift/647236",
+    "description": "Zumba + Lift combines the signature dance cardio elements of Zumba with targeted strength training. This format alternates between high-energy dance intervals and muscle-conditioning segments using light to moderate weights. The result is a balanced, full-body workout that improves both cardiovascular fitness and muscular strength. My classes emphasize proper form, progression options, and seamless transitions to keep participants challenged while still maintaining the fun, music-driven energy of Zumba.No session Feb 15.",
+    "instructors": [
+      "Reem Elshaer"
+    ],
+    "priceText": "$150.00",
+    "free": false,
+    "ageMin": 16,
+    "ageMax": 0,
+    "ageText": "16 yrs +",
+    "openings": "20 openings remaining",
+    "availability": "open",
+    "spaces": 20,
+    "firstDate": "2027-01-11",
+    "lastDate": "2027-03-22",
+    "prices": [
+      {
+        "price": "$150.00",
+        "description": "Standard charge"
+      },
+      {
+        "price": "50.00%",
+        "description": "Leisure Access - CCA: for Customer"
+      }
+    ]
+  },
+  {
     "id": 647238,
     "title": "Beginner/Intermediate Senior and Adult Badminton",
     "calendarId": 15,
@@ -114164,6 +116301,40 @@
     ]
   },
   {
+    "id": 647241,
+    "title": "CIRCL Mobility",
+    "calendarId": 56,
+    "centerId": 41,
+    "facilityIds": [
+      3824
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/circl-mobility/647241",
+    "description": "<b>CIRCL Mobility </b>is a low-impact, mobility and flexibility-based format designed to enhance movement quality, reduce stiffness, and support recovery. It incorporates controlled, intentional movements that improve joint range of motion, stability, and overall functional fitness. Classes are suitable for all levels and are especially beneficial for injury prevention, active recovery, and stress reduction. I guide participants through fluid sequences with a strong focus on breath, control, and body awareness. Feel free to bring in your own mat.<br />No session Feb 15.",
+    "instructors": [
+      "Reem Elshaer"
+    ],
+    "priceText": "$150.00",
+    "free": false,
+    "ageMin": 16,
+    "ageMax": 0,
+    "ageText": "16 yrs +",
+    "openings": "20 openings remaining",
+    "availability": "open",
+    "spaces": 20,
+    "firstDate": "2027-01-11",
+    "lastDate": "2027-03-22",
+    "prices": [
+      {
+        "price": "$150.00",
+        "description": "Standard charge"
+      },
+      {
+        "price": "50.00%",
+        "description": "Leisure Access - CCA: for Customer"
+      }
+    ]
+  },
+  {
     "id": 647242,
     "title": "Japanese Taiko Drumming - Miyake Style for Beginners",
     "calendarId": 20,
@@ -114181,9 +116352,9 @@
     "ageMin": 16,
     "ageMax": 0,
     "ageText": "16 yrs +",
-    "openings": "20 openings remaining",
+    "openings": "19 openings remaining",
     "availability": "open",
-    "spaces": 20,
+    "spaces": 19,
     "firstDate": "2026-11-29",
     "lastDate": "2026-12-13",
     "prices": [
@@ -114215,9 +116386,9 @@
     "ageMin": 16,
     "ageMax": 0,
     "ageText": "16 yrs +",
-    "openings": "9 openings remaining",
+    "openings": "8 openings remaining",
     "availability": "open",
-    "spaces": 9,
+    "spaces": 8,
     "firstDate": "2026-11-29",
     "lastDate": "2026-12-13",
     "prices": [
@@ -114230,6 +116401,28 @@
         "description": "Leisure Access - CCA: for Customer"
       }
     ]
+  },
+  {
+    "id": 647274,
+    "title": "Pickleball with Guidance (Thu)",
+    "calendarId": 15,
+    "centerId": 41,
+    "facilityIds": [
+      608
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/pickleball-with-guidance-thu/647274",
+    "description": "<p>Pickleball is a sport in which two to four players use solid paddles to hit a perforated polymer ball, similar to a wiffle ball, over a net. The sport shares features of other racquet sports, the dimensions and layout of a badminton court, and a net and rules similar to tennis, with a few modifications. Ideal for varying fitness levels. A volunteer instructor will be present for free lessons with guidance and advice. </p><p>Drop-in spots will be available 10 mins before the program start time. </p><p> $5.00 Drop-in only (12 spots available per week). </p><p>No Session Mar 18</p>",
+    "instructors": [],
+    "priceText": "Free",
+    "free": true,
+    "ageMin": 19,
+    "ageMax": 0,
+    "ageText": "19 yrs +",
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
+    "firstDate": "2027-01-14",
+    "lastDate": "2027-03-25"
   },
   {
     "id": 647278,
@@ -115777,6 +117970,382 @@
     "lastDate": "2027-03-12"
   },
   {
+    "id": 647758,
+    "title": "Play Gym",
+    "calendarId": 1,
+    "centerId": 41,
+    "facilityIds": [
+      607
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/play-gym/647758",
+    "description": "Come by and burn lots of energy playing with toys, making new friends and riding around in cars! Babies under 12 months are free. Parent participation is required. Drop-in $3.50.<br>",
+    "instructors": [
+      "Play Gym Leader",
+      "Harjot Deol",
+      "Shivam Gupta"
+    ],
+    "priceText": "$3.50",
+    "free": false,
+    "ageMin": 0,
+    "ageMax": 5,
+    "ageText": "Age less than 5 yrs",
+    "openings": "50 openings remaining",
+    "availability": "open",
+    "spaces": 50,
+    "firstDate": "2027-01-08",
+    "lastDate": "2027-03-12"
+  },
+  {
+    "id": 647760,
+    "title": "Play Gym",
+    "calendarId": 1,
+    "centerId": 41,
+    "facilityIds": [
+      607,
+      608
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/play-gym/647760",
+    "description": "Come by and burn lots of energy playing with toys, making new friends and riding around in cars! Babies under 12 months are free. Parent participation is required. Drop-in $3.50. No session March 17. <br>",
+    "instructors": [
+      "Play Gym Leader",
+      "Shivam Gupta"
+    ],
+    "priceText": "$3.50",
+    "free": false,
+    "ageMin": 0,
+    "ageMax": 5,
+    "ageText": "Age less than 5 yrs",
+    "openings": "50 openings remaining",
+    "availability": "open",
+    "spaces": 50,
+    "firstDate": "2027-01-06",
+    "lastDate": "2027-03-31"
+  },
+  {
+    "id": 647790,
+    "title": "Pickleball with Guidance (Tue)",
+    "calendarId": 15,
+    "centerId": 41,
+    "facilityIds": [
+      608
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/pickleball-with-guidance-tue/647790",
+    "description": "<p>Pickleball is a sport in which two to four players use solid paddles to hit a perforated polymer ball, similar to a wiffle ball, over a net. The sport shares features of other racquet sports, the dimensions and layout of a badminton court, and a net and rules similar to tennis, with a few modifications. Ideal for varying fitness levels. A volunteer instructor will be present for free lessons with guidance and advice. </p><p> $5.00 Drop-in (12 spots available per week). </p><p>No Session Mar 16. </p>",
+    "instructors": [],
+    "priceText": "Free",
+    "free": true,
+    "ageMin": 19,
+    "ageMax": 0,
+    "ageText": "19 yrs +",
+    "openings": "Full",
+    "availability": "full",
+    "spaces": 0,
+    "firstDate": "2027-01-12",
+    "lastDate": "2027-03-30"
+  },
+  {
+    "id": 647824,
+    "title": "BCRPA Choose to Move",
+    "calendarId": 16,
+    "centerId": 41,
+    "facilityIds": [
+      3824
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/bcrpa-choose-to-move/647824",
+    "description": "Join Choose to Move to help introduce the habit of physical activity into your daily life in ways that make sense for you. Choose to Move is free and flexible, and provides you with motivation and support to become more active. In Choose to Move, you receive both individual and group support. You will work with a trained activity coach to develop and stick to a physical activity plan made just for you. You choose activities that you know you will enjoy and are able to do! You will also join a group of other Choose to Movers to share successes and challenges.With the help of your activity coach and support group, you will find the motivation and accountability you need to achieve your goals.To learn more about Choose to Move visit www.choosetomove.ca. Participants must attend the Choose to Move Information Session to be eligible for the program",
+    "instructors": [
+      "Eva Lau"
+    ],
+    "priceText": "Free",
+    "free": true,
+    "ageMin": 50,
+    "ageMax": 0,
+    "ageText": "50 yrs +",
+    "openings": "15 openings remaining",
+    "availability": "open",
+    "spaces": 15,
+    "firstDate": "2027-01-12",
+    "lastDate": "2027-03-16"
+  },
+  {
+    "id": 647839,
+    "title": "Polymer Dance: Intermediate/Advanced",
+    "calendarId": 20,
+    "centerId": 288,
+    "facilityIds": [
+      617
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/polymer-dance-intermediate-advanced/647839",
+    "description": "<p>Polymer Dance is a contemporary dance class and improvisation ensemble for non-professional dancers over the age of 16 with at least three years dance experience. If you are a dancer looking for formal training with professional-level teachers and love to improvise and perform, Polymer Dance is for you! For more information, contact polymerdance@gmail.com. Drop-in available with instructor's permission. </p>",
+    "instructors": [
+      "Miriam Esquitin"
+    ],
+    "priceText": "$227.29",
+    "free": false,
+    "ageMin": 16,
+    "ageMax": 0,
+    "ageText": "16 yrs +",
+    "openings": "10 openings remaining",
+    "availability": "open",
+    "spaces": 10,
+    "firstDate": "2027-01-12",
+    "lastDate": "2027-03-23",
+    "prices": [
+      {
+        "price": "$227.29",
+        "description": "Standard charge"
+      },
+      {
+        "price": "50.00%",
+        "description": "Leisure Access - CCA: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 647847,
+    "title": "Private Guitar or Ukulele Lessons (5+ yrs)",
+    "calendarId": 20,
+    "centerId": 288,
+    "facilityIds": [
+      616
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/private-guitar-or-ukulele-lessons-5-yrs/647847",
+    "description": "Have you always wanted to learn a string instrument? We offer private guitar or even ukulele lessons to get you started. This program is based on special interests and fundamental goals that serve the humble of beginners all the way to tomorrow's prodigies. All classes are set in a fun, stress free environment. All students are required to bring their own guitar or ukulele to the lessons.",
+    "instructors": [
+      "Musical Expressions"
+    ],
+    "priceText": "$292.50",
+    "free": false,
+    "ageMin": 5,
+    "ageMax": 0,
+    "ageText": "5 yrs +",
+    "openings": "1 opening remaining",
+    "availability": "open",
+    "spaces": 1,
+    "firstDate": "2027-01-11",
+    "lastDate": "2027-03-15",
+    "prices": [
+      {
+        "price": "$292.50",
+        "description": "*CCA Activity Fee No Tax: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 647848,
+    "title": "Private Guitar or Ukulele Lessons (5+ yrs)",
+    "calendarId": 20,
+    "centerId": 288,
+    "facilityIds": [
+      616
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/private-guitar-or-ukulele-lessons-5-yrs/647848",
+    "description": "Have you always wanted to learn a string instrument? We offer private guitar or even ukulele lessons to get you started. This program is based on special interests and fundamental goals that serve the humble of beginners all the way to tomorrow's prodigies. All classes are set in a fun, stress free environment. All students are required to bring their own guitar or ukulele to the lessons.",
+    "instructors": [
+      "Musical Expressions"
+    ],
+    "priceText": "$292.50",
+    "free": false,
+    "ageMin": 5,
+    "ageMax": 0,
+    "ageText": "5 yrs +",
+    "openings": "1 opening remaining",
+    "availability": "open",
+    "spaces": 1,
+    "firstDate": "2027-01-11",
+    "lastDate": "2027-03-15",
+    "prices": [
+      {
+        "price": "$292.50",
+        "description": "*CCA Activity Fee No Tax: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 647849,
+    "title": "Private Guitar or Ukulele Lessons (5+ yrs)",
+    "calendarId": 20,
+    "centerId": 288,
+    "facilityIds": [
+      616
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/private-guitar-or-ukulele-lessons-5-yrs/647849",
+    "description": "Have you always wanted to learn a string instrument? We offer private guitar or even ukulele lessons to get you started. This program is based on special interests and fundamental goals that serve the humble of beginners all the way to tomorrow's prodigies. All classes are set in a fun, stress free environment. All students are required to bring their own guitar or ukulele to the lessons.",
+    "instructors": [
+      "Musical Expressions"
+    ],
+    "priceText": "$292.50",
+    "free": false,
+    "ageMin": 5,
+    "ageMax": 0,
+    "ageText": "5 yrs +",
+    "openings": "1 opening remaining",
+    "availability": "open",
+    "spaces": 1,
+    "firstDate": "2027-01-11",
+    "lastDate": "2027-03-15",
+    "prices": [
+      {
+        "price": "$292.50",
+        "description": "*CCA Activity Fee No Tax: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 647851,
+    "title": "Private Guitar or Ukulele Lessons (5+ yrs)",
+    "calendarId": 20,
+    "centerId": 288,
+    "facilityIds": [
+      616
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/private-guitar-or-ukulele-lessons-5-yrs/647851",
+    "description": "Have you always wanted to learn a string instrument? We offer private guitar or even ukulele lessons to get you started. This program is based on special interests and fundamental goals that serve the humble of beginners all the way to tomorrow's prodigies. All classes are set in a fun, stress free environment. All students are required to bring their own guitar or ukulele to the lessons.",
+    "instructors": [
+      "Musical Expressions"
+    ],
+    "priceText": "$292.50",
+    "free": false,
+    "ageMin": 5,
+    "ageMax": 0,
+    "ageText": "5 yrs +",
+    "openings": "1 opening remaining",
+    "availability": "open",
+    "spaces": 1,
+    "firstDate": "2027-01-11",
+    "lastDate": "2027-03-15",
+    "prices": [
+      {
+        "price": "$292.50",
+        "description": "*CCA Activity Fee No Tax: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 647852,
+    "title": "Private Guitar or Ukulele Lessons (5+ yrs)",
+    "calendarId": 20,
+    "centerId": 288,
+    "facilityIds": [
+      616
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/private-guitar-or-ukulele-lessons-5-yrs/647852",
+    "description": "Have you always wanted to learn a string instrument? We offer private guitar or even ukulele lessons to get you started. This program is based on special interests and fundamental goals that serve the humble of beginners all the way to tomorrow's prodigies. All classes are set in a fun, stress free environment. All students are required to bring their own guitar or ukulele to the lessons.",
+    "instructors": [
+      "Musical Expressions"
+    ],
+    "priceText": "$292.50",
+    "free": false,
+    "ageMin": 5,
+    "ageMax": 0,
+    "ageText": "5 yrs +",
+    "openings": "1 opening remaining",
+    "availability": "open",
+    "spaces": 1,
+    "firstDate": "2027-01-11",
+    "lastDate": "2027-03-15",
+    "prices": [
+      {
+        "price": "$292.50",
+        "description": "*CCA Activity Fee No Tax: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 647853,
+    "title": "Private Guitar or Ukulele Lessons (5+ yrs)",
+    "calendarId": 20,
+    "centerId": 288,
+    "facilityIds": [
+      616
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/private-guitar-or-ukulele-lessons-5-yrs/647853",
+    "description": "Have you always wanted to learn a string instrument? We offer private guitar or even ukulele lessons to get you started. This program is based on special interests and fundamental goals that serve the humble of beginners all the way to tomorrow's prodigies. All classes are set in a fun, stress free environment. All students are required to bring their own guitar or ukulele to the lessons.",
+    "instructors": [
+      "Musical Expressions"
+    ],
+    "priceText": "$292.50",
+    "free": false,
+    "ageMin": 5,
+    "ageMax": 0,
+    "ageText": "5 yrs +",
+    "openings": "1 opening remaining",
+    "availability": "open",
+    "spaces": 1,
+    "firstDate": "2027-01-11",
+    "lastDate": "2027-03-15",
+    "prices": [
+      {
+        "price": "$292.50",
+        "description": "*CCA Activity Fee No Tax: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 647854,
+    "title": "Private Guitar or Ukulele Lessons (5+ yrs)",
+    "calendarId": 20,
+    "centerId": 288,
+    "facilityIds": [
+      616
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/private-guitar-or-ukulele-lessons-5-yrs/647854",
+    "description": "Have you always wanted to learn a string instrument? We offer private guitar or even ukulele lessons to get you started. This program is based on special interests and fundamental goals that serve the humble of beginners all the way to tomorrow's prodigies. All classes are set in a fun, stress free environment. All students are required to bring their own guitar or ukulele to the lessons.",
+    "instructors": [
+      "Musical Expressions"
+    ],
+    "priceText": "$292.50",
+    "free": false,
+    "ageMin": 5,
+    "ageMax": 0,
+    "ageText": "5 yrs +",
+    "openings": "1 opening remaining",
+    "availability": "open",
+    "spaces": 1,
+    "firstDate": "2027-01-11",
+    "lastDate": "2027-03-15",
+    "prices": [
+      {
+        "price": "$292.50",
+        "description": "*CCA Activity Fee No Tax: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 647880,
+    "title": "Pickleball Lesson: Learn to play Pickleball",
+    "calendarId": 15,
+    "centerId": 41,
+    "facilityIds": [
+      606
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/pickleball-lesson-learn-to-play-pickleball/647880",
+    "description": "<p>Never played? Perfect. In two sessions, you’ll learn the rules, the scoring, and the feel of the game, then play real points. Come curious, leave hooked. </p><p>No equipment no problem we will supply.</p>",
+    "instructors": [
+      "Richard Lee"
+    ],
+    "priceText": "$57.14",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 0,
+    "ageText": "19 yrs +",
+    "openings": "16 openings remaining",
+    "availability": "open",
+    "spaces": 16,
+    "firstDate": "2027-01-05",
+    "lastDate": "2027-01-12",
+    "prices": [
+      {
+        "price": "$57.14",
+        "description": "Standard charge"
+      },
+      {
+        "price": "50.00%",
+        "description": "Leisure Access - CCA: for Customer"
+      }
+    ]
+  },
+  {
     "id": 647883,
     "title": "Awesome KPOP / Asian Pop / Hip Hop Open - PraiseTEAM",
     "calendarId": 20,
@@ -116119,6 +118688,74 @@
     ]
   },
   {
+    "id": 648123,
+    "title": "Sportball Multisport  (3-5 yrs)",
+    "calendarId": 1,
+    "centerId": 41,
+    "facilityIds": [
+      607
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/sportball-multisport-3-5-yrs/648123",
+    "description": "<p>This program is designed to guide children through the introductory skills in a number of different ball sports. Games and skills are taught in a fun and creative manner by using story lines to encourage participation. All programs are non-competitive and focus on success while building confidence. </p><p>No session February 13.</p>",
+    "instructors": [
+      "Sportball Vancouver"
+    ],
+    "priceText": "$162.00",
+    "free": false,
+    "ageMin": 2,
+    "ageMax": 5,
+    "ageText": "Age at least 2y 11m but less than 5y 11m",
+    "openings": "8 openings remaining",
+    "availability": "open",
+    "spaces": 8,
+    "firstDate": "2027-01-09",
+    "lastDate": "2027-03-13",
+    "prices": [
+      {
+        "price": "$162.00",
+        "description": "Standard charge"
+      },
+      {
+        "price": "50.00%",
+        "description": "Leisure Access - CCA: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 648124,
+    "title": "Sportball Parent & Tot Multisport",
+    "calendarId": 1,
+    "centerId": 41,
+    "facilityIds": [
+      607
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/sportball-parent-tot-multisport/648124",
+    "description": "<p>This program is designed to guide children through the introductory skills in a number of different ball sports. Games and skills are taught in a fun and creative manner by using story lines to encourage participation. All programs are non-competitive and focus on success while building confidence.</p><p>No session February 13. </p>",
+    "instructors": [
+      "Sportball Vancouver"
+    ],
+    "priceText": "$162.00",
+    "free": false,
+    "ageMin": 1,
+    "ageMax": 3,
+    "ageText": "Age at least 1y 6m but less than 3y 11m",
+    "openings": "12 openings remaining",
+    "availability": "open",
+    "spaces": 12,
+    "firstDate": "2027-01-09",
+    "lastDate": "2027-03-13",
+    "prices": [
+      {
+        "price": "$162.00",
+        "description": "Standard charge"
+      },
+      {
+        "price": "50.00%",
+        "description": "Leisure Access - CCA: for Customer"
+      }
+    ]
+  },
+  {
     "id": 648130,
     "title": "Pickleball - Doubles",
     "calendarId": 15,
@@ -116336,6 +118973,30 @@
     "lastDate": "2027-03-26"
   },
   {
+    "id": 648201,
+    "title": "Sunset Tot Time",
+    "calendarId": 1,
+    "centerId": 41,
+    "facilityIds": [
+      609
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/sunset-tot-time/648201",
+    "description": "Our space will be transformed into an environment where children can explore and discover new things with exciting perspectives! Active and sit down activities available. Drop-in $3.50.<br />No session February 15.",
+    "instructors": [
+      "Aleithia Riebesehl"
+    ],
+    "priceText": "$3.50",
+    "free": false,
+    "ageMin": 0,
+    "ageMax": 5,
+    "ageText": "Age less than 5 yrs",
+    "openings": "20 openings remaining",
+    "availability": "open",
+    "spaces": 20,
+    "firstDate": "2027-01-04",
+    "lastDate": "2027-03-08"
+  },
+  {
     "id": 648221,
     "title": "Toastmasters Youth Program - Greater Vancouver Gavel Club",
     "calendarId": 6,
@@ -116358,6 +119019,74 @@
     "spaces": 30,
     "firstDate": "2027-01-05",
     "lastDate": "2027-03-09"
+  },
+  {
+    "id": 648235,
+    "title": "Axe Capoeira - January",
+    "calendarId": 56,
+    "centerId": 41,
+    "facilityIds": [
+      609
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/axe-capoeira---january/648235",
+    "description": "<b>JANUARY PROMOTION: 50% OFF REGISTRATION FEES</b><br />These are ongoing classes where anyone can join, no previous experience necessary. It covers all aspects of Capoeira; martial-arts, dance, acrobatics, music, culture, language, and more. It focuses on developing the student's coordination, balance, strength, rhythm, and flexibility. Drop in $20.00 as space allows. <br>",
+    "instructors": [
+      "Amanda Torres"
+    ],
+    "priceText": "$60.00",
+    "free": false,
+    "ageMin": 14,
+    "ageMax": 0,
+    "ageText": "14 yrs +",
+    "openings": "10 openings remaining",
+    "availability": "open",
+    "spaces": 10,
+    "firstDate": "2027-01-05",
+    "lastDate": "2027-01-26",
+    "prices": [
+      {
+        "price": "$60.00",
+        "description": "Standard charge"
+      },
+      {
+        "price": "50.00%",
+        "description": "Leisure Access - CCA: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 648258,
+    "title": "Axe Capoeira Kids - January",
+    "calendarId": 56,
+    "centerId": 41,
+    "facilityIds": [
+      609
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/axe-capoeira-kids---january/648258",
+    "description": "<b>JANUARY PROMOTION: 50% OFF REGISTRATION FEES</b><br />These are ongoing classes where anyone can join, no previous experience necessary. It covers all aspects of Capoeira; martial-arts, dance, acrobatics, music, culture, language, and more. It focuses on developing the student's coordination, balance, strength, rhythm, and flexibility. Drop in $20 as space allows. <br>",
+    "instructors": [
+      "Amanda Torres"
+    ],
+    "priceText": "$60.00",
+    "free": false,
+    "ageMin": 6,
+    "ageMax": 13,
+    "ageText": "Age at least 6 yrs but less than 13y 11m",
+    "openings": "10 openings remaining",
+    "availability": "open",
+    "spaces": 10,
+    "firstDate": "2027-01-05",
+    "lastDate": "2027-01-29",
+    "prices": [
+      {
+        "price": "$60.00",
+        "description": "Standard charge"
+      },
+      {
+        "price": "50.00%",
+        "description": "Leisure Access - CCA: for Customer"
+      }
+    ]
   },
   {
     "id": 648266,
@@ -116430,6 +119159,40 @@
     "spaces": 10,
     "firstDate": "2027-01-08",
     "lastDate": "2027-01-29"
+  },
+  {
+    "id": 648277,
+    "title": "Axe Capoeira Minis - January",
+    "calendarId": 56,
+    "centerId": 41,
+    "facilityIds": [
+      609
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/axe-capoeira-minis---january/648277",
+    "description": "<b>JANUARY PROMOTION: 50% OFF REGISTRATION FEES</b><br />These are ongoing classes where anyone can join, no previous experience necessary. It covers all aspects of Capoeira; martial-arts, dance, acrobatics, music, culture, language, and more. It focuses on developing the student's coordination, balance, strength, rhythm, and flexibility. Drop in $20 as space allows. <br>",
+    "instructors": [
+      "Amanda Torres"
+    ],
+    "priceText": "$60.00",
+    "free": false,
+    "ageMin": 6,
+    "ageMax": 13,
+    "ageText": "Age at least 6 yrs but less than 13y 11m",
+    "openings": "10 openings remaining",
+    "availability": "open",
+    "spaces": 10,
+    "firstDate": "2027-01-05",
+    "lastDate": "2027-01-29",
+    "prices": [
+      {
+        "price": "$60.00",
+        "description": "Standard charge"
+      },
+      {
+        "price": "50.00%",
+        "description": "Leisure Access - CCA: for Customer"
+      }
+    ]
   },
   {
     "id": 648297,
@@ -120874,9 +123637,9 @@
     "ageMin": 16,
     "ageMax": 0,
     "ageText": "16 yrs +",
-    "openings": "10 openings remaining",
+    "openings": "4 openings remaining",
     "availability": "open",
-    "spaces": 10,
+    "spaces": 4,
     "firstDate": "2027-01-15",
     "lastDate": "2027-02-19",
     "prices": [
@@ -120908,9 +123671,9 @@
     "ageMin": 16,
     "ageMax": 0,
     "ageText": "16 yrs +",
-    "openings": "10 openings remaining",
+    "openings": "8 openings remaining",
     "availability": "open",
-    "spaces": 10,
+    "spaces": 8,
     "firstDate": "2027-01-15",
     "lastDate": "2027-02-19",
     "prices": [
@@ -120942,9 +123705,9 @@
     "ageMin": 8,
     "ageMax": 12,
     "ageText": "Age at least 8 yrs but less than 12y 11m 4w",
-    "openings": "10 openings remaining",
+    "openings": "9 openings remaining",
     "availability": "open",
-    "spaces": 10,
+    "spaces": 9,
     "firstDate": "2027-01-15",
     "lastDate": "2027-03-12",
     "prices": [
@@ -124468,8 +127231,8 @@
     "openings": "20 openings remaining",
     "availability": "open",
     "spaces": 20,
-    "firstDate": "2027-01-05",
-    "lastDate": "2027-03-09",
+    "firstDate": "2027-01-08",
+    "lastDate": "2027-03-12",
     "prices": [
       {
         "price": "$27.50",
@@ -126265,6 +129028,210 @@
     ]
   },
   {
+    "id": 651297,
+    "title": "Advanced Healthy Bhangra",
+    "calendarId": 20,
+    "centerId": 288,
+    "facilityIds": [
+      617
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/advanced-healthy-bhangra/651297",
+    "description": "<p>Experience the vibrant energy of Healthy Bhangra! This class is for youth and adults with experience in Bhangra dancing that are up for a challenge!<br>Drop-in fee available. It must be paid at Sunset Community Centre, and the receipt must be brought to class in order to participate.</p>",
+    "instructors": [
+      "Sukhdeep Singh Virk"
+    ],
+    "priceText": "$90.00",
+    "free": false,
+    "ageMin": 14,
+    "ageMax": 0,
+    "ageText": "14 yrs +",
+    "openings": "10 openings remaining",
+    "availability": "open",
+    "spaces": 10,
+    "firstDate": "2027-01-16",
+    "lastDate": "2027-03-20",
+    "prices": [
+      {
+        "price": "$90.00",
+        "description": "Standard charge"
+      },
+      {
+        "price": "50.00%",
+        "description": "Leisure Access - CCA: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 651298,
+    "title": "Girls Healthy Bhangra",
+    "calendarId": 20,
+    "centerId": 288,
+    "facilityIds": [
+      617
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/girls-healthy-bhangra/651298",
+    "description": "<p>Experience the vibrant energy of Healthy Bhangra! This class is for girls seeking fun, fitness, and community. No experience needed – just bring your energy and enthusiasm! Join us and dance to the beat of joy and tradition! <br>Drop-in fee available. It must be paid at Sunset Community Centre, and the receipt must be brought to class in order to participate</p>",
+    "instructors": [
+      "Sukhdeep Singh Virk"
+    ],
+    "priceText": "$144.00",
+    "free": false,
+    "ageMin": 4,
+    "ageMax": 14,
+    "ageText": "Age at least 4 yrs but less than 14 yrs",
+    "openings": "10 openings remaining",
+    "availability": "open",
+    "spaces": 10,
+    "firstDate": "2027-01-14",
+    "lastDate": "2027-03-18",
+    "prices": [
+      {
+        "price": "$144.00",
+        "description": "Standard charge"
+      },
+      {
+        "price": "50.00%",
+        "description": "Leisure Access - CCA: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 651299,
+    "title": "Boys Healthy Bhangra",
+    "calendarId": 20,
+    "centerId": 288,
+    "facilityIds": [
+      617
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/boys-healthy-bhangra/651299",
+    "description": "<p>Experience the vibrant energy of Healthy Bhangra! This class is for boys seeking fun, fitness, and community. No experience needed – just bring your energy and enthusiasm! Join us and dance to the beat of joy and tradition! </p>Drop-in fee available. It must be paid at Sunset Community Centre, and the receipt must be brought to class in order to participate.",
+    "instructors": [
+      "Sukhdeep Singh Virk"
+    ],
+    "priceText": "$144.00",
+    "free": false,
+    "ageMin": 4,
+    "ageMax": 14,
+    "ageText": "Age at least 4 yrs but less than 14 yrs",
+    "openings": "10 openings remaining",
+    "availability": "open",
+    "spaces": 10,
+    "firstDate": "2027-01-14",
+    "lastDate": "2027-03-18",
+    "prices": [
+      {
+        "price": "$144.00",
+        "description": "Standard charge"
+      },
+      {
+        "price": "50.00%",
+        "description": "Leisure Access - CCA: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 651300,
+    "title": "Mens Healthy Bhangra",
+    "calendarId": 20,
+    "centerId": 288,
+    "facilityIds": [
+      617
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/mens-healthy-bhangra/651300",
+    "description": "Experience the vibrant energy of Healthy Bhangra! This class is for men seeking fun, fitness, and community. No experience needed – just bring your energy and enthusiasm! Join us and dance to the beat of joy and tradition! <br />Drop-in fee available. It must be paid at Sunset Community Centre, and the receipt must be brought to class in order to participate.",
+    "instructors": [
+      "Sukhdeep Singh Virk"
+    ],
+    "priceText": "$90.00",
+    "free": false,
+    "ageMin": 18,
+    "ageMax": 0,
+    "ageText": "18 yrs +",
+    "openings": "10 openings remaining",
+    "availability": "open",
+    "spaces": 10,
+    "firstDate": "2027-01-16",
+    "lastDate": "2027-03-20",
+    "prices": [
+      {
+        "price": "$90.00",
+        "description": "Activity Fee Adults for 15 or more years old"
+      },
+      {
+        "price": "50.00%",
+        "description": "Leisure Access - CCA: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 651301,
+    "title": "Womens Healthy Bhangra",
+    "calendarId": 20,
+    "centerId": 288,
+    "facilityIds": [
+      617
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/womens-healthy-bhangra/651301",
+    "description": "Experience the vibrant energy of Healthy Bhangra! This class is for women seeking fun, fitness, and community. No experience needed – just bring your energy and enthusiasm! Join us and dance to the beat of joy and tradition!<br>Drop-in fee available. It must be paid at Sunset Community Centre, and the receipt must be brought to class in order to participate.",
+    "instructors": [
+      "Sukhdeep Singh Virk"
+    ],
+    "priceText": "$120.00",
+    "free": false,
+    "ageMin": 35,
+    "ageMax": 0,
+    "ageText": "35 yrs +",
+    "openings": "10 openings remaining",
+    "availability": "open",
+    "spaces": 10,
+    "firstDate": "2027-01-14",
+    "lastDate": "2027-03-18",
+    "prices": [
+      {
+        "price": "$120.00",
+        "description": "Activity Fee Adults for 15 or more years old"
+      },
+      {
+        "price": "50.00%",
+        "description": "Leisure Access - CCA: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 651302,
+    "title": "Womens Healthy Bhangra and Gidda",
+    "calendarId": 20,
+    "centerId": 288,
+    "facilityIds": [
+      617
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/womens-healthy-bhangra-and-gidda/651302",
+    "description": "Experience the vibrant energy of Healthy Bhangra and Gidda! This class is for a larger age range of women seeking fun, fitness, and community. No experience needed – just bring your energy and enthusiasm! Join us and dance to the beat of joy and tradition!<br />Drop-in fee available. It must be paid at Sunset Community Centre, and the receipt must be brought to class in order to participate.",
+    "instructors": [
+      "Sukhdeep Singh Virk"
+    ],
+    "priceText": "$96.00",
+    "free": false,
+    "ageMin": 14,
+    "ageMax": 0,
+    "ageText": "14 yrs +",
+    "openings": "10 openings remaining",
+    "availability": "open",
+    "spaces": 10,
+    "firstDate": "2027-01-16",
+    "lastDate": "2027-03-13",
+    "prices": [
+      {
+        "price": "$96.00",
+        "description": "Activity Fee Adults for 15 or more years old"
+      },
+      {
+        "price": "50.00%",
+        "description": "Leisure Access - CCA: for Customer"
+      }
+    ]
+  },
+  {
     "id": 651322,
     "title": "Pickleball - Intermediate",
     "calendarId": 15,
@@ -127029,6 +129996,40 @@
     "prices": [
       {
         "price": "$60.00",
+        "description": "Standard charge"
+      },
+      {
+        "price": "50.00%",
+        "description": "Leisure Access - CCA: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 651680,
+    "title": "Japanese Taiko Ensemble - Intermediate (Sideways Stance)",
+    "calendarId": 20,
+    "centerId": 288,
+    "facilityIds": [
+      617
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/japanese-taiko-ensemble---intermediate-sideways-stance/651680",
+    "description": "Learn Taiko Ensemble! This popular taiko style in a sideways stance with movement and choreography is the most exciting taiko! Learn the rudiments, technique, develop perfect taiko form, and Bon Daiko solos. Join now so you do not miss out!",
+    "instructors": [
+      "Noriko Kobayashi"
+    ],
+    "priceText": "$200.00",
+    "free": false,
+    "ageMin": 16,
+    "ageMax": 0,
+    "ageText": "16 yrs +",
+    "openings": "24 openings remaining",
+    "availability": "open",
+    "spaces": 24,
+    "firstDate": "2027-01-10",
+    "lastDate": "2027-03-14",
+    "prices": [
+      {
+        "price": "$200.00",
         "description": "Standard charge"
       },
       {
@@ -129246,9 +132247,9 @@
     "ageMin": 13,
     "ageMax": 0,
     "ageText": "13 yrs +",
-    "openings": "29 openings remaining",
+    "openings": "28 openings remaining",
     "availability": "open",
-    "spaces": 29,
+    "spaces": 28,
     "firstDate": "2026-11-30",
     "lastDate": "2026-11-30"
   },
@@ -129785,6 +132786,74 @@
     ]
   },
   {
+    "id": 652281,
+    "title": "Japanese Taiko Drumming - Hachijo Style (Intermediate)",
+    "calendarId": 20,
+    "centerId": 288,
+    "facilityIds": [
+      617
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/japanese-taiko-drumming---hachijo-style-intermediate/652281",
+    "description": "Learn Hachijo Taiko - close to the source! This is a beautiful Japanese traditional drumming that is placed on a high stand. Learn the basics, rudiments, technique, philosophy, and song in Hachijo style! Drumsticks provided.",
+    "instructors": [
+      "Noriko Kobayashi"
+    ],
+    "priceText": "$50.00",
+    "free": false,
+    "ageMin": 16,
+    "ageMax": 0,
+    "ageText": "16 yrs +",
+    "openings": "24 openings remaining",
+    "availability": "open",
+    "spaces": 24,
+    "firstDate": "2027-01-10",
+    "lastDate": "2027-01-17",
+    "prices": [
+      {
+        "price": "$50.00",
+        "description": "Standard charge"
+      },
+      {
+        "price": "50.00%",
+        "description": "Leisure Access - CCA: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 652284,
+    "title": "Japanese Taiko Drumming - Yatai Bayashi Style (Beginners)",
+    "calendarId": 20,
+    "centerId": 288,
+    "facilityIds": [
+      617
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/japanese-taiko-drumming---yatai-bayashi-style-beginners/652284",
+    "description": "Introducing Yatai Bayashi Taiko - Japanese traditional festival drumming of Chichibu (Chichibu's Winter Evening Festival) on real Japanese drums! This is a seated drumming style of endurance with powerful upper-body drumming! Beginners welcome. Drumsticks provided. Please bring: Indoor or gym shoes, water to refresh. Earplugs recommended.",
+    "instructors": [
+      "Noriko Kobayashi"
+    ],
+    "priceText": "$100.00",
+    "free": false,
+    "ageMin": 16,
+    "ageMax": 0,
+    "ageText": "16 yrs +",
+    "openings": "24 openings remaining",
+    "availability": "open",
+    "spaces": 24,
+    "firstDate": "2027-01-10",
+    "lastDate": "2027-02-07",
+    "prices": [
+      {
+        "price": "$100.00",
+        "description": "Standard charge"
+      },
+      {
+        "price": "50.00%",
+        "description": "Leisure Access - CCA: for Customer"
+      }
+    ]
+  },
+  {
     "id": 652411,
     "title": "Adult Sports: Adult Open Gym",
     "calendarId": 5,
@@ -129822,9 +132891,8 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "Full",
-    "availability": "full",
-    "spaces": 0,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-11-27",
     "lastDate": "2026-11-27",
     "prices": [
@@ -129869,6 +132937,202 @@
       {
         "price": "50.00%",
         "description": "Leisure Access Taxable – CCA: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 652462,
+    "title": "Gentle Method Jiu Jitsu Kids",
+    "calendarId": 14,
+    "centerId": 51,
+    "facilityIds": [
+      443
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/gentle-method-jiu-jitsu-kids/652462",
+    "description": "Gentle Method JJ offers beginner-friendly Brazilian Jiu-Jitsu classes for children with age-specific programming that builds confidence, discipline, and self-defence skills with positional techniques and light sparring games. Professor Steve and Coach Leona bring their unique background in psychological behaviour intervention and fitness training, adhering to all learning needs and levels. No class on Feb 13.",
+    "instructors": [
+      "Gentle Method Jiu Jitsu",
+      "Matthew Wing"
+    ],
+    "priceText": "$189.00",
+    "free": false,
+    "ageMin": 7,
+    "ageMax": 12,
+    "ageText": "Age at least 7 yrs but less than 12y 11m",
+    "openings": "16 openings remaining",
+    "availability": "open",
+    "spaces": 16,
+    "firstDate": "2027-01-09",
+    "lastDate": "2027-03-13",
+    "prices": [
+      {
+        "price": "$189.00",
+        "description": "Standard charge"
+      },
+      {
+        "price": "50.00%",
+        "description": "Leisure Access - PB: for Customer"
+      },
+      {
+        "price": "25.00%",
+        "description": "PB Strathcona Recreation 75 Discount - Taxable: for Customer"
+      },
+      {
+        "price": "25.00%",
+        "description": "PB Strathcona Recreation 25 Discount - Taxable: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 652510,
+    "title": "Mobi Strong",
+    "calendarId": 6,
+    "centerId": 51,
+    "facilityIds": [
+      443
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/mobi-strong/652510",
+    "description": "Do you feel stiff, tight and locked up? You've tried fixing it but you don't have the time, the space or the energy to make it stick? <br />In this class, we will work more in depth focus to restore your mobility, unlock your strength and gain the flexibility you thought was lost. This will be a progressive class that will not only challenge you but provide you with the confidence to get back to the things you enjoy doing. <br>",
+    "instructors": [
+      "Scovia Maeko"
+    ],
+    "priceText": "$75.00",
+    "free": false,
+    "ageMin": 19,
+    "ageMax": 0,
+    "ageText": "19 yrs +",
+    "openings": "12 openings remaining",
+    "availability": "open",
+    "spaces": 12,
+    "firstDate": "2027-01-10",
+    "lastDate": "2027-02-07",
+    "prices": [
+      {
+        "price": "$75.00",
+        "description": "Standard charge"
+      },
+      {
+        "price": "50.00%",
+        "description": "Leisure Access - PB: for Customer"
+      },
+      {
+        "price": "25.00%",
+        "description": "PB Strathcona Recreation 75 Discount - Taxable: for Customer"
+      },
+      {
+        "price": "25.00%",
+        "description": "PB Strathcona Recreation 25 Discount - Taxable: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 652517,
+    "title": "Gentle Method Jiu Jitsu Adult",
+    "calendarId": 14,
+    "centerId": 51,
+    "facilityIds": [
+      443
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/gentle-method-jiu-jitsu-adult/652517",
+    "description": "Gentle Method JJ offers beginner-friendly Brazilian Jiu-Jitsu classes for adults interested in self-defence, physical fitness, functional mobility, and a puzzle-like stress reliever. A full Gi (kimono &amp; belt) uniform can be purchased upon request; instruction will be a blend of gi and no-gi. Please wear athletic clothing and check our website for more class details: gentlemethodjj.com.Drop in $25, space permitting. No class on Feb 13.",
+    "instructors": [
+      "Gentle Method Jiu Jitsu",
+      "Matthew Wing"
+    ],
+    "priceText": "$189.00",
+    "free": false,
+    "ageMin": 16,
+    "ageMax": 99,
+    "ageText": "Age at least 16 yrs but less than 99y 11m",
+    "openings": "20 openings remaining",
+    "availability": "open",
+    "spaces": 20,
+    "firstDate": "2027-01-09",
+    "lastDate": "2027-03-13",
+    "prices": [
+      {
+        "price": "$189.00",
+        "description": "Standard charge"
+      },
+      {
+        "price": "50.00%",
+        "description": "Leisure Access - PB: for Customer"
+      },
+      {
+        "price": "25.00%",
+        "description": "PB Strathcona Recreation 75 Discount - Taxable: for Customer"
+      },
+      {
+        "price": "25.00%",
+        "description": "PB Strathcona Recreation 25 Discount - Taxable: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 652555,
+    "title": "Indoor T-Ball (3-5 yrs)",
+    "calendarId": 1,
+    "centerId": 41,
+    "facilityIds": [
+      3819
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/indoor-t-ball-3-5-yrs/652555",
+    "description": "An active introduction to t-ball designed to introduce children to the world of baseball. This class focuses on basic skills like hitting off a tee, catching, and throwing. Participants will develop coordination, confidence, and teamwork.",
+    "instructors": [
+      "Brayden Sahota-Rai"
+    ],
+    "priceText": "$72.00",
+    "free": false,
+    "ageMin": 3,
+    "ageMax": 5,
+    "ageText": "Age at least 3 yrs but less than 5y 11m",
+    "openings": "8 openings remaining",
+    "availability": "open",
+    "spaces": 8,
+    "firstDate": "2027-01-09",
+    "lastDate": "2027-03-13",
+    "prices": [
+      {
+        "price": "$72.00",
+        "description": "Standard charge"
+      },
+      {
+        "price": "50.00%",
+        "description": "Leisure Access - CCA: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 652557,
+    "title": "Indoor T-Ball (3-5 yrs)",
+    "calendarId": 1,
+    "centerId": 41,
+    "facilityIds": [
+      3819
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/indoor-t-ball-3-5-yrs/652557",
+    "description": "An active introduction to t-ball designed to introduce children to the world of baseball. This class focuses on basic skills like hitting off a tee, catching, and throwing. Participants will develop coordination, confidence, and teamwork.",
+    "instructors": [
+      "Brayden Sahota-Rai"
+    ],
+    "priceText": "$72.00",
+    "free": false,
+    "ageMin": 3,
+    "ageMax": 5,
+    "ageText": "Age at least 3 yrs but less than 5y 11m",
+    "openings": "8 openings remaining",
+    "availability": "open",
+    "spaces": 8,
+    "firstDate": "2027-01-09",
+    "lastDate": "2027-03-13",
+    "prices": [
+      {
+        "price": "$72.00",
+        "description": "Standard charge"
+      },
+      {
+        "price": "50.00%",
+        "description": "Leisure Access - CCA: for Customer"
       }
     ]
   },
@@ -130034,6 +133298,40 @@
     "prices": [
       {
         "price": "$42.00",
+        "description": "Standard charge"
+      },
+      {
+        "price": "50.00%",
+        "description": "Leisure Access - CCA: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 652574,
+    "title": "Mini Athletes (3-5)",
+    "calendarId": 1,
+    "centerId": 41,
+    "facilityIds": [
+      609
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/mini-athletes-3-5/652574",
+    "description": "A playful program introducing locomotor (running, jumping), object control (throwing, kicking), and stability (balancing) skills that later form the foundation for sports and lifelong physical activity.",
+    "instructors": [
+      "Brayden Sahota-Rai"
+    ],
+    "priceText": "$90.00",
+    "free": false,
+    "ageMin": 3,
+    "ageMax": 5,
+    "ageText": "Age at least 3 yrs but less than 5y 11m",
+    "openings": "8 openings remaining",
+    "availability": "open",
+    "spaces": 8,
+    "firstDate": "2027-01-09",
+    "lastDate": "2027-03-13",
+    "prices": [
+      {
+        "price": "$90.00",
         "description": "Standard charge"
       },
       {
@@ -131915,9 +135213,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "5 openings remaining",
+    "openings": "4 openings remaining",
     "availability": "open",
-    "spaces": 5,
+    "spaces": 4,
     "firstDate": "2026-12-14",
     "lastDate": "2026-12-14"
   },
@@ -132328,9 +135626,8 @@
     "ageMin": 55,
     "ageMax": 0,
     "ageText": "55 yrs +",
-    "openings": "14 openings remaining",
-    "availability": "open",
-    "spaces": 14,
+    "openings": "Closed",
+    "availability": "closed",
     "firstDate": "2026-11-27",
     "lastDate": "2026-11-27"
   },
@@ -132587,6 +135884,38 @@
     "lastDate": "2027-01-10"
   },
   {
+    "id": 653516,
+    "title": "Sunset Family Dinner - January",
+    "calendarId": 47,
+    "centerId": 41,
+    "facilityIds": [
+      3863
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/sunset-family-dinner---january/653516",
+    "description": "<p>Bring your family, friends, and neighbours together for an evening of delicious food, fun activities, and great company! Enjoy a wonderful opportunity to connect, share a meal, and spend quality time together.</p><p><b>Registration Fee:</b></p><ul><li>Seniors/Adults: $8</li><li>Children/Youth: $4</li></ul><p><b>Menu:</b> A choice of meat or vegetarian option. Full menu to be announced closer to the event date.</p><p><b>Please note:</b></p><ul><li>Seating is shared, with up to 8 guests seated at each table.</li><li>Take-out options are <b>not</b> available.</li></ul>",
+    "instructors": [],
+    "priceText": "from $4.00",
+    "free": false,
+    "ageMin": 0,
+    "ageMax": 99,
+    "ageText": "Age less than 99 yrs",
+    "openings": "100 openings remaining",
+    "availability": "open",
+    "spaces": 100,
+    "firstDate": "2027-01-15",
+    "lastDate": "2027-01-15",
+    "prices": [
+      {
+        "price": "$8.00",
+        "description": "Activity Fee - Adults for 18 or more years old"
+      },
+      {
+        "price": "$4.00",
+        "description": "Activity Fee - Child/Youth for up to 18 years old"
+      }
+    ]
+  },
+  {
     "id": 653550,
     "title": "Ukulele - Absolute Beginners Level B",
     "calendarId": 22,
@@ -132709,6 +136038,40 @@
     "spaces": 100,
     "firstDate": "2027-01-10",
     "lastDate": "2027-03-21"
+  },
+  {
+    "id": 653558,
+    "title": "Kids Healthy Bhangra",
+    "calendarId": 20,
+    "centerId": 288,
+    "facilityIds": [
+      617
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/kids-healthy-bhangra/653558",
+    "description": "<p>Experience the vibrant energy of Healthy Bhangra! This class is for any kids seeking fun, fitness, and community. No experience needed – just bring your energy and enthusiasm! Join us and dance to the beat of joy and tradition! </p>Drop-in fee available. It must be paid at Sunset Community Centre, and the receipt must be brought to class in order to participate.",
+    "instructors": [
+      "Sukhdeep Singh Virk"
+    ],
+    "priceText": "$136.00",
+    "free": false,
+    "ageMin": 4,
+    "ageMax": 14,
+    "ageText": "Age at least 4 yrs but less than 14 yrs",
+    "openings": "15 openings remaining",
+    "availability": "open",
+    "spaces": 15,
+    "firstDate": "2027-01-14",
+    "lastDate": "2027-03-18",
+    "prices": [
+      {
+        "price": "$136.00",
+        "description": "Standard charge"
+      },
+      {
+        "price": "50.00%",
+        "description": "Leisure Access - CCA: for Customer"
+      }
+    ]
   },
   {
     "id": 653741,
@@ -133926,6 +137289,28 @@
     ]
   },
   {
+    "id": 654174,
+    "title": "Bridge Tournament",
+    "calendarId": 47,
+    "centerId": 41,
+    "facilityIds": [
+      3823
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/bridge-tournament/654174",
+    "description": "Come join our friendly, non-competitive group of bridge players on the second Thursday of every month for a duplicate tournament. Partners are not required, but are welcome if you have one. <br>Drop-ins are welcome, with a minimum of 2 days advance notice to our organizer, Cris, at reyescp315@gmail.com. There is no teaching. All players must know how to play bridge.",
+    "instructors": [],
+    "priceText": "Free",
+    "free": true,
+    "ageMin": 16,
+    "ageMax": 0,
+    "ageText": "16 yrs +",
+    "openings": "30 openings remaining",
+    "availability": "open",
+    "spaces": 30,
+    "firstDate": "2027-01-14",
+    "lastDate": "2027-03-11"
+  },
+  {
     "id": 654238,
     "title": "Badminton",
     "calendarId": 15,
@@ -133978,11 +137363,11 @@
       470
     ],
     "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/pickleball---beginner-play---set-one/654528",
-    "description": "Get active on the court with Pickleball. This sport combines elements of badminton, tennis and table tennis. It is a fun and easy to learn sport which will have you coming back for more! No guaranteed drop-ins. Drop-in is $4, space permitting.<br />PLEASE NOTE: Spots will be held for registered participants for the first 10 minutes; after this time, spots will be sold to drop-in players. In the event that you are unable to attend any particular session your registered spot is non-transferable.",
+    "description": "Get active on the court with Pickleball. This sport combines elements of badminton, tennis and table tennis. It is a fun and easy to learn sport which will have you coming back for more! No guaranteed drop-ins. Drop-in is $4.20, space permitting.<br />PLEASE NOTE: Spots will be held for registered participants for the first 10 minutes; after this time, spots will be sold to drop-in players. In the event that you are unable to attend any particular session your registered spot is non-transferable.",
     "instructors": [
       "Non Instructional"
     ],
-    "priceText": "$21.00",
+    "priceText": "$22.80",
     "free": false,
     "ageMin": 60,
     "ageMax": 0,
@@ -133994,7 +137379,7 @@
     "lastDate": "2027-02-08",
     "prices": [
       {
-        "price": "$21.00",
+        "price": "$22.80",
         "description": "Standard charge"
       },
       {
@@ -134012,11 +137397,11 @@
       470
     ],
     "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/pickleball---intermediate-play---set-one/654530",
-    "description": "Get active on the court with Pickleball. This sport combines elements of badminton, tennis and table tennis. It is a fun and easy to learn sport which will have you coming back for more! Maximum of 24 players. Please, check the Sunday and Monday option for Beginner Play. Drop-in is $4, space permitting. <br>PLEASE NOTE: Spots will be held for registered participants for the first 10 minutes; after this time, spots will be sold to drop-in players. In the event that you are unable to attend any particular session your registered spot is non-transferable.<br />",
+    "description": "Get active on the court with Pickleball. This sport combines elements of badminton, tennis and table tennis. It is a fun and easy to learn sport which will have you coming back for more! Maximum of 24 players. Please, check the Sunday and Monday option for Beginner Play. Drop-in is $4.20, space permitting. <br>PLEASE NOTE: Spots will be held for registered participants for the first 10 minutes; after this time, spots will be sold to drop-in players. In the event that you are unable to attend any particular session your registered spot is non-transferable.<br />",
     "instructors": [
       "Non Instructional"
     ],
-    "priceText": "$21.00",
+    "priceText": "$22.80",
     "free": false,
     "ageMin": 60,
     "ageMax": 0,
@@ -134028,7 +137413,7 @@
     "lastDate": "2027-02-08",
     "prices": [
       {
-        "price": "$21.00",
+        "price": "$22.80",
         "description": "Standard charge"
       },
       {
@@ -134053,9 +137438,9 @@
     "ageMin": 19,
     "ageMax": 0,
     "ageText": "19 yrs +",
-    "openings": "10 openings remaining",
+    "openings": "8 openings remaining",
     "availability": "open",
-    "spaces": 10,
+    "spaces": 8,
     "firstDate": "2026-12-14",
     "lastDate": "2026-12-14",
     "prices": [
@@ -134102,5 +137487,176 @@
         "description": "Leisure Access Discount: for Customer"
       }
     ]
+  },
+  {
+    "id": 654684,
+    "title": "Micro Footie Soccer Development (4-5yrs) DEC",
+    "calendarId": 11,
+    "centerId": 38,
+    "facilityIds": [
+      348
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/micro-footie-soccer-development-4-5yrs-dec/654684",
+    "description": "<p>Not to be mistaken with our highly popular Spring League, the Micro Footie Development is a unique coaching experience for youth players on Sundays in Gym C.</p><p>Players in MF Development learn Celtic turns, combination play, taking players on one on one, skills, out the box activities, and movement. The MF Development sessions are specifically for players who want to raise their game.</p><p><b>Instructors:</b></p><p>Jason Kyle: FIFA B License, MF Founder, 2018 &amp; 2016 BC Summer Games Coach, Micro Footie mentor to coaches</p><p>Talisen - Brit Micro Footie Staff/Coach and Micro Footie Academy/Unity League 1 player, Active Start and Learn to Train courses, Langara Kinesiology</p>",
+    "instructors": [
+      "Jason Kyle"
+    ],
+    "priceText": "$72.00",
+    "free": false,
+    "ageMin": 3,
+    "ageMax": 5,
+    "ageText": "Age at least 3y 9m but less than 5y 11m",
+    "openings": "17 openings remaining",
+    "availability": "open",
+    "spaces": 17,
+    "firstDate": "2026-12-06",
+    "lastDate": "2026-12-27",
+    "prices": [
+      {
+        "price": "$72.00",
+        "description": "Standard charge"
+      },
+      {
+        "price": "50.00%",
+        "description": "Leisure Access - CCA: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 654685,
+    "title": "Micro Footie Soccer Development (6-7yrs) DEC",
+    "calendarId": 11,
+    "centerId": 38,
+    "facilityIds": [
+      348
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/micro-footie-soccer-development-6-7yrs-dec/654685",
+    "description": "<p>Not to be mistaken with our highly popular Spring League, the Micro Footie Development is a unique coaching experience for youth players on Sundays in Gym C.</p><p>Players in MF Development learn Celtic turns, combination play, taking players on one on one, skills, out the box activities, and movement. The MF Development sessions are specifically for players who want to raise their game.</p><p><b>Instructors:</b></p><p>Jason Kyle: FIFA B License, MF Founder, 2018 &amp; 2016 BC Summer Games Coach, Micro Footie mentor to coaches</p><p>Talisen - Brit Micro Footie Staff/Coach and Micro Footie Academy/Unity League 1 player, Active Start and Learn to Train courses, Langara Kinesiology</p><p>Brolin - Brit Micro Footie Staff/Coach and Micro Footie Academy/Unity League 1 player, Langara Kinesiology</p>",
+    "instructors": [
+      "Jason Kyle"
+    ],
+    "priceText": "$72.00",
+    "free": false,
+    "ageMin": 5,
+    "ageMax": 7,
+    "ageText": "Age at least 5y 9m but less than 7y 11m",
+    "openings": "18 openings remaining",
+    "availability": "open",
+    "spaces": 18,
+    "firstDate": "2026-12-06",
+    "lastDate": "2026-12-27",
+    "prices": [
+      {
+        "price": "$72.00",
+        "description": "Standard charge"
+      },
+      {
+        "price": "50.00%",
+        "description": "Leisure Access - CCA: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 654686,
+    "title": "Micro Footie Soccer Development (8-10yrs) DEC",
+    "calendarId": 11,
+    "centerId": 38,
+    "facilityIds": [
+      348
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/micro-footie-soccer-development-8-10yrs-dec/654686",
+    "description": "<p>Not to be mistaken with our highly popular Spring League, the Micro Footie Development is a unique coaching experience for youth players on Sundays in Gym C.</p><p>Players in MF Development learn Celtic turns, combination play, taking players on one on one, skills, out the box activities, and movement. The MF Development sessions are specifically for players who want to raise their game.</p><p><b>Instructors:</b></p><p>Jason Kyle: FIFA B License, MF Founder, 2018 &amp; 2016 BC Summer Games Coach, Micro Footie mentor to coaches</p><p>Talisen - Brit Micro Footie Staff/Coach and Micro Footie Academy/Unity League 1 player, Active Start and Learn to Train courses, Langara Kinesiology</p><p>Brolin - Brit Micro Footie Staff/Coach and Micro Footie Academy/Unity League 1 player, Langara Kinesiology</p><p><b>No class Oct 11</b></p>",
+    "instructors": [
+      "Jason Kyle"
+    ],
+    "priceText": "$72.00",
+    "free": false,
+    "ageMin": 7,
+    "ageMax": 10,
+    "ageText": "Age at least 7y 9m but less than 10y 11m",
+    "openings": "20 openings remaining",
+    "availability": "open",
+    "spaces": 20,
+    "firstDate": "2026-12-06",
+    "lastDate": "2026-12-27",
+    "prices": [
+      {
+        "price": "$72.00",
+        "description": "Standard charge"
+      },
+      {
+        "price": "50.00%",
+        "description": "Leisure Access – CCA: for Customer"
+      }
+    ]
+  },
+  {
+    "id": 654687,
+    "title": "ActiveNet Registration DEMO",
+    "calendarId": 47,
+    "centerId": 33,
+    "facilityIds": [
+      284
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/activenet-registration-demo/654687",
+    "description": "This workshop is led by youth volunteers and will cover how to register for programs using the ActiveNet registration system right from your smartphone or laptop. <b>Email address must be provided during registration. </b>",
+    "instructors": [
+      "Youth Leader"
+    ],
+    "priceText": "Free",
+    "free": true,
+    "ageMin": 55,
+    "ageMax": 0,
+    "ageText": "55 yrs +",
+    "openings": "Unlimited openings",
+    "availability": "open",
+    "firstDate": "2026-11-28",
+    "lastDate": "2026-11-28"
+  },
+  {
+    "id": 654688,
+    "title": "ActiveNet Registration DEMO 2",
+    "calendarId": 47,
+    "centerId": 33,
+    "facilityIds": [
+      284
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/activenet-registration-demo-2/654688",
+    "description": "This workshop is led by youth volunteers and will cover how to register for programs using the ActiveNet registration system right from your smartphone or laptop. <b>Email address must be provided during registration. </b>",
+    "instructors": [
+      "Youth Leader"
+    ],
+    "priceText": "Free",
+    "free": true,
+    "ageMin": 55,
+    "ageMax": 0,
+    "ageText": "55 yrs +",
+    "openings": "Unlimited openings",
+    "availability": "open",
+    "firstDate": "2026-11-28",
+    "lastDate": "2026-11-28"
+  },
+  {
+    "id": 654689,
+    "title": "ActiveNet Registration DEMO 3",
+    "calendarId": 47,
+    "centerId": 33,
+    "facilityIds": [
+      284
+    ],
+    "url": "https://ca.apm.activecommunities.com/vancouver/Activity_Search/activenet-registration-demo-3/654689",
+    "description": "This workshop is led by youth volunteers and will cover how to register for programs using the ActiveNet registration system right from your smartphone or laptop. <b>Email address must be provided during registration. </b>",
+    "instructors": [
+      "Youth Leader"
+    ],
+    "priceText": "Free",
+    "free": true,
+    "ageMin": 55,
+    "ageMax": 0,
+    "ageText": "55 yrs +",
+    "openings": "Unlimited openings",
+    "availability": "open",
+    "firstDate": "2026-11-28",
+    "lastDate": "2026-11-28"
   }
 ]

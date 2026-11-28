@@ -415,11 +415,6 @@
     "centerId": 58
   },
   {
-    "id": 580,
-    "name": "Games Room",
-    "centerId": 50
-  },
-  {
     "id": 292,
     "name": "Games Room",
     "centerId": 53
@@ -1082,6 +1077,11 @@
   {
     "id": 3819,
     "name": "Seniors 151 Multipurpose Room 2",
+    "centerId": 41
+  },
+  {
+    "id": 3863,
+    "name": "Seniors 152 Multipurpose Room",
     "centerId": 41
   },
   {
